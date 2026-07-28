@@ -16,5 +16,6 @@ ES/EN switcher in the top-right corner)
 - `index.html`, `es/index.html` — the static pages (no build step)
 - `Fantasy_Grimdark_Scale_Fully_Scored.xlsx` — the scored source data (Methodology,
   Evaluations, and Summary sheets)
-- `fantasy-darkness-scale-{en,es}-part{1..4}.{png,jpg}` — full-page image exports of each
-  version, split into four panels for readability
+- `og-en.jpg`, `og-es.jpg` — Open Graph/Twitter Card preview images, referenced from each
+  page's `<head>`
+- `ADDITIONS_LOG.md` — tracks new works being scored and added to the scale over time
