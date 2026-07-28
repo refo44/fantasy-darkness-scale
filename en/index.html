@@ -163,22 +163,44 @@
   .progress-seg{ transition:none; }
 }
 
-.lang-switch{
-  position:fixed; top:16px; right:20px; z-index:60;
-  font-family:var(--font-mono); font-size:.72rem; letter-spacing:.08em;
-  color:var(--ink-muted); text-decoration:none;
-  border:1px solid var(--hairline); padding:.35rem .6rem;
-  background:rgba(0,0,0,.25);
-  transition:color .2s ease, border-color .2s ease;
+.lang-toggle{
+  position:fixed; top:14px; right:20px; z-index:60;
+  display:flex; align-items:center;
+  width:4.5rem; height:1.65rem;
+  border:1px solid var(--hairline); border-radius:999px;
+  background:rgba(0,0,0,.35);
+  text-decoration:none; overflow:hidden;
 }
-.lang-switch:hover, .lang-switch:focus-visible{ color:var(--t1); border-color:var(--t1); }
-.lang-switch:focus-visible{ outline:2px solid var(--t1); outline-offset:2px; }
-@media (prefers-reduced-motion: reduce){ .lang-switch{ transition:none; } }
+.lang-toggle-thumb{
+  position:absolute; top:2px; left:2px; bottom:2px;
+  width:calc(50% - 2px);
+  border-radius:999px;
+  background:var(--t1);
+  transition:left .25s ease;
+}
+.lang-toggle[data-active="es"] .lang-toggle-thumb{ left:50%; }
+.lang-toggle-option{
+  position:relative; z-index:1; flex:1; text-align:center;
+  font-family:var(--font-mono); font-size:.66rem; letter-spacing:.05em;
+  color:var(--ink-muted);
+  transition:color .2s ease;
+}
+.lang-toggle[data-active="en"] .lang-toggle-option[data-lang="en"],
+.lang-toggle[data-active="es"] .lang-toggle-option[data-lang="es"]{
+  color:var(--bg1); font-weight:700;
+}
+.lang-toggle:hover, .lang-toggle:focus-visible{ border-color:var(--t1); }
+.lang-toggle:focus-visible{ outline:2px solid var(--t1); outline-offset:2px; }
+@media (prefers-reduced-motion: reduce){ .lang-toggle-thumb{ transition:none; } }
 </style>
 </head>
 <body>
 <div class="wrap">
-  <a class="lang-switch" href="../es/" lang="es" hreflang="es">ES</a>
+  <a class="lang-toggle" href="../es/" data-active="en" aria-label="Switch to Spanish" lang="es" hreflang="es">
+    <span class="lang-toggle-thumb" aria-hidden="true"></span>
+    <span class="lang-toggle-option" data-lang="en">EN</span>
+    <span class="lang-toggle-option" data-lang="es">ES</span>
+  </a>
   <div class="atmosphere" aria-hidden="true"></div>
   <div class="progress" aria-hidden="true">
     <div class="progress-seg" data-tier="1"></div>
