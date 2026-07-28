@@ -7,6 +7,26 @@ rows, (3) recalc via LibreOffice to get cached values, (4) determine tier placem
 the entry to both `index.html` (EN) and `es/index.html` (ES) in the right tier, (6) commit,
 push, deploy, verify live, (7) update this log, (8) stop and ask before continuing.
 
+## Cozy Fantasy / Hopepunk tagging criteria
+
+Also documented in the xlsx Methodology sheet (rows 26-32). These columns are **descriptive
+only** — excluded from the Weighted Internal Score / Calculated Score formula on purpose,
+since genre stance toward darkness is not the same thing as amount of darkness (Avatar: The
+Last Airbender is tagged Hopepunk but depicts real war and genocide).
+
+- **Cozy Fantasy = Yes** requires genuinely belonging to that specific book-publishing genre
+  (comfort-focused, low-stakes, community/found-family) — not just "has a cozy feeling."
+  Anime films like Totoro don't qualify even though they're cozy in tone.
+- **Hopepunk = Yes** requires fitting one of three variants — having a hopeful tone or happy
+  ending alone is never sufficient:
+  - *Gentle* — no real adversity needed; kindness/community/anti-cynicism as the default,
+    deliberately-valued state of the world (Totoro, Legends & Lattes).
+  - *Fierce* — real external/societal adversity (an oppressive system, empire, institution) +
+    hope/kindness as active resistance to it (The House in the Cerulean Sea, Avatar TLA).
+  - *Bittersweet* — real existential adversity (mortality, loss, time — not politically
+    "resistable") + connection deliberately chosen anyway, knowing it costs grief later
+    (Frieren).
+
 ## Queue
 
 1. [x] El Principito (The Little Prince) — Antoine de Saint-Exupéry — Book — DONE, see Completed
