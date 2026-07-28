@@ -19,3 +19,16 @@ ES/EN switcher in the top-right corner)
 - `og-en.jpg`, `og-es.jpg` — Open Graph/Twitter Card preview images, referenced from each
   page's `<head>`
 - `ADDITIONS_LOG.md` — tracks new works being scored and added to the scale over time
+
+## License
+
+This project is dual-licensed, because the code and the content serve different purposes:
+
+- **Source code** (HTML, CSS, JavaScript) — [MIT](LICENSE). Reuse it however you like,
+  including commercially.
+- **Content** (the scale, criteria, scores, evaluations, and written text in both
+  languages, plus the scored spreadsheet) — [CC BY-NC-SA 4.0](LICENSE-CONTENT.md).
+  Share and remix it non-commercially with attribution; commercial use requires
+  permission.
+
+Full terms and scope: [LICENSE](LICENSE) and [LICENSE-CONTENT.md](LICENSE-CONTENT.md).
