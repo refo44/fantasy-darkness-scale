@@ -4,8 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow, noarchive">
-<title>Fantasy Darkness Scale</title>
+<title>Fantasy Darkness Scale · by Rafael Figueredo Oropeza</title>
 <meta name="description" content="A 1-10 index scoring 73 fantasy books, anime, games, and films from cozy hope to grimdark despair, weighted across seven criteria.">
+<meta name="author" content="Rafael Figueredo Oropeza">
 <link rel="canonical" href="https://refo44.github.io/fantasy-darkness-scale/">
 <link rel="alternate" hreflang="en" href="https://refo44.github.io/fantasy-darkness-scale/">
 <link rel="alternate" hreflang="es" href="https://refo44.github.io/fantasy-darkness-scale/es/">
@@ -24,6 +25,32 @@
 <meta name="twitter:title" content="Fantasy Darkness Scale">
 <meta name="twitter:description" content="A 1-10 index scoring 73 fantasy books, anime, games, and films from cozy hope to grimdark despair, weighted across seven criteria.">
 <meta name="twitter:image" content="https://refo44.github.io/fantasy-darkness-scale/og-en.jpg">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://refo44.github.io/fantasy-darkness-scale/#author",
+      "name": "Rafael Figueredo Oropeza",
+      "sameAs": [
+        "https://github.com/refo44",
+        "https://www.instagram.com/ref8chan/"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://refo44.github.io/fantasy-darkness-scale/#website",
+      "url": "https://refo44.github.io/fantasy-darkness-scale/",
+      "name": "Fantasy Darkness Scale",
+      "description": "A 1-10 index scoring 73 fantasy books, anime, games, and films from cozy hope to grimdark despair, weighted across seven criteria.",
+      "inLanguage": "en",
+      "author": { "@id": "https://refo44.github.io/fantasy-darkness-scale/#author" },
+      "creator": { "@id": "https://refo44.github.io/fantasy-darkness-scale/#author" }
+    }
+  ]
+}
+</script>
 <style>
 :root{
   --font-display: "Hoefler Text","Iowan Old Style","Palatino Linotype",Palatino,"URW Palladio L",Georgia,serif;
@@ -153,6 +180,9 @@
 .criteria li{ display:inline; }
 .criteria li:not(:last-child)::after{ content:"\00B7"; margin:0 .7rem; color:var(--hairline); }
 .note{ font-family:var(--font-body); font-style:italic; color:var(--ink-muted); line-height:1.7; font-size:.98rem; max-width:56ch; margin:0 auto; }
+.credit{ font-family:var(--font-mono); font-size:.75rem; letter-spacing:.03em; color:var(--ink-muted); max-width:56ch; margin:2.5rem auto 0; padding-top:1.75rem; border-top:1px solid var(--hairline); }
+.credit a{ color:var(--ink-muted); text-decoration:underline; text-decoration-color:var(--hairline); text-underline-offset:3px; transition:color .2s ease, text-decoration-color .2s ease; }
+.credit a:hover, .credit a:focus-visible{ color:var(--t1); text-decoration-color:var(--t1); }
 
 @media (max-width:600px){
   .tier-head{ flex-direction:column; align-items:flex-start; gap:1rem; }
@@ -453,6 +483,7 @@
         <li>Explicit Darkness</li>
       </ul>
       <p class="note">Important: this scale does not measure violence alone. A work can contain death, war, and horror without being grimdark if heroism, redemption, and meaningful change remain possible.</p>
+      <p class="credit">Site by Rafael Figueredo Oropeza &middot; <a href="mailto:refo44@gmail.com">refo44@gmail.com</a> &middot; <a href="https://www.instagram.com/ref8chan/" target="_blank" rel="noopener noreferrer">@ref8chan</a> &middot; <a href="https://github.com/refo44/fantasy-darkness-scale" target="_blank" rel="noopener noreferrer">GitHub</a></p>
     </div>
   </footer>
 </div>
