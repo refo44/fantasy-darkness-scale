@@ -34,7 +34,7 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 
 1. [x] El Principito (The Little Prince) — Antoine de Saint-Exupéry — Book — DONE, see Completed
 2. [x] Adventure Time — DONE, see Completed
-3. [ ] Star vs. las fuerzas del mal (Star vs. the Forces of Evil)
+3. [x] Star vs. las fuerzas del mal (Star vs. the Forces of Evil) — DONE, see Completed
 4. [ ] Clevatess (Majū no Ō to Akago to Shikabane no Yūsha) — Yūji Iwahara — Manga
 5. [ ] Saga de Tanya the Evil (The Saga of Tanya the Evil)
 6. [ ] Re:Zero − Starting Life in Another World
@@ -48,6 +48,37 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 14. [ ] Willow (1988)
 
 ## Completed
+
+### 3. Star vs. the Forces of Evil — Daron Nefcy — TV / Comics
+
+- Tier 4, Calculated Score 3.75 (Weighted Internal Score 1.2225)
+- Scores: Structural Despair 1.3, Limited Heroism 1.15, Moral Cynicism 1.0,
+  Structural Corruption 1.5, Redemption Difficulty 1.0, Narrative Acceptance
+  of Injustice 1.2, Explicit Darkness 1.5
+- Rationale: the later seasons are built around centuries of Mewman genocide
+  against Monsters — Star's own ancestor Solaria "the Monster Carver"
+  literally engineered a spell meant to exterminate them, and the Mewman/
+  Monster caste divide is the throughline Star spends the show trying to
+  dismantle. The series finale ("Cleaved") resolves the final genocidal-army
+  threat not by reforming the system but by Star destroying the magic
+  dimension and her own powers outright — widely read by critics/fans as a
+  bleak, ambiguous "solution" rather than a clean victory, which is why
+  Structural Despair and Narrative Acceptance of Injustice sit above most
+  tier-4 peers. Weighed against that: the show's early seasons are
+  broad, silly monster-of-the-week comedy, heroism does stop the immediate
+  threat, and Star's arc is toward reconciliation rather than cynicism —
+  keeping it well short of Korra (3.81), the tier's heaviest entry, while
+  landing above Discworld/Elantris and alongside Stormlight/Wheel of Time.
+- Cozy Fantasy = No. Hopepunk = No: the oppressed-Monsters-plus-active-
+  resistance shape resembles Fierce Hopepunk (cf. Avatar), but the ending
+  isn't hope triumphing over the oppressive structure — it's the structure
+  (and the magic underpinning it) being erased as a last resort — so it
+  doesn't clear the bar.
+- Added to xlsx row 77, and to tier 4 on both index.html and es/index.html,
+  inserted between Ranking of Kings (3.69) and Final Fantasy I, II & XII
+  (3.76) per score order (title: "Star vs. las fuerzas del mal" in ES —
+  standard Latin American Spanish title — "Star vs. the Forces of Evil" in
+  EN; medium: "TV, Cómics" / "TV, Comics").
 
 ### 2. Adventure Time — Pendleton Ward — TV / Comics
 
