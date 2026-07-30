@@ -4,8 +4,11 @@ Tracks new works being added to the Fantasy Darkness Scale, one at a time, acros
 Process for each item: (1) research & score against the 7 weighted criteria in the xlsx
 Methodology sheet, (2) add the row to `Evaluations` with live formulas matching the existing
 rows, (3) recalc via LibreOffice to get cached values, (4) determine tier placement, (5) add
-the entry to both `index.html` (EN) and `es/index.html` (ES) in the right tier, (6) commit,
-push, deploy, verify live, (7) update this log, (8) stop and ask before continuing.
+the entry to both `index.html` (EN) and `es/index.html` (ES), inserted into the right tier's
+`<ul class="works">` in ascending-score order relative to the other works already there (not
+appended at the end — the xlsx row order stays chronological/append-only, but the HTML display
+order is sorted by score within each tier), (6) commit, push, deploy, verify live, (7) update
+this log, (8) stop and ask before continuing.
 
 ## Cozy Fantasy / Hopepunk tagging criteria
 
