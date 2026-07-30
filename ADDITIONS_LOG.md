@@ -36,7 +36,7 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 2. [x] Adventure Time — DONE, see Completed
 3. [x] Star vs. las fuerzas del mal (Star vs. the Forces of Evil) — DONE, see Completed
 4. [x] Clevatess (Majū no Ō to Akago to Shikabane no Yūsha) — Yūji Iwahara — Manga — DONE, see Completed
-5. [ ] Saga de Tanya the Evil (The Saga of Tanya the Evil)
+5. [x] Saga de Tanya the Evil (The Saga of Tanya the Evil) — DONE, see Completed
 6. [ ] Re:Zero − Starting Life in Another World
 7. [ ] Legend (1985 film, dir. Ridley Scott, Tom Cruise — a dark lord hunting the last unicorns)
 8. [ ] La historia sin fin (The NeverEnding Story)
@@ -46,6 +46,39 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 12. [ ] The Legend of Vox Machina
 13. [ ] The Nightmare Before Christmas
 14. [ ] Willow (1988)
+
+### 5. The Saga of Tanya the Evil — Carlo Zen — Light Novels / Manga / Anime / Film
+
+- Tier 7, Calculated Score 7.30 (Weighted Internal Score 2.8) — the tier's
+  second work, just below Berserk (7.31); tier 7 switched from the "solo"
+  single-item centered layout to the standard grid on both HTML pages.
+- Scores: Structural Despair 2.5, Limited Heroism 2.8, Moral Cynicism 3.1,
+  Structural Corruption 2.7, Redemption Difficulty 2.8, Narrative Acceptance
+  of Injustice 2.7, Explicit Darkness 3.1
+- Rationale: a reincarnated corporate salaryman becomes Tanya Degurechaff, a
+  ruthlessly effective officer in a magic-augmented WWI-that-never-ended.
+  Scored against Berserk on a per-axis basis rather than assumed to be
+  lighter just because it's less viscerally graphic: Structural Despair and
+  Explicit Darkness sit *below* Berserk's (this is bleak, satirical total
+  war, not Berserk's cosmic body-horror), but Limited Heroism, Moral
+  Cynicism, Redemption Difficulty and Narrative Acceptance of Injustice sit
+  *above* it — there's no Guts-equivalent making heroism a functioning
+  force, the entire thesis is that cynical pragmatism outperforms idealism,
+  and Tanya never redeems or meaningfully changes (confirmed: she stays
+  fundamentally the same cold pragmatist throughout, with no found-family/
+  healing throughline the way Berserk has with Casca). The two profiles net
+  out to nearly identical overall severity.
+- Cozy Fantasy = No. Hopepunk = No — about as far from hopepunk as this
+  scale gets; no hope-driven resistance, no redemption arc.
+- Scored against the story through Season 1, the 2019 film, and the
+  currently-translated light novels/manga. A Season 2 anime premiered July
+  2026 (right around when this entry was added) — too recent to have
+  factored into this score; a future session may need to revisit if it
+  meaningfully changes the story's trajectory.
+- Added to xlsx row 79, and to tier 7 on both index.html and es/index.html,
+  inserted before Berserk (title: "Saga de Tanya the Evil" in ES, matching
+  the queue's own phrasing; medium: "Novelas ligeras, Manga, Anime,
+  Película" / "Light Novels, Manga, Anime, Film").
 
 ## Completed
 
