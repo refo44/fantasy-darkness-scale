@@ -46,6 +46,7 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 12. [ ] The Legend of Vox Machina
 13. [ ] The Nightmare Before Christmas
 14. [ ] Willow (1988)
+15. [ ] Labyrinth (1986 film, dir. Jim Henson, David Bowie — a goblin king, a labyrinth, a stolen baby brother)
 
 ## Completed
 
