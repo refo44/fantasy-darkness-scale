@@ -35,7 +35,7 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 1. [x] El Principito (The Little Prince) — Antoine de Saint-Exupéry — Book — DONE, see Completed
 2. [x] Adventure Time — DONE, see Completed
 3. [x] Star vs. las fuerzas del mal (Star vs. the Forces of Evil) — DONE, see Completed
-4. [ ] Clevatess (Majū no Ō to Akago to Shikabane no Yūsha) — Yūji Iwahara — Manga
+4. [x] Clevatess (Majū no Ō to Akago to Shikabane no Yūsha) — Yūji Iwahara — Manga — DONE, see Completed
 5. [ ] Saga de Tanya the Evil (The Saga of Tanya the Evil)
 6. [ ] Re:Zero − Starting Life in Another World
 7. [ ] Legend (1985 film, dir. Ridley Scott, Tom Cruise — a dark lord hunting the last unicorns)
@@ -48,6 +48,37 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 14. [ ] Willow (1988)
 
 ## Completed
+
+### 4. Clevatess — Yūji Iwahara — Manga / Anime
+
+- Tier 6, Calculated Score 5.85 (Weighted Internal Score 2.155)
+- Scores: Structural Despair 2.1, Limited Heroism 1.9, Moral Cynicism 2.2,
+  Structural Corruption 2.4, Redemption Difficulty 1.7, Narrative Acceptance
+  of Injustice 2.0, Explicit Darkness 3.1
+- Rationale: after the Beast King Clevatess wipes out a kingdom in
+  retaliation for a failed assassination attempt, he's left to raise a
+  human infant — and the found-family bond that follows is what keeps him
+  from following through on annihilating humanity. That's a genuinely strong
+  redemption throughline (lower Redemption Difficulty than most of this
+  tier) inside a otherwise severe world: infant trafficking and
+  experimentation by bandits/antagonists, a named character (Nell) with an
+  official content warning for sustained physical, emotional and sexual
+  abuse, brutal forced transformations, and expanding political corruption
+  (a cardinal secretly serving a demon lord) push Explicit Darkness and
+  Structural Corruption above most tier-6 peers. Net effect lands it just
+  below Goblin Slayer (5.96) — comparably dark source material, but with a
+  more central and more successful redemption arc softening the total.
+- Cozy Fantasy = No. Hopepunk = No: the found-family-defying-hierarchy shape
+  echoes Fierce Hopepunk, but no work at tier 4 or darker has been tagged
+  Hopepunk=Yes on this scale — at this severity the dark content dominates
+  enough page-time that "kindness as the organizing response to adversity"
+  isn't the right frame, so staying consistent with that precedent.
+- Scored against the story as currently published (manga ongoing since 2020,
+  anime adaptation aired mid-2025) — later arcs may shift this if the story
+  resolves very differently.
+- Added to xlsx row 78, and to tier 6 on both index.html and es/index.html,
+  inserted as the new lowest-scoring entry in the tier (just below Goblin
+  Slayer); title "Clevatess" kept as-is in both EN and ES.
 
 ### 3. Star vs. the Forces of Evil — Daron Nefcy — TV / Comics
 
