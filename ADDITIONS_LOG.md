@@ -48,6 +48,7 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 14. [ ] Willow (1988)
 15. [ ] Labyrinth (1986 film, dir. Jim Henson, David Bowie — a goblin king, a labyrinth, a stolen baby brother)
 16. [ ] Pan's Labyrinth / El laberinto del fauno (2006 film, dir. Guillermo del Toro — a girl's dark fairy tale amid Falangist Spain)
+17. [ ] Attack on Titan (Shingeki no Kyojin) — Hajime Isayama — Manga, Anime
 
 ## Completed
 
