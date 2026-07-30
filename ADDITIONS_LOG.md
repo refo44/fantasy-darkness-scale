@@ -38,7 +38,7 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 4. [x] Clevatess (Majū no Ō to Akago to Shikabane no Yūsha) — Yūji Iwahara — Manga — DONE, see Completed
 5. [x] Saga de Tanya the Evil (The Saga of Tanya the Evil) — DONE, see Completed
 6. [x] Re:Zero − Starting Life in Another World — DONE, see Completed
-7. [ ] Legend (1985 film, dir. Ridley Scott, Tom Cruise — a dark lord hunting the last unicorns)
+7. [x] Legend (1985 film, dir. Ridley Scott, Tom Cruise — a dark lord hunting the last unicorns) — DONE, see Completed
 8. [ ] La historia sin fin (The NeverEnding Story)
 9. [ ] Shin Sekai Yori (From the New World)
 10. [ ] Mushishi
@@ -48,6 +48,40 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 14. [ ] Willow (1988)
 
 ## Completed
+
+### 7. Legend (1985) — Ridley Scott — Film
+
+- Tier 2, Calculated Score 1.91 (Weighted Internal Score 0.405) — between
+  The House in the Cerulean Sea (1.90) and A Choir of Lies (1.95).
+- Scores: Structural Despair 0.5, Limited Heroism 0.3, Moral Cynicism 0.35,
+  Structural Corruption 0.3, Redemption Difficulty 0.3, Narrative Acceptance
+  of Injustice 0.35, Explicit Darkness 0.9
+- Rationale: a mythic fairy tale, not an institutional one — there's no
+  political system or empire to critique, so Structural Corruption stays
+  low, and heroism is completely decisive (Jack single-handedly banishes
+  Darkness). What pulls it above the Narnia/Zelda/Castle-in-the-Sky cluster
+  is Explicit Darkness: Tim Curry's Lord of Darkness is genuinely
+  atmospheric gothic horror (widely cited as one of practical-effects
+  fantasy's most frightening villain designs), the unicorn stallion's death
+  is a real emotional gut-punch driving the whole plot, and there's an
+  on-screen decapitation (the swamp hag Meg Mucklebones). Lili's vanity
+  enables the unicorn's death, but the story frames this as innocence
+  exploited by Darkness's manipulation rather than genuine culpability, and
+  her arc resolves cleanly — keeping Redemption Difficulty and Moral
+  Cynicism moderate rather than heavy.
+- Cozy Fantasy = No. Hopepunk = No: no institutional adversity for a Fierce
+  read, and while the Director's Cut ending is wistful (Lili and Jack can't
+  stay together), it's a classic bittersweet romantic beat rather than an
+  existential meditation on mortality/time, so it doesn't clear the
+  Bittersweet bar either.
+- Ridley Scott's film exists in multiple cuts (US theatrical, European,
+  and the 2002 Director's Cut) with different scores and slightly different
+  ending tone; scored against the Director's Cut, generally regarded as the
+  most complete version, though the differences are mostly editing/music
+  rather than plot.
+- Added to xlsx row 81, and to tier 2 on both index.html and es/index.html
+  (title: "Leyenda" in ES, the standard Spanish title; medium: "Película" /
+  "Film").
 
 ### 6. Re:Zero − Starting Life in Another World — Tappei Nagatsuki — Light Novels / Manga / Anime
 
