@@ -37,7 +37,7 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 3. [x] Star vs. las fuerzas del mal (Star vs. the Forces of Evil) — DONE, see Completed
 4. [x] Clevatess (Majū no Ō to Akago to Shikabane no Yūsha) — Yūji Iwahara — Manga — DONE, see Completed
 5. [x] Saga de Tanya the Evil (The Saga of Tanya the Evil) — DONE, see Completed
-6. [ ] Re:Zero − Starting Life in Another World
+6. [x] Re:Zero − Starting Life in Another World — DONE, see Completed
 7. [ ] Legend (1985 film, dir. Ridley Scott, Tom Cruise — a dark lord hunting the last unicorns)
 8. [ ] La historia sin fin (The NeverEnding Story)
 9. [ ] Shin Sekai Yori (From the New World)
@@ -46,6 +46,42 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 12. [ ] The Legend of Vox Machina
 13. [ ] The Nightmare Before Christmas
 14. [ ] Willow (1988)
+
+## Completed
+
+### 6. Re:Zero − Starting Life in Another World — Tappei Nagatsuki — Light Novels / Manga / Anime
+
+- Tier 6, Calculated Score 5.82 (Weighted Internal Score 2.14) — the new
+  lowest-scoring entry in tier 6, just below Clevatess (5.85).
+- Scores: Structural Despair 2.3, Limited Heroism 1.8, Moral Cynicism 2.1,
+  Structural Corruption 2.3, Redemption Difficulty 1.9, Narrative Acceptance
+  of Injustice 1.8, Explicit Darkness 3.1
+- Rationale: Subaru's "Return by Death" makes every failure a genuine,
+  often graphically brutal on-screen death that he alone remembers —
+  arguably the most sustained psychological-horror content on this scale,
+  which is why Explicit Darkness sits at the top of this tier. But the
+  loops are also the mechanism by which heroism *actually works*: each arc
+  (the Sanctuary curse, the White Whale, Petelgeuse) gets solved, at
+  enormous personal cost but with real, lasting effect on the wider world —
+  so Limited Heroism and Narrative Acceptance of Injustice sit low relative
+  to peers, since the story's whole engine is Subaru refusing to accept a
+  bad outcome as final. Real prejudice exists (Emilia's discrimination for
+  resembling the reviled Witch, demi-human oppression in the Sanctuary arc,
+  the Witch Cult's fanaticism), but the found-family throughline is
+  genuinely restorative rather than merely aspirational, keeping Moral
+  Cynicism and Redemption Difficulty moderate rather than severe.
+- Cozy Fantasy = No. Hopepunk = No — same reasoning as recent tier 6+
+  entries: the found-family/growth-through-adversity shape has real
+  hopepunk texture, but no tier-4-or-darker work gets the tag here once the
+  explicit content is this heavy.
+- Scored against the story through the arcs most widely adapted/translated
+  (roughly Arcs 1–6). A Season 4 anime (covering later arcs) began airing
+  April 2026 and is still mid-run as of this entry — noted here in case a
+  future session needs to revisit once it concludes.
+- Added to xlsx row 80, and to tier 6 on both index.html and es/index.html,
+  inserted as the new first entry in the tier (title: "Re:Zero: Empezar de
+  cero en un mundo diferente" in ES — the official Latin American Spanish
+  dub title — "Re:Zero − Starting Life in Another World" in EN).
 
 ### 5. The Saga of Tanya the Evil — Carlo Zen — Light Novels / Manga / Anime / Film
 
@@ -79,8 +115,6 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
   inserted before Berserk (title: "Saga de Tanya the Evil" in ES, matching
   the queue's own phrasing; medium: "Novelas ligeras, Manga, Anime,
   Película" / "Light Novels, Manga, Anime, Film").
-
-## Completed
 
 ### 4. Clevatess — Yūji Iwahara — Manga / Anime
 
