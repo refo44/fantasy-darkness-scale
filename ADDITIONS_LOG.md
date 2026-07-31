@@ -79,26 +79,27 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 
 ### 13. The Nightmare Before Christmas — Tim Burton / Henry Selick — Film
 
-- Tier 1, Calculated Score 1.46 (Weighted Internal Score 0.205) — the new
-  tier-1 ceiling, above Kiki's Delivery Service (1.19).
-- Scores: Structural Despair 0.2, Limited Heroism 0.15, Moral Cynicism
-  0.15, Structural Corruption 0.1, Redemption Difficulty 0.15, Narrative
-  Acceptance of Injustice 0.15, Explicit Darkness 0.7
-- Rationale: "gothic cotton candy" — genuinely more macabre in aesthetic
-  than the gentle Ghibli cluster it now sits above, since Oogie Boogie is a
-  real, sadistic villain who gambles with Santa's life, which is why
-  Explicit Darkness sits well above Totoro/Kiki's/Ponyo. But that darkness
-  is stylistic, not structural: Halloween Town's monsters are fundamentally
-  a kind, whimsical community; Jack's mistake is a well-meaning
-  overreach rather than selfishness; and the ending fully restores
-  Christmas and rewards Jack and Sally's romance without lasting cost.
-- Cozy Fantasy = No. Hopepunk = Yes (Gentle) — Oogie Boogie is a genuine
-  outlier antagonist, not representative of the setting's default state,
-  and the whimsical-but-kind Halloween Town community fits the same Gentle
-  shape as the other three tier-1 entries (Totoro, Kiki's, Ponyo,
-  Legends & Lattes), which are all tagged Yes.
-- Added to xlsx row 87, and to tier 1 on both index.html and es/index.html,
-  inserted as the new final entry (title: "El extraño mundo de Jack" in
+- Tier 2, Calculated Score 1.71 (Weighted Internal Score 0.3175) — the new
+  tier-2 floor, just below Harry Potter and the Philosopher's Stone (1.78).
+- Scores: Structural Despair 0.25, Limited Heroism 0.25, Moral Cynicism
+  0.2, Structural Corruption 0.15, Redemption Difficulty 0.2, Narrative
+  Acceptance of Injustice 0.2, Explicit Darkness 1.3
+- **Corrected after initial placement.** First scored at tier 1 (1.46,
+  Explicit Darkness 0.7) on the reasoning that the plot resolves safely
+  and Halloween Town is fundamentally a kind community — true, but it
+  underweighted how much of the film is spent in genuinely macabre,
+  disturbing visual territory: skeleton/monster designs throughout,
+  Sally's repeated self-dismemberment, Oogie Boogie sadistically
+  gambling with Santa's life, children traumatized by monstrous gifts,
+  the military shooting down Jack's sleigh. The user flagged the tier-1
+  placement as inconsistent with that tier's own "Very Bright Fantasy"
+  register, which was the right call — Explicit Darkness alone justifies
+  the move, even with every other axis staying low.
+- Cozy Fantasy = No. Hopepunk = No — revised down from Gentle: once
+  Oogie Boogie's menace is weighted properly, "no real adversity needed"
+  no longer fits as cleanly as it seemed to at the lighter score.
+- Added to xlsx row 87, and to tier 2 on both index.html and es/index.html,
+  inserted as the new first entry (title: "El extraño mundo de Jack" in
   ES — the official Latin American dub title, notably different from a
   literal translation — "The Nightmare Before Christmas" in EN).
 
