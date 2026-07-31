@@ -43,7 +43,7 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 9. [x] Shin Sekai Yori (From the New World) — DONE, see Completed
 10. [x] Mushishi — DONE, see Completed
 11. [x] Record of Lodoss War — DONE, see Completed
-12. [ ] The Legend of Vox Machina
+12. [x] The Legend of Vox Machina — DONE, see Completed
 13. [ ] The Nightmare Before Christmas
 14. [ ] Willow (1988)
 15. [ ] Labyrinth (1986 film, dir. Jim Henson, David Bowie — a goblin king, a labyrinth, a stolen baby brother)
@@ -54,6 +54,37 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 20. [ ] Calabozos y dragones / Dungeons & Dragons (1983 animated TV series)
 
 ## Completed
+
+### 12. The Legend of Vox Machina — Critical Role — TV
+
+- Tier 4, Calculated Score 3.75 (Weighted Internal Score 1.22) — tied on
+  the rounded display with Star vs. the Forces of Evil, inserted right
+  after it.
+- Scores: Structural Despair 1.3, Limited Heroism 1.1, Moral Cynicism 1.25,
+  Structural Corruption 1.3, Redemption Difficulty 0.95, Narrative
+  Acceptance of Injustice 1.0, Explicit Darkness 1.85
+- Rationale: the Amazon animated adaptation of the Critical Role D&D
+  campaign is TV-MA — confirmed gore, a torture scene, on-screen child
+  deaths, and heavy drinking/crude-humor content push Explicit Darkness
+  above most of this tier, closer to Harry Potter and the Deathly Hallows
+  than to its more family-friendly tier-4 neighbors. Percy's
+  demon-fueled (Orthax) revenge arc after the Briarwoods massacre his
+  family, and Vax'ildan's permanent death — paying his soul to the Raven
+  Queen to save his sister — are real, sustained personal darkness. Against
+  that: heroism is consistently effective (Whitestone is liberated, Percy
+  overcomes his darkness, the party wins every major arc), and the
+  found-family bond and crude comedy keep hope structurally dominant
+  throughout, in the same register as Korra/Stormlight/Wheel of Time.
+- Cozy Fantasy = No. Hopepunk = No: the Briarwoods' tyranny over
+  Whitestone, actively overthrown by the party, has real Fierce-shaped
+  bones, but the show's dominant tonal register (raunchy TV-MA comedy)
+  doesn't match the earnest kindness-as-organizing-value quality the tag
+  has consistently required elsewhere — a closer call than most declines
+  logged here, worth another look if a future pass disagrees.
+- Added to xlsx row 86, and to tier 4 on both index.html and es/index.html,
+  inserted immediately after Star vs. the Forces of Evil (title kept in
+  English on both pages — Amazon's official Latin American release uses
+  the same English title even with Spanish dub audio; medium: "TV").
 
 ### 11. Record of Lodoss War — Ryo Mizuno — Novels / Anime
 
