@@ -40,7 +40,7 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 6. [x] Re:Zero − Starting Life in Another World — DONE, see Completed
 7. [x] Legend (1985 film, dir. Ridley Scott, Tom Cruise — a dark lord hunting the last unicorns) — DONE, see Completed
 8. [x] La historia sin fin (The NeverEnding Story) — DONE, see Completed
-9. [ ] Shin Sekai Yori (From the New World)
+9. [x] Shin Sekai Yori (From the New World) — DONE, see Completed
 10. [ ] Mushishi
 11. [ ] Record of Lodoss War
 12. [ ] The Legend of Vox Machina
@@ -51,6 +51,33 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 17. [ ] Attack on Titan (Shingeki no Kyojin) — Hajime Isayama — Manga, Anime
 
 ## Completed
+
+### 9. Shin Sekai Yori (From the New World) — Yusuke Kishi — Novel / Anime
+
+- Tier 8, Calculated Score 8.41 (Weighted Internal Score 3.295) — second
+  only to A Song of Ice and Fire (8.43), above Dark Souls (8.40).
+- Scores: Structural Despair 3.3, Limited Heroism 3.4, Moral Cynicism 3.1,
+  Structural Corruption 3.5, Redemption Difficulty 3.1, Narrative Acceptance
+  of Injustice 3.3, Explicit Darkness 3.4
+- Rationale: an apparently idyllic 1,000-years-future society turns out to
+  be built on a secret eugenics program — children flagged as
+  psychologically "unstable" are killed and memory-wiped from the
+  community (one protagonist's close friend becomes such a case and takes
+  his own life; another is killed by trained animals for poor class
+  performance) — and on the slavery and periodic extermination of the
+  Queerats, revealed to be humanity's own left-behind, devolved kin. This
+  is about as institutionally embedded as injustice gets on this scale, so
+  Structural Corruption sits at the top of the tier. Limited Heroism is
+  similarly severe: the ending is explicit that the protagonists achieve
+  only a tactical win (stopping the immediate crisis) while "fundamentally
+  fail[ing] to dismantle oppression" — the totalitarian apparatus persists
+  completely unchanged, with only a vague, personal hope that the next
+  generation might do better from within the same power structure.
+- Cozy Fantasy = No. Hopepunk = No.
+- Added to xlsx row 83, and to tier 8 on both index.html and es/index.html,
+  inserted between Dark Souls and A Song of Ice and Fire (title and medium
+  kept identical in EN and ES: "Shin Sekai Yori (From the New World)" /
+  "Novel, Anime").
 
 ### 8. The NeverEnding Story — Michael Ende — Novel / Film
 
