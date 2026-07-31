@@ -39,7 +39,7 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 5. [x] Saga de Tanya the Evil (The Saga of Tanya the Evil) — DONE, see Completed
 6. [x] Re:Zero − Starting Life in Another World — DONE, see Completed
 7. [x] Legend (1985 film, dir. Ridley Scott, Tom Cruise — a dark lord hunting the last unicorns) — DONE, see Completed
-8. [ ] La historia sin fin (The NeverEnding Story)
+8. [x] La historia sin fin (The NeverEnding Story) — DONE, see Completed
 9. [ ] Shin Sekai Yori (From the New World)
 10. [ ] Mushishi
 11. [ ] Record of Lodoss War
@@ -51,6 +51,36 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 17. [ ] Attack on Titan (Shingeki no Kyojin) — Hajime Isayama — Manga, Anime
 
 ## Completed
+
+### 8. The NeverEnding Story — Michael Ende — Novel / Film
+
+- Tier 2, Calculated Score 2.11 (Weighted Internal Score 0.4925) — the new
+  tier-2 ceiling, above A Conspiracy of Truths (1.98).
+- Scores: Structural Despair 0.6, Limited Heroism 0.45, Moral Cynicism 0.5,
+  Structural Corruption 0.3, Redemption Difficulty 0.5, Narrative Acceptance
+  of Injustice 0.3, Explicit Darkness 0.95
+- Rationale: scored against the full Michael Ende novel, not just the 1984
+  film — an important distinction, since the film only adapts the book's
+  first half. That first half alone (Artax's death in the Swamp of Sadness,
+  Gmork's nihilism, the Nothing consuming Fantastica) would likely land
+  close to Legend or the Hobbit/Spirited Away cluster (~1.8). The book's
+  second half pushes it higher: once Bastian is granted AURYN and unlimited
+  wishes, that power corrupts him — he grows cruel and tyrannical, nearly
+  loses his own memories and identity, and strains his friendship with
+  Atreyu to the breaking point — a real "even the purest heart is
+  corrupted by absolute power" throughline the film omits entirely, which
+  is why Moral Cynicism, Limited Heroism and Redemption Difficulty all sit
+  above the typical tier-2 range. Structural Corruption stays low since
+  this is personal/individual corruption, not an institutional one.
+- Cozy Fantasy = No. Hopepunk = No: considered Bittersweet, given Bastian's
+  grief over his mother's death and the ending's choice of his father's
+  real, mortal love over infinite wish-granting power — but that theme
+  frames the story rather than sustaining it the way it does for Frieren,
+  so it doesn't clear the bar.
+- Added to xlsx row 82, and to tier 2 on both index.html and es/index.html,
+  inserted as the new final entry (title: "La historia sin fin" in ES,
+  matching the queue's own phrasing; medium: "Novela, Película" / "Novel,
+  Film").
 
 ### 7. Legend (1985) — Ridley Scott — Film
 
