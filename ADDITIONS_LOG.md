@@ -72,6 +72,7 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 38. [ ] Fourth Wing / Iron Flame / Onyx Storm (Empyrean series) — Rebecca Yarros — Novels — score each, bundle into one entry if they land in the same tier
 39. [ ] Sweet Tooth — Jeff Lemire — Comics, TV series
 40. [ ] Arcane — Riot Games — TV series
+41. [ ] Percy Jackson & the Olympians — Rick Riordan — Novels, TV series
 
 ## Completed
 
