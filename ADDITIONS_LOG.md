@@ -41,7 +41,7 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 7. [x] Legend (1985 film, dir. Ridley Scott, Tom Cruise — a dark lord hunting the last unicorns) — DONE, see Completed
 8. [x] La historia sin fin (The NeverEnding Story) — DONE, see Completed
 9. [x] Shin Sekai Yori (From the New World) — DONE, see Completed
-10. [ ] Mushishi
+10. [x] Mushishi — DONE, see Completed
 11. [ ] Record of Lodoss War
 12. [ ] The Legend of Vox Machina
 13. [ ] The Nightmare Before Christmas
@@ -54,6 +54,39 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 20. [ ] Calabozos y dragones / Dungeons & Dragons (1983 animated TV series)
 
 ## Completed
+
+### 10. Mushishi — Yuki Urushibara — Manga / Anime
+
+- Tier 2, Calculated Score 2.05 (Weighted Internal Score 0.4675) — between
+  A Conspiracy of Truths (1.98) and The NeverEnding Story (2.11).
+- Scores: Structural Despair 0.7, Limited Heroism 0.4, Moral Cynicism 0.25,
+  Structural Corruption 0.2, Redemption Difficulty 0.3, Narrative Acceptance
+  of Injustice 0.6, Explicit Darkness 1.0
+- Rationale: an anthology of folk-tale-style encounters between Ginko (a
+  wandering Mushi scholar) and Mushi, primordial life-forms that cause
+  strange, often tragic afflictions when they interact with people.
+  Unlike almost everything else on this scale, there's no villain, no war,
+  no institution to critique — every score on the institutional/heroism
+  axes (Limited Heroism, Structural Corruption) stays low because there's
+  no "wider structure" for heroism to fail to change. What earns real
+  weight is Explicit Darkness and Narrative Acceptance of Injustice: many
+  episodes end in genuine, irreversible loss (a mother dying trying to
+  save her daughter, a character permanently losing an arm, lasting grief
+  from a fatal accident), and Ginko doesn't always succeed — the show's
+  whole philosophy is accepting impermanence as natural rather than
+  something to defeat.
+- Cozy Fantasy = No. Hopepunk = Yes (Bittersweet) — arguably the purest fit
+  for this tag on the entire scale. Where prior close calls (The
+  NeverEnding Story, Clevatess, Re:Zero) were declined because mortality
+  was a framing device or the darkness too pervasive, Mushishi's entire
+  structure, episode after episode, is "loss is real and often permanent,
+  and connection/care persist anyway" — exactly the Frieren-shaped
+  Bittersweet criterion, just at a much gentler overall darkness level
+  (which is fine: the tag measures stance toward darkness, not amount of
+  darkness, per the Methodology sheet's own note).
+- Added to xlsx row 84, and to tier 2 on both index.html and es/index.html,
+  inserted between the same two neighbors (title and medium kept identical
+  in EN/ES: "Mushishi" / "Manga, Anime").
 
 ### 9. Shin Sekai Yori (From the New World) — Yusuke Kishi — Novel / Anime
 
