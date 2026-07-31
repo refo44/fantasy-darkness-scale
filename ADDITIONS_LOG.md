@@ -45,7 +45,7 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 11. [x] Record of Lodoss War — DONE, see Completed
 12. [x] The Legend of Vox Machina — DONE, see Completed
 13. [x] The Nightmare Before Christmas — DONE, see Completed
-14. [ ] Willow (1988)
+14. [x] Willow (1988) — DONE, see Completed
 15. [ ] Labyrinth (1986 film, dir. Jim Henson, David Bowie — a goblin king, a labyrinth, a stolen baby brother)
 16. [ ] Pan's Labyrinth / El laberinto del fauno (2006 film, dir. Guillermo del Toro — a girl's dark fairy tale amid Falangist Spain)
 17. [ ] Attack on Titan (Shingeki no Kyojin) — Hajime Isayama — Manga, Anime
@@ -76,6 +76,31 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 42. [ ] Devilman Crybaby (2018) — Masaaki Yuasa (based on Go Nagai's Devilman manga) — Anime
 
 ## Completed
+
+### 14. Willow (1988) — Ron Howard / George Lucas — Film
+
+- Tier 2, Calculated Score 1.85 (Weighted Internal Score 0.3775) — tied
+  on the rounded display with Castle in the Sky, inserted right before it.
+- Scores: Structural Despair 0.45, Limited Heroism 0.3, Moral Cynicism 0.3,
+  Structural Corruption 0.45, Redemption Difficulty 0.25, Narrative
+  Acceptance of Injustice 0.3, Explicit Darkness 0.7
+- Rationale: Queen Bavmorda's decree to imprison every pregnant woman in
+  the land, driven by a prophecy of her downfall, is genuinely severe
+  institutional cruelty — pushing Structural Corruption above the Narnia/
+  Castle-in-the-Sky cluster it otherwise resembles. Airk dies in battle, a
+  real named-character loss. Against that: Willow's comic-tinged
+  transformation-magic mishaps, Sorsha's clean and successful defection/
+  redemption arc, and Bavmorda's almost ironic, self-inflicted defeat keep
+  the register close to classic 80s heroic-fantasy peers rather than
+  pushing toward Legend's more visceral horror-villain intensity.
+- Cozy Fantasy = No. Hopepunk = No — an "evil ruler overthrown" plot shape
+  like Narnia/D&D Honor Among Thieves/Castle in the Sky, all of which
+  decline the tag; reserved elsewhere on this scale for entries with a
+  more sustained, explicit found-family/resistance throughline.
+- Added to xlsx row 88, and to tier 2 on both index.html and es/index.html
+  (title: "Willow en la tierra del encanto" in ES — the official Latin
+  American title, notably more elaborate than a literal translation —
+  "Willow" in EN).
 
 ### 13. The Nightmare Before Christmas — Tim Burton / Henry Selick — Film
 
