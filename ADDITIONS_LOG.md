@@ -44,7 +44,7 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 10. [x] Mushishi — DONE, see Completed
 11. [x] Record of Lodoss War — DONE, see Completed
 12. [x] The Legend of Vox Machina — DONE, see Completed
-13. [ ] The Nightmare Before Christmas
+13. [x] The Nightmare Before Christmas — DONE, see Completed
 14. [ ] Willow (1988)
 15. [ ] Labyrinth (1986 film, dir. Jim Henson, David Bowie — a goblin king, a labyrinth, a stolen baby brother)
 16. [ ] Pan's Labyrinth / El laberinto del fauno (2006 film, dir. Guillermo del Toro — a girl's dark fairy tale amid Falangist Spain)
@@ -75,6 +75,31 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 41. [ ] Percy Jackson & the Olympians — Rick Riordan — Novels, TV series
 
 ## Completed
+
+### 13. The Nightmare Before Christmas — Tim Burton / Henry Selick — Film
+
+- Tier 1, Calculated Score 1.46 (Weighted Internal Score 0.205) — the new
+  tier-1 ceiling, above Kiki's Delivery Service (1.19).
+- Scores: Structural Despair 0.2, Limited Heroism 0.15, Moral Cynicism
+  0.15, Structural Corruption 0.1, Redemption Difficulty 0.15, Narrative
+  Acceptance of Injustice 0.15, Explicit Darkness 0.7
+- Rationale: "gothic cotton candy" — genuinely more macabre in aesthetic
+  than the gentle Ghibli cluster it now sits above, since Oogie Boogie is a
+  real, sadistic villain who gambles with Santa's life, which is why
+  Explicit Darkness sits well above Totoro/Kiki's/Ponyo. But that darkness
+  is stylistic, not structural: Halloween Town's monsters are fundamentally
+  a kind, whimsical community; Jack's mistake is a well-meaning
+  overreach rather than selfishness; and the ending fully restores
+  Christmas and rewards Jack and Sally's romance without lasting cost.
+- Cozy Fantasy = No. Hopepunk = Yes (Gentle) — Oogie Boogie is a genuine
+  outlier antagonist, not representative of the setting's default state,
+  and the whimsical-but-kind Halloween Town community fits the same Gentle
+  shape as the other three tier-1 entries (Totoro, Kiki's, Ponyo,
+  Legends & Lattes), which are all tagged Yes.
+- Added to xlsx row 87, and to tier 1 on both index.html and es/index.html,
+  inserted as the new final entry (title: "El extraño mundo de Jack" in
+  ES — the official Latin American dub title, notably different from a
+  literal translation — "The Nightmare Before Christmas" in EN).
 
 ### 12. The Legend of Vox Machina — Critical Role — TV
 
