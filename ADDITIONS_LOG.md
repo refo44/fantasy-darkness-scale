@@ -73,6 +73,7 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 39. [ ] Sweet Tooth — Jeff Lemire — Comics, TV series
 40. [ ] Arcane — Riot Games — TV series
 41. [ ] Percy Jackson & the Olympians — Rick Riordan — Novels, TV series
+42. [ ] Devilman Crybaby (2018) — Masaaki Yuasa (based on Go Nagai's Devilman manga) — Anime
 
 ## Completed
 
