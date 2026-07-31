@@ -52,6 +52,20 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 18. [ ] Maleficent (2014 film, Angelina Jolie — Sleeping Beauty retold from the villain's side)
 19. [ ] (Des)encanto / Disenchantment (2018 TV series, Matt Groening)
 20. [ ] Calabozos y dragones / Dungeons & Dragons (1983 animated TV series)
+21. [ ] The Magicians — Lev Grossman — Novels, TV series
+22. [ ] House of the Dragon — George R. R. Martin (A Song of Ice and Fire prequel) — TV series
+23. [ ] A Knight of the Seven Kingdoms (Dunk & Egg) — George R. R. Martin — Novellas
+24. [ ] Once Upon a Time (TV series)
+25. [ ] The Shannara Chronicles — based on Terry Brooks' novels — TV series
+26. [ ] Dirk Gently's Holistic Detective Agency — Douglas Adams — Novels, TV series
+27. [ ] The Sandman — Neil Gaiman — Comics, TV series
+28. [ ] Supernatural (TV series)
+29. [ ] Charmed (1998 TV series)
+30. [ ] The Dark Crystal (1982 film, Jim Henson & Frank Oz)
+31. [ ] The Dark Crystal: Age of Resistance (2019 TV series)
+32. [ ] His Dark Materials — Philip Pullman — Novels, TV series
+33. [ ] The Dresden Files — Jim Butcher — Novels, TV series
+34. [ ] The Grim Company — Luke Scull — Novels
 
 ## Completed
 
