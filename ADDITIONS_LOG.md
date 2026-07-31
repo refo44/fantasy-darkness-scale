@@ -42,7 +42,7 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 8. [x] La historia sin fin (The NeverEnding Story) — DONE, see Completed
 9. [x] Shin Sekai Yori (From the New World) — DONE, see Completed
 10. [x] Mushishi — DONE, see Completed
-11. [ ] Record of Lodoss War
+11. [x] Record of Lodoss War — DONE, see Completed
 12. [ ] The Legend of Vox Machina
 13. [ ] The Nightmare Before Christmas
 14. [ ] Willow (1988)
@@ -54,6 +54,30 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 20. [ ] Calabozos y dragones / Dungeons & Dragons (1983 animated TV series)
 
 ## Completed
+
+### 11. Record of Lodoss War — Ryo Mizuno — Novels / Anime
+
+- Tier 3, Calculated Score 2.74 (Weighted Internal Score 0.775) — between
+  Howl's Moving Castle (2.73) and Dragonlance (2.755).
+- Scores: Structural Despair 0.9, Limited Heroism 0.75, Moral Cynicism 0.7,
+  Structural Corruption 0.85, Redemption Difficulty 0.6, Narrative
+  Acceptance of Injustice 0.6, Explicit Darkness 1.15
+- Rationale: the foundational D&D-inspired anime/novel epic — closest
+  thematic sibling on this scale is Dragonlance, and it lands right beside
+  it. The Marmo invasion of Lodoss costs both warring kings their lives,
+  and the party loses its dwarf, Ghim, in the OVA's finale (killed freeing
+  a possessed companion's soul); the Grey Witch Karla's whole operating
+  principle — centuries spent secretly orchestrating wars across Lodoss's
+  history to keep any one nation from dominating — is real, sustained
+  Structural Corruption. Against that: the heroes still win a clean,
+  restorative victory, keeping it well short of tier 4's heavier war
+  epics.
+- Cozy Fantasy = No. Hopepunk = No — a classic "war happens, heroes defend
+  home and win" shape rather than resistance to a specific oppressive
+  institution, same reasoning as Dragonlance/LOTR.
+- Added to xlsx row 85, and to tier 3 on both index.html and es/index.html,
+  inserted between the same two neighbors (title and medium kept identical
+  in EN/ES: "Record of Lodoss War" / "Novels, Anime").
 
 ### 10. Mushishi — Yuki Urushibara — Manga / Anime
 
