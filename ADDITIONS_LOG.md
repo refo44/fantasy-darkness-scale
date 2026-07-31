@@ -70,6 +70,8 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 36. [ ] Eragon (the Inheritance Cycle) — Christopher Paolini — Novels
 37. [ ] The Princess Bride — William Goldman — Novel, Film
 38. [ ] Fourth Wing / Iron Flame / Onyx Storm (Empyrean series) — Rebecca Yarros — Novels — score each, bundle into one entry if they land in the same tier
+39. [ ] Sweet Tooth — Jeff Lemire — Comics, TV series
+40. [ ] Arcane — Riot Games — TV series
 
 ## Completed
 
