@@ -66,6 +66,10 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
 32. [ ] His Dark Materials — Philip Pullman — Novels, TV series
 33. [ ] The Dresden Files — Jim Butcher — Novels, TV series
 34. [ ] The Grim Company — Luke Scull — Novels
+35. [ ] The Dark Tower — Stephen King — Novels
+36. [ ] Eragon (the Inheritance Cycle) — Christopher Paolini — Novels
+37. [ ] The Princess Bride — William Goldman — Novel, Film
+38. [ ] Fourth Wing / Iron Flame / Onyx Storm (Empyrean series) — Rebecca Yarros — Novels — score each, bundle into one entry if they land in the same tier
 
 ## Completed
 
