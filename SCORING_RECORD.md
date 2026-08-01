@@ -1008,3 +1008,21 @@ for the millennium of systemic deception) pushed the score further into tier 6, 
 Conclusion: FFXIV reaches the same overall severity as its neighbors via a different
 combination of axes rather than matching them one-for-one — the multi-criteria system working
 as designed, not a flaw in the scoring.
+
+## Harry Potter and the Order of the Phoenix
+
+* Structural Despair: 2 — the Ministry's denial of Voldemort's return actively worsens throughout this book, no longer anticipatory as in Goblet of Fire.
+* Limited Heroism: 2 — the DA and Order achieve real victories, but only at devastating cost, and Umbridge's tyranny runs unchecked for most of the book.
+* Moral Cynicism: 2 — this book is famous for actively punishing honesty — Harry is smeared and tortured specifically for telling the truth, sustained throughout.
+* Structural Corruption: 2 — Umbridge's takeover of Hogwarts is genuinely oppressive, but explicitly framed as one year's aberration under a specific bad actor, overturned by book's end — not a permanently embedded condition.
+* Redemption Difficulty: 1 — not a major redemption arc this book, though Snape's complexity deepens.
+* Narrative Acceptance of Injustice: 2 — Sirius's death is explicit and permanent, never undone.
+* Explicit Darkness: 3 — the blood quill (disturbing self-harm-adjacent torture, used repeatedly), Sirius's death, Neville's parents' torture backstory.
+
+Weighted = 1.95 → Final Score = 5.8875 → **Tier 5**, near the top of the cluster, just below
+Goblin Slayer.
+
+Applied the Goblet of Fire lesson proactively rather than after the fact — capped Structural
+Corruption at 2 rather than 3, which would have put this at 6.225 in company with The Witcher
+and FFXIV, a real stretch for a YA book. This lands as a well-calibrated escalation from
+Goblet of Fire's tier-5 floor position rather than a leap into adult-fantasy territory.

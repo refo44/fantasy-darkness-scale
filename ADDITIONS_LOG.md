@@ -281,7 +281,13 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
   Conclusion: FFXIV reaches tier-6 severity via a different combination than its neighbors
   (lower heroism-futility/cynicism, higher despair/corruption/explicit content) rather than
   matching them axis-by-axis — the multi-criteria system working as intended, not a flaw.
-- [ ] Harry Potter and the Order of the Phoenix
+- [x] Harry Potter and the Order of the Phoenix — v2: tier 5 (up from 4, score 5.8875, near
+  the top of tier 5). Applied the Goblet of Fire lesson proactively — capped Structural
+  Corruption at 2 rather than 3 (Umbridge's tyranny is framed as one year's aberration under a
+  bad actor, overturned by book's end, not a permanently embedded condition), which kept it
+  out of tier 6's adult-fantasy company (Witcher/FFXIV) while still registering as a real
+  escalation from Goblet of Fire's tier-5 floor — Sirius's permanent death and the sustained
+  blood-quill torture vs. one scene in GoF. User confirmed.
 - [ ] Harry Potter and the Half-Blood Prince
 - [ ] Harry Potter and the Deathly Hallows
 - [ ] Märchen Crown
