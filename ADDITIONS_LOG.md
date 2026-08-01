@@ -203,19 +203,84 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
   death) plus the unresolved systemic justice failure (Sirius never cleared within this book)
   fit "Fantasy in Gray Tones" — the point where the series first gets genuinely heavier. User
   confirmed.
-- [ ] Harry Potter and the Goblet of Fire
-- [ ] Earthsea
-- [ ] Witch Hat Atelier
-- [ ] Adventure Time
-- [ ] Record of Lodoss War
+- [x] Harry Potter and the Goblet of Fire — v2: tier 5 (up two tiers from 3, score 5.2125,
+  matching Dragonlance at the tier-5 floor). Self-corrected mid-scoring: first pass landed
+  5.8875, above Goblin Slayer/Kingkiller — didn't survive the neighbor check for a YA book, so
+  Structural Despair and Limited Heroism were pulled back to reflect that the disaster (war,
+  Voldemort's return) is just beginning within this book, not sustained. Label "Gloomy
+  Fantasy" fits — Cedric's permanent death plus institutional denial mark the series' pivot to
+  genuinely somber.
+- [x] Earthsea — v2: tier 4 (up from 3, score 4.65, matching Avatar/Grimgar). Label "Fantasy in
+  Gray Tones" is an exceptionally good fit — the series is famous specifically for its muted,
+  philosophical, Taoist-influenced tone. Comparable weight to Avatar's genocide backstory and
+  Grimgar's real grief: cult indoctrination (Tombs of Atuan) plus Ged's permanent loss of
+  magic as the cost of saving the world.
+- [x] Witch Hat Atelier — v2: tier 4 (up from 3, score 4.3125). The witching society's brutal,
+  rigid punishment (erasing faces regardless of intent, which harmed an innocent — Coco's
+  mother) plus her still-unresolved guilt fit "Fantasy in Gray Tones." Sits between
+  NeverEnding Story and Prisoner of Azkaban — reasonable company.
+- [x] Adventure Time — v2: tier 4 (up from 3, score 4.9875, matching Tales from Earthsea).
+  Label "Fantasy in Gray Tones" is an exceptionally good fit — the classic example of a show
+  that looks bright/silly on the surface while carrying genuine darkness underneath
+  (post-apocalyptic setting, Simon/Ice King's decades-long tragedy).
+- [x] Record of Lodoss War — v2: tier 3 (unchanged, 3.975, matching LOTR/Frieren/Black
+  Clover). Bundling check: kept as one entry (novels + anime) — no real content-darkness
+  difference between adaptations, same core story. Explicit Darkness brought down from an
+  initial 3 to 2 after comparing to Dragonlance: Lodoss War is classic "heroes vs. invading
+  army" without Dragonlance's sustained civilian-suffering-under-occupation quality. Label
+  "Balanced" fits — Ashram/Pirotess's tragedy is genuinely interwoven with heroic fantasy, not
+  darkness raising stakes for a clean triumph.
 
-**Tier 4** (20 pending)
-- [ ] Cormyr
-- [ ] Elantris
-- [ ] The Stormlight Archive
-- [ ] The Silmarillion & Great Tales
-- [ ] Final Fantasy I, II & XII
-- [ ] Final Fantasy XIV
+**Tier 3 backlog complete (14/14).**
+
+**Tier 4** (19 pending)
+- [x] Cormyr — v2: tier 3 (down from 4, score 3.3, matching Dungeon Meshi). Standard political
+  intrigue — real corruption/assassination plots but cleanly resolved, without the sustained
+  visceral content (body horror, psychological horror, lasting institutional brutality) of its
+  former tier-4 neighbors. Label "Balanced" fits.
+- [x] Elantris — v2: tier 5 (up from 4, score 5.2125, matching Dragonlance/HP Goblet of Fire).
+  The decade-long body-horror premise (unhealing wounds, unrelenting pain/hunger, described in
+  real detail) plus state-sanctioned abandonment of the afflicted fits "Gloomy Fantasy."
+- [x] The Stormlight Archive — v2: tier 6 (up two tiers from 4, score 6.9, matching Dark
+  Souls I–III). Sustained, explicit depiction of Kaladin's clinical depression/suicidal
+  ideation (unusually direct for mainstream epic fantasy) plus Dalinar's on-page mass-casualty
+  war crime and the lighteyes/darkeyes caste system's foundational discrimination. Label "Dark
+  Fantasy" fits — genuinely heavy without being nihilistic.
+- [x] The Silmarillion & Great Tales — v2: tier 5 (up from 4, score 5.325, near Skyrim). Went
+  through significant back-and-forth (first pass landed tier 7, alongside Berserk — rejected).
+  Corrected in two stages: (1) Explicit Darkness pulled from 3 to 2 — Tolkien's mythic,
+  chronicle-style prose lacks the graphic detail the higher anchor requires even though the
+  content (kinslaying, incest, suicide) is real; (2) Limited Heroism and Narrative Acceptance
+  of Injustice pulled down specifically because of Tolkien's own theory of eucatastrophe — a
+  deliberate structural "turn" toward unearned grace at the level of the overarching story
+  (Eärendil's plea causing Morgoth's defeat, Beren's return from death), which is a citable
+  literary fact about this text, not just a vibe. Individual tragedies (Túrin, Fëanor) don't
+  get this grace and stayed scored at full severity — this wasn't a blanket lightening.
+- [x] Final Fantasy I, II & XII — **split into 3 separate entries**, not kept bundled. Rough
+  per-game estimates showed a 3-tier spread (I≈tier 1, II≈tier 3, XII≈tier 4) — much larger
+  than the Lodoss War bundling case, where the adaptations genuinely told the same story at
+  the same intensity. One number would have badly misrepresented at least two of the three.
+  Catalog total is now 89 works, not 87.
+  - [x] Final Fantasy I — v2: tier 1 (score 1.725). Virtually no narrative content; four Light
+    Warriors restore corrupted Crystals, minimal characterization, clean good-vs-evil.
+  - [x] Final Fantasy II — v2: tier 3 (score 3.975, matching LOTR/Frieren/Black Clover/Lodoss
+    War). Real war against imperial conquest, Josef's on-page death, Leon's costly fall to
+    darkness and redemption after being corrupted/resurrected by the Emperor.
+  - [x] Final Fantasy XII — v2: tier 4 (score 4.65, matching Avatar/Grimgar/Earthsea). Real
+    imperial conquest (Dalmasca occupied, king killed), Basch wrongfully imprisoned for
+    regicide he didn't commit (same injustice shape as Sirius Black), nethicite
+    weapons-of-mass-destruction themes, Reddas's sacrifice.
+- [x] Final Fantasy XIV — v2: tier 6 (up two tiers from 4, score 6.225, matching The Witcher).
+  Real structural outlier worth noting: every other tier-6 work has Limited Heroism at 2-3,
+  FFXIV is the only one at 1 (the Warrior of Light is unusually, consistently effective —
+  repeatedly stops apocalypses outright). Tested whether that should pull the tier down;
+  lowering Structural Despair to compensate didn't hold up (the construct is explicitly
+  "independent of character choices," and the world has a demonstrated history of repeated
+  civilizational collapse regardless of any hero), and the other honest correction (Moral
+  Cynicism up for the millennium of systemic deception) pushed the score up, not down.
+  Conclusion: FFXIV reaches tier-6 severity via a different combination than its neighbors
+  (lower heroism-futility/cynicism, higher despair/corruption/explicit content) rather than
+  matching them axis-by-axis — the multi-criteria system working as intended, not a flaw.
 - [ ] Harry Potter and the Order of the Phoenix
 - [ ] Harry Potter and the Half-Blood Prince
 - [ ] Harry Potter and the Deathly Hallows

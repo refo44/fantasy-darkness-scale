@@ -785,3 +785,226 @@ Sits between NeverEnding Story and Avatar/Grimgar — doesn't have "world-ending
 psychological horror plus systemic justice failure is substantial company. Label check:
 "Fantasy in Gray Tones" fits — the point where the series first gets genuinely heavier (mental
 health via Dementors, systemic injustice via Sirius, prejudice via Lupin).
+
+## Harry Potter and the Goblet of Fire
+
+* Structural Despair: 1 — Voldemort's return plants the seed of the coming war, but the actual decline hasn't happened yet within this book; anticipatory, not realized.
+* Limited Heroism: 1 — Harry escapes and exposes the truth, a real partial success, even though he doesn't prevent Voldemort's resurrection.
+* Moral Cynicism: 2 — Harry tells the truth and is disbelieved and smeared in the press for it; virtue is actively punished, not just unrewarded.
+* Structural Corruption: 2 — the Ministry's denial and propaganda campaign (Rita Skeeter, the Daily Prophet) is a real, sustained institutional failure.
+* Redemption Difficulty: 1 — Crouch Sr.'s tragic complicity in hiding his Death Eater son is a real dark thread, though not central.
+* Narrative Acceptance of Injustice: 2 — Cedric's death is explicit and permanent, never undone; the Ministry's denial persists unresolved at book's end.
+* Explicit Darkness: 3 — Cedric's on-page murder, Voldemort's macabre resurrection ritual, Harry tortured with Crucio.
+
+Weighted = 1.65 → Final Score = 5.2125 → **Tier 5**
+
+Lands exactly with Dragonlance, at the floor of the tier-5 cluster. Self-corrected during
+scoring: an initial pass with Structural Despair and Limited Heroism both at 2 produced 5.8875
+— above Goblin Slayer and Kingkiller Chronicle, which didn't survive the neighbor check for a
+YA book. Pulled both back to reflect that the disaster is just beginning within this book, not
+sustained the way Dragonlance's ongoing war is. Label check: "Gloomy Fantasy" fits — the
+series' pivot point from "heavier YA" to genuinely somber.
+
+## Earthsea (original trilogy)
+
+* Structural Despair: 2 — The Farthest Shore's central plot is a real, active draining of magic/life-force from all of Earthsea, genuinely dominant for much of that book before being stopped.
+* Limited Heroism: 1 — Ged's actions do durably save the world's balance, though at permanent personal cost.
+* Moral Cynicism: 0 — not about a cynical reward structure; the series is philosophical/balance-focused.
+* Structural Corruption: 2 — the Tombs of Atuan's cult of the Nameless Ones is a genuinely oppressive religious institution that psychologically imprisons Tenar for years.
+* Redemption Difficulty: 2 — Ged's arc across the trilogy is genuine, costly transformation, ultimately losing his magic forever as the price of saving the world.
+* Narrative Acceptance of Injustice: 1 — the main external threat is resolved, though the personal costs (Ged's lost magic, Tenar's years of indoctrination) are never undone.
+* Explicit Darkness: 2 — real psychological horror (the shadow creature, cult indoctrination, the land of the dead), though Le Guin's prose is literary/restrained rather than graphic.
+
+Weighted = 1.4 → Final Score = 4.65 → **Tier 4**
+
+Lands exactly with Avatar and Grimgar. Label check: "Fantasy in Gray Tones" is one of the best
+fits found so far — the series is famous specifically for its muted, philosophical tone
+(Taoist-influenced balance, neither purely light nor dark magic). Former-tier check: leaving
+FF IV/Dungeon Meshi/Hobbit behind makes sense given the more philosophically weighty content.
+
+## Witch Hat Atelier
+
+* Structural Despair: 1 — the witching world's secretive stratification is a real ongoing issue, though the story's arc trends toward exposing/reforming it.
+* Limited Heroism: 1 — Coco's found-family and mentorship achieve real, meaningful progress, though full resolution isn't reached yet as an ongoing series.
+* Moral Cynicism: 0 — a warm, found-family-focused tone; kindness and care are consistently rewarded within the group.
+* Structural Corruption: 2 — the witching society's brutal, rigid punishment (erasing the faces of "unqualified" practitioners regardless of intent) is a real institutional failure that harmed an innocent person (Coco's mother).
+* Redemption Difficulty: 2 — Coco's guilt over her mother's transformation is genuine, ongoing, and unresolved as of where the story currently stands.
+* Narrative Acceptance of Injustice: 1 — her mother remains stone, a real lasting consequence, though the story actively pursues a solution rather than treating it as hopeless.
+* Explicit Darkness: 2 — the face-erasure punishment and stone-transformation are genuinely disturbing body horror, tempered by a gentle, whimsical overall art style.
+
+Weighted = 1.25 → Final Score = 4.3125 → **Tier 4**
+
+Sits between NeverEnding Story (4.2) and Prisoner of Azkaban (4.5375) — comparable weight to
+NeverEnding Story's Artax death and Bastian's identity crisis. Label check: "Fantasy in Gray
+Tones" fits — real institutional brutality and body horror balanced against genuine warmth.
+
+## Adventure Time
+
+* Structural Despair: 2 — the post-apocalyptic setting (the Mushroom War) is a real, permanent historical catastrophe never undone; the whole show exists in its aftermath.
+* Limited Heroism: 1 — Finn and Jake's adventures resolve real threats, including the Lich by the series finale.
+* Moral Cynicism: 1 — generally kindness is rewarded, though Princess Bubblegum's ethically troubling scientific choices as ruler complicate this.
+* Structural Corruption: 1 — Bubblegum's rule involves real if contained ethical issues (experimenting on candy people, keeping secrets from her subjects).
+* Redemption Difficulty: 2 — Simon Petrikov's transformation into the Ice King (a genuinely tragic, Alzheimer's-esque loss of memory and humanity) takes decades of suffering before any restoration.
+* Narrative Acceptance of Injustice: 2 — the Mushroom War's devastation is simply the permanent, unchangeable backdrop of the world.
+* Explicit Darkness: 2 — surprisingly intense for a kids' show: implied nuclear devastation, Simon's tragic memory loss, Marceline's centuries of loss, real character deaths.
+
+Weighted = 1.55 → Final Score = 4.9875 → **Tier 4**
+
+Lands almost exactly with Tales from Earthsea. Label check: "Fantasy in Gray Tones" is an
+exceptionally good fit — Adventure Time is the classic example of a show that looks bright and
+silly on the surface while carrying genuine darkness underneath.
+
+## Record of Lodoss War
+
+Bundling note: kept as one entry covering the novels, 1990 OVA, and Chronicles of the Heroic
+Knight TV series, matching v1 — no real content-darkness difference found between the
+adaptations; they tell the same core story at the same intensity.
+
+* Structural Despair: 1 — Marmo's invasion causes real, if ultimately resolved, devastation.
+* Limited Heroism: 1 — Parn's party durably ends the war, but only at real, sustained cost.
+* Moral Cynicism: 1 — classic heroic fantasy, though Ashram and Karla's "honorable villain" characterizations add real nuance.
+* Structural Corruption: 1 — Marmo's invasion is real national aggression, more an invading empire than deep institutional critique of Lodoss itself.
+* Redemption Difficulty: 2 — Ashram's arc (an honorable knight serving a dark cause, his tragic romance with Pirotess) is genuinely costly, typically ending in tragedy rather than a clean redemption.
+* Narrative Acceptance of Injustice: 0 — the invasion is fully resolved by the war's end.
+* Explicit Darkness: 2 — sustained war content, but classic "heroes vs. invading army," without Dragonlance's sustained civilian-suffering-under-occupation quality (which is why that work scored a 3 here and this doesn't).
+
+Weighted = 1.1 → Final Score = 3.975 → **Tier 3**
+
+Lands exactly with LOTR, Frieren, and Black Clover. Label check: "Balanced" fits —
+Ashram/Pirotess's doomed romance and tragic death are genuinely interwoven with classic heroic
+fantasy, not darkness that exists purely to raise stakes for a clean triumph.
+
+## Cormyr
+
+* Structural Despair: 1 — Cormyr faces real historical crises (shown via flashbacks) but endures as a well-governed, beloved kingdom overall.
+* Limited Heroism: 1 — Vangerdahast and allies successfully stabilize the succession and save the king.
+* Moral Cynicism: 1 — loyalty and good governance are ultimately rewarded, though the political intrigue shows real cynicism about power-seeking nobles.
+* Structural Corruption: 1 — real depicted corruption among certain nobles, though the crown itself is legitimate and worth preserving.
+* Redemption Difficulty: 0 — not a redemption-arc story; more political thriller than personal moral journey.
+* Narrative Acceptance of Injustice: 0 — the political crises are resolved by the novel's end.
+* Explicit Darkness: 2 — the king's slow poisoning, assassination attempts, historical war content — standard high-fantasy intensity.
+
+Weighted = 0.8 → Final Score = 3.3 → **Tier 3**
+
+Down from tier 4. Lands exactly with Dungeon Meshi. Former-tier check: leaving Witch Hat
+Atelier/NeverEnding Story/Prisoner of Azkaban behind makes sense — those have more sustained,
+visceral content than Cormyr's standard, cleanly-resolved political intrigue.
+
+## Elantris
+
+* Structural Despair: 2 — Elantris and its people have been in a real, sustained decade-long state of decay/curse (the Reod), dominant for most of the story until the resolution.
+* Limited Heroism: 1 — Raoden's efforts organize and improve conditions within Elantris, and the magic is ultimately restored.
+* Moral Cynicism: 1 — Raoden/Sarene's virtue is rewarded, but Hrathen's manipulative exploitation of faith for conquest shows real cynicism.
+* Structural Corruption: 2 — the kingdom's state-sanctioned abandonment of Elantrians is real institutional cruelty, plus Shu-Dereth's manipulative, conquest-oriented religious institution.
+* Redemption Difficulty: 2 — Hrathen's crisis of faith and turn away from his mission is genuine and difficult, arriving late and costing him his life.
+* Narrative Acceptance of Injustice: 1 — the Elantrians' suffering is ultimately resolved when the magic is restored, though it was severe and dominant for a decade beforehand.
+* Explicit Darkness: 3 — the body-horror premise itself (unhealing wounds, unrelenting pain and hunger, people slowly going mad from suffering) is one of Sanderson's darker premises, described in real detail.
+
+Weighted = 1.65 → Final Score = 5.2125 → **Tier 5**
+
+Lands exactly with Dragonlance and Harry Potter and the Goblet of Fire. Label check: "Gloomy
+Fantasy" fits — heavier than typical fantasy without reaching extreme/graphic-horror
+territory. Former-tier check: leaving Witch Hat Atelier/Prisoner of Azkaban/Avatar behind
+makes sense given the more sustained and visceral decade-long suffering here.
+
+## The Stormlight Archive
+
+* Structural Despair: 2 — Roshar has endured cyclical, civilization-devastating "Desolations" for thousands of years; a deeply embedded historical pattern, not a one-off threat.
+* Limited Heroism: 2 — the Knights Radiant achieve real victories, but the cyclical nature of Desolations means any win is likely temporary at the cosmic scale.
+* Moral Cynicism: 2 — the lighteyes/darkeyes caste system actively rewards birth over virtue; Kaladin's backstory is genuine, systemic punishment for doing the right thing.
+* Structural Corruption: 3 — the entire caste system of Alethkar (and Roshar broadly) is built on eye-color discrimination — foundational, not incidental.
+* Redemption Difficulty: 3 — Dalinar committed a real, horrific war crime (the Rathalas massacre, killing thousands including his own sister-in-law, while blackout drunk); he never fully escapes the guilt — one of the more sustained, costly redemption arcs in the genre.
+* Narrative Acceptance of Injustice: 2 — the caste system persists through most of the series, and cyclical Desolations suggest catastrophe recurring as a permanent historical feature.
+* Explicit Darkness: 3 — Kaladin's clinical depression and suicidal ideation are depicted with sustained, explicit detail, plus Dalinar's massacre shown in visceral flashback, slavery, war violence.
+
+Weighted = 2.4 → Final Score = 6.9 → **Tier 6**
+
+Two-tier jump, lands exactly with Dark Souls I–III. Neighbor check: the unflinching, sustained
+treatment of suicidal depression specifically (rare and heavy even by grimdark standards) plus
+an on-page mass-casualty war crime justifies the company. Label check: "Dark Fantasy" fits —
+genuinely heavy throughout while still retaining real hope and heroic structure.
+
+## The Silmarillion & Great Tales
+
+* Structural Despair: 2 — the "long defeat" shown in full across the ages, though the arc still leads toward LOTR's hopeful era.
+* Limited Heroism: 1 — Eärendil's heroic plea directly causes the Valar's decisive intervention that defeats Morgoth; heroism genuinely matters at the highest stakes, not futile.
+* Moral Cynicism: 2 — Fëanor's pride causes kinslaying, Túrin's curse leads him to kill his best friend and unknowingly marry his sister before both die by suicide; virtue isn't reliably rewarded.
+* Structural Corruption: 2 — Númenor's corrupted monarchy under Ar-Pharazôn, worshipping Melkor and oppressing the Faithful.
+* Redemption Difficulty: 2 — most who fall (Fëanor, Túrin, the Kinslayers) never redeem; they die in their sin or curse.
+* Narrative Acceptance of Injustice: 1 — Tolkien's own literary theory of "eucatastrophe": a deliberate structural turn toward unearned grace at the level of the overarching story (Eärendil's plea, Beren's return from death) that refuses to let doom be the final word, even though individual tragedies (Túrin, Fëanor) remain permanently unresolved for those characters specifically.
+* Explicit Darkness: 2 — real violence, kinslaying, and horror in the content, but Tolkien's mythic, chronicle-style prose doesn't render it with sustained graphic detail.
+
+Weighted = 1.7 → Final Score = 5.325 → **Tier 5**
+
+Went through significant revision before landing here — an initial pass scored 7.35 (tier 7,
+alongside Berserk), which didn't survive scrutiny given how differently this text presents its
+darkness (mythic/summarized) compared to Berserk (visceral/immersive). The final correction
+specifically targeted Limited Heroism and Narrative Acceptance of Injustice based on Tolkien's
+own theory of eucatastrophe, rather than uniformly softening every criterion — the raw
+severity of content (kinslaying, incest, suicide) stayed scored honestly.
+
+## Final Fantasy I, II & XII — split into three entries
+
+Bundling note: the original catalog grouped these three as one entry, but per-game estimates
+showed a 3-tier spread (I≈1, II≈3, XII≈4) — far larger than the Lodoss War case, where the
+adaptations told the same story at the same intensity. One number would have badly
+misrepresented at least two of the three, so these are scored and recorded separately.
+Catalog total is 89 works from this point forward, not 87.
+
+### Final Fantasy I
+
+* Structural Despair: 0 — a simple restore-the-Crystals plot, no lasting despair.
+* Limited Heroism: 0 — the Light Warriors fully defeat Chaos/Garland, a complete victory.
+* Moral Cynicism: 0 — classic good vs. evil.
+* Structural Corruption: 0 — no institutional critique.
+* Redemption Difficulty: 0 — no redemption arcs.
+* Narrative Acceptance of Injustice: 0 — nothing left unresolved.
+* Explicit Darkness: 1 — some combat/peril, but minimal and abstract given the game's era.
+
+Weighted = 0.1 → Final Score = 1.725 → **Tier 1**
+
+### Final Fantasy II
+
+* Structural Despair: 1 — the Palamecian Empire's conquest causes real, ongoing devastation across the story.
+* Limited Heroism: 1 — the rebellion succeeds, but at real cost (Josef's death, a prolonged war).
+* Moral Cynicism: 1 — Leon's fall to darkness after being manipulated/resurrected by the Emperor shows real vulnerability of good people to corruption.
+* Structural Corruption: 1 — the Empire's tyranny is real, but it's the invading force being fought, not a normal state of Firion's own society.
+* Redemption Difficulty: 2 — Leon's return from his corrupted state is genuinely difficult and costly.
+* Narrative Acceptance of Injustice: 0 — the war and Leon's corruption are both resolved by the story's end.
+* Explicit Darkness: 2 — real war violence, Josef's on-page death, Leon's dark transformation.
+
+Weighted = 1.1 → Final Score = 3.975 → **Tier 3**, matching LOTR/Frieren/Black Clover/Lodoss War.
+
+### Final Fantasy XII
+
+* Structural Despair: 1 — Archadia's imperial conquest causes real devastation (Dalmasca occupied, its king killed), though the story is about reversing this.
+* Limited Heroism: 1 — the resistance achieves real, lasting change (Dalmasca's restoration) by the end.
+* Moral Cynicism: 1 — political intrigue and imperial ambition show real cynicism about power.
+* Structural Corruption: 2 — Archadia's expansionist, exploitative conquest of smaller kingdoms is systemic, plus internal political corruption (Vayne's faction).
+* Redemption Difficulty: 1 — Basch is wrongfully accused rather than genuinely morally compromised, so this axis stays lower; his situation is really an injustice, not a personal failing needing repair.
+* Narrative Acceptance of Injustice: 2 — Basch's wrongful imprisonment for a regicide he didn't commit takes most of the game to even begin addressing (the same injustice shape as Sirius Black).
+* Explicit Darkness: 2 — real war violence, the nethicite weapons' catastrophic power (real-world WMD echoes), Reddas's sacrifice.
+
+Weighted = 1.4 → Final Score = 4.65 → **Tier 4**, matching Avatar/Grimgar/Earthsea.
+
+## Final Fantasy XIV (MMORPG, A Realm Reborn through Endwalker)
+
+* Structural Despair: 3 — the setting has suffered civilization-ending calamities repeatedly throughout its history (the Umbral Calamities), and Shadowbringers reveals entire parallel worlds already fully destroyed — a demonstrated, recurring pattern, not a one-off threat.
+* Limited Heroism: 1 — the Warrior of Light is unusually, consistently effective: stopping the Calamity's escalation, ending a millennium-long war, liberating occupied nations, saving multiple worlds. Heroism is not limited here.
+* Moral Cynicism: 1 — real betrayal and imperial propaganda exist, but virtue/heroism is ultimately, consistently effective.
+* Structural Corruption: 3 — the Garlean Empire is built on slavery and genocidal conquest, and the Dragonsong War's true origin was maintained as systemic deception for over a thousand years.
+* Redemption Difficulty: 2 — multiple real redemption arcs (Emet-Selch's genuine mourning for his dead civilization), though Nidhogg never redeems.
+* Narrative Acceptance of Injustice: 2 — many injustices get actively resolved, but the sheer historical scale of loss (destroyed parallel worlds, countless past civilizations) means much can never be undone.
+* Explicit Darkness: 3 — genocide depicted explicitly and repeatedly, slavery, and the "Final Days" concept — civilizations choosing mass suicide from hopelessness.
+
+Weighted = 2.1 → Final Score = 6.225 → **Tier 6**, matching The Witcher.
+
+Real structural outlier examined before accepting: every other tier-6 work scored so far has
+Limited Heroism at 2-3; FFXIV is the only one at 1. Tested whether that should pull the tier
+down — lowering Structural Despair to compensate didn't survive scrutiny (the construct is
+explicitly independent of character choices, and the world's own history shows repeated
+collapse regardless of any hero), while the other honest correction (raising Moral Cynicism
+for the millennium of systemic deception) pushed the score further into tier 6, not out of it.
+Conclusion: FFXIV reaches the same overall severity as its neighbors via a different
+combination of axes rather than matching them one-for-one — the multi-criteria system working
+as designed, not a flaw in the scoring.
