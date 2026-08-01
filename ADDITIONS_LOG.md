@@ -288,7 +288,11 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
   out of tier 6's adult-fantasy company (Witcher/FFXIV) while still registering as a real
   escalation from Goblet of Fire's tier-5 floor — Sirius's permanent death and the sustained
   blood-quill torture vs. one scene in GoF. User confirmed.
-- [ ] Harry Potter and the Half-Blood Prince
+- [x] Harry Potter and the Half-Blood Prince — v2: tier 5 (up from 4, score 5.8875, exact
+  parity with Order of the Phoenix). Considered bumping Limited Heroism to 3 given the book
+  ends in outright loss (Dumbledore's death) rather than victory, but that anchor is about
+  undercut wins, not losses — kept at 2, held the line at tier 5 rather than tier 6. User
+  accepted.
 - [ ] Harry Potter and the Deathly Hallows
 - [ ] Märchen Crown
 - [ ] Mistborn

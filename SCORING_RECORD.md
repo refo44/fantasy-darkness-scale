@@ -1026,3 +1026,21 @@ Applied the Goblet of Fire lesson proactively rather than after the fact — cap
 Corruption at 2 rather than 3, which would have put this at 6.225 in company with The Witcher
 and FFXIV, a real stretch for a YA book. This lands as a well-calibrated escalation from
 Goblet of Fire's tier-5 floor position rather than a leap into adult-fantasy territory.
+
+## Harry Potter and the Half-Blood Prince
+
+* Structural Despair: 2 — the wizarding world is now in open war; Death Eaters directly infiltrate and attack Hogwarts.
+* Limited Heroism: 2 — Harry makes real, necessary progress (learning about Horcruxes), even though the book ends on a devastating loss rather than a victory.
+* Moral Cynicism: 2 — Snape's apparent betrayal reads, at the time, as loyalty betrayed in the worst possible way; Draco's forced complicity shows the war corrupting even reluctant participants.
+* Structural Corruption: 1 — less institutional focus this book; the threat is the Death Eaters directly, not a captured Ministry.
+* Redemption Difficulty: 2 — Draco's arc is centrally about a terrified teenager forced into an impossible situation, ultimately unable to go through with it.
+* Narrative Acceptance of Injustice: 2 — Dumbledore's death is explicit and permanent, as is Bill's disfigurement.
+* Explicit Darkness: 3 — the cave scene, Dumbledore's death witnessed by Harry, Bill's werewolf mauling, the Horcrux concept itself.
+
+Weighted = 1.95 → Final Score = 5.8875 → **Tier 5**, exact parity with Order of the Phoenix.
+
+Considered bumping Limited Heroism to 3 for the book's outright loss (Dumbledore's death), but
+that anchor is specifically about victories being undercut when won, not straightforward
+losses — kept at 2. The parity with Order of the Phoenix feels right rather than arbitrary:
+fans genuinely debate which book is darker without consensus, and both are comparable
+escalations from Goblet of Fire via different content.
