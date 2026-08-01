@@ -566,3 +566,222 @@ at once, this book concentrates almost all of its weight into a single beautiful
 rather than sustained thematic darkness — so it stays under the tier-3 line even though "sad"
 is core to how people remember it. Comfortable calling this tier 2, but wanted to name the
 tension rather than pretend it's obvious.
+
+## Legend (1985 film)
+
+* Structural Despair: 0 — the threat of eternal darkness is averted completely; the world returns fully to light.
+* Limited Heroism: 0 — Jack's quest durably restores light to the world.
+* Moral Cynicism: 0 — classic good-vs-evil structure, good triumphs cleanly.
+* Structural Corruption: 0 — a cosmic light/dark battle, not an institutional one.
+* Redemption Difficulty: 1 — Lili's genuine seduction/corruption by the Lord of Darkness requires real rescue, but resolves within the story without extreme cost.
+* Narrative Acceptance of Injustice: 0
+* Explicit Darkness: 3 — Tim Curry's Lord of Darkness is a genuinely frightening, iconic design; real gothic-horror atmosphere; a unicorn is killed on-screen.
+
+Weighted = 0.45 → Final Score = 2.5125 → **Tier 2**
+
+The film's reputation for a genuinely scary villain is captured entirely through Explicit
+Darkness, without needing to inflate the structural/thematic axes — a clean good-vs-evil story
+with full restoration, just with unusually strong atmosphere.
+
+## The NeverEnding Story
+
+* Structural Despair: 2 — the Nothing actively consumes Fantasia through almost the entire story, not just an implied threat, balanced against a full (arguably renewed) restoration by the end.
+* Limited Heroism: 1 — Atreyu's quest plus Bastian's belief does save Fantasia durably, but only through real sacrifice along the way.
+* Moral Cynicism: 1 — Bastian's own arc involves him growing genuinely selfish/reckless with his wish-granting power, a personal form of corruption.
+* Structural Corruption: 0 — an existential/cosmic threat, not an institutional one.
+* Redemption Difficulty: 2 — Bastian doesn't just witness corruption, he becomes corrupted by his own power and has to claw his way back to himself; the source novel is considerably harsher here than the film (permanent, cumulative memory loss rather than an easy recovery).
+* Narrative Acceptance of Injustice: 0
+* Explicit Darkness: 3 — Artax's death in the Swamp of Sadness is often cited alongside Bambi's mother as one of the most traumatic scenes ever put in front of children; the Rockbiter's monologue; Gmork; the Nothing erasing memory and reality.
+
+Weighted = 1.2 → Final Score = 4.2 → **Tier 4**
+
+Biggest single jump in the backlog so far (two tiers, from the highest-scoring tier-2 work in
+v1). Sanity-checked against neighbors before accepting: lands as the lightest member of tier 4
+(below FMA: Brotherhood, Earthsea, Avatar), and only edges past its former tier-3 peers (LOTR,
+Frieren) because its darkness runs across three axes simultaneously — active world-destruction,
+a personal corruption arc, and genuine on-screen trauma — rather than spiking on one, the same
+structural reason Spirited Away and The Hobbit crossed into tier 3.
+
+## Willow (1988 film)
+
+* Structural Despair: 0 — Bavmorda's tyranny is fully overthrown; no lasting decline.
+* Limited Heroism: 0 — Willow and allies achieve a complete, lasting victory.
+* Moral Cynicism: 0 — classic good-triumphs structure.
+* Structural Corruption: 1 — Bavmorda is an explicit usurping tyrant, treated by the story as an anomaly to be corrected, not evidence that institutions normally function this way.
+* Redemption Difficulty: 1 — Sorsha's turn from Bavmorda's general to the good side; Madmartigan's arc from self-interested mercenary to hero.
+* Narrative Acceptance of Injustice: 0 — the infanticide campaign is fully stopped by the end.
+* Explicit Darkness: 3 — the premise itself (a queen ordering systematic killing of infants) is dark for a family film, plus Bavmorda's transformation-horror imagery.
+
+Weighted = 0.6 → Final Score = 2.85 → **Tier 2**
+
+Label check caught an error in the first pass: tier 3's label has two distinct sub-options
+("Balanced" vs. "Bittersweet, Melancholic Fantasy"), and the initial scoring was only tested
+against the second, which clearly didn't fit Willow's triumphant tone. But testing against
+"Balanced" specifically — does the darkness carry genuinely equal narrative weight to the
+heroism, or does the heroism dominate with darkness just raising stakes for a suitably scary
+villain — the honest answer is the heroism dominates. That reconsideration brought Structural
+Corruption down from 2 to 1, landing back at tier 2's "Fierce Hopepunk & Heroic Fantasy,"
+which fits both the numbers and the film's actual tone far better.
+
+## Black Clover
+
+* Structural Despair: 1 — the Clover Kingdom's magic-based caste system oppresses commoners, but the story's arc trends toward reform, not decline.
+* Limited Heroism: 1 — Asta's victories achieve real, durable change (major villains defeated, some social progress implied).
+* Moral Cynicism: 0 — classic shonen structure; hard work and friendship are consistently rewarded.
+* Structural Corruption: 2 — the nobility-based caste system genuinely oppresses commoners and those with weak magic; foundational to the setting, not incidental.
+* Redemption Difficulty: 1 — several antagonists (Eye of the Midnight Sun members) get sympathetic, genuine redemption arcs.
+* Narrative Acceptance of Injustice: 1 — the caste system's injustice is actively challenged and reformed through the story.
+* Explicit Darkness: 2 — real battles and some character deaths, standard shonen action intensity.
+
+Weighted = 1.1 → Final Score = 3.975 → **Tier 3**
+
+Lands exactly with LOTR and Frieren numerically. Flagged real tension before accepting:
+tonally Black Clover is much lighter (optimistic "hard work overcomes discrimination" shonen)
+than either tier-mate's actual gravitas (Frodo's world-weariness, mortality itself in Frieren).
+Kept at tier 3 on the strength of the caste-based discrimination being genuinely sustained and
+central rather than background texture — confirmed by direct review rather than assumed.
+
+## DanMachi
+
+* Structural Despair: 0 — Orario's society functions and Bell's journey trends upward throughout.
+* Limited Heroism: 0 — each story arc resolves cleanly through Bell's actions.
+* Moral Cynicism: 0 — hard work and kindness are consistently rewarded.
+* Structural Corruption: 2 — some Familias are genuinely predatory (Soma Familia's addiction-based exploitation, Ishtar Familia's forced prostitution/slavery of its members), though the Guild system and most Familias function legitimately.
+* Redemption Difficulty: 1 — exploited/complicit characters from those factions get real narrative attention toward freedom/recovery.
+* Narrative Acceptance of Injustice: 0 — the predatory Familias get dismantled within their arcs.
+* Explicit Darkness: 2 — constant monster combat as the core structure, plus the Ishtar/Soma arcs' genuinely disturbing themes, handled with anime-typical restraint.
+
+Weighted = 0.65 → Final Score = 2.9625 → **Tier 2**
+
+Down from tier 3 originally. Recognized the same shape as Willow before finalizing: a
+genuinely dark plot element exists to raise stakes for the protagonist's heroism, then gets
+dismantled, rather than creating sustained tonal darkness. Label check confirms tier 2's
+"Fierce Hopepunk & Heroic Fantasy" fits — real oppressive institution + active resistance to
+it — while tier 3's "Bittersweet/Melancholic" doesn't, since the overall register stays
+upbeat/comedic (harem elements, "leveling up" structure) throughout.
+
+## Dragonlance
+
+* Structural Despair: 2 — the world is under genuine, sustained threat of conquest by Takhisis's forces for much of the story, real ongoing devastation, not just an implied threat.
+* Limited Heroism: 1 — the Heroes of the Lance's victory durably ends the war, but only after massive, lasting damage along the way.
+* Moral Cynicism: 1 — Sturm's noble death and the war's outcome affirm virtue, but Raistlin's power-seeking paying off for a long stretch introduces real cynicism.
+* Structural Corruption: 2 — the Dragon Highlords' occupation of conquered territories is sustained and widespread institutional tyranny, not a single villain's personal scheme.
+* Redemption Difficulty: 2 — Raistlin's arc is centrally about the difficulty of pulling back from a power-hungry path, and within the core trilogy it's largely unsuccessful.
+* Narrative Acceptance of Injustice: 1 — real ongoing occupation/atrocity during the war, resolved by its end.
+* Explicit Darkness: 3 — sustained war violence, civilian suffering under occupation, Sturm's death, dragon warfare.
+
+Weighted = 1.65 → Final Score = 5.2125 → **Tier 5**
+
+Two-tier jump, same magnitude as The NeverEnding Story. Checked against neighbors before
+accepting: lands as the lightest of the tier-5 cluster (below Kingkiller Chronicle, Goblin
+Slayer, Skyrim), reasonable company for a genuine war epic with sustained occupation and
+named-character death. Label ("Gloomy Fantasy") fits. Leaving Black Clover/LOTR behind is
+defensible — Dragonlance has *sustained* warfare/occupation rather than a threat that gets
+stopped once, plus Raistlin's largely unresolved power-hungry arc, which neither former
+neighbor has an equivalent to.
+
+## Dungeon Meshi
+
+* Structural Despair: 1 — the "Mad Mage" backstory (an entire kingdom fell into ruin/undeath from his grief-driven obsession) is real historical decline, contained to the dungeon's past.
+* Limited Heroism: 1 — the party succeeds in saving Falin and resolving the dungeon crisis, but the resolution isn't fully clean — she returns fused with dragon/chimera elements, not simply restored.
+* Moral Cynicism: 0 — a gentle, thoughtful tone where kindness and cleverness are generally rewarded.
+* Structural Corruption: 1 — real elf/dwarf/human tension around lifespan and how long-lived races treat short-lived ones, not institutional exploitation.
+* Redemption Difficulty: 1 — the Mad Mage's fall from grief to horrific obsession is a cautionary tale the party has to reckon with and undo the legacy of.
+* Narrative Acceptance of Injustice: 0 — not centrally about injustice; more about mortality and relationships.
+* Explicit Darkness: 2 — real body horror (people being eaten, Falin's partial digestion and later fusion), genuine peril, tempered by the comedic food-focused framing.
+
+Weighted = 0.8 → Final Score = 3.3 → **Tier 3**
+
+Label check ("Balanced") fits particularly well: unlike Willow/DanMachi, where darkness
+existed purely to raise heroic stakes and then got resolved, Dungeon Meshi genuinely
+interweaves comedy and horror simultaneously — the "eating monsters" conceit is both funny and
+a little unsettling at the same time, not sequential. Neighbor check: sits comfortably between
+A Choir of Lies/Mushishi and The Hobbit/Spirited Away.
+
+## Howl's Moving Castle
+
+* Structural Despair: 1 — a real, ongoing war causes genuine devastation (bombing raids, destroyed towns) throughout most of the film, though it resolves by the end.
+* Limited Heroism: 1 — Sophie's actions resolve both the curse and the war, though the war's ending is somewhat sudden/magical rather than fully earned structurally.
+* Moral Cynicism: 0 — Sophie's kindness and courage are consistently what saves everyone.
+* Structural Corruption: 1 — the war implies real political corruption (kingdoms weaponizing wizards), mostly background rather than a central focus.
+* Redemption Difficulty: 2 — Howl's Faustian bargain (his heart given to Calcifer, slowly losing his humanity to monstrous transformations) requires real, costly resolution; the Witch of the Waste's redemption from villain to cared-for elder is also present.
+* Narrative Acceptance of Injustice: 0 — both the curse and the war are fully resolved.
+* Explicit Darkness: 2 — real war violence and destruction, Howl's genuinely unsettling monster-form transformations.
+
+Weighted = 0.95 → Final Score = 3.6375 → **Tier 3**
+
+Same score as The Hobbit and Spirited Away. Neighbor check: fits well with that pair —
+comparable Miyazaki-style thematic depth (war, transformation, costly redemption). Label
+check: "Bittersweet/Melancholic" is a genuine fit — centrally about war, aging, and the
+erosion of humanity, balanced against real love and hope.
+
+## The Boy and the Heron (2023 film)
+
+* Structural Despair: 2 — the granduncle's tower-world is explicitly failing/unstable and requires an heir to sustain it — real, structural decline, not just implied.
+* Limited Heroism: 2 — Mahito's ultimate choice isn't to "save" the tower's world in a traditional heroic sense; it dissolves/ends regardless of his decision.
+* Moral Cynicism: 0 — a gentle, thoughtful tone, not about cynical reward structures.
+* Structural Corruption: 1 — the parakeet kingdom is a satirical, authoritarian society, though framed with comedic exaggeration.
+* Redemption Difficulty: 1 — Mahito's self-harm and grief-processing represent real emotional work, more a growth/grief arc than a moral-failure redemption.
+* Narrative Acceptance of Injustice: 2 — his mother's death is never undone; the film's central thematic point is accepting that some loss can't be fixed.
+* Explicit Darkness: 3 — the intense WWII firebombing opening, Mahito's self-harm, the pelicans preying on unborn souls, surreal horror throughout.
+
+Weighted = 1.5 → Final Score = 4.875 → **Tier 4**
+
+Lands exactly with Fullmetal Alchemist: Brotherhood — very different register (surreal/
+melancholic vs. action/political) but comparable weight. Label check: "Fantasy in Gray Tones"
+fits well, resolving into neither heroic triumph nor pure melancholy. Leaving Howl's/Hobbit/
+Spirited Away behind makes sense — those have cleaner resolutions than a world that simply
+ends and a loss the story explicitly never undoes.
+
+## Final Fantasy IV
+
+* Structural Despair: 0 — the world is threatened but fully saved; clean ultimate resolution.
+* Limited Heroism: 0 — Cecil and party definitively defeat the true villain (Zemus) and save the world.
+* Moral Cynicism: 0 — a redemption-focused narrative where growth is consistently rewarded.
+* Structural Corruption: 1 — the Kingdom of Baron is corrupted by outside manipulation of its king into attacking innocents, corrected by the story's end.
+* Redemption Difficulty: 2 — Cecil's arc from Dark Knight (real atrocities committed) to Paladin requires a genuine trial at Mount Ordeals — real, costly redemption.
+* Narrative Acceptance of Injustice: 1 — the atrocities already committed (destroyed villages, Rydia's mother's death) are never undone, even though the broader threat is resolved.
+* Explicit Darkness: 3 — named-character deaths (Tellah's sacrifice, Palom/Porom's apparent death), villages burned, real war violence throughout.
+
+Weighted = 0.9 → Final Score = 3.525 → **Tier 3**
+
+Sits just above Dungeon Meshi, below Hobbit/Spirited Away/Howl's — reasonable placement given
+comparable redemption-arc weight. Label check: "Bittersweet/Melancholic" fits — Cecil's
+genuine redemption and the permanent losses along the way sit against an ultimately
+triumphant ending.
+
+## Final Fantasy IX
+
+* Structural Despair: 1 — the main existential threat (Necron) is resolved, but Black Mages' engineered short lifespans and Vivi's mortality remain a real, permanent condition after the plot concludes.
+* Limited Heroism: 1 — Zidane's party stops Necron and Kuja's plans durably, but heroism can't fix Vivi's fundamental mortality.
+* Moral Cynicism: 0 — classic JRPG structure; friendship and kindness are rewarded.
+* Structural Corruption: 2 — Queen Brahne's imperial regime commits real genocide-adjacent conquest, and Garland's mass-production/disposal of Black Mage soldiers and Genome vessels is systemic exploitation of created life.
+* Redemption Difficulty: 2 — Kuja (a villain literally created to be discarded) gets a partial, costly redemption — sacrifices himself at the end, largely unsuccessful in terms of surviving to enjoy it.
+* Narrative Acceptance of Injustice: 2 — the disposability of Black Mages is a real systemic injustice, and Vivi's short lifespan is never fixed — he dies of old age by the story's end, a permanent condition the narrative accepts rather than solves.
+* Explicit Darkness: 3 — real war violence, cities destroyed, Black Mages losing their will and shutting down on-screen, Vivi's death.
+
+Weighted = 1.5 → Final Score = 4.875 → **Tier 4**
+
+Lands exactly with FMA: Brotherhood and The Boy and the Heron. Neighbor check: comparable to
+FMA: Brotherhood's genocide-backstory/disposable-soldier tragedy, and to Boy and the Heron's
+genuinely unresolved loss. Label check: "Fantasy in Gray Tones" fits — real war/genocide
+themes and permanent loss, but ultimately resolves with hope over the immediate villain.
+Former-tier check: leaving FF IV/Dungeon Meshi behind makes sense given the more structurally
+embedded "disposable created life" theme.
+
+## Harry Potter and the Prisoner of Azkaban
+
+* Structural Despair: 1 — the wizarding justice system's failure (Sirius imprisoned 12 years without trial) is real, though only partially addressed within this book.
+* Limited Heroism: 1 — Harry/Hermione's time-travel saves Sirius and Buckbeak, but Sirius remains a fugitive, never officially cleared.
+* Moral Cynicism: 1 — most good intentions are rewarded, but the Ministry's rush to imprison without trial shows real institutional cynicism.
+* Structural Corruption: 2 — no trial for a supposed mass murderer, Dementors used as brutal prison guards — a real systemic failure, not an isolated incident.
+* Redemption Difficulty: 0 — Pettigrew's betrayal isn't redeemed; he remains a straightforward traitor.
+* Narrative Acceptance of Injustice: 2 — Sirius's wrongful imprisonment is never resolved within this book — he stays a fugitive, unable to clear his name.
+* Explicit Darkness: 3 — the Dementors are explicitly designed as psychological horror (Harry repeatedly relives his mother's death scream).
+
+Weighted = 1.35 → Final Score = 4.5375 → **Tier 4**
+
+Sits between NeverEnding Story and Avatar/Grimgar — doesn't have "world-ending" stakes but the
+psychological horror plus systemic justice failure is substantial company. Label check:
+"Fantasy in Gray Tones" fits — the point where the series first gets genuinely heavier (mental
+health via Dementors, systemic injustice via Sirius, prejudice via Lupin).

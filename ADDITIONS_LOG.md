@@ -83,9 +83,18 @@ re-examine the specific criteria that moved and decide, based on the actual cont
 work, whether the new tier makes sense — don't accept a tier change just because the formula
 produced it (A Song of Ice and Fire and The First Law both needed this correction: initial v2
 scores under-rated them relative to the original data, and the tier only came out right after
-re-checking criteria against the source material), (5) add the row to
-`Fantasy_Grimdark_Scale_v2_WIP.xlsx`, (6) note the v1→v2 comparison decision here, (7) check
-this item off.
+re-checking criteria against the source material), (4b) **whenever the tier changes, check the
+score against neighbors on both sides**: does it sit comfortably among the works already
+scored in its *new* tier (not a wild outlier), and does the comparison against its *former*
+tier's neighbors still make sense (is it defensible that this work is now darker/lighter than
+works it used to sit beside)? Both directions matter — checking only the new tier can miss
+that a work no longer belongs with its old neighbors either (see The NeverEnding Story for the
+full worked example), (4c) **check that the new tier's category name itself reads true** for
+the work — not just the numeric neighbors but the qualitative label (e.g. "Fantasy in Gray
+Tones" for The NeverEnding Story: not wholesome, not despairing, genuinely caught between real
+loss and ultimate faith — the name fits, not just the number), (5) add the row to
+`Fantasy_Grimdark_Scale_v2_WIP.xlsx`, (6) note the v1→v2 comparison decision (including the
+neighbor and label checks, when the tier changed) here, (7) check this item off.
 
 Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers is done — see
 `Fantasy_Grimdark_Scale_v2_WIP.xlsx`). Grouped below by original (v1) tier, catalog order.
@@ -131,20 +140,69 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
   poignancy concentrates almost entirely into one significant ending rather than sustained
   thematic darkness across criteria, unlike Spirited Away/The Hobbit — stays under the tier-3
   line despite its reputation for sadness.
-- [ ] Legend
-- [ ] The NeverEnding Story
-- [ ] Willow
+- [x] Legend — v2: tier 2 (unchanged, 2.5125). The genuinely scary villain (Tim Curry's Lord
+  of Darkness) gets captured entirely through Explicit Darkness (3) without needing to inflate
+  the structural/thematic axes — clean good-vs-evil story with full restoration, just strong
+  atmosphere.
+- [x] The NeverEnding Story — v2: tier 4 (up two tiers from 2, score 4.2). Biggest single jump
+  so far. Checked against neighbors: lands as the lightest member of tier 4 (below FMA:
+  Brotherhood, Earthsea, Avatar), and edges past its former tier-3 peers (LOTR, Frieren) only
+  because its darkness runs across three axes at once (active world-destruction, Bastian's
+  personal corruption arc, Artax's death) rather than spiking on one. Weighted toward the
+  novel's harsher, more permanent memory-loss ending over the film's softer one, since the
+  catalog entry covers both.
+- [x] Willow — v2: tier 2 (unchanged, 2.85). Label check caught an error: tier 3 has two
+  sub-options ("Balanced" vs. "Bittersweet/Melancholic"), and initial scoring wrongly tested
+  only against the second. Willow's darkness (infanticide premise, transformations) exists to
+  raise stakes for a dominant heroic tone, not to create genuine tonal balance — reconsidered
+  Structural Corruption from 2 down to 1 (Bavmorda is an anomaly the story corrects, not
+  evidence institutions normally work this way), which brought it back to tier 2 and "Fierce
+  Hopepunk & Heroic Fantasy," a much better fit.
 
-**Tier 3** (14 pending)
-- [ ] Black Clover
-- [ ] DanMachi
-- [ ] Dragonlance
-- [ ] Dungeon Meshi
-- [ ] Howl's Moving Castle
-- [ ] The Boy and the Heron
-- [ ] Final Fantasy IV
-- [ ] Final Fantasy IX
-- [ ] Harry Potter and the Prisoner of Azkaban
+**Tier 2 backlog complete (14/14).**
+
+**Tier 3** (13 pending)
+- [x] Black Clover — v2: tier 3 (unchanged, 3.975, exactly matching LOTR/Frieren). Flagged
+  real tension: numerically matches but tonally lighter than its tier-mates — kept at tier 3
+  on the strength of the caste-system oppression being genuinely sustained and central, not
+  background texture, similar to how Avatar's hopeful tone didn't reduce its genocide content.
+  User confirmed tier 3 is the right call.
+- [x] DanMachi — v2: tier 2 (down from 3, score 2.9625). Same shape as Willow: dark plot
+  elements (Ishtar/Soma Familias' exploitation) raise stakes for heroism then get dismantled,
+  rather than creating sustained tonal darkness. Label check confirms "Fierce Hopepunk &
+  Heroic Fantasy" (tier 2) fits better than "Bittersweet/Melancholic" (tier 3) — overall
+  register stays upbeat/comedic throughout.
+- [x] Dragonlance — v2: tier 5 (up two tiers from 3, score 5.2125). Checked against neighbors:
+  lands as the lightest of tier 5 (below Kingkiller Chronicle, Goblin Slayer, Skyrim) —
+  reasonable, it's a genuine war epic with sustained occupation and named-character death.
+  Label ("Gloomy Fantasy") fits. Leaving Black Clover/LOTR behind at tier 3 is defensible:
+  Dragonlance has *sustained* warfare/occupation, not a threat that gets stopped once, plus
+  Raistlin's largely unresolved power-hungry arc. User confirmed.
+- [x] Dungeon Meshi — v2: tier 3 (unchanged, 3.3). Label "Balanced" fits well — comedy and
+  horror are genuinely interwoven simultaneously (eating monsters is funny and unsettling at
+  once), unlike Willow/DanMachi where darkness only existed to raise heroic stakes. Sits
+  comfortably between Choir of Lies/Mushishi and The Hobbit/Spirited Away.
+- [x] Howl's Moving Castle — v2: tier 3 (unchanged, 3.6375, matching The Hobbit/Spirited
+  Away). Label "Bittersweet/Melancholic" fits genuinely — centrally about war, aging, and
+  erosion of humanity balanced against real love and hope.
+- [x] The Boy and the Heron — v2: tier 4 (up from 3, score 4.875, exactly matching FMA:
+  Brotherhood). Label "Fantasy in Gray Tones" fits — resolves into neither heroic triumph nor
+  pure melancholy (unresolved grief, a world that dissolves rather than gets saved, but real
+  warmth too). Leaving Howl's/Hobbit/Spirited Away behind makes sense — those have cleaner
+  resolutions than a world that simply ends and a loss explicitly never undone.
+- [x] Final Fantasy IV — v2: tier 3 (unchanged, 3.525). Cecil's costly Dark-Knight-to-Paladin
+  redemption plus permanent losses (Rydia's mother, destroyed villages) fit "Bittersweet." Sits
+  just above Dungeon Meshi, below Hobbit/Spirited Away/Howl's — reasonable placement.
+- [x] Final Fantasy IX — v2: tier 4 (up from 3, score 4.875, matching FMA: Brotherhood and
+  The Boy and the Heron). Black Mages' disposable engineered lifespans and Vivi's unresolved
+  mortality (he dies of old age by the end, never fixed) fit "Fantasy in Gray Tones." Leaving
+  FF IV/Dungeon Meshi behind makes sense — the "disposable created life" theme is more
+  structurally embedded than FF IV's contained corrupted-king narrative.
+- [x] Harry Potter and the Prisoner of Azkaban — v2: tier 4 (up from 3, score 4.5375). The
+  Dementors' explicit psychological-horror design (Harry repeatedly reliving his mother's
+  death) plus the unresolved systemic justice failure (Sirius never cleared within this book)
+  fit "Fantasy in Gray Tones" — the point where the series first gets genuinely heavier. User
+  confirmed.
 - [ ] Harry Potter and the Goblet of Fire
 - [ ] Earthsea
 - [ ] Witch Hat Atelier
