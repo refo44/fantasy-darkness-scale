@@ -10,6 +10,38 @@ appended at the end — the xlsx row order stays chronological/append-only, but 
 order is sorted by score within each tier), (6) commit, push, deploy, verify live, (7) update
 this log, (8) stop and ask before continuing.
 
+## Methodology v2 (in progress)
+
+The original (v1) scoring used centered rounding (`ROUND`) on a 0.05-increment continuous
+scale per criterion. This caused two problems: (1) a work's displayed score often didn't
+share its own tier's leading digit (e.g. a tier-2 work scoring 1.71 — 79 of 87 works had this
+mismatch), and (2) 0.05 increments implied more precision than a human judgment can reliably
+reproduce (verified: 92% of all criterion ratings were non-integer, most in a 0.05 grid — a
+level of precision no rater, including the original one, could consistently repeat).
+
+v2 changes:
+
+- `Final Score = 1.5 + Weighted Internal Score × 2.25`, `Tier = FLOOR(Final Score)` — an
+  interval scale instead of centered rounding, so the tier always matches the score's leading
+  digit. Verified against all 87 v1 works: zero tier reassignments, since
+  `FLOOR(x + 0.5) = ROUND(x)` is a mathematical identity — this is a display-layer fix, not a
+  re-scoring.
+- Each criterion is now scored as an integer 0-4 (5-point scale, one verbal anchor per level,
+  see the v2 Methodology sheet) instead of 0.05 increments. Chosen over a 0-9 half-point scale
+  because 7 criteria already compose into a fine-grained total even with coarse individual
+  items, and 5 distinct verbal anchors per criterion are far more tractable to write and apply
+  consistently than 10.
+- Weights and the 7 criteria themselves are unchanged from v1.
+- Cozy Fantasy / Hopepunk tags remain excluded from the formula for the same reason as v1 (see
+  below) — confirmed still correct in testing (Avatar: The Last Airbender, tagged Hopepunk,
+  moved up under v2 based on its actual war/genocide content, not down).
+
+Status: in progress in `Fantasy_Grimdark_Scale_v2_WIP.xlsx`, rescored iteratively, one batch
+at a time — 33 of 87 works done so far. The v1 file is preserved as
+`Fantasy_Grimdark_Scale_Fully_Scored_DEPRECATED.xlsx` for comparison until v2 is complete and
+promoted to replace the live site's data (`index.html` / `es/index.html` still reflect v1 and
+haven't been touched yet).
+
 ## Cozy Fantasy / Hopepunk tagging criteria
 
 Also documented in the xlsx Methodology sheet (rows 26-32). These columns are **descriptive
@@ -29,6 +61,127 @@ Last Airbender is tagged Hopepunk but depicts real war and genocide).
   - *Bittersweet* — real existential adversity (mortality, loss, time — not politically
     "resistable") + connection deliberately chosen anyway, knowing it costs grief later
     (Frieren).
+
+## Criteria: theoretical constructs and polarities
+
+Full writeup moved to `CRITERIA_THEORY.md` — what each criterion is a construct of, why six of
+the seven correlate tightly (r > 0.96) while Explicit Darkness doesn't, and the low/high
+polarity word for each (e.g. Structural Despair: Progress ↔ Decay). Also present as columns
+H-J in the v2 Methodology sheet. Useful for resolving borderline calls during rescoring — when
+a work's darkness doesn't fit neatly into the 0-4 anchors, asking "which pole is this closer
+to" is often clearer than re-reading the literal anchor text.
+
+## v2 Rescoring Backlog (54 of 87 pending)
+
+Takes priority over the "add new works" queue below — these are existing catalog entries
+still on the v1 methodology.
+
+Process for each item: (1) score the 7 criteria on the v2 integer 0-4 scale using the anchors
+in the v2 Methodology sheet, (2) compute Weighted Internal Score, Final Score, and resulting
+tier, (3) **compare the new tier against the work's original v1 tier**, (4) if it differs,
+re-examine the specific criteria that moved and decide, based on the actual content of the
+work, whether the new tier makes sense — don't accept a tier change just because the formula
+produced it (A Song of Ice and Fire and The First Law both needed this correction: initial v2
+scores under-rated them relative to the original data, and the tier only came out right after
+re-checking criteria against the source material), (5) add the row to
+`Fantasy_Grimdark_Scale_v2_WIP.xlsx`, (6) note the v1→v2 comparison decision here, (7) check
+this item off.
+
+Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers is done — see
+`Fantasy_Grimdark_Scale_v2_WIP.xlsx`). Grouped below by original (v1) tier, catalog order.
+
+**Tier 2** (12 pending)
+- [x] A Choir of Lies — v2: tier 3 (up from 2). Redemption Difficulty scored higher than the
+  prequel (A Conspiracy of Truths, stays tier 2) since the protagonist here causes real
+  financial ruin to real people and has to reckon with genuine guilt over it — makes sense as
+  "bittersweet/melancholic" rather than "heroic fantasy."
+- [x] The Chronicles of Narnia — v2: tier 2 (unchanged, 2.9625, just under the tier-3 line).
+  Redemption Difficulty was the swing criterion (Aslan's sacrifice for Edmund could read as a
+  2 or a 1) — settled on 1, since Edmund himself doesn't do the work of redemption, someone
+  else pays the cost for him.
+- [x] Dungeons & Dragons: Honor Among Thieves — v2: tier 2 (unchanged, 2.4). Clean case, no
+  borderline calls — meaningfully lighter than Narnia (comedic tone, no on-screen sacrifice)
+  even though both tied in the v1 scoring.
+- [x] Harry Potter and the Chamber of Secrets — v2: tier 2 (unchanged, 2.625). Higher within
+  the tier than Philosopher's Stone (2.062), matching the series' progressive darkening, but
+  not enough to cross into tier 3.
+- [ ] The Hobbit
+- [x] The Hobbit — v2: tier 3 (up from 2, score 3.6375). Same profile shape as LOTR (already
+  tier 3) minus one point of Structural Despair — Smaug's threat is contained, not
+  world-scale like Sauron's. Thorin's deathbed reconciliation and the melancholic closing note
+  about gold push it past "Heroic Fantasy."
+- [x] Castle in the Sky — v2: tier 2 (unchanged, 2.2875). Resolves decisively with no lingering
+  melancholy, unlike The Hobbit/LOTR — stays in "Heroic Fantasy" territory.
+- [x] Spirited Away — v2: tier 3 (up from 2, score 3.6375). Personal liberation within a
+  system (Yubaba's bathhouse) that keeps running unchanged is bittersweet, not a clean heroic
+  win — matches The Hobbit's neighborhood rather than Castle in the Sky's.
+- [x] Final Fantasy III & V — v2: tier 2 (unchanged, 2.175). First pass wrongly landed tier 1
+  (Explicit Darkness scored 2) — corrected to 3 after review: Galuf's on-page death plus
+  near-constant combat matches level 3's "muerte explícita, con frecuencia" better than
+  level 2's "sin detalle grafico extremo." Not a gap in the criteria, just under-scored on the
+  one axis that actually carries this game's content — same pattern as ASOIAF/First Law.
+- [x] Slayers — v2: tier 2 (unchanged, 2.175). Applied the FF III & V lesson proactively:
+  comedic tone almost masked genuinely apocalyptic-scale content (city-leveling magic,
+  recurring near-world-ending threat) — Explicit Darkness scored 3, not a lower number, based
+  on content/frequency rather than overall tone.
+- [x] The Legend of Zelda — v2: tier 2 (unchanged, 2.9625, same score as Narnia — right at the
+  edge). Real weight from fallen-kingdom imagery (Breath of the Wild) and the eternal
+  reincarnation cycle, but stays heroic-adventure rather than crossing into bittersweet.
+- [x] The Little Prince — v2: tier 2 (unchanged, 2.625). Genuine judgment call: the book's
+  poignancy concentrates almost entirely into one significant ending rather than sustained
+  thematic darkness across criteria, unlike Spirited Away/The Hobbit — stays under the tier-3
+  line despite its reputation for sadness.
+- [ ] Legend
+- [ ] The NeverEnding Story
+- [ ] Willow
+
+**Tier 3** (14 pending)
+- [ ] Black Clover
+- [ ] DanMachi
+- [ ] Dragonlance
+- [ ] Dungeon Meshi
+- [ ] Howl's Moving Castle
+- [ ] The Boy and the Heron
+- [ ] Final Fantasy IV
+- [ ] Final Fantasy IX
+- [ ] Harry Potter and the Prisoner of Azkaban
+- [ ] Harry Potter and the Goblet of Fire
+- [ ] Earthsea
+- [ ] Witch Hat Atelier
+- [ ] Adventure Time
+- [ ] Record of Lodoss War
+
+**Tier 4** (20 pending)
+- [ ] Cormyr
+- [ ] Elantris
+- [ ] The Stormlight Archive
+- [ ] The Silmarillion & Great Tales
+- [ ] Final Fantasy I, II & XII
+- [ ] Final Fantasy XIV
+- [ ] Harry Potter and the Order of the Phoenix
+- [ ] Harry Potter and the Half-Blood Prince
+- [ ] Harry Potter and the Deathly Hallows
+- [ ] Märchen Crown
+- [ ] Mistborn
+- [ ] Nausicaä of the Valley of the Wind
+- [ ] Neverwinter Nights & Baldur's Gate I–III
+- [ ] Ranking of Kings
+- [ ] The Dark Elf / Drizzt
+- [ ] The Legend of Korra
+- [ ] The Wheel of Time
+- [ ] Princess Mononoke
+- [ ] Star vs. the Forces of Evil
+- [ ] The Legend of Vox Machina
+
+**Tier 5** (4 pending)
+- [ ] Final Fantasy VI
+- [ ] Final Fantasy VII
+- [ ] Final Fantasy X
+- [ ] Final Fantasy XV
+
+**Tier 6** (2 pending)
+- [ ] Clevatess
+- [ ] Re:Zero − Starting Life in Another World
 
 ## Queue
 
