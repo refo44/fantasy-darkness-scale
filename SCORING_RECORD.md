@@ -1044,3 +1044,132 @@ that anchor is specifically about victories being undercut when won, not straigh
 losses — kept at 2. The parity with Order of the Phoenix feels right rather than arbitrary:
 fans genuinely debate which book is darker without consensus, and both are comparable
 escalations from Goblet of Fire via different content.
+
+## Harry Potter and the Deathly Hallows
+
+* Structural Despair: 2 — Voldemort's regime controls the Ministry and persecutes Muggle-borns for most of the book, but it's ultimately a temporary (if total) war-time seizure.
+* Limited Heroism: 1 — one of the cleanest full victories in the series: Harry's sacrifice and the final battle permanently defeat Voldemort, real and complete, though costly.
+* Moral Cynicism: 2 — Muggle-borns are persecuted purely for birth status, real systemic cynicism, though ultimately love/sacrifice saves everyone.
+* Structural Corruption: 3 — categorically different from Umbridge's situation: this is a complete regime change, a totalitarian government actively committing genocide-adjacent persecution against an entire class of people, not one petty tyrant's year.
+* Redemption Difficulty: 3 — Snape's true loyalty is fully revealed: a decades-long, secret redemption arc, culminating in his death without ever receiving vindication in his lifetime.
+* Narrative Acceptance of Injustice: 2 — numerous permanent deaths (Fred, Lupin, Tonks, Colin Creevey, Snape, Dobby) are never undone, even though the regime itself is overthrown.
+* Explicit Darkness: 3 — Hermione's torture, the Battle of Hogwarts' numerous on-page deaths, genuine wartime atrocity.
+
+Weighted = 2.25 → Final Score = 6.5625 → **Tier 6**, matching FMA (2003)/Claymore/Tanya/FFXVI.
+
+The one Harry Potter book that genuinely earns tier 6 rather than being capped at 5 like Order
+of the Phoenix/Half-Blood Prince — the persecution here is total-regime-scale genocide-adjacent
+content, not one antagonist's cruelty, matching its reputation as the darkest book in the
+series.
+
+## Mistborn (original trilogy)
+
+* Structural Despair: 3 — the world is literally dying: constant ash fall, no living vegetation, worsening for a thousand years under the Lord Ruler's corrupted "solution" to the original threat.
+* Limited Heroism: 1 — the crew ultimately overthrows the Lord Ruler and defeats Ruin, genuine complete victories, though at massive cost.
+* Moral Cynicism: 2 — the nobility's casual cruelty toward Skaa is socially sanctioned and consequence-free.
+* Structural Corruption: 3 — the Final Empire is built on Skaa slavery, foundational to the society, sustained for a millennium.
+* Redemption Difficulty: 2 — Vin's trauma from an abusive upbringing, Sazed's crisis of faith at the critical moment.
+* Narrative Acceptance of Injustice: 2 — the oppression is eventually overturned, but countless generations suffered and died under it first.
+* Explicit Darkness: 3 — Kelsier's torture and enslavement, Hemalurgy's murder-based magic system, the implied systemic sexual violence of "the Lord Ruler's game."
+
+Weighted = 2.25 → Final Score = 6.5625 → **Tier 6**, matching Deathly Hallows/FMA 2003/
+Claymore/Tanya/FFXVI.
+
+Comparable severity to those works — millennium-long systemic slavery and murder-magic vs.
+their genocide-adjacent or slavery-based content.
+
+## Nausicaä of the Valley of the Wind (1984 film)
+
+* Structural Despair: 2 — the world was already catastrophically destroyed 1000 years ago, and the toxic jungle continues slowly consuming habitable land, though Nausicaä's insight suggests genuine hope if humans stop fighting it.
+* Limited Heroism: 1 — Nausicaä's actions achieve real, durable, hopeful change.
+* Moral Cynicism: 1 — her compassion and wisdom are ultimately vindicated and rewarded, though Kushana's ruthless militarism shows real cynicism.
+* Structural Corruption: 1 — Tolmekia's reckless revival of an apocalyptic bio-weapon is real institutional recklessness, more one empire's bad choice than systemic across the world.
+* Redemption Difficulty: 0 — not a central redemption arc.
+* Narrative Acceptance of Injustice: 1 — the original apocalypse is permanent, but the resolution offers real hope for the future.
+* Explicit Darkness: 2 — real war violence, her father's on-page death, the terrifying Ohmu stampede.
+
+Weighted = 1.1 → Final Score = 3.975 → **Tier 3**, matching LOTR/Frieren/Black Clover/Lodoss
+War/FF II.
+
+A dead world and real war balanced against genuine hope, with Nausicaä's quasi-resurrection
+landing as an uplifting grace-note rather than despair.
+
+## Neverwinter Nights & Baldur's Gate I–III — split into four entries
+
+Bundling note: rough per-game estimates showed a real 2-tier spread (NWN/BG1 ≈ tier 3, BG2 ≈
+tier 4, BG3 ≈ tier 5), smaller than the FF I/II/XII case but still genuine, especially between
+the older games and BG3. Catalog total is 92 works from this point forward.
+
+### Neverwinter Nights
+
+* Structural Despair: 1 — the Wailing Death plague and political corruption are real but resolved.
+* Limited Heroism: 0 — the player definitively stops the plague and the villain.
+* Moral Cynicism: 1 — Aribeth's fall shows how grief/loss can corrupt even the virtuous.
+* Structural Corruption: 1 — a cult/conspiracy within Neverwinter's institutions, not deeply systemic.
+* Redemption Difficulty: 1 — Aribeth's fall and potential redemption is a real, costly arc.
+* Narrative Acceptance of Injustice: 0 — the plague and conspiracy are fully resolved.
+* Explicit Darkness: 1 — moderate combat/peril, standard CRPG intensity.
+
+Weighted = 0.7 → Final Score = 3.075 → **Tier 3**
+
+### Baldur's Gate I
+
+* Structural Despair: 1 — Sarevok's iron-crisis conspiracy causes real regional instability.
+* Limited Heroism: 1 — Sarevok is stopped, but the deeper Bhaalspawn heritage threat remains ongoing.
+* Moral Cynicism: 1 — Sarevok's ruthless power-seeking, real betrayal (Gorion's death early on).
+* Structural Corruption: 1 — political manipulation of the Iron Throne trade organization.
+* Redemption Difficulty: 1 — the protagonist's own struggle against their murderous heritage is real and ongoing.
+* Narrative Acceptance of Injustice: 0 — Sarevok's plot is stopped by the end.
+* Explicit Darkness: 1 — real violence and Gorion's on-page death, but standard CRPG intensity.
+
+Weighted = 0.85 → Final Score = 3.4125 → **Tier 3**
+
+### Baldur's Gate II: Shadows of Amn
+
+* Structural Despair: 1 — the Bhaalspawn crisis looms large but the immediate plot resolves.
+* Limited Heroism: 1 — real victory against Irenicus, though the divine heritage struggle continues.
+* Moral Cynicism: 1 — real cynical exploitation (slavers, Bodhi's cruelty), though heroism generally succeeds.
+* Structural Corruption: 2 — Underdark slaver operations and factional power struggles (Shadow Thieves, vampires, mind flayers) represent real, systemic exploitation.
+* Redemption Difficulty: 1 — the protagonist's struggle against their divine murderous heritage intensifies significantly.
+* Narrative Acceptance of Injustice: 1 — slavery/exploitation in the Underdark persists as an ongoing regional condition even after the main plot resolves.
+* Explicit Darkness: 2 — Irenicus's monstrous experiments (implied torture, soul-magic horror), vampire cruelty, slaver brutality.
+
+Weighted = 1.25 → Final Score = 4.3125 → **Tier 4**
+
+### Baldur's Gate III
+
+* Structural Despair: 1 — the Absolute's cult and illithid invasion are real, active threats, but the story is fundamentally about stopping/reversing this.
+* Limited Heroism: 1 — the player's actions definitively stop the Netherbrain/Absolute threat by the end.
+* Moral Cynicism: 2 — genuinely morally complex choices throughout, real cynical manipulation from the Absolute cult and various companions' dark pasts.
+* Structural Corruption: 2 — the Absolute's cult infrastructure, slavery themes (Underdark/Gith), various city-state corruptions.
+* Redemption Difficulty: 2 — multiple companions have genuinely difficult redemption arcs (Astarion's vampire-spawn abuse history, Gale's self-destructive magical addiction, Wyll's demonic pact).
+* Narrative Acceptance of Injustice: 1 — most major threats are resolved, though companions' traumas often leave permanent scars.
+* Explicit Darkness: 3 — genuine body horror (illithid tadpole transformation), extensive graphic violence and mature content, significantly more explicit than its predecessors.
+
+Weighted = 1.65 → Final Score = 5.2125 → **Tier 5**
+
+## Ranking of Kings
+
+Note: this entry went through four scoring passes. The first two contained real plot errors
+(fabricating Hiling as a villain who poisons Bojji, when she's actually an innocent, wrongly
+scapegoated victim who survives; missing that Bosse stole his own unborn son's strength via a
+demonic pact, that Bojji's birth mother Sheena dies permanently shielding him in a coup, and
+the full scope of Miranjo's demon-pact-fueled plot). The third pass over-scored Redemption
+Difficulty at 2 based on a misreading of the fan debate; corrected on the fourth pass once it
+became clear the actual controversy is a *lack* of consequences for perpetrators, not a
+costly redemption. Recorded below is the final, corrected scoring only.
+
+* Structural Despair: 2 — Bosse stole his own unborn son's strength via a demonic pact before Bojji was even born, Sheena was assassinated in a coup, and Miranjo unleashed underworld criminals to destroy the kingdom from within — a deep, sustained pattern of harm across generations.
+* Limited Heroism: 1 — the story still resolves toward real growth and reconciliation.
+* Moral Cynicism: 2 — a father magically stealing his own unborn child's body/strength for personal power, and a mother dying to protect her infant from arrows, are about as stark a contrast between virtue and reward as exists.
+* Structural Corruption: 2 — corrupt knights, demonic bargains available to those in power, criminals released into the kingdom — genuinely systemic.
+* Redemption Difficulty: 1 — the show's central controversy, per fan/reviewer discussion, is that perpetrators like Miranjo receive "complete forgiveness instead of punishment" with a "total lack of narrative consequences" — a low-cost, accessible redemption is precisely what people find objectionable, not a hard-won one.
+* Narrative Acceptance of Injustice: 2 — Sheena, Bojji's actual birth mother, dies permanently protecting him and is never brought back, even though other threatened injustices (Hiling's execution) are averted — a separate axis from whether perpetrators face consequences.
+* Explicit Darkness: 3 — demonic soul-pacts, a mother's on-page death, a soul bound to a mirror after bodily destruction; confirmed as "moderate gore" (decapitations, severe beatings) by outside sourcing, alongside real warmth (Bojji/Kage's bond) — not extreme/central, but frequent and genuine.
+
+Weighted = 1.8 → Final Score = 5.55 → **Tier 5**, between Baldur's Gate III and The Kingkiller
+Chronicle.
+
+Bojji himself remains consistently, uncompromisingly kind and specifically fights without
+killing his opponents — none of the above criteria were ever about doubting his own virtue;
+they track what happens to him and around him, not his own conduct.

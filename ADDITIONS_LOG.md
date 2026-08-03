@@ -293,12 +293,53 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
   ends in outright loss (Dumbledore's death) rather than victory, but that anchor is about
   undercut wins, not losses — kept at 2, held the line at tier 5 rather than tier 6. User
   accepted.
-- [ ] Harry Potter and the Deathly Hallows
-- [ ] Märchen Crown
-- [ ] Mistborn
-- [ ] Nausicaä of the Valley of the Wind
-- [ ] Neverwinter Nights & Baldur's Gate I–III
-- [ ] Ranking of Kings
+- [x] Harry Potter and the Deathly Hallows — v2: tier 6 (up two tiers from 4, score 6.5625,
+  matching FMA 2003/Claymore/Tanya/FFXVI). The one HP book that genuinely earns tier 6 rather
+  than being capped at 5 like OotP/HBP — Voldemort's full Ministry takeover is a categorically
+  different situation from Umbridge (complete regime change committing genocide-adjacent
+  persecution vs. one petty tyrant), justifying Structural Corruption at 3 where OotP was
+  capped at 2.
+- [ ] Märchen Crown — **skipped for now**, not done. Flagged low confidence: considerably less
+  mainstream than everything else in the backlog, and knowledge of specific plot details isn't
+  solid enough to score honestly without risking a confident-sounding but shaky breakdown.
+  Needs either the user's direct input or a return pass later.
+- [x] Mistborn — v2: tier 6 (up two tiers from 4, score 6.5625, matching Deathly Hallows/FMA
+  2003/Claymore/Tanya/FFXVI). The Final Empire's millennium-long, foundational Skaa slavery
+  plus Hemalurgy's murder-based magic system justify the company.
+- [x] Nausicaä of the Valley of the Wind — v2: tier 3 (down from 4, score 3.975, matching
+  LOTR/Frieren/Black Clover/Lodoss War/FF II). A dead world and real war balanced against
+  genuine hope — Nausicaä's quasi-resurrection lands as an uplifting grace-note, not despair.
+- [x] Neverwinter Nights & Baldur's Gate I–III — **split into 4 separate entries**. Rough
+  per-game estimates showed a real 2-tier spread (NWN/BG1≈tier 3, BG2≈tier 4, BG3≈tier 5) —
+  smaller than the FF I/II/XII case but still genuine, especially between the older games and
+  BG3 specifically. Catalog total is now 92 works.
+  - [x] Neverwinter Nights — v2: tier 3 (score 3.075). Aribeth's fall to evil after her
+    lover's death, a moderate political conspiracy, fully resolved by the end.
+  - [x] Baldur's Gate I — v2: tier 3 (score 3.4125). Inherited-evil themes (the protagonist's
+    Bhaalspawn heritage), Sarevok's betrayal and iron-crisis conspiracy, Gorion's death.
+  - [x] Baldur's Gate II: Shadows of Amn — v2: tier 4 (score 4.3125). Irenicus's monstrous
+    experiments, Underdark slaver operations, Bodhi's vampiric cruelty, the protagonist's
+    divine murderous heritage intensifying.
+  - [x] Baldur's Gate III — v2: tier 5 (score 5.2125). The clear outlier — illithid body
+    horror, extensive mature content, multiple companions with genuinely difficult trauma/
+    redemption arcs (Astarion's abuse history, Gale's self-destructive addiction), notably
+    more explicit than its predecessors.
+- [x] Ranking of Kings — v2: **tier 5** (up from 4, score 5.55, matching the gap between
+  Baldur's Gate III and Kingkiller Chronicle). Went through four passes — the first two
+  contained real plot errors the user caught and corrected (fabricated Hiling poisoning Bojji
+  when she's actually an innocent, protective mother who learned sign language for him and
+  survives; missed that Bosse stole his own unborn son's strength via demonic pact, that
+  Bojji's birth mother Sheena dies permanently shielding him in a coup, and the full scope of
+  Miranjo's demon-pact-fueled plot). The third pass over-scored Redemption Difficulty at 2,
+  reasoning fans debated whether Miranjo's redemption was "earned" — corrected on the fourth
+  pass: the actual controversy is the opposite, fans are unhappy about the "total lack of
+  narrative consequences for perpetrators" (complete forgiveness without proportionate cost),
+  which is a *low*-difficulty redemption, not a high one — brought down to 1. Final scoring:
+  Structural Despair 2, Limited Heroism 1, Moral Cynicism 2, Structural Corruption 2,
+  Redemption Difficulty 1, Narrative Acceptance of Injustice 2 (Sheena's death stays
+  permanent, a separate axis from perpetrator-consequences), Explicit Darkness 3. Worth
+  remembering for future low-confidence titles: ask for a plot check before scoring, not
+  after — this one needed four rounds to get right.
 - [ ] The Dark Elf / Drizzt
 - [ ] The Legend of Korra
 - [ ] The Wheel of Time
@@ -344,6 +385,10 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
 24. [ ] Once Upon a Time (TV series)
 25. [ ] The Shannara Chronicles — based on Terry Brooks' novels — TV series
 26. [ ] Dirk Gently's Holistic Detective Agency — Douglas Adams — Novels, TV series
+27. [ ] Dark Sun — TSR / Wizards of the Coast — Tabletop (D&D campaign setting) — post-apocalyptic desert world Athas, magic that kills plant life to power spells, widespread slavery, tyrannical sorcerer-kings draining their own kingdoms' life force; deliberately created as a grim subversion of standard D&D high fantasy
+28. [ ] Alice in Wonderland — Lewis Carroll — Novel — whimsical, surreal children's fantasy with unsettling undertones (the Queen of Hearts' "off with their heads," nonsensical/threatening logic, identity/growing-up themes), but generally light in overall register
+29. [ ] The Wizard of Oz — L. Frank Baum (novel), 1939 film — classic adventure, real peril (the Wicked Witch, flying monkeys) but a fundamentally heartwarming, hopeful children's classic
+30. [ ] Wicked — Gregory Maguire (novel), stage musical — revisionist Oz told from Elphaba's perspective; real political oppression (the Wizard's totalitarian regime, persecution of sentient Animals as a genocide/civil-rights allegory), Elphaba's tragic arc as a misunderstood activist villainized by history — notably darker and more morally complex than the original Oz material
 27. [ ] The Sandman — Neil Gaiman — Comics, TV series
 28. [ ] Supernatural (TV series)
 29. [ ] Charmed (1998 TV series)
