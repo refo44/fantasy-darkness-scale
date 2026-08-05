@@ -489,9 +489,31 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
 **v2 Rescoring Backlog: 100% complete** — all 92 of 92 catalog works are now scored under v2 (see
 `Fantasy_Grimdark_Scale_v2_WIP.xlsx`). Märchen Crown, the last holdout (previously skipped for low
 confidence), was resolved via a dedicated multi-language research pass — see its entry above.
-Next step: promote the v2 WIP file to replace the live site's data (`index.html` / `es/index.html`
-still reflect v1 and haven't been touched during this entire backlog pass) — a separate, larger
-undertaking not started here.
+
+## v2 promoted to the live site
+
+`index.html` and `es/index.html` now display v2 tiers/scores for all 92 works, replacing the v1
+data that had been live throughout this entire backlog pass. Mechanics of the promotion:
+
+- Matched each of the 87 existing HTML list items to its v2 row by title, preserving all existing
+  EN/ES title, medium, and creator text unchanged — only the tier placement and displayed score
+  changed for these.
+- Two v1 entries had been split into multiple v2 entries during the backlog (documented above):
+  "Final Fantasy I, II & XII" → 3 separate entries, "Neverwinter Nights & Baldur's Gate I–III" → 4
+  separate entries. These 7 needed new individual list items generated (EN/ES title, medium,
+  creator) rather than a straight tier/score swap — video game titles kept identical across
+  languages per the site's existing convention; Baldur's Gate III credited to Larian Studios alone
+  (not the bundle's collective "BioWare & Black Isle & Larian" credit) since it's a genuinely
+  different developer from the earlier games in the series.
+- 87 - 2 (removed bundles) + 7 (their split replacements) = 92, reconciling exactly with the full
+  catalog.
+- Tier 7 dropped from 2 works (Tanya, Berserk) to 1 (Berserk only — Tanya's v2 rescore already
+  landed it in tier 6) and now uses the "solo" single-item centered layout, matching tiers 9/10.
+- Updated the "73 fantasy books" catalog-size mentions (4 each in the EN/ES `<meta>`/JSON-LD tags)
+  to 92.
+- Verified: exactly 92 works render per language, correctly distributed and sorted by score within
+  each tier; no console errors; spot-checked the tier 6/7/8/10 boundaries and the Baldur's Gate/
+  Final Fantasy split entries visually in-browser before committing.
 
 ## Queue
 
