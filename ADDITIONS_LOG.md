@@ -411,7 +411,16 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
   usurpation is one corrected incident).
 
 **Tier 5** (4 pending)
-- [ ] Final Fantasy VI
+- [x] Final Fantasy VI — v2: tier 5 (unchanged from v1, score 5.6625, tied with The Kingkiller
+  Chronicle). Distinguishing feature checked against the full tier 5/6 rosters: a literal,
+  *completed* world-ending apocalypse mid-story (Kefka's Light of Judgement), not a looming
+  threat or backstory — drives Structural Despair to 3 (precedented elsewhere in tier 6: FFXIV,
+  FMA 2003, Mistborn, Dark Souls). Kept Limited Heroism and Narrative Acceptance of Injustice
+  low (1 each) specifically to avoid double-counting that same apocalypse fact — the *final*
+  battle against Kefka is fully decisive, and the plot actively works to reunite the party and
+  end the Empire's program rather than leaving injustice unaddressed. Explicit Darkness capped
+  at 2 despite real dark content (a suicide attempt, on-screen deaths) since 16-bit sprite-era
+  depiction can't deliver the graphic detail the level-3 anchor requires.
 - [ ] Final Fantasy VII
 - [ ] Final Fantasy X
 - [ ] Final Fantasy XV

@@ -1332,3 +1332,23 @@ historical, institutional condition, while the Briarwoods' usurpation is one con
 that gets fully corrected. A wash from v1 (score 3.75, also tier 4) rather than a rise. Label
 check: "Fantasy in Gray Tones" fits — the show genuinely mixes raunchy comedy, found-family
 warmth, and real TV-MA violence rather than settling into one register.
+
+## Final Fantasy VI
+
+Distinguishing feature among tier 5/6 peers: a literal, *completed* world-ending apocalypse at
+the story's midpoint (Kefka's "Light of Judgement"), not a looming threat or backstory — checked
+against the full tier 5 and tier 6 rosters given how unusual that is.
+
+* Structural Despair: 3 — the apocalypse is a completed, canon event that reshapes the world; the World of Ruin's ecological and civilizational collapse is real and only slowly, partially reversed by the ending. Precedent for this level exists elsewhere in tier 6 (FFXIV, FMA 2003, Mistborn, Dark Souls all use it), so this isn't unprecedented for the scale.
+* Limited Heroism: 1 — the *final* battle against Kefka is fully decisive — he's destroyed outright, no encore. The earlier catastrophic failure (heroism didn't stop the apocalypse) is a Structural Despair fact; scoring it again here would double-count it, the same error caught in the Korra/Star vs. the Forces of Evil re-audit.
+* Moral Cynicism: 2 — General Leo, one of the story's most honorable characters, is murdered specifically for being decent; Cyan's wife and son are poisoned and die regardless of his honor — real, distinct cynicism beyond whether the protagonists' own arc is eventually rewarded (it is).
+* Structural Corruption: 2 — the Gestahlian Empire's magical experimentation program (Espers drained for magitek power) is real institutional evil, tempered by honorable individuals inside it (Leo) — not total institutional rot.
+* Redemption Difficulty: 2 — Celes' despair after believing herself the last person alive is severe enough that she attempts suicide before finding her way back — real, costly recovery, not easy effort.
+* Narrative Acceptance of Injustice: 1 — distinct from Structural Despair: the plot actively works to resolve its injustices (the Empire's program ends with Kefka's death, the scattered party is fully reunited) rather than treating them as an accepted permanent condition.
+* Explicit Darkness: 2 — the content is genuinely dark (on-screen deaths, a suicide attempt, implied mass poisoning) but 16-bit sprite-era depiction can't deliver the graphic detail the level-3 anchor requires — not comparable to The Witcher's explicit prose or The Wheel of Time's detailed body horror.
+
+Weighted = 1.85 → Final Score = 5.6625 → **Tier 5**, tied with The Kingkiller Chronicle — both
+"beloved, largely hopeful epic" stories built around one devastating structural gut-punch, a good
+qualitative match. v1 already had this at tier 5 (score 4.898), so this is a within-tier
+refinement, not a tier change. Label check: "Gloomy Fantasy" fits well — arguably one of the more
+intuitive fits in the tier given the game's own reputation as the classic series' darkest entry.
