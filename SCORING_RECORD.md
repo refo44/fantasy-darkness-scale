@@ -1150,25 +1150,31 @@ Weighted = 1.65 → Final Score = 5.2125 → **Tier 5**
 
 ## Ranking of Kings
 
-Note: this entry went through four scoring passes. The first two contained real plot errors
-(fabricating Hiling as a villain who poisons Bojji, when she's actually an innocent, wrongly
-scapegoated victim who survives; missing that Bosse stole his own unborn son's strength via a
-demonic pact, that Bojji's birth mother Sheena dies permanently shielding him in a coup, and
-the full scope of Miranjo's demon-pact-fueled plot). The third pass over-scored Redemption
-Difficulty at 2 based on a misreading of the fan debate; corrected on the fourth pass once it
-became clear the actual controversy is a *lack* of consequences for perpetrators, not a
-costly redemption. Recorded below is the final, corrected scoring only.
+Note: this entry went through four scoring passes before the write-up below, correcting real
+plot errors (fabricating Hiling as a villain who poisons Bojji, when she's actually an innocent,
+wrongly scapegoated victim who survives; missing that Bosse stole his own unborn son's strength
+via a demonic pact, that Bojji's birth mother Sheena dies permanently shielding him in a coup,
+and the full scope of Miranjo's demon-pact-fueled plot).
+
+**Re-audited** after a later review flagged that several other v2 backlog entries scored around
+the same time had drifted toward the scale's middle values (1s and 2s) via "score directly
+against the last-scored neighbor" comparisons rather than independent anchor-text checks. Two
+axes below don't survive that re-check:
 
 * Structural Despair: 2 — Bosse stole his own unborn son's strength via a demonic pact before Bojji was even born, Sheena was assassinated in a coup, and Miranjo unleashed underworld criminals to destroy the kingdom from within — a deep, sustained pattern of harm across generations.
 * Limited Heroism: 1 — the story still resolves toward real growth and reconciliation.
-* Moral Cynicism: 2 — a father magically stealing his own unborn child's body/strength for personal power, and a mother dying to protect her infant from arrows, are about as stark a contrast between virtue and reward as exists.
-* Structural Corruption: 2 — corrupt knights, demonic bargains available to those in power, criminals released into the kingdom — genuinely systemic.
-* Redemption Difficulty: 1 — the show's central controversy, per fan/reviewer discussion, is that perpetrators like Miranjo receive "complete forgiveness instead of punishment" with a "total lack of narrative consequences" — a low-cost, accessible redemption is precisely what people find objectionable, not a hard-won one.
+* Moral Cynicism: **1** (revised from 2) — this axis specifically tracks whether *virtue* causally produces good outcomes, not general moral contrast. Bojji's own extreme kindness is consistently, durably rewarded (he becomes a beloved, successful king) — that's the level-1 anchor ("acting well brings good results in almost all relevant cases"), not level-2's morally neutral world. The stark virtue/reward contrast in Bosse and Sheena's fates is real but belongs to other axes, not this one.
+* Structural Corruption: 2 — corrupt knights, demonic bargains available to those in power, criminals released into the kingdom — genuinely systemic, but centered on specific bad actors (Bosse, Miranjo, Domas) rather than the monarchy itself being irrecoverably corrupt — it functions well once Bojji rules.
+* Redemption Difficulty: **0** (revised from 1) — the rubric's level-0 anchor is verbatim what the documented fan criticism describes: reform "with relative ease, without significant dramatic cost." The show's own controversy — perpetrators like Miranjo getting "complete forgiveness instead of punishment," a "total lack of narrative consequences" — is precisely that anchor, not level-1's "requires genuine effort."
 * Narrative Acceptance of Injustice: 2 — Sheena, Bojji's actual birth mother, dies permanently protecting him and is never brought back, even though other threatened injustices (Hiling's execution) are averted — a separate axis from whether perpetrators face consequences.
 * Explicit Darkness: 3 — demonic soul-pacts, a mother's on-page death, a soul bound to a mirror after bodily destruction; confirmed as "moderate gore" (decapitations, severe beatings) by outside sourcing, alongside real warmth (Bojji/Kage's bond) — not extreme/central, but frequent and genuine.
 
-Weighted = 1.8 → Final Score = 5.55 → **Tier 5**, between Baldur's Gate III and The Kingkiller
-Chronicle.
+Weighted = 1.5 → Final Score = 4.875 → **Tier 4** (revised from tier 5, 5.55) — matching Fullmetal
+Alchemist: Brotherhood/The Boy and the Heron/Final Fantasy IX, and landing back at v1's original
+tier 4 placement (v1 score 3.69) rather than the one-tier rise most of this backlog saw. Label
+check: "Fantasy in Gray Tones" fits at least as well as "Gloomy Fantasy" did — the show's central
+controversy is precisely that its moral universe *isn't* starkly gloomy, it's forgiving almost to
+a fault.
 
 Bojji himself remains consistently, uncompromisingly kind and specifically fights without
 killing his opponents — none of the above criteria were ever about doubting his own virtue;
@@ -1181,26 +1187,26 @@ the Companions of the Hall books that follow (Icewind Dale trilogy, Legacy of th
 Paths of Darkness, Hunter's Blades, and beyond), matching the v1 entry's own framing ("a brutal
 culture is countered by sustained moral resistance and chosen community").
 
+**Re-audited** against the rubric anchors directly (see Ranking of Kings above for why). Two
+axes moved on independent, specific grounds — not a wholesale rewrite:
+
 * Structural Despair: 2 — Menzoberranzan's drow society is permanently stagnant and vicious with no arc toward reform, but the surface world (Mithral Hall reclaimed and held for decades, Ten-Towns at peace) shows real durable progress — no single dominant trend across the whole saga.
 * Limited Heroism: 1 — genuine, system-level, lasting victories: Mithral Hall is reclaimed from Shimmergloom and duergar and held for the rest of the saga, Ten-Towns' peace is sustained, the orc horde is repelled in Hunter's Blades — not just immediate threats stopped with root causes intact.
-* Moral Cynicism: 2 — virtue is durably rewarded for the found-family core (Drizzt's goodness earns him real loyalty and eventual grudging respect), but Menzoberranzan's entire drow social order explicitly rewards treachery and cruelty over virtue as its operating principle — a real bifurcation, not a uniformly just or uniformly cynical world.
+* Moral Cynicism: **1** (revised from 2) — same correction as Ranking of Kings: this axis tracks whether the *protagonist's* virtue is rewarded, and Drizzt's found-family arc is the saga's central, consistently-rewarded throughline. Menzoberranzan's inverted moral physics is real but belongs to Structural Corruption, not this axis — scoring it on both was double-counting the same fact.
 * Structural Corruption: 2 — Menzoberranzan is corrupt to its core (child sacrifice to Lolth, slavery of other races, assassination as the normal mechanism of advancement), but it's one specific society largely left behind rather than the pervasive backdrop of the whole saga — most institutions the heroes actually operate within (Mithral Hall's dwarven clan-government, Ten-Towns) are legitimate.
-* Redemption Difficulty: 1 — Wulfgar's addiction and PTSD after six years of demonic captivity under Errtu costs him real pain (he nearly destroys his closest relationships) but he does recover — the saga's central redemption throughline is achievable with genuine effort, not rare or mostly-failed.
+* Redemption Difficulty: **2** (revised from 1) — Wulfgar's addiction and PTSD after six years of demonic captivity under Errtu doesn't just cost "effort," it nearly destroys his closest relationships along the way — real loss and pain en route to recovery matches the level-2 anchor ("possible, but requires real sacrifice") more precisely than level-1's more breezy "genuine effort, achieves it."
 * Narrative Acceptance of Injustice: 2 — anti-drow prejudice against Drizzt recurs across the entire 30+ book saga and is never finally resolved, but it's treated as ambivalent rather than permanent: individual relationships and communities (Ten-Towns, Mithral Hall) do come to accept him over time.
-* Explicit Darkness: 2 — frequent real violence and danger (running battles, Errtu's torture of Wulfgar, drow ritual killing referenced) but Salvatore's prose stays in a kinetic pulp-adventure register rather than lingering on graphic detail.
+* Explicit Darkness: **3** (revised from 2) — Salvatore's combat prose is known specifically for real technical/visceral detail (named-character deaths, described injuries) rather than the more restrained action of, say, Tolkien's chronicle style — combined with Errtu's extended on-page torture of Wulfgar, this reads closer to level-3's "explicit, with frequency and genuine detail" than level-2's "real but non-graphic."
 
-Weighted = 1.7 → Final Score = 5.325 → **Tier 5**, tied with Skyrim/The Silmarillion, just below
-Ranking of Kings.
+Weighted = 1.8 → Final Score = 5.55 → **Tier 5**, tied with Princess Mononoke, one notch above
+Skyrim/The Silmarillion.
 
 A one-tier rise from v1's tier 4 (score 3.79) rather than the two-tier jumps seen elsewhere in
-this backlog — the interval scale mainly corrects for how severe Menzoberranzan's institutional
-corruption and moral-physics inversion are, which v1's decimal scoring had already flagged as
-the entry's two highest axes (Structural Corruption 1.55, Explicit Darkness 1.6) but underweighted
-relative to a full tier-5 peer. Label check: "Gloomy Fantasy" fits better than the former "Fantasy
-in Gray Tones" — Drizzt himself is unambiguously good and Menzoberranzan unambiguously evil, so
-this isn't really a morally *gray* story the way Earthsea or Witch Hat Atelier are; it's genuine,
-sustained darkness embedded in an otherwise heroic-adventure register, which is exactly what the
-tier-5 label captures.
+this backlog. Label check: "Gloomy Fantasy" fits better than the former "Fantasy in Gray Tones" —
+Drizzt himself is unambiguously good and Menzoberranzan unambiguously evil, so this isn't really a
+morally *gray* story the way Earthsea or Witch Hat Atelier are; it's genuine, sustained darkness
+embedded in an otherwise heroic-adventure register, which is exactly what the tier-5 label
+captures.
 
 ## The Legend of Korra
 
@@ -1208,16 +1214,22 @@ Scored directly against the now-rescored Avatar: The Last Airbender (v2 tier 4, 
 MC1, SC1, RD2, NAI1, ED2), since the v1 entry's own note already framed Korra as "political
 instability and trauma [...] heavier than in its predecessor."
 
-* Structural Despair: 2 — unchanged from Avatar. Real recurring upheaval across all four books (Amon, Unalaq, Zaheer, Kuvira), balanced against real rebuilding and an optimistic "New Spirit Age" by the finale.
-* Limited Heroism: 2 (up from Avatar's 1) — each season's antagonist is stopped, but the underlying political condition rarely is: defeating Amon doesn't resolve bender/non-bender inequality, and the Avatar cycle itself is permanently altered when Raava is destroyed in Book 2. Avatar TLA's war-ending victory was more structurally complete.
-* Moral Cynicism: 1 — unchanged. The antagonists (Amon, Zaheer, Kuvira) are each given a more sympathetic ideological critique than TLA's Fire Nation ever was, but that's moral complexity, not a cynical moral physics where virtue goes unrewarded.
-* Structural Corruption: 2 (up from 1) — Kuvira's fascist Earth Empire (forced annexation, re-education/labor camps for dissidents) gets sustained, on-screen depiction across most of Book 4, more extensive institutional-tyranny screen time than TLA's Fire Nation imperialism, most of which precedes the story.
-* Redemption Difficulty: 2 — unchanged. Amon/Tarrlok's arc ends in murder-suicide, a genuine failure to redeem, comparable in cost to Zuko's arc in the original series.
-* Narrative Acceptance of Injustice: 1 — unchanged. Korra's PTSD after Zaheer's poisoning is unusually frank for children's television (a season-plus of visible physical and psychological injury), but the story does resolve it and the underlying political tensions by the finale — same "the plot will address this" posture as TLA, not a permanent condition.
-* Explicit Darkness: 2 — unchanged. Amon's bending removal and Korra's poisoning are visceral for the format, but still bounded by a TV-Y7/PG animated register.
+**Re-audited**: three of the four "up from Avatar" bumps below were originally justified by a
+single underlying fact (Kuvira's regime gets sustained on-screen depiction) stretched across
+Limited Heroism, Structural Corruption, *and* Narrative Acceptance of Injustice simultaneously —
+that's double- and triple-counting one piece of evidence across three different constructs. Only
+the Explicit Darkness bump, which rests on separate evidence, survives independent scrutiny:
 
-Weighted = 1.7 → Final Score = 5.325 → **Tier 5**, tied with Skyrim/The Silmarillion/The Dark Elf
-& Drizzt, one tier above Avatar — matching Korra's relative position in v1, where it was also one
+* Structural Despair: 2 — unchanged from Avatar. Real recurring upheaval across all four books (Amon, Unalaq, Zaheer, Kuvira), balanced against real rebuilding and an optimistic "New Spirit Age" by the finale.
+* Limited Heroism: **2** (up from Avatar's 1, unchanged from original pass) — each season's antagonist is stopped, but the underlying political condition rarely is: defeating Amon doesn't resolve bender/non-bender inequality. This bump holds on its own: Avatar TLA's war-ending victory was more structurally complete than any single Korra book's resolution.
+* Moral Cynicism: 1 — unchanged. The antagonists (Amon, Zaheer, Kuvira) are each given a more sympathetic ideological critique than TLA's Fire Nation ever was, but that's moral complexity, not a cynical moral physics where virtue goes unrewarded.
+* Structural Corruption: **1** (reverted to Avatar's level) — on reflection, Kuvira's regime is one central institution gone bad (matching Avatar's Fire Nation shape), not injustice rooted across *multiple* central institutions the way the level-2 anchor requires; Republic City's own council flaws in Book 1 are addressed within a season, not a sustained systemic condition.
+* Redemption Difficulty: 2 — unchanged. Amon/Tarrlok's arc ends in murder-suicide, a genuine failure to redeem, comparable in cost to Zuko's arc in the original series.
+* Narrative Acceptance of Injustice: **1** (reverted to Avatar's level) — the Earth Kingdom's political future being left open in the finale's closing scene is a minor, largely unremarked-on beat, not a sustained thematic throughline the way Star vs. the Forces of Evil's finale is — doesn't clear the bar for a level-2 bump.
+* Explicit Darkness: **3** (revised from 2) — Amon's bending removal, Korra's season-long visible physical/psychological wasting after Zaheer's poisoning, and P'Li's on-screen death are unusually frank and frequent for the format — widely noted by critics as surprisingly dark for children's television, past the level-2 "real but non-graphic" anchor.
+
+Weighted = 1.8 → Final Score = 5.55 → **Tier 5**, tied with Princess Mononoke and The Dark Elf &
+Drizzt, one tier above Avatar — matching Korra's relative position in v1, where it was also one
 tier above Avatar (v1 tier 4 vs. Avatar's v1 tier 3).
 
 Hopepunk = Yes (Fierce), matching Avatar's existing tag: the same structural shape of organized,
@@ -1229,19 +1241,21 @@ Equalists, Kuvira's Earth Empire).
 Scored against both already-rescored close genre neighbors: The Lord of the Rings (tier 3, 3.975:
 SD2/LH1/MC0/SC1/RD2/NAI0/ED2) and Dragonlance (tier 5, 5.2125: SD2/LH1/MC1/SC2/RD2/NAI1/ED3).
 
-* Structural Despair: 2 — the Breaking of the World is a real, permanent historical catastrophe reshaping the setting (the Aiel's forced transformation from pacifists to a warrior culture), and the Wheel's cyclical cosmology implies recurring Ages/Breakings independent of any particular hero's choices — balanced against genuine, durable hope achieved within the current Age.
+**Re-audited**: two proposed bumps (Structural Despair, Structural Corruption) didn't survive an
+independent check; one (Narrative Acceptance of Injustice) did:
+
+* Structural Despair: **2** (a bump to 3 was tested and rejected) — the Wheel's cyclical cosmology implies recurring Ages/Breakings independent of any hero's choices, but that's distant background lore the text doesn't dwell on as a felt reality; the story's own emotional register frames the current Age's resolution as a genuine, hard-won triumph, not futility. "Progress and stagnation compete, no dominant trend" fits better than "stagnation predominates."
 * Limited Heroism: 1 — unusually complete for the genre: Rand doesn't just defeat the Dark One, he cleanses the taint on saidin, permanently removing the root cause of male channelers' madness — a structural, world-system fix, not merely a stopped immediate threat.
 * Moral Cynicism: 1 — real institutional cynicism exists (Aes Sedai political scheming, coercive Warder bonds, oath manipulation), but the protagonists' virtue is still genuinely and durably rewarded across the series.
-* Structural Corruption: 2 — the Seanchan Empire's a'dam slave-collar system for channelers is state law, not an aberration, and persists largely intact through most of the series' runtime; other major institutions (Andor's monarchy, the Two Rivers community) remain basically legitimate.
+* Structural Corruption: **2** (a bump to 3 was tested and rejected) — the Seanchan Empire's a'dam slave-collar system is state law, not an aberration, but it's one central institution among many (Andor's monarchy, the Two Rivers community, the White Tower itself) that remain basically legitimate — doesn't clear "rooted in central institutions" (plural) at level 3.
 * Redemption Difficulty: 2 — Rand's own near-tyrannical breakdown under the taint's psychological pressure, and his hard-won recovery at the climax, matches "real sacrifice required, but achievable."
-* Narrative Acceptance of Injustice: 1 — Seanchan slavery is not abolished by series' end, only a truce and partial reform are secured — a meaningfully less total resolution than LOTR's complete defeat of Sauron.
+* Narrative Acceptance of Injustice: **2** (revised from 1) — Seanchan slavery is not abolished by series' end, only a truce and partial reform are secured, and this is explicitly left as an ongoing condition rather than something the plot resolves — closer to "ambivalent: some injustices resolve, others persist" than "real obstacle, but can be overcome with effort."
 * Explicit Darkness: 3 — Trolloc village massacres, Padan Fain's escalating body-horror corruption, Compulsion as depicted psychological/bodily violation, and the a'dam's degrading use accumulate real, frequent, and detailed darkness across fourteen books — more sustained than LOTR's mythic-restraint prose register.
 
-Weighted = 1.65 → Final Score = 5.2125 → **Tier 5**, tied exactly with Dragonlance and Elantris —
-a natural fit given all three are multi-book epic-fantasy war sagas with real institutional
-darkness (slavery, corrupted magic/power) resolved through ultimately decisive, non-nihilistic
-heroism. A one-tier rise from v1, the same modest jump seen for Drizzt and Korra rather than the
-two-tier corrections elsewhere in this backlog.
+Weighted = 1.8 → Final Score = 5.55 → **Tier 5**, tied with Princess Mononoke/The Dark Elf &
+Drizzt/The Legend of Korra — a natural fit given how comparable these epic-scale sagas are on
+real institutional darkness (slavery, corrupted magic/power) resolved through ultimately
+decisive, non-nihilistic heroism. A one-tier rise from v1.
 
 ## Princess Mononoke
 

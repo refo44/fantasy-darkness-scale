@@ -324,48 +324,51 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
     horror, extensive mature content, multiple companions with genuinely difficult trauma/
     redemption arcs (Astarion's abuse history, Gale's self-destructive addiction), notably
     more explicit than its predecessors.
-- [x] Ranking of Kings — v2: **tier 5** (up from 4, score 5.55, matching the gap between
-  Baldur's Gate III and Kingkiller Chronicle). Went through four passes — the first two
-  contained real plot errors the user caught and corrected (fabricated Hiling poisoning Bojji
-  when she's actually an innocent, protective mother who learned sign language for him and
-  survives; missed that Bosse stole his own unborn son's strength via demonic pact, that
-  Bojji's birth mother Sheena dies permanently shielding him in a coup, and the full scope of
-  Miranjo's demon-pact-fueled plot). The third pass over-scored Redemption Difficulty at 2,
-  reasoning fans debated whether Miranjo's redemption was "earned" — corrected on the fourth
-  pass: the actual controversy is the opposite, fans are unhappy about the "total lack of
-  narrative consequences for perpetrators" (complete forgiveness without proportionate cost),
-  which is a *low*-difficulty redemption, not a high one — brought down to 1. Final scoring:
-  Structural Despair 2, Limited Heroism 1, Moral Cynicism 2, Structural Corruption 2,
-  Redemption Difficulty 1, Narrative Acceptance of Injustice 2 (Sheena's death stays
-  permanent, a separate axis from perpetrator-consequences), Explicit Darkness 3. Worth
-  remembering for future low-confidence titles: ask for a plot check before scoring, not
-  after — this one needed four rounds to get right.
-- [x] The Dark Elf / Drizzt — v2: tier 5 (up from 4, score 5.325, tied with Skyrim/Silmarillion).
+- [x] Ranking of Kings — v2: **tier 4** (unchanged from v1, score 4.875 — see re-audit note
+  below). Went through four scoring passes before that — the first two contained real plot
+  errors the user caught and corrected (fabricated Hiling poisoning Bojji when she's actually
+  an innocent, protective mother who learned sign language for him and survives; missed that
+  Bosse stole his own unborn son's strength via demonic pact, that Bojji's birth mother Sheena
+  dies permanently shielding him in a coup, and the full scope of Miranjo's demon-pact-fueled
+  plot).
+- [x] The Dark Elf / Drizzt — v2: tier 5 (up from 4, score 5.55 — see re-audit note below).
   Scored against the saga broadly (Dark Elf trilogy plus the Companions of the Hall books).
-  Menzoberranzan's institutional corruption and inverted moral physics (treachery rewarded over
-  virtue) drive the rise, but real, durable heroism (Mithral Hall reclaimed and held, Ten-Towns
-  peace sustained) and an achievable central redemption arc (Wulfgar's recovery from addiction/
-  PTSD) keep it well short of tier 6. Label check: "Gloomy Fantasy" fits better than the former
-  "Fantasy in Gray Tones" — Drizzt is unambiguously good and Menzoberranzan unambiguously evil,
-  so this isn't morally gray the way Earthsea/Witch Hat Atelier are, just genuinely dark content
-  inside a heroic-adventure register.
-- [x] The Legend of Korra — v2: tier 5 (up from 4, score 5.325, tied with Skyrim/Silmarillion/
-  The Dark Elf & Drizzt). Scored directly against Avatar: The Last Airbender's already-rescored
-  v2 profile (tier 4, 4.65) per the v1 note's own framing ("heavier than its predecessor") —
-  Limited Heroism and Structural Corruption rise (Amon/Kuvira's defeats don't fix the root
-  political inequality they exploit; Kuvira's fascist state gets sustained on-screen depiction
-  TLA's Fire Nation never did), while Moral Cynicism, Redemption Difficulty, Narrative
-  Acceptance of Injustice and Explicit Darkness stay level with Avatar — the story still
-  resolves toward genuine hope (New Spirit Age) rather than leaving injustice permanent.
-  Hopepunk = Yes (Fierce), matching Avatar's tag.
-- [x] The Wheel of Time — v2: tier 5 (up from 4, score 5.2125, tied with Dragonlance/Elantris).
-  Scored against both LOTR and Dragonlance as close genre neighbors. The Seanchan Empire's
-  a'dam slave-collar system for channelers (state law, not aberration, never abolished by
-  series' end) drives Structural Corruption and Narrative Acceptance of Injustice above LOTR,
-  while Rand's cleansing of the taint on saidin — fixing the root cause of male channelers'
-  madness, not just stopping the Dark One — keeps Limited Heroism as low as LOTR's. Explicit
-  Darkness lands above both neighbors given the sheer accumulated volume of dark content across
-  fourteen books (Trolloc massacres, Padan Fain's body horror, Compulsion).
+  Menzoberranzan's institutional corruption drives the rise, but real, durable heroism (Mithral
+  Hall reclaimed and held, Ten-Towns peace sustained) and an achievable central redemption arc
+  (Wulfgar's recovery from addiction/PTSD, at real cost) keep it well short of tier 6. Label
+  check: "Gloomy Fantasy" fits better than the former "Fantasy in Gray Tones" — Drizzt is
+  unambiguously good and Menzoberranzan unambiguously evil, so this isn't morally gray the way
+  Earthsea/Witch Hat Atelier are, just genuinely dark content inside a heroic-adventure register.
+- [x] The Legend of Korra — v2: tier 5 (up from 4, score 5.55 — see re-audit note below). Scored
+  directly against Avatar: The Last Airbender's already-rescored v2 profile (tier 4, 4.65) per
+  the v1 note's own framing ("heavier than its predecessor") — Limited Heroism rises (Amon's
+  defeat doesn't fix bender/non-bender inequality) and Explicit Darkness rises (Korra's
+  season-long visible PTSD after Zaheer's poisoning, unusually frank for the format), while
+  Moral Cynicism and Redemption Difficulty stay level with Avatar. Hopepunk = Yes (Fierce),
+  matching Avatar's tag.
+- [x] The Wheel of Time — v2: tier 5 (up from 4, score 5.55 — see re-audit note below). Scored
+  against both LOTR and Dragonlance as close genre neighbors. The Seanchan Empire's a'dam
+  slave-collar system for channelers (state law, not aberration, only a truce secured by
+  series' end, never abolished) drives Narrative Acceptance of Injustice above LOTR, while
+  Rand's cleansing of the taint on saidin — fixing the root cause of male channelers' madness,
+  not just stopping the Dark One — keeps Limited Heroism as low as LOTR's. Explicit Darkness
+  lands above both neighbors given the sheer accumulated volume of dark content across fourteen
+  books (Trolloc massacres, Padan Fain's body horror, Compulsion).
+
+  **Re-audit (all four items above), prompted by a user observation that six consecutive v2
+  rescores had all landed in tier 5:** re-derived each axis of all six recent tier-5-landing
+  items (these four plus Princess Mononoke and Star vs. the Forces of Evil, both logged below)
+  directly against the rubric anchor text, instead of "unchanged from the last-scored neighbor."
+  Root cause confirmed: several axes had been set by copying a neighbor's value forward rather
+  than independently re-deriving it, and by using one piece of evidence to justify bumps on
+  multiple different constructs at once (e.g. Korra's Kuvira-regime screen-time originally
+  inflated Limited Heroism, Structural Corruption, *and* Narrative Acceptance of Injustice
+  simultaneously — kept only on the one axis it most directly supports). Result: Ranking of
+  Kings dropped a full tier (5→4, Moral Cynicism 2→1 and Redemption Difficulty 1→0, both with
+  specific textual justification already sitting in this log); Drizzt, Korra, and Wheel of Time
+  each had one or two axes corrected but stayed in tier 5, converging with Princess Mononoke at
+  5.55; Mononoke and Star vs. the Forces of Evil held unchanged after the same scrutiny. Full
+  per-axis reasoning for all four changed entries is in SCORING_RECORD.md.
 - [x] Princess Mononoke — v2: tier 5 (up from 4, score 5.55, matching Ranking of Kings). Scored
   against the other Ghibli films already rescored (Spirited Away, Howl's, Boy & Heron) — clearly
   the most graphically violent of the four (on-screen decapitation, Ashitaka's curse forcing
