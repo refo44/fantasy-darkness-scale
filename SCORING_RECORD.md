@@ -1173,3 +1173,53 @@ Chronicle.
 Bojji himself remains consistently, uncompromisingly kind and specifically fights without
 killing his opponents — none of the above criteria were ever about doubting his own virtue;
 they track what happens to him and around him, not his own conduct.
+
+## The Dark Elf / Drizzt
+
+Scored against the saga broadly — the Dark Elf origin trilogy (Homeland, Exile, Sojourn) plus
+the Companions of the Hall books that follow (Icewind Dale trilogy, Legacy of the Drow arc,
+Paths of Darkness, Hunter's Blades, and beyond), matching the v1 entry's own framing ("a brutal
+culture is countered by sustained moral resistance and chosen community").
+
+* Structural Despair: 2 — Menzoberranzan's drow society is permanently stagnant and vicious with no arc toward reform, but the surface world (Mithral Hall reclaimed and held for decades, Ten-Towns at peace) shows real durable progress — no single dominant trend across the whole saga.
+* Limited Heroism: 1 — genuine, system-level, lasting victories: Mithral Hall is reclaimed from Shimmergloom and duergar and held for the rest of the saga, Ten-Towns' peace is sustained, the orc horde is repelled in Hunter's Blades — not just immediate threats stopped with root causes intact.
+* Moral Cynicism: 2 — virtue is durably rewarded for the found-family core (Drizzt's goodness earns him real loyalty and eventual grudging respect), but Menzoberranzan's entire drow social order explicitly rewards treachery and cruelty over virtue as its operating principle — a real bifurcation, not a uniformly just or uniformly cynical world.
+* Structural Corruption: 2 — Menzoberranzan is corrupt to its core (child sacrifice to Lolth, slavery of other races, assassination as the normal mechanism of advancement), but it's one specific society largely left behind rather than the pervasive backdrop of the whole saga — most institutions the heroes actually operate within (Mithral Hall's dwarven clan-government, Ten-Towns) are legitimate.
+* Redemption Difficulty: 1 — Wulfgar's addiction and PTSD after six years of demonic captivity under Errtu costs him real pain (he nearly destroys his closest relationships) but he does recover — the saga's central redemption throughline is achievable with genuine effort, not rare or mostly-failed.
+* Narrative Acceptance of Injustice: 2 — anti-drow prejudice against Drizzt recurs across the entire 30+ book saga and is never finally resolved, but it's treated as ambivalent rather than permanent: individual relationships and communities (Ten-Towns, Mithral Hall) do come to accept him over time.
+* Explicit Darkness: 2 — frequent real violence and danger (running battles, Errtu's torture of Wulfgar, drow ritual killing referenced) but Salvatore's prose stays in a kinetic pulp-adventure register rather than lingering on graphic detail.
+
+Weighted = 1.7 → Final Score = 5.325 → **Tier 5**, tied with Skyrim/The Silmarillion, just below
+Ranking of Kings.
+
+A one-tier rise from v1's tier 4 (score 3.79) rather than the two-tier jumps seen elsewhere in
+this backlog — the interval scale mainly corrects for how severe Menzoberranzan's institutional
+corruption and moral-physics inversion are, which v1's decimal scoring had already flagged as
+the entry's two highest axes (Structural Corruption 1.55, Explicit Darkness 1.6) but underweighted
+relative to a full tier-5 peer. Label check: "Gloomy Fantasy" fits better than the former "Fantasy
+in Gray Tones" — Drizzt himself is unambiguously good and Menzoberranzan unambiguously evil, so
+this isn't really a morally *gray* story the way Earthsea or Witch Hat Atelier are; it's genuine,
+sustained darkness embedded in an otherwise heroic-adventure register, which is exactly what the
+tier-5 label captures.
+
+## The Legend of Korra
+
+Scored directly against the now-rescored Avatar: The Last Airbender (v2 tier 4, 4.65: SD2, LH1,
+MC1, SC1, RD2, NAI1, ED2), since the v1 entry's own note already framed Korra as "political
+instability and trauma [...] heavier than in its predecessor."
+
+* Structural Despair: 2 — unchanged from Avatar. Real recurring upheaval across all four books (Amon, Unalaq, Zaheer, Kuvira), balanced against real rebuilding and an optimistic "New Spirit Age" by the finale.
+* Limited Heroism: 2 (up from Avatar's 1) — each season's antagonist is stopped, but the underlying political condition rarely is: defeating Amon doesn't resolve bender/non-bender inequality, and the Avatar cycle itself is permanently altered when Raava is destroyed in Book 2. Avatar TLA's war-ending victory was more structurally complete.
+* Moral Cynicism: 1 — unchanged. The antagonists (Amon, Zaheer, Kuvira) are each given a more sympathetic ideological critique than TLA's Fire Nation ever was, but that's moral complexity, not a cynical moral physics where virtue goes unrewarded.
+* Structural Corruption: 2 (up from 1) — Kuvira's fascist Earth Empire (forced annexation, re-education/labor camps for dissidents) gets sustained, on-screen depiction across most of Book 4, more extensive institutional-tyranny screen time than TLA's Fire Nation imperialism, most of which precedes the story.
+* Redemption Difficulty: 2 — unchanged. Amon/Tarrlok's arc ends in murder-suicide, a genuine failure to redeem, comparable in cost to Zuko's arc in the original series.
+* Narrative Acceptance of Injustice: 1 — unchanged. Korra's PTSD after Zaheer's poisoning is unusually frank for children's television (a season-plus of visible physical and psychological injury), but the story does resolve it and the underlying political tensions by the finale — same "the plot will address this" posture as TLA, not a permanent condition.
+* Explicit Darkness: 2 — unchanged. Amon's bending removal and Korra's poisoning are visceral for the format, but still bounded by a TV-Y7/PG animated register.
+
+Weighted = 1.7 → Final Score = 5.325 → **Tier 5**, tied with Skyrim/The Silmarillion/The Dark Elf
+& Drizzt, one tier above Avatar — matching Korra's relative position in v1, where it was also one
+tier above Avatar (v1 tier 4 vs. Avatar's v1 tier 3).
+
+Hopepunk = Yes (Fierce), matching Avatar's existing tag: the same structural shape of organized,
+active resistance (Team Avatar/Korra's allies) to real institutional oppression (Amon's
+Equalists, Kuvira's Earth Empire).

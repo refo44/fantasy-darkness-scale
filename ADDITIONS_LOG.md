@@ -340,8 +340,24 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
   permanent, a separate axis from perpetrator-consequences), Explicit Darkness 3. Worth
   remembering for future low-confidence titles: ask for a plot check before scoring, not
   after — this one needed four rounds to get right.
-- [ ] The Dark Elf / Drizzt
-- [ ] The Legend of Korra
+- [x] The Dark Elf / Drizzt — v2: tier 5 (up from 4, score 5.325, tied with Skyrim/Silmarillion).
+  Scored against the saga broadly (Dark Elf trilogy plus the Companions of the Hall books).
+  Menzoberranzan's institutional corruption and inverted moral physics (treachery rewarded over
+  virtue) drive the rise, but real, durable heroism (Mithral Hall reclaimed and held, Ten-Towns
+  peace sustained) and an achievable central redemption arc (Wulfgar's recovery from addiction/
+  PTSD) keep it well short of tier 6. Label check: "Gloomy Fantasy" fits better than the former
+  "Fantasy in Gray Tones" — Drizzt is unambiguously good and Menzoberranzan unambiguously evil,
+  so this isn't morally gray the way Earthsea/Witch Hat Atelier are, just genuinely dark content
+  inside a heroic-adventure register.
+- [x] The Legend of Korra — v2: tier 5 (up from 4, score 5.325, tied with Skyrim/Silmarillion/
+  The Dark Elf & Drizzt). Scored directly against Avatar: The Last Airbender's already-rescored
+  v2 profile (tier 4, 4.65) per the v1 note's own framing ("heavier than its predecessor") —
+  Limited Heroism and Structural Corruption rise (Amon/Kuvira's defeats don't fix the root
+  political inequality they exploit; Kuvira's fascist state gets sustained on-screen depiction
+  TLA's Fire Nation never did), while Moral Cynicism, Redemption Difficulty, Narrative
+  Acceptance of Injustice and Explicit Darkness stay level with Avatar — the story still
+  resolves toward genuine hope (New Spirit Age) rather than leaving injustice permanent.
+  Hopepunk = Yes (Fierce), matching Avatar's tag.
 - [ ] The Wheel of Time
 - [ ] Princess Mononoke
 - [ ] Star vs. the Forces of Evil
