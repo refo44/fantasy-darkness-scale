@@ -100,3 +100,69 @@ first place to re-check (see FF III & V for a concrete example of exactly this c
 | Redemption Difficulty | Accessibility of moral repair | Grace | Damnation |
 | Narrative Acceptance of Injustice | Story's resolution posture | Resolution | Permanence |
 | Explicit Darkness | Surface presentation | Restraint | Horror |
+
+## Cozy Fantasy and Hopepunk: theoretical relationship to the seven constructs
+
+Two additional descriptive tags run alongside the seven scored criteria (see `ADDITIONS_LOG.md`
+for the full tagging rules and `TIER_GUIDE.md` for tier-by-tier examples). Both are excluded
+from the score formula on purpose — genre *stance* toward darkness isn't the same axis as
+*amount* of darkness (Avatar: The Last Airbender is tagged Hopepunk while depicting genocide).
+But neither tag is arbitrary: each variant maps onto a specific, describable position across the
+constructs above.
+
+### Cozy Fantasy: genre membership, not mood
+
+**Not a construct on the same axis as the seven criteria** — this tag tracks book-publishing
+genre membership (comfort-focused, low-stakes, community/found-family as the text's actual
+organizing project), not a score profile. A work can feel cozy in tone without qualifying (My
+Neighbor Totoro doesn't get this tag, even though it's Gentle in Hopepunk terms).
+
+Where it does connect to the constructs: genuine Cozy Fantasy requires **Structural Corruption**
+and **Structural Despair** to stay very low — the genre's whole premise depends on the world not
+actively working against its characters' comfort. Two variants, distinguished by how much real
+friction that comfort has to survive:
+
+- **Wholesome Cozy Fantasy** — the comfort is *unthreatened*: Structural Corruption and
+  Structural Despair sit at 0, nothing presses against the found-family core at all.
+  *Example: Legends & Lattes (Tier 1) — the scale's only confirmed Cozy Fantasy work.*
+- **Resilient Cozy Fantasy** — the comfort *survives real friction*: Structural Corruption
+  begins registering (1) — some genuine flaw or threat exists, and the community/found-family
+  core has to hold up against it rather than existing in a vacuum. What distinguishes this from
+  Fierce Hopepunk below is that the friction stays background-level, not the text's central
+  conflict. *No confirmed example currently sits in this tier — a real gap, noted honestly in
+  `TIER_GUIDE.md` rather than papered over.*
+
+### Hopepunk: three variants sharing one thesis, differing on which construct they answer
+
+**Shared thesis across all three:** kindness/hope is depicted as a *deliberate, load-bearing
+choice*, not naivety — this is what separates Hopepunk from simply "a work with a happy
+ending." The three variants differ in *which* construct's high pole they're responding to:
+
+- **Gentle Hopepunk** — responds to nothing; no real adversity is required at all. Structural
+  Despair and Structural Corruption both sit at 0 — kindness/community is simply the world's
+  default operating state, not a stance taken against anything.
+  *Examples: My Neighbor Totoro, Kiki's Delivery Service, Ponyo — all Tier 1.*
+- **Fierce Hopepunk** — responds directly to **Structural Corruption**. Real institutional
+  injustice exists (an oppressive system, empire, or institution), but the story keeps
+  **Limited Heroism** and **Moral Cynicism** low anyway: resistance is genuinely effective
+  (Agency, not Futility) and kindness is the causally *correct* strategy, not a naive one
+  (Justice, not Cynicism). This is the variant that scales hardest across tiers — the same
+  shape gets genuinely costlier as Structural Corruption climbs.
+  *Examples: The House in the Cerulean Sea (Tier 2, lightest form) → Avatar: The Last Airbender
+  (Tier 4) → The Legend of Korra (Tier 5, heaviest form) — the same shape, escalating cost.*
+- **Bittersweet Hopepunk** — responds directly to **Structural Despair** in its existential
+  register: real, permanent loss (mortality, time) that isn't a corrupt institution waiting to
+  be reformed — nothing *resolves* it. The distinguishing move is keeping **Moral Cynicism** low
+  anyway: choosing connection despite guaranteed future grief is treated as worthwhile, not
+  foolish. This variant is also the one most likely to coexist with a real, non-zero
+  **Narrative Acceptance of Injustice** on the specific loss in question — the loss itself
+  doesn't get undone; the story's stance toward it does.
+  *Defining example: Frieren: Beyond Journey's End (Tier 3). Also Mushishi (Tier 3) — arguably
+  the purest fit on the whole scale, since its entire episodic structure is organized around
+  "loss is real and often permanent, and connection persists anyway."*
+
+**Why the tag disappears past Tier 5:** not because found-family warmth stops existing in
+darker works (Re:Zero and Clevatess, both Tier 6, have real found-family cores), but because at
+that severity the surrounding content dominates enough page-time that "kindness as the
+organizing response to adversity" stops being the most honest one-line description of what the
+work is actually about.
