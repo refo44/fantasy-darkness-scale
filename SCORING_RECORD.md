@@ -1519,3 +1519,21 @@ elsewhere in this catalog — a still-ongoing, 16-month-old series with thin-to-
 reception in most of the six languages searched (substantive reviews found almost entirely in
 English and Japanese; German and French reception is close to nonexistent). Worth a revisit once
 the announced final arc concludes.
+
+## Labyrinth (1986)
+
+New catalog addition, not a rescore.
+
+* Structural Despair: 0 — no world-trajectory backdrop; a contained, personal rite-of-passage quest, not a setting in decline or progress.
+* Limited Heroism: 0 — Sarah's defiance ("You have no power over me") fully and permanently resolves the threat — Toby is saved, unambiguously, for good.
+* Moral Cynicism: 0 — Sarah's growth into responsibility and care is what saves the day; no cynical "goodness doesn't pay" thread.
+* Structural Corruption: 0 — Jareth's Labyrinth is a personal domain/game, not an institution being critiqued.
+* Redemption Difficulty: 1 — Sarah starts genuinely selfish/resentful of babysitting duties (her impulsive wish is what endangers Toby), and has to work through real immaturity to succeed — achievable growth, not costly sacrifice.
+* Narrative Acceptance of Injustice: 0 — fully, cleanly resolved; the ending is unambiguously affirming.
+* Explicit Darkness: 2 — real atmosphere and unsettling imagery throughout (the Bog of Eternal Stench, the Junk Lady's crushing imagery, Jareth's often-noted uncomfortably seductive dynamic with a teenage Sarah), but the register stays dreamlike/surreal rather than genuinely graphic or violent — distinct from Legend's more overtly frightening villain or The Nightmare Before Christmas's pervasive macabre design (both Explicit Darkness 3).
+
+Weighted = 0.35 → Final Score = 2.2875 → **Tier 2**, tied exactly with Castle in the Sky — a good
+comparison: both are contained adventure-fantasy films with one real threat axis (Castle in the
+Sky's militarist antagonist vs. Labyrinth's personal-growth arc) and comparable atmospheric
+intensity. Cozy Fantasy = No, Hopepunk = No — a personal coming-of-age quest rather than a
+resistance-to-oppression or mortality-themed story.

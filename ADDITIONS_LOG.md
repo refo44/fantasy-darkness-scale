@@ -531,7 +531,7 @@ data that had been live throughout this entire backlog pass. Mechanics of the pr
 12. [x] The Legend of Vox Machina — DONE, see Completed
 13. [x] The Nightmare Before Christmas — DONE, see Completed
 14. [x] Willow (1988) — DONE, see Completed
-15. [ ] Labyrinth (1986 film, dir. Jim Henson, David Bowie — a goblin king, a labyrinth, a stolen baby brother)
+15. [x] Labyrinth (1986 film, dir. Jim Henson, David Bowie — a goblin king, a labyrinth, a stolen baby brother) — DONE, see Completed
 16. [ ] Pan's Labyrinth / El laberinto del fauno (2006 film, dir. Guillermo del Toro — a girl's dark fairy tale amid Falangist Spain)
 17. [ ] Attack on Titan (Shingeki no Kyojin) — Hajime Isayama — Manga, Anime
 18. [ ] Maleficent (2014 film, Angelina Jolie — Sleeping Beauty retold from the villain's side)
@@ -576,6 +576,29 @@ data that had been live throughout this entire backlog pass. Mechanics of the pr
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 15. Labyrinth (1986) — Jim Henson — Film
+
+- Tier 2 (Bright Fantasy), Final Score 2.2875 (Weighted Internal Score 0.35) — tied exactly with
+  Castle in the Sky, inserted right after it. First entry added under v2 methodology directly
+  (no v1 predecessor score to compare against).
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 0, Structural Corruption 0,
+  Redemption Difficulty 1, Narrative Acceptance of Injustice 0, Explicit Darkness 2.
+- Rationale: a contained, personal rite-of-passage quest rather than a story about a wider
+  world or institution — Sarah's defiance of Jareth ("You have no power over me") fully and
+  permanently resolves the threat to Toby, and her own arc (working through real selfishness/
+  immaturity, since her impulsive wish is what endangers her brother in the first place) is the
+  story's only real cost, kept moderate rather than severe. Explicit Darkness carries real
+  weight — the Bog of Eternal Stench, the Junk Lady's crushing imagery, and Jareth's
+  often-noted uncomfortably seductive dynamic with a teenage Sarah — but the register stays
+  dreamlike/surreal rather than genuinely graphic, distinct from Legend or The Nightmare Before
+  Christmas (both Explicit Darkness 3).
+- Cozy Fantasy = No. Hopepunk = No — a personal coming-of-age quest, not a resistance-to-
+  oppression (Fierce) or mortality-themed (Bittersweet) shape, and no real adversity-free
+  default kindness either (Gentle).
+- Added to xlsx row 12, and to tier 2 on both index.html and es/index.html, inserted right
+  after Castle in the Sky (title: "Laberinto" in ES — the official Latin American title,
+  distinct from Spain's "Dentro del laberinto" — "Labyrinth" in EN; medium: "Película" / "Film").
 
 ### 14. Willow (1988) — Ron Howard / George Lucas — Film
 
