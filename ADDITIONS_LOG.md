@@ -563,6 +563,17 @@ data that had been live throughout this entire backlog pass. Mechanics of the pr
 40. [ ] Arcane — Riot Games — TV series
 41. [ ] Percy Jackson & the Olympians — Rick Riordan — Novels, TV series
 42. [ ] Devilman Crybaby (2018) — Masaaki Yuasa (based on Go Nagai's Devilman manga) — Anime
+43. [ ] The Mighty Nein — Critical Role (Campaign 2) — TV series / D&D actual-play — Amazon's
+    animated adaptation of Critical Role's second campaign, following on from The Legend of Vox
+    Machina (Campaign 1, already in the catalog at Tier 4); a found-family of outcasts and
+    monster hunters in a morally grayer, more politically complex setting than Campaign 1's,
+    with trauma-centered arcs (Caleb's guilt over his role in his parents' deaths, Nott/Veth's
+    identity and addiction arc)
+44. [ ] Goblins — Thunt (Tarol Hunt) — Webcomic — https://www.goblinscomic.org/ — began as a
+    joke inverting standard D&D "kill goblins for XP" tropes, following a goblin warband trying
+    to survive being slaughtered by adventurers for loot; the tone shifts dramatically over its
+    run into genuine tragedy (PTSD, addiction, on-page major character deaths), repeatedly
+    questioning who the real "monsters" in the story actually are
 
 ## Completed
 
