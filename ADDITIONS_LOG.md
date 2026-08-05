@@ -461,7 +461,25 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
   whole institution being irrecoverable — flagged as the axis with the most real uncertainty.
   Redemption Difficulty stays low (1): Clevatess's found-family redemption is explicitly the
   story's more accessible arc, not a costly one.
-- [ ] Re:Zero − Starting Life in Another World
+- [x] Re:Zero − Starting Life in Another World — v2: tier 6 (unchanged from v1, score 6.1125,
+  tied exactly with Clevatess). Return by Death — Subaru's genuinely graphic, repeated on-screen
+  deaths — is a *central, recurring* structural feature of the entire narrative (Explicit
+  Darkness 4, matching Goblin Slayer/Made in Abyss), not an occasional element. Kept Limited
+  Heroism low (1): unlike Made in Abyss's Curse of the Abyss (permanent, irreversible harm no
+  matter how many attempts), Re:Zero's loop mechanic lets Subaru genuinely undo failures and
+  achieve real, lasting fixes — a specific, independent reason for that gap between two otherwise
+  similar ED4 entries. Narrative Acceptance of Injustice stays at 2 rather than lower: even though
+  the "final" timeline resolves most crises, Subaru alone carries the real, unresolved
+  psychological weight of every failed loop.
+
+**Tier 6 backlog complete (2/2).**
+
+**v2 Rescoring Backlog: complete except Märchen Crown** (91 of 92 catalog works now rescored
+under v2 — see `Fantasy_Grimdark_Scale_v2_WIP.xlsx`). Märchen Crown remains skipped for low
+confidence (see the Tier 4 section above) pending either the user's direct input or a return pass
+later. Next steps once that's resolved: promote the v2 WIP file to replace the live site's data
+(`index.html` / `es/index.html` still reflect v1 and haven't been touched during this whole
+backlog pass) — a separate, larger undertaking not started here.
 
 ## Queue
 

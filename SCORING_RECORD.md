@@ -1430,3 +1430,21 @@ within-tier refinement, not a tier change. Label check: "Dark Fantasy" fits — 
 without being nihilistic, matching its tier-6 neighbors. Scored against the story as currently
 published/aired (manga ongoing, anime mid-run as of the original addition) — later arcs may shift
 this if the story resolves very differently.
+
+## Re:Zero − Starting Life in Another World
+
+Scored against the arcs most widely adapted/translated (roughly Arcs 1–6). A Season 4 anime
+(covering later arcs) began airing April 2026 and is still mid-run as of this entry.
+
+* Structural Despair: 2 — demi-human oppression and the Witch Cult's entrenched fanaticism are real, ongoing problems, but no single dominant "world is doomed" trend.
+* Limited Heroism: 1 — the defining mechanic: Return by Death lets Subaru genuinely *undo* failures through repeated attempts, and each arc (the White Whale, the Sanctuary curse, Petelgeuse) is ultimately resolved with real, lasting effect from the persisting timeline's perspective — not just an immediate threat stopped with root causes intact. Distinct from Made in Abyss (also tier 6, Explicit Darkness 4), whose Curse of the Abyss inflicts genuinely permanent, irreversible harm no matter how many attempts are made — Re:Zero's loop mechanic is categorically more corrective, a specific and independent reason for the gap between them.
+* Moral Cynicism: 2 — Witch Cult members genuinely believe their atrocities are righteous and feel rewarded by their belief system for most of the story before being stopped — real, sustained cynicism.
+* Structural Corruption: 2 — the Witch Cult is a real, severe corrupting force, but a fanatical faction rather than the setting's central governing institution; the Kingdom of Lugnica itself isn't portrayed as fundamentally corrupt.
+* Redemption Difficulty: 2 — Rem's erased memories and eventual recovery, Roswaal's centuries-long morally complex scheming across loops — real, costly arcs, not easy effort.
+* Narrative Acceptance of Injustice: 2 — even though the "final" timeline resolves most crises, Subaru alone carries the genuine, unresolved psychological weight of every failed loop — a real cost that persists even as the world moves on and forgets.
+* Explicit Darkness: 4 — Subaru's repeated on-screen deaths (eaten alive, throat cut, and worse) are graphic and, crucially, a *central, recurring* structural feature of the entire narrative, not an occasional element — matches the level-4 anchor precisely, the same precedent as Goblin Slayer/Made in Abyss.
+
+Weighted = 2.05 → Final Score = 6.1125 → **Tier 6**, tied exactly with Clevatess. v1 already had
+this at tier 6 (score 5.815), so a within-tier refinement, not a tier change. Label check: "Dark
+Fantasy" fits — genuinely heavy psychological content balanced by hard-won heroism, matching The
+Witcher/Made in Abyss/The Saga of Tanya the Evil/Claymore neighbors.
