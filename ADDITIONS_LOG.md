@@ -358,7 +358,14 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
   Acceptance of Injustice and Explicit Darkness stay level with Avatar — the story still
   resolves toward genuine hope (New Spirit Age) rather than leaving injustice permanent.
   Hopepunk = Yes (Fierce), matching Avatar's tag.
-- [ ] The Wheel of Time
+- [x] The Wheel of Time — v2: tier 5 (up from 4, score 5.2125, tied with Dragonlance/Elantris).
+  Scored against both LOTR and Dragonlance as close genre neighbors. The Seanchan Empire's
+  a'dam slave-collar system for channelers (state law, not aberration, never abolished by
+  series' end) drives Structural Corruption and Narrative Acceptance of Injustice above LOTR,
+  while Rand's cleansing of the taint on saidin — fixing the root cause of male channelers'
+  madness, not just stopping the Dark One — keeps Limited Heroism as low as LOTR's. Explicit
+  Darkness lands above both neighbors given the sheer accumulated volume of dark content across
+  fourteen books (Trolloc massacres, Padan Fain's body horror, Compulsion).
 - [ ] Princess Mononoke
 - [ ] Star vs. the Forces of Evil
 - [ ] The Legend of Vox Machina

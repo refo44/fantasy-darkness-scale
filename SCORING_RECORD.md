@@ -1223,3 +1223,22 @@ tier above Avatar (v1 tier 4 vs. Avatar's v1 tier 3).
 Hopepunk = Yes (Fierce), matching Avatar's existing tag: the same structural shape of organized,
 active resistance (Team Avatar/Korra's allies) to real institutional oppression (Amon's
 Equalists, Kuvira's Earth Empire).
+
+## The Wheel of Time
+
+Scored against both already-rescored close genre neighbors: The Lord of the Rings (tier 3, 3.975:
+SD2/LH1/MC0/SC1/RD2/NAI0/ED2) and Dragonlance (tier 5, 5.2125: SD2/LH1/MC1/SC2/RD2/NAI1/ED3).
+
+* Structural Despair: 2 — the Breaking of the World is a real, permanent historical catastrophe reshaping the setting (the Aiel's forced transformation from pacifists to a warrior culture), and the Wheel's cyclical cosmology implies recurring Ages/Breakings independent of any particular hero's choices — balanced against genuine, durable hope achieved within the current Age.
+* Limited Heroism: 1 — unusually complete for the genre: Rand doesn't just defeat the Dark One, he cleanses the taint on saidin, permanently removing the root cause of male channelers' madness — a structural, world-system fix, not merely a stopped immediate threat.
+* Moral Cynicism: 1 — real institutional cynicism exists (Aes Sedai political scheming, coercive Warder bonds, oath manipulation), but the protagonists' virtue is still genuinely and durably rewarded across the series.
+* Structural Corruption: 2 — the Seanchan Empire's a'dam slave-collar system for channelers is state law, not an aberration, and persists largely intact through most of the series' runtime; other major institutions (Andor's monarchy, the Two Rivers community) remain basically legitimate.
+* Redemption Difficulty: 2 — Rand's own near-tyrannical breakdown under the taint's psychological pressure, and his hard-won recovery at the climax, matches "real sacrifice required, but achievable."
+* Narrative Acceptance of Injustice: 1 — Seanchan slavery is not abolished by series' end, only a truce and partial reform are secured — a meaningfully less total resolution than LOTR's complete defeat of Sauron.
+* Explicit Darkness: 3 — Trolloc village massacres, Padan Fain's escalating body-horror corruption, Compulsion as depicted psychological/bodily violation, and the a'dam's degrading use accumulate real, frequent, and detailed darkness across fourteen books — more sustained than LOTR's mythic-restraint prose register.
+
+Weighted = 1.65 → Final Score = 5.2125 → **Tier 5**, tied exactly with Dragonlance and Elantris —
+a natural fit given all three are multi-book epic-fantasy war sagas with real institutional
+darkness (slavery, corrupted magic/power) resolved through ultimately decisive, non-nihilistic
+heroism. A one-tier rise from v1, the same modest jump seen for Drizzt and Korra rather than the
+two-tier corrections elsewhere in this backlog.
