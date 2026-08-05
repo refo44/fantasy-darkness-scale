@@ -1448,3 +1448,61 @@ Weighted = 2.05 → Final Score = 6.1125 → **Tier 6**, tied exactly with Cleva
 this at tier 6 (score 5.815), so a within-tier refinement, not a tier change. Label check: "Dark
 Fantasy" fits — genuinely heavy psychological content balanced by hard-won heroism, matching The
 Witcher/Made in Abyss/The Saga of Tanya the Evil/Claymore neighbors.
+
+## Märchen Crown
+
+Previously skipped for low confidence (see ADDITIONS_LOG.md). Rescored after a dedicated
+multi-language research pass (English, Spanish, French, German, Japanese, Portuguese — community
+forums, reviews, retailer/database listings, industry news) commissioned specifically for this
+entry, since it's a still-ongoing, only 16-month-old seinen manga (Aka Akasaka/Aoi Kujira/
+Azychika, Weekly Young Jump since March 2025, ~47 chapters as of July 2026, entering its
+announced "final battle" arc) without the decades of accumulated critical consensus the rest of
+this catalog has.
+
+**Source material confirmed by research:** Rapunzel, raised in isolation, falls for Mikel, a
+villager from a community of the reanimated-corpse "Cursed"; a knight kills Mikel for
+sympathizing with them, and he revives corrupted as a "half-Cursed." Various kingdoms, each ruled
+by fairy-tale-inspired Cursed royalty, contest the title "Ruler of Man," with a formal death-duel
+system ("Selectio Legalis") as one resolution mechanism. A Cinderella-analog kingdom is enforced
+by "Ankle Reapers" who sever women's feet in an ongoing terror campaign; its ruler Bellaia carries
+a "Curse of Torment" that compels even people who genuinely love her to torment her — which drove
+her own family to maim and nearly kill her. Rapunzel is targeted by at least one, likely two,
+attempted-sexual-assault scenes. Roughly two-thirds through the story so far, Rapunzel is
+decapitated; her corpse remains an active plot object (carried by Mikel) for at least eight
+subsequent chapters, unresolved as of the newest available chapter. Reception is genuinely mixed
+across the languages searched — reviewers in English and Japanese specifically flag "shock value,"
+"edgy outrage-bait," and "generic B-grade horror manga" alongside more positive assessments and a
+Manga Taisho 2026 award nomination; German and French reception is close to nonexistent (near-zero
+written reviews found).
+
+**First pass landed tier 8** (SD3/LH3/MC3/SC3/RD3/NAI3/ED4) — on inspection this is an *exact*
+match for A Song of Ice and Fire's profile, the same uniform-high-value default that produced the
+earlier tier-5 cluster, just shifted up a notch. A 47-chapter, reception-mixed, unfinished
+newcomer matching one of the two most severe works on the entire scale needed real scrutiny, not
+acceptance. Corrected below, checking each axis independently against the actual tier 6-9 ceiling
+data rather than defaulting to a uniform severity level:
+
+* Structural Despair: **2** (corrected from 3) — the story shows escalating *local* tragedies, but no confirmed world-scale cosmological doom the way A Song of Ice and Fire's Long Night mythology is explicit and central — a hinted-at larger cosmology ("God's Deception," per a recent chapter title) is still unresolved as of the latest chapter. Competing/no dominant trend, not confirmed civilizational decay.
+* Limited Heroism: **2** (corrected from 3) — the story is unresolved pending its announced final arc, so the ultimate efficacy of heroism can't be judged either way. The one clear example shown (a trafficked character gaining real, lasting agency and escaping) is a genuine local win; systemic evils remain unaddressed so far, but there's no evidence yet that the eventual, biggest victory will be insufficient.
+* Moral Cynicism: **2** (corrected from 3) — real, specific evidence (the Curse of Torment mechanic literally converts genuine love into compelled cruelty; the Cursed-hunting knight's remorseless brutality goes not just unpunished but rewarded with Ruler-of-Man candidacy), but the trafficked character's escape is a genuine counter-example of goodness paying off — mixed, not a clear "cruelty wins" thesis the way The Saga of Tanya the Evil's is.
+* Structural Corruption: 3 — the axis with the strongest, most specific evidence, and the one that survived the correction unchanged: multiple *separate* kingdom-level authorities (the foot-mutilation terror campaign, the anti-Cursed knight pogroms, the girl-trafficking village) are independently corrupt — genuinely "rooted in central institutions" in the plural, matching the Harry Potter and the Deathly Hallows/Mistborn/Claymore precedent.
+* Redemption Difficulty: **2** (corrected from 3) — one character's redemption realization comes only in death, too late to change anything — a real data point, but one data point isn't the "most who seek it fail" pattern a level-3 score needs, and a second redemption thread is explicitly unresolved rather than confirmed failed.
+* Narrative Acceptance of Injustice: **2** (corrected from 3) — everything shown so far is escalation without resolution, but the story's *own* final resolution posture is genuinely unknown pending the announced final arc — ambivalent is the honest, disciplined read for an unfinished story, not permanence.
+* Explicit Darkness: 4 — the axis that survived the correction unchanged: attempted sexual assault, a systemic foot-mutilation terror campaign, the female lead's on-page decapitation with her corpse as a sustained plot object across 8+ chapters, recurring body-horror character designs (a centipede-legged king made of severed feet, a multi-eyed spider-human hybrid) — genuinely central and recurring, matching the Goblin Slayer/Made in Abyss/Re:Zero precedent.
+
+Weighted = 2.35 → Final Score = 6.7875 → **Tier 6**, just below Dark Souls I–III/The Stormlight
+Archive (6.9) and clearly, appropriately below Berserk (tier 7) — a 35-year, universally-acclaimed
+genre landmark this newcomer shouldn't be matching. Closest profile match is The Stormlight
+Archive (SD2/LH2/MC2/SC3/RD3/NAI2/ED3): differs only on Redemption Difficulty (2 vs. 3) and
+Explicit Darkness (4 vs. 3) — a defensible trade, since Stormlight's redemption themes (Kaladin's
+depression arc) are far more developed across a massive *completed* series, while Märchen Crown's
+raw visual/content severity edges slightly higher. v1 never scored this entry (skipped for low
+confidence). Label check: "Dark Fantasy" fits — genuinely heavy content balanced against real
+redemptive threads (the trafficked character's arc, Rapunzel/Mikel's loyalty), consistent with an
+unresolved, still-escalating story rather than a nihilistic one.
+
+**Confidence note:** materially lower confidence than the completed, widely-covered works
+elsewhere in this catalog — a still-ongoing, 16-month-old series with thin-to-contested critical
+reception in most of the six languages searched (substantive reviews found almost entirely in
+English and Japanese; German and French reception is close to nonexistent). Worth a revisit once
+the announced final arc concludes.

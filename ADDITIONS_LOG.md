@@ -36,8 +36,9 @@ v2 changes:
   below) — confirmed still correct in testing (Avatar: The Last Airbender, tagged Hopepunk,
   moved up under v2 based on its actual war/genocide content, not down).
 
-Status: in progress in `Fantasy_Grimdark_Scale_v2_WIP.xlsx`, rescored iteratively, one batch
-at a time — 33 of 87 works done so far. The v1 file is preserved as
+Status: **scoring complete** in `Fantasy_Grimdark_Scale_v2_WIP.xlsx` — all 92 of 92 catalog works
+rescored (see the v2 Rescoring Backlog section below for the full history). Not yet promoted to
+the live site. The v1 file is preserved as
 `Fantasy_Grimdark_Scale_Fully_Scored_DEPRECATED.xlsx` for comparison until v2 is complete and
 promoted to replace the live site's data (`index.html` / `es/index.html` still reflect v1 and
 haven't been touched yet).
@@ -114,7 +115,6 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
 - [x] Harry Potter and the Chamber of Secrets — v2: tier 2 (unchanged, 2.625). Higher within
   the tier than Philosopher's Stone (2.062), matching the series' progressive darkening, but
   not enough to cross into tier 3.
-- [ ] The Hobbit
 - [x] The Hobbit — v2: tier 3 (up from 2, score 3.6375). Same profile shape as LOTR (already
   tier 3) minus one point of Structural Despair — Smaug's threat is contained, not
   world-scale like Sauron's. Thorin's deathbed reconciliation and the melancholic closing note
@@ -299,10 +299,22 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
   different situation from Umbridge (complete regime change committing genocide-adjacent
   persecution vs. one petty tyrant), justifying Structural Corruption at 3 where OotP was
   capped at 2.
-- [ ] Märchen Crown — **skipped for now**, not done. Flagged low confidence: considerably less
-  mainstream than everything else in the backlog, and knowledge of specific plot details isn't
-  solid enough to score honestly without risking a confident-sounding but shaky breakdown.
-  Needs either the user's direct input or a return pass later.
+- [x] Märchen Crown — v2: **tier 6** (score 6.7875). Previously skipped for low confidence;
+  resolved via a dedicated multi-language research pass (EN/ES/FR/DE/JA/PT — forums, reviews,
+  industry news, retailer listings) since this is a still-ongoing, 16-month-old seinen manga
+  (Akasaka/Kujira/Azychika, Weekly Young Jump since March 2025) without the accumulated critical
+  consensus the rest of the catalog has. First pass landed tier 8 — an exact match for A Song of
+  Ice and Fire's profile, the same uniform-high-value default that produced the earlier tier-5
+  cluster, just one notch up. Corrected after checking each axis independently against the actual
+  tier 6-9 ceiling data: Structural Despair, Limited Heroism, Moral Cynicism, Redemption
+  Difficulty, and Narrative Acceptance of Injustice all pulled back from 3 to 2 (each had been set
+  by the story's severe content — an on-page decapitation, attempted sexual assault, a systemic
+  foot-mutilation terror campaign — without independent axis-specific justification); Structural
+  Corruption (3, multiple separately corrupt kingdom authorities) and Explicit Darkness (4,
+  central/recurring extreme content) held up under scrutiny. Lands just below Dark Souls
+  I–III/The Stormlight Archive and appropriately well below Berserk — a 35-year genre landmark
+  this reception-mixed newcomer shouldn't be matching. Lower confidence than the rest of this
+  catalog; worth revisiting once the story's announced final arc concludes.
 - [x] Mistborn — v2: tier 6 (up two tiers from 4, score 6.5625, matching Deathly Hallows/FMA
   2003/Claymore/Tanya/FFXVI). The Final Empire's millennium-long, foundational Skaa slavery
   plus Hemalurgy's murder-based magic system justify the company.
@@ -474,12 +486,12 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
 
 **Tier 6 backlog complete (2/2).**
 
-**v2 Rescoring Backlog: complete except Märchen Crown** (91 of 92 catalog works now rescored
-under v2 — see `Fantasy_Grimdark_Scale_v2_WIP.xlsx`). Märchen Crown remains skipped for low
-confidence (see the Tier 4 section above) pending either the user's direct input or a return pass
-later. Next steps once that's resolved: promote the v2 WIP file to replace the live site's data
-(`index.html` / `es/index.html` still reflect v1 and haven't been touched during this whole
-backlog pass) — a separate, larger undertaking not started here.
+**v2 Rescoring Backlog: 100% complete** — all 92 of 92 catalog works are now scored under v2 (see
+`Fantasy_Grimdark_Scale_v2_WIP.xlsx`). Märchen Crown, the last holdout (previously skipped for low
+confidence), was resolved via a dedicated multi-language research pass — see its entry above.
+Next step: promote the v2 WIP file to replace the live site's data (`index.html` / `es/index.html`
+still reflect v1 and haven't been touched during this entire backlog pass) — a separate, larger
+undertaking not started here.
 
 ## Queue
 
