@@ -1409,3 +1409,24 @@ and the Order of the Phoenix/Half-Blood Prince — staying at v1's tier (v1 scor
 5) once Moral Cynicism and Narrative Acceptance of Injustice were disentangled rather than both
 restating the same Ardyn fact. Label check: "Gloomy Fantasy" fits well, matching v1's own note
 about "sacrificial kingship" making victory deeply bittersweet.
+
+## Clevatess
+
+Lower-confidence entry than the mainstream franchises above — a less widely-covered manga/anime,
+scored partly from the existing summary already in this log (from the original v1-era addition)
+rather than fresh primary-source detail. Story is ongoing/unresolved as scored.
+
+* Structural Despair: 2 — ongoing human/monster war and institutional corruption on both sides, but the story's own central throughline (Clevatess's found-family bond pulling him back from genocide) shows genuine potential for improvement — no single dominant trend.
+* Limited Heroism: 2 — the story is ongoing/unresolved; the war and institutional corruption haven't been durably fixed by anything shown so far.
+* Moral Cynicism: 2 — human bandits/traffickers exploiting infants operate largely unpunished at this point in the story.
+* Structural Corruption: **2** (reconsidered down from the v1-era note's implied higher weight) — a cardinal secretly serving a demon lord is real, serious corruption, but reads as one high-ranking bad actor within the church rather than the whole institution being irrecoverable — matches the "one central institution gone bad" shape (Harry Potter and the Order of the Phoenix's Umbridge) rather than a multi-institution level-3 case. Flagged as the axis with the most real uncertainty here, given the source-material limitation noted above.
+* Redemption Difficulty: 1 — Clevatess's redemption via the bond with the human infant he raises is explicitly the story's easier, more accessible redemption arc relative to its tier-6 peers, not a costly, uncertain one — matches the original note's own characterization.
+* Narrative Acceptance of Injustice: 2 — institutional corruption is actively expanding rather than being addressed, but Clevatess's own arc shows real, ambivalent progress.
+* Explicit Darkness: 4 — a named character (Nell) carries an official content warning for sustained physical, emotional, and sexual abuse, alongside infant trafficking/experimentation and brutal forced transformations — multiple distinct extreme elements, not just one severe subplot.
+
+Weighted = 2.05 → Final Score = 6.1125 → **Tier 6**, between the tier-5 ceiling (5.8875) and
+Final Fantasy XIV/The Witcher (6.225). v1 already had this at tier 6 (score 5.849), so a
+within-tier refinement, not a tier change. Label check: "Dark Fantasy" fits — genuinely heavy
+without being nihilistic, matching its tier-6 neighbors. Scored against the story as currently
+published/aired (manga ongoing, anime mid-run as of the original addition) — later arcs may shift
+this if the story resolves very differently.

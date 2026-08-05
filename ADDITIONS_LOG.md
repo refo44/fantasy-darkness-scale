@@ -451,7 +451,16 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
 **Tier 5 backlog complete (4/4).**
 
 **Tier 6** (2 pending)
-- [ ] Clevatess
+- [x] Clevatess — v2: tier 6 (unchanged from v1, score 6.1125). Lower-confidence entry than the
+  mainstream franchises above (a less widely-covered manga/anime, story ongoing/unresolved) —
+  scored partly from the existing summary already in this log rather than fresh primary-source
+  detail. Explicit Darkness at 4 (a named character carries an official content warning for
+  sustained physical/emotional/sexual abuse, plus infant trafficking and forced transformations)
+  is the standout axis. Reconsidered Structural Corruption down to 2 from the v1-era note's
+  implied higher weight — a corrupt cardinal reads as one bad actor within the church, not the
+  whole institution being irrecoverable — flagged as the axis with the most real uncertainty.
+  Redemption Difficulty stays low (1): Clevatess's found-family redemption is explicitly the
+  story's more accessible arc, not a costly one.
 - [ ] Re:Zero − Starting Life in Another World
 
 ## Queue
