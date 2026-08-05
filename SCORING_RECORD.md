@@ -1311,3 +1311,24 @@ tier 4 placement (v1 score 3.75), not the one-tier rise most of this backlog saw
 "Fantasy in Gray Tones" fits distinctly better than "Gloomy Fantasy" — the show's dominant
 register stays comedic/light even in its darker later seasons, unlike sustained-heavy peers like
 Kingkiller Chronicle or Dragonlance.
+
+## The Legend of Vox Machina
+
+Scored fresh against the rubric anchors, then checked against the full tier 4 and tier 5 rosters
+(not just neighbors) given the lessons from the two audit rounds above.
+
+* Structural Despair: 1 — each threat (Briarwood tyranny over Whitestone, the Chroma Conclave's draconic conquest, Vecna's bid for godhood) is severe, but the dominant pattern across the series is decisive defeat followed by real rebuilding (Whitestone liberated and held, Emon rebuilt) — no baked-in decaying-world backstory the way Avatar's Air Nomad genocide is.
+* Limited Heroism: 1 — genuinely complete victories, not just immediate threats stopped: Whitestone is freed and held, all four Chroma Conclave dragons are killed, Vecna's plan is stopped outright.
+* Moral Cynicism: 1 — classic heroic-fantasy moral physics: the found-family's loyalty and heroism are consistently, durably rewarded (wealth, standing, love, survival).
+* Structural Corruption: 1 — the Briarwoods' vampiric tyranny over Whitestone is real institutional evil, but it's one contained, fully-corrected incident, not a recurring, saga-wide condition the way Menzoberranzan is for Drizzt.
+* Redemption Difficulty: 2 — Percy's Orthax-fueled revenge spiral after his family's massacre is a real arc with genuine cost (he nearly loses his own moral compass) before his friends pull him back — matches "possible, but requires real sacrifice."
+* Narrative Acceptance of Injustice: 1 — every major injustice in the series (the usurpation, the draconic conquest, Vecna's bid for godhood) gets resolved within the story, not left as a permanent condition.
+* Explicit Darkness: 3 — TV-MA rated: confirmed on-screen gore, a torture/vivisection scene (Ripley on Grog), on-screen child deaths during the dragon attacks — frequent and genuinely detailed, though not central-and-recurring the way true body-horror shows (Goblin Slayer, Berserk) are, so not level 4.
+
+Weighted = 1.35 → Final Score = 4.8375 → **Tier 4**, between Final Fantasy XII (4.65) and
+Fullmetal Alchemist: Brotherhood (4.875). Checked against FMA specifically (near-identical
+profile except Structural Corruption 1 vs. FMA's 2) — holds up: FMA's genocide is a deep,
+historical, institutional condition, while the Briarwoods' usurpation is one contained incident
+that gets fully corrected. A wash from v1 (score 3.75, also tier 4) rather than a rise. Label
+check: "Fantasy in Gray Tones" fits — the show genuinely mixes raunchy comedy, found-family
+warmth, and real TV-MA violence rather than settling into one register.

@@ -399,7 +399,16 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
   Acceptance of Injustice stays up (the finale's specifically bleak critical reception), but
   Structural Despair and Limited Heroism both reverted to Avatar's level once it was clear they'd
   been inflated from that same finale fact rather than independent evidence.
-- [ ] The Legend of Vox Machina
+- [x] The Legend of Vox Machina — v2: tier 4 (unchanged from v1, score 4.8375). Scored fresh
+  against the rubric, then checked against the full tier 4/5 rosters. TV-MA content (confirmed
+  gore, an on-screen torture scene, on-screen child deaths) pushes Explicit Darkness to 3, but
+  the Briarwoods' tyranny is one contained, fully-corrected incident (not a recurring saga-wide
+  condition like Menzoberranzan in Drizzt) and heroism is consistently, durably effective
+  (Whitestone freed and held, all four Chroma Conclave dragons killed, Vecna stopped) — keeps
+  every other axis at 1 except Percy's costly Orthax/revenge redemption arc (2). Sits just below
+  Fullmetal Alchemist: Brotherhood, which it otherwise nearly matches, differing only on
+  Structural Corruption (FMA's genocide is a deep institutional condition; Whitestone's
+  usurpation is one corrected incident).
 
 **Tier 5** (4 pending)
 - [ ] Final Fantasy VI
