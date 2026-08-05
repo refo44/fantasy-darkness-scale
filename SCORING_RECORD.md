@@ -36,15 +36,28 @@ Weighted = 0 → Final Score = 1.5 → **Tier 1**
 
 ## The Nightmare Before Christmas
 
+**Revised** — flagged by the user as underscored after the v2 promotion went live. This was one
+of the first entries scored under v2, before the more disciplined process (checking against
+neighbors, weighing the full content list) used throughout the rest of this record.
+
 * Structural Despair: 0 — Halloween Town isn't structurally despairing, it's whimsical.
 * Limited Heroism: 0 — Jack's journey resolves fine on its own terms.
 * Moral Cynicism: 0 — good intentions ultimately triumph.
 * Structural Corruption: 0 — no corrupt institutions.
 * Redemption Difficulty: 1 — Jack needs a genuine, if mild, realization/effort.
 * Narrative Acceptance of Injustice: 0
-* Explicit Darkness: 2 — genuinely macabre/gothic imagery, Oogie Boogie threatening characters — real, visible peril, not just background tension.
+* Explicit Darkness: **3** (revised from 2) — this film's own history in this log already
+  documents the full breadth of content that justified its v1 tier-1-to-tier-2 move: pervasive
+  skeleton/monster-world visual design, Sally's *recurring* self-dismemberment as a body-horror
+  sight gag, Oogie Boogie sadistically gambling with Santa's life, children traumatized by
+  monstrous gifts, the military shooting down Jack's sleigh. That's frequent, genuinely macabre
+  content running through the entire film — matching level 3's "explicit, with frequency and
+  genuine detail" rather than level 2's "real but non-graphic." Not level 4: despite being
+  pervasive, the intensity stays stylized and PG-family-oriented rather than truly graphic.
 
-Weighted = 0.35 → Final Score = 2.288 → **Tier 2**
+Weighted = 0.45 → Final Score = 2.5125 → **Tier 2**, tied exactly with Legend (also SD0/LH0/MC0/
+SC0/RD1/NAI0/ED3) — a strong precedent match: both are "genuinely atmospheric horror-villain
+content, story otherwise resolves cleanly" films.
 
 ## The House in the Cerulean Sea
 

@@ -616,6 +616,12 @@ data that had been live throughout this entire backlog pass. Mechanics of the pr
   inserted as the new first entry (title: "El extraño mundo de Jack" in
   ES — the official Latin American dub title, notably different from a
   literal translation — "The Nightmare Before Christmas" in EN).
+- **v2 correction (post-promotion):** this entry's early v2 conversion (done before the more
+  disciplined process used throughout the rest of the backlog) had Explicit Darkness capped at 2
+  — flagged by the user as underscored once live. Revised to 3, matching this very entry's own
+  documented content list above (Sally's recurring self-dismemberment, Oogie Boogie's sadism, the
+  shooting-down sequence). v2: tier 2 (unchanged), score 2.5125, tied exactly with Legend. See
+  SCORING_RECORD.md for full reasoning.
 
 ### 12. The Legend of Vox Machina — Critical Role — TV
 
