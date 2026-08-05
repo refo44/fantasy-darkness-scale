@@ -438,7 +438,17 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
   matching the precedent set by Shinra and the Deathly Hallows Ministry. Kept Limited Heroism and
   Narrative Acceptance of Injustice low (1 each): the party's victory is unusually *complete* —
   every prior summoner only achieved temporary calm, but this one permanently ends the cycle.
-- [ ] Final Fantasy XV
+- [x] Final Fantasy XV — v2: tier 5 (unchanged from v1, score 5.8875, tied with Final Fantasy
+  VII/X/Harry Potter and the Order of the Phoenix/Half-Blood Prince). First pass landed tier 6 by
+  letting Ardyn's tragic betrayed-healer backstory inflate both Moral Cynicism *and* Narrative
+  Acceptance of Injustice toward the same "unresolved" conclusion — corrected by keeping Narrative
+  Acceptance of Injustice at 1, since the story's own central conflicts (occupation, the ten-year
+  Long Night, Ardyn's threat) are all fully resolved by Noctis's sacrifice; only Ardyn's ancient
+  personal grievance stays an unaddressed footnote, not the plot's organizing throughline. The
+  Long Night itself (sustained societal near-collapse over a decade) drives Structural Despair to
+  3, precedented by Final Fantasy VI/XIV, Mistborn, and Dark Souls.
+
+**Tier 5 backlog complete (4/4).**
 
 **Tier 6** (2 pending)
 - [ ] Clevatess

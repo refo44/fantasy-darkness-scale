@@ -1386,3 +1386,26 @@ Weighted = 1.95 → Final Score = 5.8875 → **Tier 5**, tied with Final Fantasy
 the Order of the Phoenix/Half-Blood Prince. v1 already had this at tier 5 (score 4.887), so a
 within-tier refinement, not a tier change. Label check: "Gloomy Fantasy" fits — genuinely bleak
 themes under a deceptively bright tropical-island surface.
+
+## Final Fantasy XV
+
+Distinguishing feature: a sustained, ten-year "Long Night" of near-total societal collapse
+(daemons overrun the world, humanity pushed to the brink of extinction) — an ongoing decline
+rather than a completed one-time event like Final Fantasy VI's apocalypse. First pass landed
+tier 6 (6.225) by letting Ardyn's tragic backstory inflate both Moral Cynicism and Narrative
+Acceptance of Injustice toward the same "unresolved injustice" conclusion; corrected below by
+keeping those two constructs doing genuinely separate work.
+
+* Structural Despair: 3 — the Long Night is a sustained, unremitting societal collapse over a full decade — precedented at this level elsewhere (Final Fantasy VI, Final Fantasy XIV, Mistborn, Dark Souls).
+* Limited Heroism: 1 — distinct evidence from Structural Despair above: Noctis's sacrifice permanently ends the Long Night and restores the world's light — a complete, root-cause fix, not just an immediate threat stopped.
+* Moral Cynicism: 2 — Ardyn was originally a healer betrayed and cursed by his own brother two thousand years ago for trying to do the right thing — real, distinct "goodness punished" cynicism.
+* Structural Corruption: 2 — Niflheim's MT-soldier experimentation program is real institutional evil, but it's one corrupt empire; Lucis, the protagonist's own institution, remains legitimate throughout — matches Harry Potter and the Order of the Phoenix's "one central institution gone bad" shape, not a multi-institution level-3 case.
+* Redemption Difficulty: 2 — Ardyn never achieves self-driven redemption, only receives Noctis's mercy in death at the very end — real cost, but he's not actively seeking redemption, so not a rare/mostly-fails level-3 case either.
+* Narrative Acceptance of Injustice: **1** (corrected from a first-pass 2) — kept distinct from Moral Cynicism above: the story's own central conflicts (the occupation, the Long Night, Ardyn's threat) are all fully resolved by the ending. Only Ardyn's ancient personal grievance stays an unresolved footnote — real, but not the plot's own organizing throughline the way Yevon's cycle is for Final Fantasy X.
+* Explicit Darkness: 3 — daemon body-horror, the implied MT-soldier experimentation, Luna's on-screen death, real combat violence throughout.
+
+Weighted = 1.95 → Final Score = 5.8875 → **Tier 5**, tied with Final Fantasy VII/X/Harry Potter
+and the Order of the Phoenix/Half-Blood Prince — staying at v1's tier (v1 score 4.881, also tier
+5) once Moral Cynicism and Narrative Acceptance of Injustice were disentangled rather than both
+restating the same Ardyn fact. Label check: "Gloomy Fantasy" fits well, matching v1's own note
+about "sacrificial kingship" making victory deeply bittersweet.
