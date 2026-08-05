@@ -1352,3 +1352,22 @@ Weighted = 1.85 → Final Score = 5.6625 → **Tier 5**, tied with The Kingkille
 qualitative match. v1 already had this at tier 5 (score 4.898), so this is a within-tier
 refinement, not a tier change. Label check: "Gloomy Fantasy" fits well — arguably one of the more
 intuitive fits in the tier given the game's own reputation as the classic series' darkest entry.
+
+## Final Fantasy VII
+
+* Structural Despair: 2 — Shinra's Mako extraction actively drains the planet throughout the story, but Holy's intervention and the ending's real hope for planetary recovery is a genuine, textually-supported counterweight — competing, no dominant trend.
+* Limited Heroism: 1 — Sephiroth/Meteor is fully stopped, and Shinra's institutional power is substantially broken over the course of the story (Diamond Weapon's rampage, near-total company collapse) — not just the villain falls, the corrupt institution itself takes lasting damage.
+* Moral Cynicism: 2 — Shinra calmly drops the Sector 7 plate on its own citizens (killing thousands) to eliminate a resistance cell, and faces no immediate in-story consequence for it.
+* Structural Corruption: 3 — Shinra is the planet's entrenched ruling power; its entire business model *is* exploitative extraction (human experimentation via the Jenova Project, burning Barret's hometown of Corel for resisting a reactor) — not one bad administrator's aberration, contrast Harry Potter and the Order of the Phoenix's Umbridge, capped at 2 specifically because her tyranny was one year's aberration.
+* Redemption Difficulty: 1 — Cloud's identity-crisis breakdown (his SOLDIER memories revealed as false, confused with his friend Zack's) is severe but resolves relatively cleanly with his friends' help once the truth surfaces.
+* Narrative Acceptance of Injustice: 2 — Shinra's power is broken (resolved), but Aerith's death — a deliberate, famous, never-undone permanent loss, a landmark design choice specifically to make loss feel real — persists unaddressed.
+* Explicit Darkness: 3 — Aerith's on-screen murder (one of gaming's most genuinely graphic-for-its-era death scenes), the Sector 7 plate drop's implied mass civilian death, the Nibelheim massacre.
+
+Weighted = 1.95 → Final Score = 5.8875 → **Tier 5**, tied with Harry Potter and the Order of the
+Phoenix/Half-Blood Prince. Useful cross-check against a non-neighbor tier-6 item: this profile
+matches Harry Potter and the Deathly Hallows (tier 6, 6.5625) on every axis except Redemption
+Difficulty (1 vs. 3) — a well-justified gap (Snape's decades-long secret redemption, dying without
+vindication, vs. Cloud's cleaner recovery) that accounts for the entire tier difference between
+them, giving confidence the rest of the profile is well-calibrated rather than just landing near a
+convenient neighbor. v1 already had this at tier 5 (score 4.909), so a within-tier refinement, not
+a tier change. Label check: "Gloomy Fantasy" fits well.

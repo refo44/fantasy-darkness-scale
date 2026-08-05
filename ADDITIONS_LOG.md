@@ -421,7 +421,15 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
   end the Empire's program rather than leaving injustice unaddressed. Explicit Darkness capped
   at 2 despite real dark content (a suicide attempt, on-screen deaths) since 16-bit sprite-era
   depiction can't deliver the graphic detail the level-3 anchor requires.
-- [ ] Final Fantasy VII
+- [x] Final Fantasy VII — v2: tier 5 (unchanged from v1, score 5.8875, tied with Harry Potter and
+  the Order of the Phoenix/Half-Blood Prince). Shinra's entrenched, planet-wide extraction
+  business model drives Structural Corruption to 3 (contrast HP Order of the Phoenix's Umbridge,
+  capped at 2 as one year's aberration). Cross-checked against Harry Potter and the Deathly
+  Hallows (tier 6): identical profile except Redemption Difficulty (1 vs. 3, Cloud's cleaner
+  recovery vs. Snape's decades-long uncredited redemption) — that one well-justified gap accounts
+  for the entire tier difference, a good sign the rest of the profile isn't just anchored to a
+  convenient neighbor. Aerith's permanent, famous, never-undone death drives Narrative Acceptance
+  of Injustice and Explicit Darkness.
 - [ ] Final Fantasy X
 - [ ] Final Fantasy XV
 
