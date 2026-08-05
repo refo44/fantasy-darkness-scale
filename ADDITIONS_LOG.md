@@ -374,7 +374,14 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
   and Narrative Acceptance of Injustice above its stablemates, even though Structural Corruption
   stays low — Irontown treats its own people, including outcasts, with genuine dignity; this is
   an external ecological war, not institutional exploitation.
-- [ ] Star vs. the Forces of Evil
+- [x] Star vs. the Forces of Evil — v2: tier 5 (up from 4, score 5.6625, tied with The Kingkiller
+  Chronicle). Scored directly against the already-rescored Avatar TLA (tier 4, 4.65) and Legend
+  of Korra (tier 5, 5.325) profiles given the shared "oppressed group + reconciliation" shape —
+  matches Korra axis-for-axis except one point higher on Narrative Acceptance of Injustice,
+  since the finale's total destruction of the magic dimension (rather than reforming the
+  Mewman/Monster caste system) is specifically read by critics/fans as a bleak, ambiguous
+  resolution rather than the more triumphant endings Avatar/Korra get. Not a claim this show is
+  darker across the board than Korra — just one narrow, evidenced differentiator.
 - [ ] The Legend of Vox Machina
 
 **Tier 5** (4 pending)

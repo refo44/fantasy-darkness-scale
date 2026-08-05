@@ -1259,3 +1259,23 @@ Moving Castle (tier 3, 3.6375), and The Boy and the Heron (tier 4, 4.875).
 Weighted = 1.8 → Final Score = 5.55 → **Tier 5**, tied with Ranking of Kings. A one-tier rise from
 v1, well-supported by the film's reputation as Miyazaki's most violent and morally complex work —
 notably darker on-screen than its Ghibli stablemates already on the scale.
+
+## Star vs. the Forces of Evil
+
+Scored directly against Avatar: The Last Airbender's already-rescored v2 profile (tier 4, 4.65:
+SD2/LH1/MC1/SC1/RD2/NAI1/ED2) and The Legend of Korra's (tier 5, 5.325: SD2/LH2/MC1/SC2/RD2/
+NAI1/ED2), given the shared "oppressed group + reconciliation" shape.
+
+* Structural Despair: 2 — Mewni's Mewman/Monster caste divide is centuries old and stable rather than actively worsening, but the finale's total destruction of the magic dimension is itself a real, irreversible structural collapse — no dominant trend either way.
+* Limited Heroism: 2 — matching Korra: the finale doesn't reform the underlying Mewman/Monster inequality, it erases the magic system that enabled it entirely, widely read by critics as a bleak, ambiguous last resort rather than a clean structural fix.
+* Moral Cynicism: 1 — matching Avatar/Korra: Star's own goodness is durably rewarded (reconciliation, real found-family with Monsters), keeping this level with its siblings despite Solaria's genocide being historically celebrated rather than punished.
+* Structural Corruption: 2 — matching Korra: the Mewman monarchy is explicitly built on and long benefited from genocide against Monsters — not an external empire like the Fire Nation, but the protagonist's own royal line.
+* Redemption Difficulty: 2 — matching Avatar/Korra: Eclipsa's redemption (centuries imprisoned for marrying a Monster) is real and achieved, but only at genuine, sustained cost.
+* Narrative Acceptance of Injustice: 2 — one point above Avatar/Korra: unlike their more unambiguously hopeful endings, this finale's resolution (destroying magic rather than fixing the caste system) is specifically read by critics and fans as ambivalent/bleak rather than triumphant — the one axis where this show is genuinely heavier than its closest siblings on the scale.
+* Explicit Darkness: 2 — matching Avatar/Korra: real on-screen war violence and permanent injury (Star loses an eye) by the later seasons, but still within Disney Channel's visual restraint.
+
+Weighted = 1.85 → Final Score = 5.6625 → **Tier 5**, tied with The Kingkiller Chronicle, just
+above Princess Mononoke/Ranking of Kings and its own franchise-sibling Legend of Korra. A one-tier
+rise from v1 (score 3.75) — the single, well-evidenced differentiator from Korra is the finale's
+specifically bleaker critical reception, not a wholesale claim that this show is darker across the
+board than its more mature-skewing sibling.
