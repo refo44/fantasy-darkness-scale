@@ -1242,3 +1242,20 @@ a natural fit given all three are multi-book epic-fantasy war sagas with real in
 darkness (slavery, corrupted magic/power) resolved through ultimately decisive, non-nihilistic
 heroism. A one-tier rise from v1, the same modest jump seen for Drizzt and Korra rather than the
 two-tier corrections elsewhere in this backlog.
+
+## Princess Mononoke
+
+Scored against the other already-rescored Ghibli films: Spirited Away (tier 3, 3.6375), Howl's
+Moving Castle (tier 3, 3.6375), and The Boy and the Heron (tier 4, 4.875).
+
+* Structural Despair: 2 — industrial expansion is depicted as inexorably destroying the forest/spirit world, a real structural decline only partially offset by the small hopeful regrowth shown in the closing shot.
+* Limited Heroism: 2 — Ashitaka's mediation stops the immediate death-spreading cataclysm but leaves the human/nature conflict explicitly unresolved: the forest stays visibly damaged, Irontown continues, and San and Ashitaka choose to live apart rather than a unifying resolution.
+* Moral Cynicism: 2 — the film's central thesis rejects "virtue produces good outcomes": Lady Eboshi's ruthless industrial pragmatism tangibly succeeds (Irontown thrives, she survives the climax), while the forest gods' more righteous resistance still ends in real, lasting loss.
+* Structural Corruption: 1 — Irontown itself isn't exploitative toward its own people — Eboshi gives lepers and former sex workers genuine dignity and equal status, unusually humane for the setting. This is an external ecological war, not institutional corruption toward the people within the institution's purview.
+* Redemption Difficulty: 1 — a minor thread rather than a central arc; Ashitaka's curse lingers rather than being fully lifted, but redemption isn't the story's main axis.
+* Narrative Acceptance of Injustice: 2 — genuinely ambivalent: the immediate crisis resolves, but the deeper human/nature tension is explicitly left as an ongoing condition of the world by the ending, not solved.
+* Explicit Darkness: 3 — unusually graphic for the medium: on-screen decapitation and severed limbs, Ashitaka's curse forcing him to kill involuntarily, and the Nightwalker's death-spreading climax.
+
+Weighted = 1.8 → Final Score = 5.55 → **Tier 5**, tied with Ranking of Kings. A one-tier rise from
+v1, well-supported by the film's reputation as Miyazaki's most violent and morally complex work —
+notably darker on-screen than its Ghibli stablemates already on the scale.

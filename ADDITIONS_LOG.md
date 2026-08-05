@@ -366,7 +366,14 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
   madness, not just stopping the Dark One — keeps Limited Heroism as low as LOTR's. Explicit
   Darkness lands above both neighbors given the sheer accumulated volume of dark content across
   fourteen books (Trolloc massacres, Padan Fain's body horror, Compulsion).
-- [ ] Princess Mononoke
+- [x] Princess Mononoke — v2: tier 5 (up from 4, score 5.55, matching Ranking of Kings). Scored
+  against the other Ghibli films already rescored (Spirited Away, Howl's, Boy & Heron) — clearly
+  the most graphically violent of the four (on-screen decapitation, Ashitaka's curse forcing
+  involuntary killing), and its refusal of a "virtue is rewarded" framework (Eboshi's ruthless
+  pragmatism succeeds where the forest gods' righteous resistance doesn't) pushes Moral Cynicism
+  and Narrative Acceptance of Injustice above its stablemates, even though Structural Corruption
+  stays low — Irontown treats its own people, including outcasts, with genuine dignity; this is
+  an external ecological war, not institutional exploitation.
 - [ ] Star vs. the Forces of Evil
 - [ ] The Legend of Vox Machina
 
