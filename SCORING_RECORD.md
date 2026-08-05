@@ -1221,16 +1221,21 @@ that's double- and triple-counting one piece of evidence across three different 
 the Explicit Darkness bump, which rests on separate evidence, survives independent scrutiny:
 
 * Structural Despair: 2 — unchanged from Avatar. Real recurring upheaval across all four books (Amon, Unalaq, Zaheer, Kuvira), balanced against real rebuilding and an optimistic "New Spirit Age" by the finale.
-* Limited Heroism: **2** (up from Avatar's 1, unchanged from original pass) — each season's antagonist is stopped, but the underlying political condition rarely is: defeating Amon doesn't resolve bender/non-bender inequality. This bump holds on its own: Avatar TLA's war-ending victory was more structurally complete than any single Korra book's resolution.
+* Limited Heroism: 2 (up from Avatar's 1) — each season's antagonist is stopped, but the underlying political condition rarely is: defeating Amon doesn't resolve bender/non-bender inequality. This holds on independent, distinct evidence from Structural Despair above: Avatar TLA's war-ending victory was more structurally complete than any single Korra book's resolution.
 * Moral Cynicism: 1 — unchanged. The antagonists (Amon, Zaheer, Kuvira) are each given a more sympathetic ideological critique than TLA's Fire Nation ever was, but that's moral complexity, not a cynical moral physics where virtue goes unrewarded.
-* Structural Corruption: **1** (reverted to Avatar's level) — on reflection, Kuvira's regime is one central institution gone bad (matching Avatar's Fire Nation shape), not injustice rooted across *multiple* central institutions the way the level-2 anchor requires; Republic City's own council flaws in Book 1 are addressed within a season, not a sustained systemic condition.
+* Structural Corruption: 1 — reverted to Avatar's level: Kuvira's regime is one central institution gone bad (matching Avatar's Fire Nation shape), not injustice rooted across *multiple* central institutions the way the level-2 anchor requires.
 * Redemption Difficulty: 2 — unchanged. Amon/Tarrlok's arc ends in murder-suicide, a genuine failure to redeem, comparable in cost to Zuko's arc in the original series.
-* Narrative Acceptance of Injustice: **1** (reverted to Avatar's level) — the Earth Kingdom's political future being left open in the finale's closing scene is a minor, largely unremarked-on beat, not a sustained thematic throughline the way Star vs. the Forces of Evil's finale is — doesn't clear the bar for a level-2 bump.
-* Explicit Darkness: **3** (revised from 2) — Amon's bending removal, Korra's season-long visible physical/psychological wasting after Zaheer's poisoning, and P'Li's on-screen death are unusually frank and frequent for the format — widely noted by critics as surprisingly dark for children's television, past the level-2 "real but non-graphic" anchor.
+* Narrative Acceptance of Injustice: 1 — reverted to Avatar's level: the Earth Kingdom's political future being left open in the finale's closing scene is a minor, largely unremarked-on beat, not a sustained thematic throughline.
 
-Weighted = 1.8 → Final Score = 5.55 → **Tier 5**, tied with Princess Mononoke and The Dark Elf &
-Drizzt, one tier above Avatar — matching Korra's relative position in v1, where it was also one
-tier above Avatar (v1 tier 4 vs. Avatar's v1 tier 3).
+**Second-pass re-audit** (prompted by checking against the *entire* tier roster, not just neighbors — comparing against Fullmetal Alchemist: Brotherhood specifically, a non-adjacent tier-4 item involving literal genocide, is what surfaced this): the Explicit Darkness bump below didn't survive that check.
+
+* Explicit Darkness: **2** (reverted from a 3 that didn't survive scrutiny) — Amon's bending removal, Korra's poisoning arc, and P'Li's death are real and visceral for the format, but they're concentrated into a handful of arc-climax beats across four books/52 episodes, not the *frequent*, recurring darkness the level-3 anchor requires (contrast The Wheel of Time's near-constant violence sustained across fourteen novels, or Drizzt's across 30+ books) — most individual episodes of Korra are not graphically dark. Matches Avatar's level.
+
+Weighted = 1.7 → Final Score = 5.325 → **Tier 5**, tied with Skyrim/The Silmarillion, one tier
+above Avatar — matching Korra's relative position in v1, where it was also one tier above Avatar
+(v1 tier 4 vs. Avatar's v1 tier 3). This is a real, if marginal, tier-5 case (driven specifically
+by Limited Heroism, on distinct evidence from every other axis) rather than a comfortable one —
+noted here since a similar-looking case (Star vs. the Forces of Evil, below) did not hold up.
 
 Hopepunk = Yes (Fierce), matching Avatar's existing tag: the same structural shape of organized,
 active resistance (Team Avatar/Korra's allies) to real institutional oppression (Amon's
@@ -1277,19 +1282,32 @@ notably darker on-screen than its Ghibli stablemates already on the scale.
 ## Star vs. the Forces of Evil
 
 Scored directly against Avatar: The Last Airbender's already-rescored v2 profile (tier 4, 4.65:
-SD2/LH1/MC1/SC1/RD2/NAI1/ED2) and The Legend of Korra's (tier 5, 5.325: SD2/LH2/MC1/SC2/RD2/
+SD2/LH1/MC1/SC1/RD2/NAI1/ED2) and The Legend of Korra's (tier 5, 5.325: SD2/LH2/MC1/SC1/RD2/
 NAI1/ED2), given the shared "oppressed group + reconciliation" shape.
 
-* Structural Despair: 2 — Mewni's Mewman/Monster caste divide is centuries old and stable rather than actively worsening, but the finale's total destruction of the magic dimension is itself a real, irreversible structural collapse — no dominant trend either way.
-* Limited Heroism: 2 — matching Korra: the finale doesn't reform the underlying Mewman/Monster inequality, it erases the magic system that enabled it entirely, widely read by critics as a bleak, ambiguous last resort rather than a clean structural fix.
-* Moral Cynicism: 1 — matching Avatar/Korra: Star's own goodness is durably rewarded (reconciliation, real found-family with Monsters), keeping this level with its siblings despite Solaria's genocide being historically celebrated rather than punished.
-* Structural Corruption: 2 — matching Korra: the Mewman monarchy is explicitly built on and long benefited from genocide against Monsters — not an external empire like the Fire Nation, but the protagonist's own royal line.
-* Redemption Difficulty: 2 — matching Avatar/Korra: Eclipsa's redemption (centuries imprisoned for marrying a Monster) is real and achieved, but only at genuine, sustained cost.
-* Narrative Acceptance of Injustice: 2 — one point above Avatar/Korra: unlike their more unambiguously hopeful endings, this finale's resolution (destroying magic rather than fixing the caste system) is specifically read by critics and fans as ambivalent/bleak rather than triumphant — the one axis where this show is genuinely heavier than its closest siblings on the scale.
-* Explicit Darkness: 2 — matching Avatar/Korra: real on-screen war violence and permanent injury (Star loses an eye) by the later seasons, but still within Disney Channel's visual restraint.
+**Second-pass re-audit** (prompted by checking against the entire tier roster rather than just
+neighbors): comparing this entry against Fullmetal Alchemist: Brotherhood — a non-adjacent tier-4
+item whose story centers on literal genocide, forced human transmutation, and body-horror alchemy
+— exposed that this profile couldn't plausibly score higher on three separate axes (Structural
+Despair, Limited Heroism, Narrative Acceptance of Injustice) than a genocide narrative capped at
+tier 4. On inspection, all three had been justified by the *same single fact* — the finale
+destroying the magic dimension instead of reforming the caste system — stacked across three
+different constructs. That's double/triple-counting one piece of evidence, the same failure mode
+already caught once in this backlog (Ranking of Kings' Moral Cynicism, Korra's original
+Structural Corruption/Narrative Acceptance bumps). Corrected below:
 
-Weighted = 1.85 → Final Score = 5.6625 → **Tier 5**, tied with The Kingkiller Chronicle, just
-above Princess Mononoke/Ranking of Kings and its own franchise-sibling Legend of Korra. A one-tier
-rise from v1 (score 3.75) — the single, well-evidenced differentiator from Korra is the finale's
-specifically bleaker critical reception, not a wholesale claim that this show is darker across the
-board than its more mature-skewing sibling.
+* Structural Despair: **1** (revised from 2) — the finale's cost is an ending *event*, not evidence about the world's basic trajectory. The show's actual sustained arc — growing Mewman/Monster integration over its run, culminating in Eclipsa's acceptance as co-ruler — is a real, shown improvement trend, matching Avatar's level.
+* Limited Heroism: **1** (revised from 2) — matching Avatar/FMA: the bulk of the show's heroism (Moon's reforms, increasing integration, Eclipsa's reintegration) produces real, fairly durable change; the finale's unusual last-resort ending doesn't override that pattern the way it would need to for a level-2 read.
+* Moral Cynicism: 1 — unchanged: Star's own goodness is durably rewarded (reconciliation, real found-family with Monsters), despite Solaria's genocide being historically celebrated rather than punished.
+* Structural Corruption: 2 — unchanged: the Mewman monarchy is explicitly built on and long benefited from genocide against Monsters — not an external empire like the Fire Nation, but the protagonist's own royal line. (Independent evidence from the SD/LH/NAI cluster above — this is about the institution's history, not the finale.)
+* Redemption Difficulty: 2 — unchanged: Eclipsa's redemption (centuries imprisoned for marrying a Monster) is real and achieved, but only at genuine, sustained cost.
+* Narrative Acceptance of Injustice: 2 — the one bump that survives independent scrutiny, and the only one of the three that should have been made: unlike Avatar/Korra's more unambiguously hopeful endings, this finale's resolution (destroying magic rather than fixing the caste system) is specifically read by critics and fans as ambivalent/bleak rather than triumphant.
+* Explicit Darkness: 2 — unchanged: real on-screen war violence and permanent injury (Star loses an eye) by the later seasons, but still within Disney Channel's visual restraint.
+
+Weighted = 1.55 → Final Score = 4.9875 → **Tier 4** (revised from tier 5, 5.6625), tied with Tales
+from Earthsea/Adventure Time — reasonable company, all three being animated works that read as
+light/comedic on the surface but carry genuine darkness underneath. This matches v1's original
+tier 4 placement (v1 score 3.75), not the one-tier rise most of this backlog saw. Label check:
+"Fantasy in Gray Tones" fits distinctly better than "Gloomy Fantasy" — the show's dominant
+register stays comedic/light even in its darker later seasons, unlike sustained-heavy peers like
+Kingkiller Chronicle or Dragonlance.

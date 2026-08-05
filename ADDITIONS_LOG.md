@@ -339,13 +339,13 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
   check: "Gloomy Fantasy" fits better than the former "Fantasy in Gray Tones" — Drizzt is
   unambiguously good and Menzoberranzan unambiguously evil, so this isn't morally gray the way
   Earthsea/Witch Hat Atelier are, just genuinely dark content inside a heroic-adventure register.
-- [x] The Legend of Korra — v2: tier 5 (up from 4, score 5.55 — see re-audit note below). Scored
+- [x] The Legend of Korra — v2: tier 5 (up from 4, score 5.325 — see re-audit notes below). Scored
   directly against Avatar: The Last Airbender's already-rescored v2 profile (tier 4, 4.65) per
-  the v1 note's own framing ("heavier than its predecessor") — Limited Heroism rises (Amon's
-  defeat doesn't fix bender/non-bender inequality) and Explicit Darkness rises (Korra's
-  season-long visible PTSD after Zaheer's poisoning, unusually frank for the format), while
-  Moral Cynicism and Redemption Difficulty stay level with Avatar. Hopepunk = Yes (Fierce),
-  matching Avatar's tag.
+  the v1 note's own framing ("heavier than its predecessor") — Limited Heroism rises on its own,
+  independent evidence (Amon's defeat doesn't fix bender/non-bender inequality; Avatar's
+  war-ending victory was more structurally complete), while Structural Corruption, Narrative
+  Acceptance of Injustice, and Explicit Darkness all stay level with Avatar. Hopepunk = Yes
+  (Fierce), matching Avatar's tag.
 - [x] The Wheel of Time — v2: tier 5 (up from 4, score 5.55 — see re-audit note below). Scored
   against both LOTR and Dragonlance as close genre neighbors. The Seanchan Empire's a'dam
   slave-collar system for channelers (state law, not aberration, only a truce secured by
@@ -355,36 +355,50 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
   lands above both neighbors given the sheer accumulated volume of dark content across fourteen
   books (Trolloc massacres, Padan Fain's body horror, Compulsion).
 
-  **Re-audit (all four items above), prompted by a user observation that six consecutive v2
-  rescores had all landed in tier 5:** re-derived each axis of all six recent tier-5-landing
-  items (these four plus Princess Mononoke and Star vs. the Forces of Evil, both logged below)
-  directly against the rubric anchor text, instead of "unchanged from the last-scored neighbor."
-  Root cause confirmed: several axes had been set by copying a neighbor's value forward rather
-  than independently re-deriving it, and by using one piece of evidence to justify bumps on
-  multiple different constructs at once (e.g. Korra's Kuvira-regime screen-time originally
-  inflated Limited Heroism, Structural Corruption, *and* Narrative Acceptance of Injustice
-  simultaneously — kept only on the one axis it most directly supports). Result: Ranking of
-  Kings dropped a full tier (5→4, Moral Cynicism 2→1 and Redemption Difficulty 1→0, both with
-  specific textual justification already sitting in this log); Drizzt, Korra, and Wheel of Time
-  each had one or two axes corrected but stayed in tier 5, converging with Princess Mononoke at
-  5.55; Mononoke and Star vs. the Forces of Evil held unchanged after the same scrutiny. Full
-  per-axis reasoning for all four changed entries is in SCORING_RECORD.md.
-- [x] Princess Mononoke — v2: tier 5 (up from 4, score 5.55, matching Ranking of Kings). Scored
-  against the other Ghibli films already rescored (Spirited Away, Howl's, Boy & Heron) — clearly
-  the most graphically violent of the four (on-screen decapitation, Ashitaka's curse forcing
-  involuntary killing), and its refusal of a "virtue is rewarded" framework (Eboshi's ruthless
-  pragmatism succeeds where the forest gods' righteous resistance doesn't) pushes Moral Cynicism
-  and Narrative Acceptance of Injustice above its stablemates, even though Structural Corruption
-  stays low — Irontown treats its own people, including outcasts, with genuine dignity; this is
-  an external ecological war, not institutional exploitation.
-- [x] Star vs. the Forces of Evil — v2: tier 5 (up from 4, score 5.6625, tied with The Kingkiller
-  Chronicle). Scored directly against the already-rescored Avatar TLA (tier 4, 4.65) and Legend
-  of Korra (tier 5, 5.325) profiles given the shared "oppressed group + reconciliation" shape —
-  matches Korra axis-for-axis except one point higher on Narrative Acceptance of Injustice,
-  since the finale's total destruction of the magic dimension (rather than reforming the
-  Mewman/Monster caste system) is specifically read by critics/fans as a bleak, ambiguous
-  resolution rather than the more triumphant endings Avatar/Korra get. Not a claim this show is
-  darker across the board than Korra — just one narrow, evidenced differentiator.
+  **Re-audit round 1 (Ranking of Kings, Drizzt, Korra, Wheel of Time), prompted by a user
+  observation that six consecutive v2 rescores had all landed in tier 5:** re-derived each axis
+  of all six recent tier-5-landing items (these four plus Princess Mononoke and Star vs. the
+  Forces of Evil, both logged below) directly against the rubric anchor text, instead of
+  "unchanged from the last-scored neighbor." Root cause: several axes had been set by copying a
+  neighbor's value forward rather than independently re-deriving it. Result at this stage:
+  Ranking of Kings dropped a full tier (5→4); Drizzt and Wheel of Time each had 1-2 axes
+  corrected but stayed in tier 5; Korra and Mononoke/Star vs. the Forces of Evil looked unchanged
+  after this first pass — but see round 2 below, where two more of these didn't hold up.
+
+  **Re-audit round 2, prompted by extending the check to the entire tier roster (not just
+  neighbors) on both the old and new tier, plus a genuine tier-label read:** comparing Korra and
+  Star vs. the Forces of Evil against Fullmetal Alchemist: Brotherhood — a non-adjacent tier-4
+  item centered on literal genocide and body-horror alchemy — surfaced that neither one should
+  plausibly outscore it on Structural Despair/Limited Heroism/Narrative Acceptance of Injustice.
+  Both had the same root cause: one single fact (Kuvira's on-screen regime for Korra; the
+  finale's magic-destruction for Star vs. the Forces of Evil) had been used to justify bumps on
+  two or three *different* constructs simultaneously — the same double-counting failure round 1
+  was supposed to catch, just missed because round 1 only tested neighbor-adjacent comparisons.
+  Star vs. the Forces of Evil drops a full tier (5→4, score 4.9875), landing back at its v1 tier
+  with only the one well-evidenced Narrative Acceptance of Injustice bump surviving. Korra keeps
+  its tier-5 placement (on Limited Heroism, which rests on genuinely separate evidence) but drops
+  from 5.55 to 5.325 after its Explicit Darkness bump also didn't survive a frequency check
+  against true multi-volume-saga peers (Wheel of Time, Drizzt). Label checks: "Fantasy in Gray
+  Tones" fits Star vs. the Forces of Evil better than "Gloomy Fantasy" now — the show's dominant
+  register stays comedic even in its darker seasons. Full per-axis reasoning for both is in
+  SCORING_RECORD.md.
+- [x] Princess Mononoke — v2: tier 5 (up from 4, score 5.55, matching Drizzt/Wheel of Time).
+  Scored against the other Ghibli films already rescored (Spirited Away, Howl's, Boy & Heron) —
+  clearly the most graphically violent of the four (on-screen decapitation, Ashitaka's curse
+  forcing involuntary killing), and its refusal of a "virtue is rewarded" framework (Eboshi's
+  ruthless pragmatism succeeds where the forest gods' righteous resistance doesn't) pushes Moral
+  Cynicism and Narrative Acceptance of Injustice above its stablemates, even though Structural
+  Corruption stays low — Irontown treats its own people, including outcasts, with genuine
+  dignity; this is an external ecological war, not institutional exploitation. Checked against
+  the full tier 4 and tier 5 rosters (not just neighbors) in both re-audit rounds — held up both
+  times, including against Fullmetal Alchemist: Brotherhood, since each axis traces to distinct,
+  specific film content rather than one fact reused across constructs.
+- [x] Star vs. the Forces of Evil — v2: **tier 4** (unchanged from v1, score 4.9875, tied with
+  Tales from Earthsea/Adventure Time — see re-audit round 2 above). Structural Corruption stays
+  up (the Mewman monarchy's genocide history is independent, specific evidence) and Narrative
+  Acceptance of Injustice stays up (the finale's specifically bleak critical reception), but
+  Structural Despair and Limited Heroism both reverted to Avatar's level once it was clear they'd
+  been inflated from that same finale fact rather than independent evidence.
 - [ ] The Legend of Vox Machina
 
 **Tier 5** (4 pending)
