@@ -1371,3 +1371,18 @@ vindication, vs. Cloud's cleaner recovery) that accounts for the entire tier dif
 them, giving confidence the rest of the profile is well-calibrated rather than just landing near a
 convenient neighbor. v1 already had this at tier 5 (score 4.909), so a within-tier refinement, not
 a tier change. Label check: "Gloomy Fantasy" fits well.
+
+## Final Fantasy X
+
+* Structural Despair: 3 — Sin has destroyed civilizations in an entrenched, thousand-year repeating cycle; for nearly all of Spira's history this is simply endured, not improved — only the party's unique circumstances (Tidus's existence as a Dream, the party's refusal to accept Yuna's expected sacrifice) finally break the pattern.
+* Limited Heroism: 1 — genuinely one of the more complete victories in this dataset: every prior summoner in a thousand years only achieved *temporary* calm before Sin's inevitable return, but Yuna's party permanently destroys Sin and Yu Yevon, the actual root cause, not just the immediate threat.
+* Moral Cynicism: 2 — countless summoners across a thousand years followed Yevon's teachings faithfully and were sacrificed for nothing but the institution's self-preservation — real, distinct betrayal-of-faith, separate from the institutional-structure fact below.
+* Structural Corruption: 3 — Yevon is Spira's fused church-and-state, founded on a colossal lie (Sin's true origin), knowingly perpetuating an unnecessary death-cycle to sustain itself and suppressing technological progress — matching the precedent set by Shinra (Final Fantasy VII) and Harry Potter and the Deathly Hallows' Ministry, not quite the "no exceptions" level-4 case since some priests (Seymour aside) are themselves deceived rather than complicit.
+* Redemption Difficulty: 1 — Auron's guilt over failing Braska and Jecht is real but resolves as acceptance of his own death ("being sent") rather than a severe, central redemption arc.
+* Narrative Acceptance of Injustice: 1 — the central injustice (the sacrifice cycle) is fully exposed and permanently ended by the story's own resolution, not left ambivalent or ongoing — distinct from Tidus's own personal, unresolved fading, which is an Explicit Darkness/tragedy fact rather than a broad injustice-persists pattern.
+* Explicit Darkness: 3 — Sin's city-leveling attacks (Zanarkand and Kilika both shown destroyed), Seymour murdering his own mother as a summoner sacrifice for personal power, the grotesque Final Aeon transformation of loved ones into monsters.
+
+Weighted = 1.95 → Final Score = 5.8875 → **Tier 5**, tied with Final Fantasy VII/Harry Potter and
+the Order of the Phoenix/Half-Blood Prince. v1 already had this at tier 5 (score 4.887), so a
+within-tier refinement, not a tier change. Label check: "Gloomy Fantasy" fits — genuinely bleak
+themes under a deceptively bright tropical-island surface.

@@ -430,7 +430,14 @@ Already fully rescored under v2: tiers 1, 7, 8, 9, 10 (every work in those tiers
   for the entire tier difference, a good sign the rest of the profile isn't just anchored to a
   convenient neighbor. Aerith's permanent, famous, never-undone death drives Narrative Acceptance
   of Injustice and Explicit Darkness.
-- [ ] Final Fantasy X
+- [x] Final Fantasy X — v2: tier 5 (unchanged from v1, score 5.8875, tied with Final Fantasy
+  VII/Harry Potter and the Order of the Phoenix/Half-Blood Prince). Sin's thousand-year repeating
+  destruction cycle, endured rather than improved for nearly all of Spira's history, drives
+  Structural Despair to 3. Yevon's church-and-state fusion — founded on a lie, knowingly
+  perpetuating an unnecessary death-cycle to sustain itself — drives Structural Corruption to 3,
+  matching the precedent set by Shinra and the Deathly Hallows Ministry. Kept Limited Heroism and
+  Narrative Acceptance of Injustice low (1 each): the party's victory is unusually *complete* —
+  every prior summoner only achieved temporary calm, but this one permanently ends the cycle.
 - [ ] Final Fantasy XV
 
 **Tier 6** (2 pending)
