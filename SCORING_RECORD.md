@@ -1537,3 +1537,22 @@ comparison: both are contained adventure-fantasy films with one real threat axis
 Sky's militarist antagonist vs. Labyrinth's personal-growth arc) and comparable atmospheric
 intensity. Cozy Fantasy = No, Hopepunk = No — a personal coming-of-age quest rather than a
 resistance-to-oppression or mortality-themed story.
+
+## Pan's Labyrinth (2006)
+
+New catalog addition, not a rescore.
+
+* Structural Despair: 2 — 1944 Francoist Spain is a real, sustained fascist occupation with the broader guerrilla war unresolved beyond this specific outpost; competing rather than a purely decaying trajectory.
+* Limited Heroism: 2 — Captain Vidal is killed and Mercedes and the baby survive, but that's a tiny, local win — the Francoist regime as a whole continues entirely untouched.
+* Moral Cynicism: 2 — genuinely ambiguous by the film's own design: Ofelia's virtue is punished in real-world terms (shot for refusing to harm her baby brother) but rewarded in the mythic register (reunion with her true immortal family) — the film deliberately holds both readings open rather than committing to either.
+* Structural Corruption: 3 — Vidal's military apparatus is thoroughly corrupt (torture and extrajudicial killing of innocents, a commander who views his own wife purely as a vessel for a male heir), though the guerrilla resistance stands as a real, non-corrupt alternative institution.
+* Redemption Difficulty: 0 — no wrongdoer earns back moral standing in this film; Vidal never redeems, and Ofelia isn't a wrongdoer needing repair — this axis doesn't structurally apply here.
+* Narrative Acceptance of Injustice: 3 — Carmen's death, the rabbit poacher's murder, and (in real-world terms) Ofelia's own death all stay permanent and unavenged by any systemic justice, only by personal retribution.
+* Explicit Darkness: 4 — among the most graphically intense films in this catalog: the bottle-torture/murder scene, the Pale Man's child-eating horror, Vidal's unflinching self-surgery, all shown in visceral, sustained detail — genuinely central and recurring.
+
+Weighted = 2.2 → Final Score = 6.45 → **Tier 6**, matching Made in Abyss exactly. Checked
+against Berserk (Tier 7): Pan's Labyrinth's Moral Cynicism and Redemption Difficulty are
+meaningfully lower — a tightly-constructed single film with a clear, if ambiguous, redemptive
+payoff, not an open-ended chronicle of escalating despair, so staying below Berserk holds up.
+Cozy Fantasy = No, Hopepunk = No. Label check: "Dark Fantasy" fits — brutal, but not nihilistic;
+Ofelia's moral integrity, not despair, is the film's actual thematic center.

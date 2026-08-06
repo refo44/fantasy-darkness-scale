@@ -532,7 +532,7 @@ data that had been live throughout this entire backlog pass. Mechanics of the pr
 13. [x] The Nightmare Before Christmas — DONE, see Completed
 14. [x] Willow (1988) — DONE, see Completed
 15. [x] Labyrinth (1986 film, dir. Jim Henson, David Bowie — a goblin king, a labyrinth, a stolen baby brother) — DONE, see Completed
-16. [ ] Pan's Labyrinth / El laberinto del fauno (2006 film, dir. Guillermo del Toro — a girl's dark fairy tale amid Falangist Spain)
+16. [x] Pan's Labyrinth / El laberinto del fauno (2006 film, dir. Guillermo del Toro — a girl's dark fairy tale amid Falangist Spain) — DONE, see Completed
 17. [ ] Attack on Titan (Shingeki no Kyojin) — Hajime Isayama — Manga, Anime
 18. [ ] Maleficent (2014 film, Angelina Jolie — Sleeping Beauty retold from the villain's side)
 19. [ ] (Des)encanto / Disenchantment (2018 TV series, Matt Groening)
@@ -576,6 +576,33 @@ data that had been live throughout this entire backlog pass. Mechanics of the pr
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 16. Pan's Labyrinth (2006) — Guillermo del Toro — Film
+
+- Tier 6 (Dark Fantasy), Final Score 6.45 (Weighted Internal Score 2.2) — tied exactly with
+  Made in Abyss. Scored directly under v2 methodology (no v1 predecessor).
+- Scores: Structural Despair 2, Limited Heroism 2, Moral Cynicism 2, Structural Corruption 3,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 3, Explicit Darkness 4.
+- Rationale: Captain Vidal's Francoist military apparatus is thoroughly corrupt (torture,
+  extrajudicial killing of innocents, a commander who views his own wife purely as a vessel
+  for a male heir), and the film is among the most graphically intense in the catalog (the
+  bottle-torture/murder scene, the Pale Man's child-eating horror, Vidal's unflinching
+  self-surgery). Against that: Ofelia's moral integrity — refusing to harm her infant brother
+  even under lethal threat — is the film's real thematic center, not despair for its own sake,
+  and the story deliberately keeps Moral Cynicism ambiguous rather than committing to a purely
+  cynical reading (her death is framed, in the mythic register, as meaningful rather than
+  senseless). Checked against Berserk (Tier 7): Pan's Labyrinth's lower Moral Cynicism and
+  Redemption Difficulty (0, since no wrongdoer here earns back moral standing — Vidal never
+  redeems, and Ofelia isn't a wrongdoer needing repair) keep it a full tier below, appropriately
+  — a tightly-constructed single film with a clear redemptive payoff, not an open-ended
+  chronicle of escalating despair.
+- Cozy Fantasy = No. Hopepunk = No — Ofelia's disobedience-as-virtue doesn't fit Fierce
+  (no organized resistance she's part of) or Bittersweet (her death isn't framed as an
+  existential-mortality theme chosen knowingly, the way Frieren's is) cleanly enough to tag.
+- Added to xlsx row 80, and to tier 6 on both index.html and es/index.html, inserted right
+  before Made in Abyss's former position, now sharing its exact score (title: "El laberinto del
+  fauno" in ES, the standard title in both Spain and Latin America — "Pan's Labyrinth" in EN;
+  medium: "Película" / "Film").
 
 ### 15. Labyrinth (1986) — Jim Henson — Film
 
