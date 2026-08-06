@@ -181,15 +181,28 @@ Weighted = 1.9 → Final Score = 5.775 → **Tier 5**
 
 ## Berserk
 
-* Structural Despair: 3
-* Limited Heroism: 2
-* Moral Cynicism: 3
-* Structural Corruption: 2
-* Redemption Difficulty: 3
-* Narrative Acceptance of Injustice: 2
-* Explicit Darkness: 4
+**Re-audited.** The original entry above had no documented reasoning at all — just a bare list
+of numbers, unlike every other entry in this record — a strong sign it predates the disciplined
+process used throughout the rest of this project, the same pattern that made The Nightmare
+Before Christmas wrong when checked properly. Flagged by the user as looking too low relative to
+Attack on Titan; re-derived from scratch below, resisting the pull toward a uniform
+"everything is severe" default the same way Märchen Crown and Attack on Titan's first passes did.
 
-Weighted = 2.65 → Final Score = 7.4625 → **Tier 7**
+* Structural Despair: 3 — the Idea of Evil (an explicit cosmic feedback loop where despair generates the entity that causes more despair) and the actively-worsening Astral Age collapse are real and severe. Considered 4 (matching Warhammer 40,000/The First Law/Elden Ring), but those three state their doom as an unambiguous, narrator-confirmed setting law, while Berserk's cosmic-doom theory is voiced by one character (the Skull Knight) rather than confirmed as absolute — stays at 3.
+* Limited Heroism: **3** (revised from 2) — genuinely underscored originally: across 40+ volumes, Guts never achieves a lasting structural win against Griffith/the God Hand, and causality itself is shown bending to enable Griffith's rise in the first place. Closer to "even the biggest victories are insufficient" than "resolves the threat, root causes intact."
+* Moral Cynicism: 3 — unchanged, well-supported: Griffith's total betrayal of his own loyal friends is rewarded with literal godhood.
+* Structural Corruption: 2 — tested raising to 3 for the Holy See/Conviction arc's real institutional atrocity (mass executions, an apostle-saint ritually torturing children), but checking against A Song of Ice and Fire's own documented reasoning ("the Iron Throne, the Faith, and the Great Houses are *all* deeply compromised") shows the level-3 bar is multi-institutional corruption across the whole setting. Berserk's corruption is real but concentrated in one arc, not pervasive the way Attack on Titan's two-institution structure or A Song of Ice and Fire's three-institution structure is — stays at 2.
+* Redemption Difficulty: 3 — unchanged, well-supported: Griffith never redeems, becomes literally demonic.
+* Narrative Acceptance of Injustice: **3** (revised from 2) — genuinely underscored originally: Casca's assault and resulting psychological regression stay unresolved for a massive span of the story, more sustained non-resolution than a typical level-2 case.
+* Explicit Darkness: 4 — unchanged, clearly correct: the Eclipse's explicit sexual violence and horror, sustained graphic content throughout.
+
+Weighted = 2.95 → Final Score = 8.1375 → **Tier 8** (revised from Tier 7, 7.4625) — a real,
+meaningful correction, not a reflexive bump: lands as its own distinct value, not an exact-profile
+match to any tier-8 neighbor (differs from A Song of Ice and Fire only on Structural Corruption;
+differs from Elden Ring on three independently-justified axes). Moving Berserk out of Tier 7
+leaves Attack on Titan alone there, returning it to the "solo" single-item layout. Label check:
+"Grimdark" arguably fits even better than "Extreme Dark Fantasy" did — Berserk is one of the
+genre's own defining touchstones.
 
 ## The Saga of Tanya the Evil
 

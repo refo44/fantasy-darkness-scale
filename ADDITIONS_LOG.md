@@ -515,6 +515,25 @@ data that had been live throughout this entire backlog pass. Mechanics of the pr
   each tier; no console errors; spot-checked the tier 6/7/8/10 boundaries and the Baldur's Gate/
   Final Fantasy split entries visually in-browser before committing.
 
+## Post-promotion corrections
+
+Fixes to already-live entries, found and corrected after the v2 promotion above.
+
+**Berserk** — flagged by the user as looking too low (tier 7, 7.4625) once Attack on Titan was
+added alongside it. The original score had **no documented reasoning at all** — just a bare list
+of numbers in SCORING_RECORD.md, unlike every other entry — a strong sign it predated the
+disciplined process used throughout the rest of this project, the same root cause that made The
+Nightmare Before Christmas wrong. Re-derived from scratch: Limited Heroism revised 2→3 (Guts
+never achieves a lasting structural win against Griffith/the God Hand across 40+ volumes) and
+Narrative Acceptance of Injustice revised 2→3 (Casca's trauma stays unresolved for a massive
+span of the story) — both on distinct, specific evidence, not a reflexive across-the-board bump.
+Structural Corruption was tested at 3 (for the Holy See/Conviction arc) but held at 2 after
+checking against A Song of Ice and Fire's own documented reasoning, which specifically requires
+multi-institutional corruption ("the Iron Throne, the Faith, and the Great Houses are *all*
+deeply compromised") — Berserk's corruption is real but concentrated in one arc. **Result: Tier
+8 (Grimdark)**, score 8.1375, up from Tier 7 — moving Berserk out of Tier 7 and leaving Attack on
+Titan alone there, back to the "solo" single-item layout. Full reasoning in SCORING_RECORD.md.
+
 ## Queue
 
 1. [x] El Principito (The Little Prince) — Antoine de Saint-Exupéry — Book — DONE, see Completed
@@ -579,8 +598,12 @@ data that had been live throughout this entire backlog pass. Mechanics of the pr
 
 ### 17. Attack on Titan (Shingeki no Kyojin) — Hajime Isayama — Manga / Anime
 
-- Tier 7 (Extreme Dark Fantasy), Final Score 7.8 (Weighted Internal Score 2.8) — joins Berserk,
-  which returns tier 7 to the standard grid layout (no longer a "solo" single-item tier).
+- **Update:** Berserk was re-audited shortly after this entry and moved to Tier 8 (see its own
+  entry below) — tier 7 is now solo again with Attack on Titan alone, not the grid layout
+  described below at the time.
+- Tier 7 (Extreme Dark Fantasy), Final Score 7.8 (Weighted Internal Score 2.8) — at the time,
+  joined Berserk, which returned tier 7 to the standard grid layout (no longer a "solo"
+  single-item tier).
 - Scores: Structural Despair 3, Limited Heroism 2, Moral Cynicism 3, Structural Corruption 3,
   Redemption Difficulty 3, Narrative Acceptance of Injustice 2, Explicit Darkness 4.
 - Rationale: first pass landed tier 8 (an exact profile match for A Song of Ice and Fire) by
