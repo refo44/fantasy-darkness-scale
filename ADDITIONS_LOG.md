@@ -533,7 +533,7 @@ data that had been live throughout this entire backlog pass. Mechanics of the pr
 14. [x] Willow (1988) — DONE, see Completed
 15. [x] Labyrinth (1986 film, dir. Jim Henson, David Bowie — a goblin king, a labyrinth, a stolen baby brother) — DONE, see Completed
 16. [x] Pan's Labyrinth / El laberinto del fauno (2006 film, dir. Guillermo del Toro — a girl's dark fairy tale amid Falangist Spain) — DONE, see Completed
-17. [ ] Attack on Titan (Shingeki no Kyojin) — Hajime Isayama — Manga, Anime
+17. [x] Attack on Titan (Shingeki no Kyojin) — Hajime Isayama — Manga, Anime — DONE, see Completed
 18. [ ] Maleficent (2014 film, Angelina Jolie — Sleeping Beauty retold from the villain's side)
 19. [ ] (Des)encanto / Disenchantment (2018 TV series, Matt Groening)
 20. [ ] Calabozos y dragones / Dungeons & Dragons (1983 animated TV series)
@@ -576,6 +576,31 @@ data that had been live throughout this entire backlog pass. Mechanics of the pr
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 17. Attack on Titan (Shingeki no Kyojin) — Hajime Isayama — Manga / Anime
+
+- Tier 7 (Extreme Dark Fantasy), Final Score 7.8 (Weighted Internal Score 2.8) — joins Berserk,
+  which returns tier 7 to the standard grid layout (no longer a "solo" single-item tier).
+- Scores: Structural Despair 3, Limited Heroism 2, Moral Cynicism 3, Structural Corruption 3,
+  Redemption Difficulty 3, Narrative Acceptance of Injustice 2, Explicit Darkness 4.
+- Rationale: first pass landed tier 8 (an exact profile match for A Song of Ice and Fire) by
+  defaulting to maximum severity across every axis — the same trap caught before in Märchen
+  Crown. Corrected by checking each axis against real tier 6-8 precedent: Limited Heroism and
+  Narrative Acceptance of Injustice both pulled back from 3 to 2, since the ending achieves a
+  genuine, hard-won structural peace (the Rumbling stopped, real diplomatic reform, cross-ethnic
+  reconciliation) rather than "even the biggest wins are insufficient" — matching Berserk/Dark
+  Souls/Stormlight's profile shape on those two axes rather than A Song of Ice and Fire's. The
+  axes that held up under scrutiny (Structural Despair 3, Moral Cynicism 3, Redemption
+  Difficulty 3, Explicit Darkness 4) all have specific, distinct textual support, not a uniform
+  default. Structural Corruption 3 — two distinct, thoroughly corrupt institutions (Marley's
+  genocide-apparatus of ghettos/branding/child soldiers, and Eldia's own memory-erasure
+  brainwashing of its people) — is specifically what pushes this above Berserk, whose evil is
+  more cosmic/personal than institutional; the two profiles are otherwise identical.
+- Cozy Fantasy = No. Hopepunk = No — matches precedent; no work at tier 6 or darker carries the
+  tag on this scale.
+- Added to xlsx row 91, and to tier 7 on both index.html and es/index.html, inserted above
+  Berserk by score (title: "Ataque a los Titanes" in ES, the standard Latin American title —
+  "Attack on Titan" in EN; medium: "Manga, Anime").
 
 ### 16. Pan's Labyrinth (2006) — Guillermo del Toro — Film
 

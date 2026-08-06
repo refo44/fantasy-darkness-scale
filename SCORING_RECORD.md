@@ -1556,3 +1556,26 @@ meaningfully lower — a tightly-constructed single film with a clear, if ambigu
 payoff, not an open-ended chronicle of escalating despair, so staying below Berserk holds up.
 Cozy Fantasy = No, Hopepunk = No. Label check: "Dark Fantasy" fits — brutal, but not nihilistic;
 Ofelia's moral integrity, not despair, is the film's actual thematic center.
+
+## Attack on Titan (Shingeki no Kyojin)
+
+New catalog addition, not a rescore. First pass landed tier 8 (SD3/LH3/MC3/SC3/RD3/NAI3/ED4,
+score 8.475) — an exact match for A Song of Ice and Fire's profile, the same uniform-severity
+default caught before in Märchen Crown. Corrected by checking each axis against real precedent
+in the tier 6-8 data rather than defaulting to maximum severity across the board.
+
+* Structural Despair: 3 — centuries of cyclical oppression and brainwashing, and the epilogue's ambiguous final pages hint the cycle may not be fully broken. Comparable to Berserk/Dark Souls (both SD3), not more severe.
+* Limited Heroism: **2** (revised from a first-pass 3) — the ending achieves a genuine, structural fix: the Rumbling is stopped, real diplomatic peace begins, several characters get to live full, changed lives afterward (Historia's reforms, Armin's diplomacy). Closer to "resolves the threat, real change follows" than A Song of Ice and Fire/Elden Ring/Fire Punch's "even the biggest wins are insufficient" — matches Berserk/Dark Souls/The Stormlight Archive's LH2 instead.
+* Moral Cynicism: 3 — idealism is repeatedly, brutally punished (Erwin's calculated sacrifice of subordinates, Eren's own arc from protector to genocidal actor), matching Berserk/The Saga of Tanya the Evil/A Song of Ice and Fire precedent on real textual grounds.
+* Structural Corruption: 3 — two distinct, thoroughly corrupt institutions (Marley's genocide-apparatus of ghettos, ethnic branding, and a child-soldier program; Eldia's own memory-erasure brainwashing of its people) — a genuinely stronger case than most Structural Corruption 3 entries, and specifically what pushes this above Berserk, whose evil is more cosmic/personal than institutional.
+* Redemption Difficulty: 3 — multiple severe, only-partially-successful redemption arcs (Eren's deliberately unresolved one, Reiner's agonizing guilt-ridden one) — matches A Song of Ice and Fire/The First Law's rarity-of-redemption pattern on real textual grounds, not a lazy default.
+* Narrative Acceptance of Injustice: **2** (revised from a first-pass 3) — the story's dominant thesis is a hard-won, structural peace (real diplomatic reform, cross-ethnic reconciliation), with the cyclical-hatred implication landing as a subtle final-page coda, not the insisted-upon throughline A Song of Ice and Fire/The First Law build every chapter around. Notably, even Berserk itself only rates 2 here.
+* Explicit Darkness: 4 — Titans eating people alive, including children, is the series' literal defining visual signature from its first chapter onward — graphic, frequent, and central.
+
+Weighted = 2.8 → Final Score = 7.8 → **Tier 7**, joining Berserk. Comparing directly: identical
+profile except Structural Corruption (3 vs. Berserk's 2) — a clean, well-differentiated placement
+just above Berserk rather than a leap to Tier 8. Cozy Fantasy = No, Hopepunk = No — matches
+precedent (no work at Tier 6 or darker carries the tag on this scale). Label check: "Extreme
+Dark Fantasy" fits — genuinely one of the darkest works considered, but distinguished from Tier
+8's "no institution is safe, virtue is a liability" register by its real, hard-won structural
+resolution.
