@@ -1685,3 +1685,32 @@ Thieves" (2023 film, already in the catalog at Tier 2) by the "(1983)" suffix.
 
 Weighted = 0.55 → Final Score = 2.7375 → **Tier 2**, matching A Conspiracy of Truths exactly.
 Cozy Fantasy = No, Hopepunk = No.
+
+## The Magicians
+
+New catalog addition, not a rescore. Bundled entry covering Lev Grossman's novel trilogy (The
+Magicians, The Magician King, The Magician's Land) and the 2015-2020 Syfy TV adaptation, which
+diverges meaningfully in tone (the novels end with a genuine structural resolution — Quentin
+alive, a new magical realm created; the show ends with Quentin's death in a deliberately
+ambiguous sacrifice-or-suicide framing). Bundling check: estimated the two mediums separately
+(~Tier 5 for the novels, ~Tier 6 for the show) — a real but only 1-tier spread, smaller than the
+2+ tier gaps that triggered the Final Fantasy I/II/XII, Baldur's Gate, and Fullmetal Alchemist
+splits — so kept as one entry, scored to reflect the series as a whole rather than either medium
+alone.
+
+* Structural Despair: 1 — the series' explicit thesis (subverting Narnia-style portal fantasy) is that magic doesn't cure unhappiness — real, recurring personal stagnation/depression — but the fictional world itself isn't in structural decline; Fillory is saved and a new realm is built by the end.
+* Limited Heroism: 2 — the Beast is defeated and Fillory is repeatedly saved through real, meaningful heroism, but the wins are personally costly and don't resolve the underlying condition (Quentin's depression persists regardless of how much power he gains) — resolves the immediate threat, root causes intact.
+* Moral Cynicism: 2 — good characters suffer severely and disproportionately (Julia's assault happens to someone who did nothing to invite it; Reynard the Fox faces no real consequence for it) even though virtue is eventually vindicated by each book's end — genuinely competing, not reliably just.
+* Structural Corruption: 2 — Fillory's ruling gods (Ember/Umber) are negligent and capricious, and Reynard operates as an unaccountable predator; on Earth, Christopher Plover's real-world publishing legacy conceals his sexual abuse of Martin Chatwin for years — real, but concentrated in specific bad actors/institutions rather than the setting's central institutions (Brakebills itself is basically legitimate).
+* Redemption Difficulty: 2 — Julia's recovery from her assault costs her most of her humanity (she becomes a dryad-like being to survive it); Eliot's and Quentin's own growth arcs are hard-won, not easy — possible, but only at real cost.
+* Narrative Acceptance of Injustice: 2 — the novels resolve toward real hope (a new realm, lasting peace), but the show's ending deliberately refuses that same closure for Quentin specifically — genuinely ambivalent across the bundled work rather than settled either way.
+* Explicit Darkness: 3 — Julia's rape by Reynard (graphic and heavily discussed/criticized in both mediums, notably explicit in the show), Martin Chatwin's implied childhood sexual abuse, Alice's niffin transformation and death — frequent, genuine detail, though not sustained graphic body-horror as the work's central recurring mode.
+
+Weighted = 1.95 → Final Score = 5.8875 → **Tier 5**, tying Harry Potter and the Half-Blood
+Prince/Order of the Phoenix and Final Fantasy VII/X/XV. Neighbor check: sits just above The
+Kingkiller Chronicle (5.6625) — a close comp (young-adult-into-adult magic-school setting, real
+trauma) — appropriately darker given Kingkiller's Moral Cynicism was held at 1 ("Kvothe's own
+virtues are consistently rewarded") while this world's moral physics is genuinely more mixed.
+Cozy Fantasy = No, Hopepunk = No. Label check: "Gloomy Fantasy" fits — heavier and more
+psychologically unflinching than typical portal fantasy, without tipping into "Dark Fantasy"'s
+institutional-corruption register.

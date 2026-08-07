@@ -609,7 +609,7 @@ reasoning in SCORING_RECORD.md.
 18. [x] Maleficent (2014 film, Angelina Jolie — Sleeping Beauty retold from the villain's side) — DONE, see Completed
 19. [x] (Des)encanto / Disenchantment (2018 TV series, Matt Groening) — DONE, see Completed
 20. [x] Calabozos y dragones / Dungeons & Dragons (1983 animated TV series) — DONE, see Completed
-21. [ ] The Magicians — Lev Grossman — Novels, TV series
+21. [x] The Magicians — Lev Grossman — Novels, TV series — DONE, see Completed
 22. [ ] House of the Dragon — George R. R. Martin (A Song of Ice and Fire prequel) — TV series
 23. [ ] A Knight of the Seven Kingdoms (Dunk & Egg) — George R. R. Martin — Novellas
 24. [ ] Once Upon a Time (TV series)
@@ -648,6 +648,29 @@ reasoning in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 21. The Magicians — Lev Grossman — Novels, TV series
+
+- Tier 5 (Gloomy Fantasy), Final Score 5.8875 (Weighted Internal Score 1.95) — ties Harry Potter
+  and the Half-Blood Prince/Order of the Phoenix and Final Fantasy VII/X/XV.
+- Scores: Structural Despair 1, Limited Heroism 2, Moral Cynicism 2, Structural Corruption 2,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 2, Explicit Darkness 3.
+- Rationale: an explicit subversion of Narnia-style portal fantasy — magic and power don't cure
+  Quentin's depression, and real trauma (Julia's rape by the trickster god Reynard; Martin
+  Chatwin's implied childhood sexual abuse, which turns him into the story's central monster)
+  lands on good characters without narrative justification. Weighed against that: Brakebills
+  itself is a basically legitimate institution (not corrupt by design), heroism achieves real,
+  lasting wins (the Beast is defeated, Fillory is saved), and the novels resolve toward genuine
+  hope (a new magical realm, lasting peace) even though the TV adaptation deliberately refuses
+  that same closure for Quentin. Bundling check: estimated the novels and the Syfy TV series
+  separately (~Tier 5 vs. ~Tier 6) given their real tonal divergence, but the gap is only 1 tier —
+  smaller than the 2+ tier gaps that drove the Final Fantasy I/II/XII, Baldur's Gate, and
+  Fullmetal Alchemist splits — so kept as one bundled entry.
+- Cozy Fantasy = No. Hopepunk = No.
+- Added to xlsx row 100, and to tier 5 on both index.html and es/index.html, appended after the
+  existing 5.89 cluster (Harry Potter Half-Blood Prince/Order of the Phoenix, Final Fantasy
+  VII/X/XV) per score order; title "The Magicians" in EN, "Los Magos" in ES (the established
+  Spanish-language publisher title); medium: "Novels, TV series" / "Novelas, Serie de TV".
 
 ### 20. Dungeons & Dragons (1983) — Marvel Productions / TSR — TV Series
 
