@@ -1636,3 +1636,19 @@ Hopepunk = No — a personal betrayal/redemption arc, not a resistance-to-oppres
 mortality-themed (Bittersweet) shape. Label check: "Moderately Bright Fantasy" fits — contained
 political betrayal and redemption resolved cleanly, elevated past Tier 2's classic heroic-fantasy
 shape by the wing-mutilation trauma and Stefan's real, if isolated, tyranny.
+
+## Disenchantment
+
+New catalog addition, not a rescore.
+
+* Structural Despair: 1 — the kingdom's real threats (the elf-genocide-adjacent backstory, the flooding/apocalypse plot) are severe but get meaningfully addressed as the series progresses; dominant trend leans toward improvement.
+* Limited Heroism: 1 — Bean and friends achieve real, if chaotic and imperfect, victories against the show's major threats.
+* Moral Cynicism: 1 — the show satirizes institutions (monarchy's incompetence, religion's hypocrisy) as comedy, but Bean's own loyalty and goodness are ultimately rewarded, not punished.
+* Structural Corruption: 2 — multiple real corrupt power structures: Zog's often cruel, incompetent monarchy, and Dagmar's manipulative secret society (the Society of Encroachiology) actively scheming across the whole series.
+* Redemption Difficulty: 1 — Zog and Dagmar both have real wrongdoing (Zog turning his wife to stone; Dagmar's manipulations) with achievable, if messy, redemption threads.
+* Narrative Acceptance of Injustice: 1 — the show generally resolves its season-arcs (Elfo's death reversed, Dagmar's curse eventually addressed) with real effort.
+* Explicit Darkness: 2 — genuine dark content (Elfo's on-screen death, elf-blood-harvesting for immortality potions, Dagmar's stone-transformation) presented in Groening's exaggerated, comedy-adjacent animation style, which softens visceral impact — real but not graphic.
+
+Weighted = 1.25 → Final Score = 4.3125 → **Tier 4**, matching Witch Hat Atelier/Baldur's Gate II.
+Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" fits — real institutional
+darkness and genuine loss, softened by a fundamentally comedic, satirical register.

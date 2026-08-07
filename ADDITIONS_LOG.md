@@ -581,7 +581,7 @@ Full reasoning for all four in SCORING_RECORD.md.
 16. [x] Pan's Labyrinth / El laberinto del fauno (2006 film, dir. Guillermo del Toro — a girl's dark fairy tale amid Falangist Spain) — DONE, see Completed
 17. [x] Attack on Titan (Shingeki no Kyojin) — Hajime Isayama — Manga, Anime — DONE, see Completed
 18. [x] Maleficent (2014 film, Angelina Jolie — Sleeping Beauty retold from the villain's side) — DONE, see Completed
-19. [ ] (Des)encanto / Disenchantment (2018 TV series, Matt Groening)
+19. [x] (Des)encanto / Disenchantment (2018 TV series, Matt Groening) — DONE, see Completed
 20. [ ] Calabozos y dragones / Dungeons & Dragons (1983 animated TV series)
 21. [ ] The Magicians — Lev Grossman — Novels, TV series
 22. [ ] House of the Dragon — George R. R. Martin (A Song of Ice and Fire prequel) — TV series
@@ -622,6 +622,22 @@ Full reasoning for all four in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 19. Disenchantment (2018) — Matt Groening — TV Series
+
+- Tier 4 (Fantasy in Gray Tones), Final Score 4.3125 (Weighted Internal Score 1.25) — matches
+  Witch Hat Atelier/Baldur's Gate II: Shadows of Amn.
+- Scores: Structural Despair 1, Limited Heroism 1, Moral Cynicism 1, Structural Corruption 2,
+  Redemption Difficulty 1, Narrative Acceptance of Injustice 1, Explicit Darkness 2.
+- Rationale: real institutional darkness (Zog's cruel, incompetent monarchy; Dagmar's
+  manipulative secret society scheming across the whole series) and genuine dark content
+  (Elfo's on-screen death, elf-blood-harvesting for immortality potions, Dagmar's
+  stone-transformation), all softened by Groening's fundamentally comedic, satirical register
+  and exaggerated animation style — real but not graphic, and mostly resolved with effort
+  rather than left permanent.
+- Cozy Fantasy = No. Hopepunk = No.
+- Added to xlsx row 44, and to tier 4 on both index.html and es/index.html (title:
+  "(Des)encanto" in ES, the Latin American title — "Disenchantment" in EN; medium: "TV").
 
 ### 18. Maleficent (2014) — Robert Stromberg — Film
 
