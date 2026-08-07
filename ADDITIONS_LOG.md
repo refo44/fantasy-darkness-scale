@@ -809,8 +809,16 @@ Full reasoning for all four in SCORING_RECORD.md.
   disciplined process used throughout the rest of the backlog) had Explicit Darkness capped at 2
   — flagged by the user as underscored once live. Revised to 3, matching this very entry's own
   documented content list above (Sally's recurring self-dismemberment, Oogie Boogie's sadism, the
-  shooting-down sequence). v2: tier 2 (unchanged), score 2.5125, tied exactly with Legend. See
-  SCORING_RECORD.md for full reasoning.
+  shooting-down sequence). v2: tier 2 (unchanged), score 2.5125, tied exactly with Legend.
+- **v2 correction round 2 (post-relabel):** the user asked directly whether "Bright Fantasy"
+  (Tier 2's post-relabel name) is really the right fit. Tested pushing Redemption Difficulty and
+  Narrative Acceptance of Injustice up — would have crossed into Tier 3 — and rejected both: this
+  film is in fact the specific citation `CRITERIA_THEORY.md` uses to explain why Explicit
+  Darkness is allowed to diverge from the other six criteria, so a low structural profile with a
+  high Explicit Darkness is its *intended* shape, not an inconsistency. One smaller refinement
+  applied: Moral Cynicism 0→1 (Sally's warnings are repeatedly dismissed until vindicated). v2:
+  tier 2 (unchanged), score 2.85, now tied with Willow instead of Legend. See SCORING_RECORD.md
+  for full reasoning.
 
 ### 12. The Legend of Vox Machina — Critical Role — TV
 

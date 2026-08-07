@@ -36,28 +36,29 @@ Weighted = 0 → Final Score = 1.5 → **Tier 1**
 
 ## The Nightmare Before Christmas
 
-**Revised** — flagged by the user as underscored after the v2 promotion went live. This was one
-of the first entries scored under v2, before the more disciplined process (checking against
-neighbors, weighing the full content list) used throughout the rest of this record.
+**Revised twice.** First flagged by the user as underscored after the v2 promotion went live —
+this was one of the first entries scored under v2, before the more disciplined process used
+throughout the rest of this record. Second revisit: the user asked directly whether "Bright
+Fantasy" (Tier 2's post-relabel name) is really the right fit. Tested pushing Redemption
+Difficulty and Narrative Acceptance of Injustice up (Santa's real endangerment, the traumatized
+children whose fate is never explicitly shown being fixed) — a combination that would have
+pushed this to Tier 3. Rejected: Jack's path back costs him little beyond embarrassment, and the
+film's own ending is unambiguous and complete (Christmas restored properly, Oogie Boogie
+defeated, nothing left hanging). This film is in fact the specific citation
+`CRITERIA_THEORY.md` uses to explain why Explicit Darkness is allowed to diverge from the other
+six criteria — aesthetically macabre but structurally light is exactly its intended profile, not
+an inconsistency to correct away.
 
 * Structural Despair: 0 — Halloween Town isn't structurally despairing, it's whimsical.
 * Limited Heroism: 0 — Jack's journey resolves fine on its own terms.
-* Moral Cynicism: 0 — good intentions ultimately triumph.
+* Moral Cynicism: **1** (revised from 0) — Sally's repeated warnings against Jack's plan are dismissed throughout the film, only vindicated after real harm has already occurred — a small but real "good judgment ignored" thread.
 * Structural Corruption: 0 — no corrupt institutions.
-* Redemption Difficulty: 1 — Jack needs a genuine, if mild, realization/effort.
-* Narrative Acceptance of Injustice: 0
-* Explicit Darkness: **3** (revised from 2) — this film's own history in this log already
-  documents the full breadth of content that justified its v1 tier-1-to-tier-2 move: pervasive
-  skeleton/monster-world visual design, Sally's *recurring* self-dismemberment as a body-horror
-  sight gag, Oogie Boogie sadistically gambling with Santa's life, children traumatized by
-  monstrous gifts, the military shooting down Jack's sleigh. That's frequent, genuinely macabre
-  content running through the entire film — matching level 3's "explicit, with frequency and
-  genuine detail" rather than level 2's "real but non-graphic." Not level 4: despite being
-  pervasive, the intensity stays stylized and PG-family-oriented rather than truly graphic.
+* Redemption Difficulty: 1 — Jack needs a genuine, if mild, realization/effort; tested raising to 2 for the real risk to Santa's life, rejected since Jack's own path back costs him little beyond public embarrassment.
+* Narrative Acceptance of Injustice: 0 — tested raising to 1 for the traumatized children's fate being left implicit rather than explicitly shown resolved, rejected since the film's own ending is unambiguous and complete.
+* Explicit Darkness: 3 — this film's own history in this log already documents the full breadth of content that justified its v1 tier-1-to-tier-2 move: pervasive skeleton/monster-world visual design, Sally's *recurring* self-dismemberment as a body-horror sight gag, Oogie Boogie sadistically gambling with Santa's life, children traumatized by monstrous gifts, the military shooting down Jack's sleigh. That's frequent, genuinely macabre content running through the entire film — matching level 3's "explicit, with frequency and genuine detail" rather than level 2's "real but non-graphic." Not level 4: despite being pervasive, the intensity stays stylized and PG-family-oriented rather than truly graphic.
 
-Weighted = 0.45 → Final Score = 2.5125 → **Tier 2**, tied exactly with Legend (also SD0/LH0/MC0/
-SC0/RD1/NAI0/ED3) — a strong precedent match: both are "genuinely atmospheric horror-villain
-content, story otherwise resolves cleanly" films.
+Weighted = 0.6 → Final Score = 2.85 → **Tier 2** (unchanged), now tied with Willow instead of
+Legend.
 
 ## The House in the Cerulean Sea
 
