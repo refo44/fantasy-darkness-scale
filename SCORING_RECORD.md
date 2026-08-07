@@ -133,15 +133,17 @@ Weighted = 1.5 → Final Score = 4.875 → **Tier 4**
 
 ## Tales from Earthsea
 
-* Structural Despair: 2
-* Limited Heroism: 1
-* Moral Cynicism: 1
-* Structural Corruption: 1
-* Redemption Difficulty: 2
-* Narrative Acceptance of Injustice: 2
-* Explicit Darkness: 2
+**Re-audited.** No documented reasoning survived from the original score.
 
-Weighted = 1.55 → Final Score = 4.988 → **Tier 4**
+* Structural Despair: 2 — the "unbalancing" of magic Cob causes is a real, active, worsening problem for most of the film, but gets resolved by the ending — competing, not permanent.
+* Limited Heroism: 1 — Arren, Ged, and Therru achieve a fairly complete, durable fix (Cob defeated, balance restored).
+* Moral Cynicism: 1 — Cob's selfish quest for immortality causes real suffering, but there's no broader "cynicism triumphant" thread beyond the villain's own motivation.
+* Structural Corruption: 1 — a personal/mythic story, not one built around institutional critique.
+* Redemption Difficulty: 2 — Arren's own arc (confronting and integrating his shadow-self after committing patricide in the opening scene) is a real, costly personal redemption arc — killing his own father is about as severe a starting point for wrongdoing as exists.
+* Narrative Acceptance of Injustice: 2 — Therru's abuse/scarring is permanent even though she finds real acceptance and healing through found-family and her true dragon nature.
+* Explicit Darkness: **3** (revised from 2) — Arren's patricide in the opening scene and Therru's visible, sustained burn-scarring from abuse both push past typical Ghibli restraint, closer to Princess Mononoke's territory (also Explicit Darkness 3, "unusually graphic for the medium") than the studio's norm. Moderate confidence — a single film gives less material to calibrate against than a sprawling work.
+
+Weighted = 1.65 → Final Score = 5.2125 → **Tier 5** (revised from Tier 4, 4.988).
 
 ## Fullmetal Alchemist (2003)
 
@@ -232,19 +234,27 @@ Weighted = 3.1 → Final Score = 8.475 → **Tier 8**
 
 ## Dark Souls I–III
 
-* Structural Despair: 3
-* Limited Heroism: 2
-* Moral Cynicism: 2
-* Structural Corruption: 2
-* Redemption Difficulty: 3
-* Narrative Acceptance of Injustice: 2
-* Explicit Darkness: 3
+**Re-audited.** The previous entry (below, for the record) had no documented reasoning and an
+open, unresolved self-flag comparing it to Elden Ring. Revisited after the same pattern was
+found and fixed in Berserk.
 
-Weighted = 2.4 → Final Score = 6.9 → **Tier 6**
+Previous: Structural Despair 3, Limited Heroism 2, Moral Cynicism 2, Structural Corruption 2,
+Redemption Difficulty 3, Narrative Acceptance of Injustice 2, Explicit Darkness 3 → 6.9, Tier 6.
 
-Flagged as a likely inconsistency, not settled: compared against Elden Ring (same studio, same
-cyclical-decay cosmology), which scored consistently higher on nearly every axis for
-comparable content. Left as-is at the user's request rather than re-corrected.
+* Structural Despair: 3 — the opening narration itself states the world's cyclical, terminal decline as canonical fact, not a character's theory (contrast Berserk's Skull Knight-voiced Idea of Evil). Considered 4, matching Elden Ring, but Dark Souls' world still has functioning, if decaying, kingdoms — Elden Ring's Lands Between are already fully shattered before the story starts, a more totally-collapsed baseline. Stays at 3.
+* Limited Heroism: **3** (revised from 2) — both endings (link the fire / usher in the Age of Dark) are deliberately, famously unsatisfying by design — neither is a clean fix, matching "even the biggest victories are insufficient" rather than "immediate threat resolved."
+* Moral Cynicism: **3** (revised from 2) — Anor Londo's gods maintain an illusion of a thriving city while deceiving their own loyal citizens about the true decay — a specific, real "those in power betray those who trust them" marker.
+* Structural Corruption: **3** (revised from 2) — at least two distinct deceptive institutions (Anor Londo's gods, the Way of White's false-hope pilgrimage that leads undead to despair rather than salvation) — matches the multi-institutional bar established for Attack on Titan/A Song of Ice and Fire's Structural Corruption 3.
+* Redemption Difficulty: 3 — unchanged, well-supported: going Hollow is often irreversible.
+* Narrative Acceptance of Injustice: **3** (revised from 2) — both endings leave the fundamental cyclical doom structurally intact; neither resolves it, just picks a different flavor of continuing it.
+* Explicit Darkness: 3 — unchanged: restrained, environmental-storytelling horror rather than explicit gore, legitimately distinct from Berserk's Explicit Darkness 4.
+
+Weighted = 3.0 → Final Score = 8.25 → **Tier 8** (revised from Tier 6, 6.9). Flagged honestly:
+this profile is uniform threes, the exact pattern that produced errors twice already this
+session (Märchen Crown, Attack on Titan's first pass). Checked against Berserk's just-revised
+profile — differs specifically on Structural Corruption and Explicit Darkness, not an identical
+match — and the uniformity plausibly reflects FromSoftware's genuinely consistent bleak-by-design
+authorial thesis across every axis, not laziness. Moderate-high confidence, not full certainty.
 
 ## The First Law
 
@@ -292,27 +302,36 @@ prove the inconsistency against. Left as-is at the user's request.
 
 ## The Kingkiller Chronicle
 
-* Structural Despair: 2
-* Limited Heroism: 2
-* Moral Cynicism: 1
-* Structural Corruption: 2
-* Redemption Difficulty: 2
-* Narrative Acceptance of Injustice: 2
-* Explicit Darkness: 2
+**Re-audited, held.** No documented reasoning survived from the original score, so it was
+re-derived from scratch rather than assumed correct. Tested two revisions, both rejected:
 
-Weighted = 1.85 → Final Score = 5.6625 → **Tier 5**
+* Moral Cynicism: tested 1→2 for Ambrose's wealth/privilege letting him torment Kvothe with
+  near-total impunity, and Denna's unresolved abusive relationship. Rejected: Kvothe's own core
+  virtues (cleverness, determination, loyalty) are consistently, repeatedly rewarded across both
+  published books — the story's dominant moral thread is still "acting well brings good
+  results," despite these real but secondary unfairness threads. Held at 1.
+* Limited Heroism: tested 2→3 on the frame narrative's implication that Kvothe's later life
+  involves some catastrophic fall from grace. Rejected: this would be scoring based on
+  speculation about an unwritten third book rather than the two actually published — within what
+  exists, Kvothe's talent and effort repeatedly achieve real, durable results. Held at 2.
+
+* Structural Despair: 2 * Limited Heroism: 2 * Moral Cynicism: 1 * Structural Corruption: 2 *
+  Redemption Difficulty: 2 * Narrative Acceptance of Injustice: 2 * Explicit Darkness: 2
+
+Weighted = 1.85 → Final Score = 5.6625 → **Tier 5** (unchanged).
 
 ## Grimgar: Ashes and Illusions
 
-* Structural Despair: 2
-* Limited Heroism: 1
-* Moral Cynicism: 1
-* Structural Corruption: 1
-* Redemption Difficulty: 2
-* Narrative Acceptance of Injustice: 1
-* Explicit Darkness: 2
+**Re-audited, held.** No documented reasoning survived from the original score. Tested a trade
+rather than a one-sided bump: Narrative Acceptance of Injustice 1→2 (Manato's early death in a
+goblin ambush stays permanent, never undone) against Redemption Difficulty 2→1 (there isn't
+really a wrongdoer-redemption arc here — the series is about processing grief, not moral
+repair). The two moves cancel out almost exactly in the final score, so not worth editing.
 
-Weighted = 1.4 → Final Score = 4.65 → **Tier 4**
+* Structural Despair: 2 * Limited Heroism: 1 * Moral Cynicism: 1 * Structural Corruption: 1 *
+  Redemption Difficulty: 2 * Narrative Acceptance of Injustice: 1 * Explicit Darkness: 2
+
+Weighted = 1.4 → Final Score = 4.65 → **Tier 4** (unchanged).
 
 ## The Elder Scrolls V: Skyrim
 

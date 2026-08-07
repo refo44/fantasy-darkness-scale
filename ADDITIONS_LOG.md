@@ -534,6 +534,33 @@ deeply compromised") — Berserk's corruption is real but concentrated in one ar
 8 (Grimdark)**, score 8.1375, up from Tier 7 — moving Berserk out of Tier 7 and leaving Attack on
 Titan alone there, back to the "solo" single-item layout. Full reasoning in SCORING_RECORD.md.
 
+**Systematic sweep for the same signature.** Berserk's fix prompted a full search of
+SCORING_RECORD.md for the same tell (bare numbers, zero explanatory text). Found 7 more: Kiki's
+Delivery Service, Ponyo, and Warhammer 40,000 were confirmed *not* concerning (all-zero and
+all-four floor/ceiling cases genuinely don't need reasoning — there's nothing to explain). The
+other four were re-audited from scratch:
+
+- **Dark Souls I–III** — this one already carried an explicit self-flag ("likely inconsistency
+  ... compared against Elden Ring ... left as-is at the user's request"). Re-derived: Limited
+  Heroism, Moral Cynicism, Structural Corruption, and Narrative Acceptance of Injustice all
+  revised 2→3 on distinct, specific evidence (both endings are deliberately unsatisfying by
+  design; Anor Londo's gods deceive their own citizens; at least two distinct corrupt
+  institutions; neither ending resolves the cyclical doom). **Result: Tier 8**, score 8.25, up
+  from Tier 6 (6.9).
+- **Tales from Earthsea** — Explicit Darkness revised 2→3 (Arren's opening patricide, Therru's
+  sustained visible abuse-scarring push past typical Ghibli restraint). **Result: Tier 5**, score
+  5.2125, up from Tier 4 (4.988).
+- **The Kingkiller Chronicle** — reviewed and held. Two revisions tested (Moral Cynicism for
+  Ambrose's impunity; Limited Heroism for the frame narrative's implied future catastrophe),
+  both rejected — the first doesn't overcome Kvothe's consistently-rewarded virtue as the
+  dominant thread, the second would score based on an unwritten third book rather than the two
+  published ones.
+- **Grimgar: Ashes and Illusions** — reviewed and held. A Narrative Acceptance of
+  Injustice/Redemption Difficulty trade tested and rejected — the two moves cancel out almost
+  exactly, not worth the edit.
+
+Full reasoning for all four in SCORING_RECORD.md.
+
 ## Queue
 
 1. [x] El Principito (The Little Prince) — Antoine de Saint-Exupéry — Book — DONE, see Completed
