@@ -582,7 +582,7 @@ Full reasoning for all four in SCORING_RECORD.md.
 17. [x] Attack on Titan (Shingeki no Kyojin) — Hajime Isayama — Manga, Anime — DONE, see Completed
 18. [x] Maleficent (2014 film, Angelina Jolie — Sleeping Beauty retold from the villain's side) — DONE, see Completed
 19. [x] (Des)encanto / Disenchantment (2018 TV series, Matt Groening) — DONE, see Completed
-20. [ ] Calabozos y dragones / Dungeons & Dragons (1983 animated TV series)
+20. [x] Calabozos y dragones / Dungeons & Dragons (1983 animated TV series) — DONE, see Completed
 21. [ ] The Magicians — Lev Grossman — Novels, TV series
 22. [ ] House of the Dragon — George R. R. Martin (A Song of Ice and Fire prequel) — TV series
 23. [ ] A Knight of the Seven Kingdoms (Dunk & Egg) — George R. R. Martin — Novellas
@@ -622,6 +622,24 @@ Full reasoning for all four in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 20. Dungeons & Dragons (1983) — Marvel Productions / TSR — TV Series
+
+- Tier 2 (Bright Fantasy), Final Score 2.7375 (Weighted Internal Score 0.55) — matches A
+  Conspiracy of Truths exactly. Title carries a "(1983)" suffix to distinguish it from
+  "Dungeons & Dragons: Honor Among Thieves" (2023 film, already in the catalog at Tier 2).
+- Scores: Structural Despair 0, Limited Heroism 1, Moral Cynicism 0, Structural Corruption 0,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 2, Explicit Darkness 1.
+- Rationale: classic, restrained Saturday-morning-cartoon content on every axis except one — the
+  show's defining, often-remarked-on quality is that its central promise (getting the six kids
+  home) is never fulfilled, since the series was cancelled before a planned resolution could
+  air. Episode-level conflicts against Venger resolve cleanly each time, but that core injustice
+  never does, driving Narrative Acceptance of Injustice to 2 while every other axis stays at
+  genre-typical low values.
+- Cozy Fantasy = No. Hopepunk = No.
+- Added to xlsx row 19, and to tier 2 on both index.html and es/index.html (title: "Calabozos y
+  Dragones" in ES, the established Latin American title — "Dungeons & Dragons (1983)" in EN;
+  medium: "TV").
 
 ### 19. Disenchantment (2018) — Matt Groening — TV Series
 

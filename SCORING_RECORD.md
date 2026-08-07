@@ -1652,3 +1652,19 @@ New catalog addition, not a rescore.
 Weighted = 1.25 → Final Score = 4.3125 → **Tier 4**, matching Witch Hat Atelier/Baldur's Gate II.
 Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" fits — real institutional
 darkness and genuine loss, softened by a fundamentally comedic, satirical register.
+
+## Dungeons & Dragons (1983)
+
+New catalog addition, not a rescore. Distinguished from "Dungeons & Dragons: Honor Among
+Thieves" (2023 film, already in the catalog at Tier 2) by the "(1983)" suffix.
+
+* Structural Despair: 0 — the Realm itself isn't in decline; it's a fixed, danger-filled setting the kids must navigate, not a world on a trajectory.
+* Limited Heroism: 1 — the kids repeatedly, decisively defeat Venger's individual schemes episode-to-episode, but the series' central promise (getting home) is never fulfilled — the show was cancelled before a planned resolution could air.
+* Moral Cynicism: 0 — classic Saturday-morning-cartoon morality; teamwork and goodness are consistently rewarded, with an explicit moral lesson closing most episodes.
+* Structural Corruption: 0 — Venger is a personal antagonist, not an institution.
+* Redemption Difficulty: 0 — no central redemption arc among the main cast.
+* Narrative Acceptance of Injustice: 2 — the most distinctive axis for this show: episode-level conflicts resolve cleanly, but the defining injustice (six kids trapped away from their families) is never addressed by the story's own actual ending — a genuinely unusual, often-remarked-on quality for a kids' show.
+* Explicit Darkness: 1 — classic Saturday-morning restraint; real danger and tension, but no on-screen death or graphic violence.
+
+Weighted = 0.55 → Final Score = 2.7375 → **Tier 2**, matching A Conspiracy of Truths exactly.
+Cozy Fantasy = No, Hopepunk = No.
