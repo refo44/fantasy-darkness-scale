@@ -273,13 +273,18 @@ left tier 9 with zero occupants; see `ADDITIONS_LOG.md`.)
 
 ## Warhammer 40,000
 
-* Structural Despair: 4
-* Limited Heroism: 4
-* Moral Cynicism: 4
-* Structural Corruption: 4
-* Redemption Difficulty: 4
-* Narrative Acceptance of Injustice: 4
-* Explicit Darkness: 4
+The scale's explicit, canonical ceiling case — the setting's own tagline states its thesis
+directly, unironically, as a design principle: "In the grim darkness of the far future, there
+is only war." Every axis maxes out because the setting is deliberately built with no exception
+to point to on any of them, unlike every other tier-8+ entry on this scale.
+
+* Structural Despair: 4 — the Imperium has been in unbroken, civilization-scale decline for ten thousand years with explicitly no plausible path to improvement; entropy and war are the setting's baseline, permanent state.
+* Limited Heroism: 4 — even the setting's most powerful individual heroes (Space Marine primarchs, the God-Emperor himself) cannot meaningfully alter the galaxy's trajectory; individual agency is explicitly, structurally irrelevant against the scale of the setting's conflicts.
+* Moral Cynicism: 4 — the Imperium's own institutions actively punish compassion and reward brutality and fanaticism as a matter of stated policy ("innocence proves nothing," "there is no such thing as innocence, only degrees of guilt").
+* Structural Corruption: 4 — the Imperium, Chaos, the Eldar, the Orks, every major faction's institutions exist explicitly to perpetuate suffering, exploitation, or war, not as a corruption of some better original design but as their designed function.
+* Redemption Difficulty: 4 — canonically, redemption is all but impossible; damnation (to Chaos, to servitude, to death) is the setting's default and near-universal endpoint.
+* Narrative Acceptance of Injustice: 4 — the setting explicitly does not resolve its injustices and was never designed to; "there is only war" is presented as eternal and unchanging, not a problem the fiction intends to address.
+* Explicit Darkness: 4 — graphic violence, body horror, and cruelty are the setting's constant, central, recurring visual and narrative mode across every medium (tabletop, novels, games, animation).
 
 Weighted = 4.0 (the theoretical ceiling) → Final Score = 10.5 → **Tier 10**
 
@@ -407,27 +412,29 @@ Weighted = 3.25 → Final Score = 8.8125 → **Tier 8**
 
 ## Kiki's Delivery Service
 
-* Structural Despair: 0
-* Limited Heroism: 0
-* Moral Cynicism: 0
-* Structural Corruption: 0
-* Redemption Difficulty: 0
-* Narrative Acceptance of Injustice: 0
-* Explicit Darkness: 0
+* Structural Despair: 0 — Koriko is a thriving, welcoming town; nothing about the setting itself is in decline.
+* Limited Heroism: 0 — Kiki's crisis of confidence (losing her flying ability) resolves fully and durably once she rediscovers her sense of purpose; no external structural threat exists to begin with.
+* Moral Cynicism: 0 — kindness and hard work are consistently, uncomplicatedly rewarded throughout (Osono's support, the friendships Kiki builds).
+* Structural Corruption: 0 — no institutions shown at all; the story is entirely personal/coming-of-age in scope.
+* Redemption Difficulty: 0 — nobody has done wrong; Kiki's arc is about self-doubt, not moral repair.
+* Narrative Acceptance of Injustice: 0 — no injustice is depicted.
+* Explicit Darkness: 0 — the closest the film comes to real danger (the blimp rescue) is brief and resolves safely; no sustained peril or disturbing content.
 
-Weighted = 0 → Final Score = 1.5 → **Tier 1**
+Weighted = 0 → Final Score = 1.5 → **Tier 1** — matches My Neighbor Totoro/Ponyo exactly, a
+genuine floor case rather than an unreasoned default.
 
 ## Ponyo
 
-* Structural Despair: 0
-* Limited Heroism: 0
-* Moral Cynicism: 0
-* Structural Corruption: 0
-* Redemption Difficulty: 0
-* Narrative Acceptance of Injustice: 0
-* Explicit Darkness: 0
+* Structural Despair: 0 — the ocean's magical imbalance is resolved entirely through Ponyo's and Sosuke's love; the setting itself isn't in decline.
+* Limited Heroism: 0 — Sosuke's simple, sincere acceptance of Ponyo fully and permanently resolves the crisis (both her transformation and the ocean's disturbance).
+* Moral Cynicism: 0 — sincerity and kindness are what save the day, uncomplicatedly rewarded.
+* Structural Corruption: 0 — no institutions shown; Fujimoto's initial overprotectiveness is a parental conflict, not institutional.
+* Redemption Difficulty: 0 — nobody has done real wrong requiring moral repair.
+* Narrative Acceptance of Injustice: 0 — no injustice is depicted; the flooding is a magical disturbance resolved by the ending, not a lasting condition.
+* Explicit Darkness: 0 — the storm/flood sequence is dreamlike and visually soft rather than frightening; no real depicted danger.
 
-Weighted = 0 → Final Score = 1.5 → **Tier 1**
+Weighted = 0 → Final Score = 1.5 → **Tier 1** — matches My Neighbor Totoro/Kiki's Delivery
+Service exactly, a genuine floor case rather than an unreasoned default.
 
 ## A Conspiracy of Truths
 
@@ -1611,3 +1618,21 @@ precedent (no work at Tier 6 or darker carries the tag on this scale). Label che
 Dark Fantasy" fits — genuinely one of the darkest works considered, but distinguished from Tier
 8's "no institution is safe, virtue is a liability" register by its real, hard-won structural
 resolution.
+
+## Maleficent (2014)
+
+New catalog addition, not a rescore.
+
+* Structural Despair: 0 — a contained personal betrayal/revenge/redemption story, not a broader societal or cosmological decline.
+* Limited Heroism: 0 — the resolution is genuinely complete and durable: the two kingdoms don't just achieve peace, they're united under Aurora's rule, arguably a stronger outcome than the pre-conflict status quo.
+* Moral Cynicism: 1 — Stefan's betrayal (mutilating the woman who loved him for a crown) is a real, painful "loyalty punished" data point, though the story's overall arc strongly affirms that love and goodness ultimately win out.
+* Structural Corruption: 1 — Stefan's increasingly paranoid, militaristic tyranny (willing to sacrifice his own daughter's wellbeing for his war against Maleficent) is real but isolated — one corrupt ruler, fully corrected by the ending, not a systemic institutional issue.
+* Redemption Difficulty: 1 — Maleficent's journey from vengeful bitterness back to love is a real, achievable arc — she genuinely tries to reverse her curse and succeeds through selfless action.
+* Narrative Acceptance of Injustice: 1 — the ending achieves real healing (Maleficent's wings restored, Aurora saved, kingdoms united), though Stefan's death and the trauma itself aren't literally undone.
+* Explicit Darkness: 2 — the wing-mutilation scene (widely read as a sexual-assault allegory) carries real thematic weight, but the depiction stays within Disney/PG restraint — not graphic, matching "real, visible danger, without extreme graphic detail."
+
+Weighted = 0.8 → Final Score = 3.3 → **Tier 3**, matching Cormyr/Dungeon Meshi. Cozy Fantasy = No,
+Hopepunk = No — a personal betrayal/redemption arc, not a resistance-to-oppression (Fierce) or
+mortality-themed (Bittersweet) shape. Label check: "Moderately Bright Fantasy" fits — contained
+political betrayal and redemption resolved cleanly, elevated past Tier 2's classic heroic-fantasy
+shape by the wing-mutilation trauma and Stefan's real, if isolated, tyranny.

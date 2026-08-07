@@ -580,7 +580,7 @@ Full reasoning for all four in SCORING_RECORD.md.
 15. [x] Labyrinth (1986 film, dir. Jim Henson, David Bowie — a goblin king, a labyrinth, a stolen baby brother) — DONE, see Completed
 16. [x] Pan's Labyrinth / El laberinto del fauno (2006 film, dir. Guillermo del Toro — a girl's dark fairy tale amid Falangist Spain) — DONE, see Completed
 17. [x] Attack on Titan (Shingeki no Kyojin) — Hajime Isayama — Manga, Anime — DONE, see Completed
-18. [ ] Maleficent (2014 film, Angelina Jolie — Sleeping Beauty retold from the villain's side)
+18. [x] Maleficent (2014 film, Angelina Jolie — Sleeping Beauty retold from the villain's side) — DONE, see Completed
 19. [ ] (Des)encanto / Disenchantment (2018 TV series, Matt Groening)
 20. [ ] Calabozos y dragones / Dungeons & Dragons (1983 animated TV series)
 21. [ ] The Magicians — Lev Grossman — Novels, TV series
@@ -622,6 +622,25 @@ Full reasoning for all four in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 18. Maleficent (2014) — Robert Stromberg — Film
+
+- Tier 3 (Moderately Bright Fantasy), Final Score 3.3 (Weighted Internal Score 0.8) — matches
+  Cormyr/Dungeon Meshi.
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 1, Structural Corruption 1,
+  Redemption Difficulty 1, Narrative Acceptance of Injustice 1, Explicit Darkness 2.
+- Rationale: a contained personal betrayal/revenge/redemption story rather than a broader
+  societal decline — the resolution is genuinely complete (the two kingdoms are united under
+  Aurora's rule, arguably stronger than the pre-conflict status quo). Stefan's betrayal
+  (mutilating the woman who loved him for a crown) and his subsequent paranoid tyranny are real
+  but isolated, fully corrected by the ending. The wing-mutilation scene (widely read as a
+  sexual-assault allegory) carries real thematic weight but stays within Disney/PG depiction
+  restraint, keeping Explicit Darkness at 2 rather than 3.
+- Cozy Fantasy = No. Hopepunk = No — a personal betrayal/redemption arc, not a
+  resistance-to-oppression or mortality-themed shape.
+- Added to xlsx row 28, and to tier 3 on both index.html and es/index.html, inserted alongside
+  Cormyr/Dungeon Meshi (title: "Mal&#233;fica" in both EN and ES pages' ES version — the same
+  title is used in both Spain and Latin America; medium: "Pel&#237;cula" / "Film").
 
 ### 17. Attack on Titan (Shingeki no Kyojin) — Hajime Isayama — Manga / Anime
 
