@@ -962,20 +962,36 @@ makes sense given the more sustained and visceral decade-long suffering here.
 
 ## The Stormlight Archive
 
-* Structural Despair: 2 — Roshar has endured cyclical, civilization-devastating "Desolations" for thousands of years; a deeply embedded historical pattern, not a one-off threat.
-* Limited Heroism: 2 — the Knights Radiant achieve real victories, but the cyclical nature of Desolations means any win is likely temporary at the cosmic scale.
-* Moral Cynicism: 2 — the lighteyes/darkeyes caste system actively rewards birth over virtue; Kaladin's backstory is genuine, systemic punishment for doing the right thing.
-* Structural Corruption: 3 — the entire caste system of Alethkar (and Roshar broadly) is built on eye-color discrimination — foundational, not incidental.
-* Redemption Difficulty: 3 — Dalinar committed a real, horrific war crime (the Rathalas massacre, killing thousands including his own sister-in-law, while blackout drunk); he never fully escapes the guilt — one of the more sustained, costly redemption arcs in the genre.
-* Narrative Acceptance of Injustice: 2 — the caste system persists through most of the series, and cyclical Desolations suggest catastrophe recurring as a permanent historical feature.
-* Explicit Darkness: 3 — Kaladin's clinical depression and suicidal ideation are depicted with sustained, explicit detail, plus Dalinar's massacre shown in visceral flashback, slavery, war violence.
+**Re-audited (post-promotion correction).** Flagged by the user as suspiciously low. The
+original score only reflected content through roughly the early series (caste system, Kaladin's
+depression, Dalinar's massacre) — it predates or otherwise doesn't account for the major
+escalations in the later published books (Oathbringer's Recreance/genocide-origin reveal and
+Taravangian's hospital atrocities, Rhythm of War's Teft addiction/death arc, and Wind and
+Truth's ending). Re-derived against the full 5-book published series.
 
-Weighted = 2.4 → Final Score = 6.9 → **Tier 6**
+Previous: Structural Despair 2, Limited Heroism 2, Moral Cynicism 2, Structural Corruption 3,
+Redemption Difficulty 3, Narrative Acceptance of Injustice 2, Explicit Darkness 3 → 6.9, Tier 6.
 
-Two-tier jump, lands exactly with Dark Souls I–III. Neighbor check: the unflinching, sustained
-treatment of suicidal depression specifically (rare and heavy even by grimdark standards) plus
-an on-page mass-casualty war crime justifies the company. Label check: "Dark Fantasy" fits —
-genuinely heavy throughout while still retaining real hope and heroic structure.
+* Structural Despair: 2 — unchanged: cyclical, civilization-devastating "Desolations" recur across thousands of years, but real, durable in-story progress (the Radiants' return, the human/singer coalition) competes with that decline rather than losing to it outright.
+* Limited Heroism: **3** (revised from 2) — the series' actual endgame (Wind and Truth) isn't a clean structural fix: Dalinar's death only drives Odium/Retribution off-world, explicitly buying time rather than ending the threat — the text itself frames the setting as needing to "prepare for the next conflict." Closer to "even the biggest victories are partial/insufficient" than "resolves the threat, root causes intact."
+* Moral Cynicism: 2 — unchanged: real cynicism markers exist (Kaladin's honesty rewarded with slavery/branding; Taravangian's ruthless utilitarianism eventually earns him the greatest power in the setting), but the protagonists' virtue is still substantially, repeatedly rewarded across the series — not a dominant cynical throughline.
+* Structural Corruption: 3 — unchanged, but now much better-supported: Oathbringer reveals the entire human presence on Roshar was built on enslaving the native Singers (the "slaveform" memory/soul suppression, not just caste bias) — genuinely foundational, and joined by a second distinct corrupt institution (Taravangian's hospital-murder apparatus in Kharbranth). Held at 3 rather than 4 since the setting's central reformist institutions (the coalition, the Radiant orders) are explicitly not built to sustain exploitation.
+* Redemption Difficulty: 3 — unchanged: Dalinar's redemption is genuine but costs him everything, arriving only at his death; set against Taravangian and Moash, who attempt or claim redemption and never achieve it — matches "rare, most who seek it fail or only partially succeed."
+* Narrative Acceptance of Injustice: **3** (revised from 2) — the core conflict is explicitly not resolved within the published series; the ending textually defers it to an unwritten future era rather than treating it as a problem this story's arc solves. Stronger and more direct than the original's "caste system persists" reasoning.
+* Explicit Darkness: 3 — unchanged: Kaladin's depression/suicidal ideation and Dalinar's massacre flashback remain the anchor examples; Teft's addiction/death and Taravangian's atrocities reinforce rather than exceed that register — frequent, genuine detail, not sustained graphic body-horror as a central recurring mode.
+
+Weighted = 2.7 → Final Score = 7.575 → **Tier 7** (revised from Tier 6, 6.9) — joins Attack on
+Titan (7.8), ending that tier's "solo" layout. Neighbor check: sits just below Attack on Titan —
+Titan's Structural Despair/Explicit Darkness run higher (3/4 vs. 2/3), while Stormlight's Limited
+Heroism/Narrative Acceptance of Injustice run higher (3/3 vs. 2/2) — a genuinely distinct profile,
+not a clone. Bundling check: considered splitting by book (rough per-book estimates spanned
+roughly Tier 5 to Tier 7), but the spread is non-monotonic and every book is already adult-register
+dark fantasy from the start (regicide, slavery, on-page suicidal ideation in book 1) — unlike
+Harry Potter's split, there's no "different audience" gap to justify separate entries, so it
+stays bundled per the A Song of Ice and Fire / The First Law precedent. Label check: "Extreme
+Dark Fantasy" fits — genuinely heavier throughout than "Dark Fantasy" allows, while still
+retaining real (if costly) hope and heroic structure, distinguishing it from Tier 8's
+no-institution-is-safe register.
 
 ## The Silmarillion & Great Tales
 

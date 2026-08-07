@@ -561,6 +561,32 @@ other four were re-audited from scratch:
 
 Full reasoning for all four in SCORING_RECORD.md.
 
+## Post-promotion corrections (continued)
+
+**The Stormlight Archive** — flagged by the user as suspiciously low once compared against
+Attack on Titan. The original score only reflected content through roughly the early series
+(caste system, Kaladin's depression, Dalinar's massacre); it didn't account for later-book
+escalations: Oathbringer's reveal that the entire human presence on Roshar was built on
+enslaving the native Singers (not just the caste system), Taravangian's hospital-murder
+atrocities and eventual ascension to the setting's greatest power via ruthless pragmatism,
+Teft's addiction/death in Rhythm of War, and Wind and Truth's ending — Dalinar dies, and Odium
+is only driven off, not defeated, with the text explicit that Roshar must now "prepare for the
+next conflict." Re-derived against the full 5-book published series: Limited Heroism revised
+2→3 (the ending buys time rather than resolving the threat) and Narrative Acceptance of
+Injustice revised 2→3 (the core conflict is textually deferred to an unwritten future era, not
+resolved within this arc); Structural Corruption held at 3 but now much better-supported by the
+slavery reveal. **Result: Tier 7 (Extreme Dark Fantasy)**, score 7.575, up from Tier 6 (6.9) —
+joins Attack on Titan (7.8), ending that tier's "solo" layout.
+
+Bundling check: considered splitting into 5 per-book entries (matching the Harry Potter
+convention) since rough per-book estimates showed a real spread (roughly Tier 5 to Tier 7).
+Rejected: the spread is non-monotonic (it dips back down at Rhythm of War rather than climbing
+steadily book over book like Harry Potter does), and unlike Harry Potter there's no
+"different audience" gap — even the first book (The Way of Kings) is already adult-register
+dark fantasy (on-page regicide, slavery, suicidal ideation). Kept as one bundled entry, matching
+the A Song of Ice and Fire / The First Law precedent for ongoing single-narrative series. Full
+reasoning in SCORING_RECORD.md.
+
 ## Queue
 
 1. [x] El Principito (The Little Prince) — Antoine de Saint-Exupéry — Book — DONE, see Completed
