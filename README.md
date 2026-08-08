@@ -1,26 +1,25 @@
-# Fantasy Darkness Scale
+# The Fantasy Darkness Scale
 
-A 1–10 index scoring 92 fantasy books, anime, games, and films from cozy hope to grimdark
+A 1–10 index scoring 100 fantasy books, anime, games, and films from cozy hope to grimdark
 despair, weighted across seven criteria (structural despair, limited heroism, moral cynicism,
 structural corruption, redemption difficulty, narrative acceptance of injustice, and explicit
 darkness).
 
-**Live site:** https://refo44.github.io/fantasy-darkness-scale/ (defaults to English, with an
-ES/EN switcher in the top-right corner)
+**Live site:** https://fantasydarknessscale.site/ (defaults to English, with an ES/EN switcher
+in the top-right corner)
 
 - `/` — English
-- `/es/` — Spanish (Escala de Oscuridad en Obras de Fantasía)
+- `/es/` — Spanish (La Escala de Oscuridad en Obras de Fantasía)
 
 ## Contents
 
 - `index.html`, `es/index.html` — the static pages (no build step)
+- `CNAME` — custom domain for GitHub Pages (fantasydarknessscale.site)
 - `Fantasy_Grimdark_Scale_v2_WIP.xlsx` — the scored source data backing the live site above
   (Methodology, Evaluations, and Summary sheets), under the v2 methodology: interval-based
   tiering and a 0-4 integer scale per criterion for reproducibility — see its Methodology sheet
-  for the formula and criteria anchors, and `ADDITIONS_LOG.md` for the rationale. All 92 catalog
+  for the formula and criteria anchors, and `ADDITIONS_LOG.md` for the rationale. All 100 catalog
   works are scored (filename kept as "WIP" since new works are still added over time)
-- `Fantasy_Grimdark_Scale_Fully_Scored_DEPRECATED.xlsx` — archival: the original (v1) scored
-  data that backed the live site before the v2 promotion, kept for comparison
 - `og-en.jpg`, `og-es.jpg` — Open Graph/Twitter Card preview images, referenced from each
   page's `<head>`
 - `ADDITIONS_LOG.md` — tracks new works being scored and added to the scale over time
@@ -28,6 +27,8 @@ ES/EN switcher in the top-right corner)
   construct of, and the low/high polarity each represents
 - `SCORING_RECORD.md` — full per-work v2 scoring analysis (all 7 criteria with reasoning,
   weighted/final score, tier) for every rescored title
+- `TIER_GUIDE.md` — descriptive guide to what each of the scale's 10 tiers actually contains,
+  with representative examples from the current catalog
 
 ## License
 
