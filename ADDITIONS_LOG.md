@@ -625,7 +625,7 @@ reasoning in SCORING_RECORD.md.
 29. [x] Charmed (1998 TV series) — DONE, see Completed
 30. [x] The Dark Crystal (1982 film, Jim Henson & Frank Oz) — DONE, see Completed
 31. [x] The Dark Crystal: Age of Resistance (2019 TV series) — DONE, see Completed
-32. [ ] His Dark Materials — Philip Pullman — Novels, TV series
+32. [x] His Dark Materials — Philip Pullman — Novels, TV series — DONE, see Completed
 33. [ ] The Dresden Files — Jim Butcher — Novels, TV series
 34. [ ] The Grim Company — Luke Scull — Novels
 35. [ ] The Dark Tower — Stephen King — Novels
@@ -649,6 +649,70 @@ reasoning in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 32. His Dark Materials — Philip Pullman — Novels, TV series
+
+- Tier 7 (Extreme Dark Fantasy), Final Score 7.4625 (Weighted Internal Score 2.65) — the new
+  tier-7 floor, just below The Stormlight Archive (7.575).
+- Scores: Structural Despair 2, Limited Heroism 3, Moral Cynicism 2, Structural Corruption 3,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 3, Explicit Darkness 4.
+- Rationale: covers Philip Pullman's trilogy (Northern Lights, The Subtle Knife, The Amber
+  Spyglass) and the faithful 2019-2022 BBC/HBO adaptation. Limited Heroism and Narrative
+  Acceptance of Injustice are both unusually high for this scale on a specific, textually
+  explicit basis, not an assumption: the trilogy's own ending states outright that Lord Asriel's
+  entire multiverse-spanning war against Heaven and the Magisterium "would have failed anyway"
+  as a strategy — research into the ending confirms "the Church is not really gone" and that
+  "getting rid of the Magisterium is not the only part of building the Republic," with the
+  actual resolution reframed as an incomplete, indefinite, personal-scale task ("we have to
+  build the Republic of Heaven where we are") rather than an institutional victory. That's about
+  as direct a textual match for Limited Heroism's "even the biggest victories are insufficient"
+  anchor as this scale has scored, and it drives Narrative Acceptance of Injustice to 3 in
+  parallel: the Magisterium's institutional evil is explicitly left standing, an ongoing
+  structural condition rather than a defeated one. Structural Corruption sits at 3: the
+  Magisterium is a totalitarian church-state controlling governments, education, and research
+  across the story's worlds, and its "intercision" program — surgically severing children from
+  their dæmons, run as sanctioned institutional policy under the General Oblation Board, not a
+  rogue faction's crime — is as clean a "central institutions exist to sustain exploitation" case
+  as this scale has scored. Redemption Difficulty (2) is carried by Mrs. Coulter, an established
+  child-abuser (including of her own daughter) whose final act — sacrificing her life alongside
+  Lord Asriel to destroy the angel Metatron, motivated by love rather than self-interest — is
+  widely read by critics as "a redemption of a kind," achieved but only at the cost of her life,
+  matching the "real sacrifice: loss, pain, renunciation" anchor precisely. Explicit Darkness
+  reaches the ceiling (4): intercision recurs as a central plot engine across the trilogy (not
+  an isolated incident), and Lord Asriel sacrificing his own son Roger's life to power the
+  experiment that tears open the sky is one of the more shocking single moments in mainstream YA
+  fantasy, alongside real war-in-heaven battle content and the literal death of God.
+- Cozy Fantasy = No. Hopepunk = No: matches precedent (no work at Tier 6 or darker carries the
+  tag) — Lyra and Will's love and moral growth are real, but the story's own ending explicitly
+  argues against "the grand crusade" as the right shape for hope, which is close to the opposite
+  of Fierce Hopepunk's thesis that organized resistance is the causally correct, effective
+  strategy.
+- Scored against the complete trilogy and its full television adaptation, not the standalone
+  companion novels (La Belle Sauvage, The Secret Commonwealth), which sit outside this entry's
+  scope.
+- Neighbor check: The Stormlight Archive's Redemption Difficulty 3 ("rare, most who seek it fail
+  or achieve it only partially," its own established reasoning) sits above this entry's 2 — a
+  specific gap, since Mrs. Coulter's redemption arc actually *succeeds* at real cost rather than
+  failing or landing only partially, a less bleak case than Stormlight's pattern — trading
+  against this entry's Explicit Darkness 4 vs. Stormlight's 3 (intercision's sustained,
+  central-to-the-plot cruelty against children is a more concentrated horror than Stormlight's
+  more diffuse epic-fantasy violence). Checked further against a non-adjacent Tier 7 work,
+  Attack on Titan (7.80): Attack on Titan's Structural Despair 3 and Moral Cynicism 3 both sit
+  above this entry's 2 and 2 (Titan's world is cosmologically bleaker and its moral physics more
+  actively punish idealism than anything in Pullman's trilogy, where individual virtue —
+  Lyra's honesty, Will's courage — is treated as genuinely meaningful even though it can't fix
+  institutions), while this entry's Explicit Darkness 4 matches Titan's — a sensible ordering
+  given the two works' different registers. Label check: "Extreme Dark Fantasy" fits — genuine
+  institutional child abuse and a war that explicitly fails sit at a severity distinctly above
+  Tier 6's "heavy without tipping into nihilism," while the story's persistent warmth (love,
+  personal growth, the ongoing possibility of building something better) keeps it short of
+  Tier 8's more totalizing bleakness.
+- Added to xlsx row 111, and to tier 7 on both index.html and es/index.html, inserted as the new
+  first (lowest-scoring) entry in the tier, before The Stormlight Archive; title "His Dark
+  Materials" in EN, "La Materia Oscura" in ES (the official Spanish trilogy title); medium:
+  "Novels, TV series" / "Novelas, Serie de TV". Updated the Summary sheet's tier-7 count (3 → 4)
+  and total-scored count (109 → 110 of 110). Updated the catalog-size mentions in both pages'
+  meta/JSON-LD description tags (109 → 110).
 
 ### 31. The Dark Crystal: Age of Resistance — Jim Henson & Frank Oz — TV series
 
