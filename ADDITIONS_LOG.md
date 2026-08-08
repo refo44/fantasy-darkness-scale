@@ -629,7 +629,7 @@ reasoning in SCORING_RECORD.md.
 33. [x] The Dresden Files — Jim Butcher — Novels, TV series — DONE, see Completed
 34. [x] The Grim Company — Luke Scull — Novels — DONE, see Completed
 35. [x] The Dark Tower — Stephen King — Novels — DONE, see Completed
-36. [ ] Eragon (the Inheritance Cycle) — Christopher Paolini — Novels
+36. [x] Eragon (the Inheritance Cycle) — Christopher Paolini — Novels — DONE, see Completed
 37. [ ] The Princess Bride — William Goldman — Novel, Film
 38. [ ] Fourth Wing / Iron Flame / Onyx Storm (Empyrean series) — Rebecca Yarros — Novels — score each, bundle into one entry if they land in the same tier
 39. [ ] Sweet Tooth — Jeff Lemire — Comics, TV series
@@ -649,6 +649,78 @@ reasoning in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 36. Eragon (The Inheritance Cycle) — Christopher Paolini — Novels, Film
+
+- Tier 5 (Gloomy Fantasy), Final Score 5.2125 (Weighted Internal Score 1.65) — an exact numeric
+  tie with the tier's floor cluster (Tales from Earthsea, A Knight of the Seven Kingdoms,
+  Dragonlance, Harry Potter and the Goblet of Fire, Elantris, Baldur's Gate III), via a
+  genuinely different profile from each (see neighbor check below).
+- Scores: Structural Despair 1, Limited Heroism 1, Moral Cynicism 1, Structural Corruption 2,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 2, Explicit Darkness 3.
+- **Bundle-vs-split decision, addressed explicitly per this session's brief:** scored as one
+  entry covering the full four-book main cycle (Eragon, Eldest, Brisingr, Inheritance) plus the
+  2006 film, not split by book the way the Harry Potter series is on this catalog. The
+  deciding difference from Harry Potter: HP's split rests on a well-documented, dramatic
+  book-to-book escalation explicitly built into its marketing and reception (a children's
+  mystery opener maturing into a war-and-genocide finale, with each individual book independently
+  famous enough to be its own cultural reference point) — a real multi-tier gap between its
+  first and last entries. The Inheritance Cycle's darkness intensifies too (see Explicit
+  Darkness below) but stays within a single consistent YA-epic-fantasy register throughout,
+  without HP's audience-shift thesis or the individual-book fame that would make readers
+  reasonably expect a separate score per volume. A rough independent estimate of Eragon (Book 1)
+  alone — a considerably gentler farm-boy-finds-a-dragon-egg opener, frequently compared to Star
+  Wars and Anne McCaffrey's Dragonriders of Pern — suggests it would land around Tier 3, roughly
+  two tiers below this bundled score; real, but a smaller and less culturally-marked gap than
+  HP's, so bundling (matching how The Stormlight Archive, The Wheel of Time, and A Song of Ice
+  and Fire are all treated as single entries on this catalog despite real internal escalation)
+  is the more consistent call.
+- Rationale: Structural Corruption (2) comes from King Galbatorix's century-long tyranny —
+  seized through his own genocide of the Dragon Riders decades before the story starts, enforced
+  by the Ra'zac as a secret-police-style hunting apparatus — a real, sustained institutional
+  case, though concentrated in one usurped kingdom rather than multiple independently-corrupt
+  institutions. Redemption Difficulty (2) is carried by Murtagh's arc: bound into forced service
+  to Galbatorix against his will, his path to freedom requires literally changing his own
+  fundamental self-identity (his "true name") — a real, costly transformation, ultimately
+  achieved. Narrative Acceptance of Injustice (2) reflects a specific, deliberate ending choice:
+  Galbatorix's immediate tyranny is fully defeated, but the deeper injustice — the historic
+  genocide of the old Dragon Rider order — is never undone; Eragon and Saphira instead found an
+  *entirely new* order in a distant land, explicitly because Alagaësia itself isn't yet safe or
+  ready for Riders to return, which reads as "the old injustice persists; a hopeful but separate
+  new beginning is offered instead" rather than a clean fix. Explicit Darkness (3) is grounded in
+  a specific, reviewer-flagged pattern: extensive, graphic on-page torture of named female
+  characters recurs and escalates across the series (Arya "burned, punctured, drugged, branded"
+  in Eldest; Nasuada's "brutal disfiguring and dehumanizing torture" in the finale) — critics
+  explicitly describe this as "a crutch" the author leans on repeatedly, not an isolated beat.
+- **On the 2006 film adaptation:** widely regarded as a poor, heavily simplified adaptation that
+  strips out most of the book's plot, characters, and complexity ("the blandest, hollowest
+  hero's journey," "arguably the worst book to movie adaptation"). Since it's tonally *lighter*
+  than the books rather than darker, it doesn't move any axis — the same principle applied to
+  The Dresden Files and The Shannara Chronicles earlier this session: a gentler adaptation
+  doesn't lower a score set by a darker primary source, just as a darker adaptation (Dirk
+  Gently's 2016 series, The Dark Crystal: Age of Resistance) can raise one.
+- Cozy Fantasy = No. Hopepunk = No: classic heroic-fantasy virtue-rewarded structure, but not
+  organized around kindness as deliberate resistance praxis to an institution (the Fierce shape)
+  or built around mortality/time as an organizing meditation.
+- Neighbor check: none of the six other works tied at 5.2125 share an identical per-axis
+  profile. A Knight of the Seven Kingdoms' Structural Despair 2 and Redemption Difficulty 1 swap
+  against this entry's 1 and 2 (Murtagh's forced-identity-change arc is costlier than anything in
+  Dunk & Egg's more contained political intrigue). Dragonlance and Elantris both trade
+  Structural Despair 2/Narrative Acceptance of Injustice 1 against this entry's 1/2 (their
+  central conflicts resolve more completely than the Riders' unaddressed genocide does).
+  Checked further against a non-adjacent Tier 5 work, The Magicians (5.8875, the tier's
+  ceiling): The Magicians scores higher specifically via Limited Heroism 2 and Redemption
+  Difficulty 2 combined with real unresolved psychological damage (depression, addiction) that
+  Eragon's more classically-heroic, cleanly-won conflict doesn't carry — a sensible ordering
+  within the tier. Label check: "Gloomy Fantasy" fits — real, escalating institutional cruelty
+  and an unresolved historical genocide sit alongside a fundamentally triumphant, hopeful heroic
+  arc.
+- Added to xlsx row 115, and to tier 5 on both index.html and es/index.html, inserted into the
+  tier's floor cluster (exact tie at 5.21 displayed); title "Eragon (The Inheritance Cycle)" in
+  EN, "Eragon (El Legado)" in ES (the Spanish series title, "El Legado" — book titles themselves
+  keep their English names in translation); medium: "Novels, Film" / "Novelas, Película".
+  Updated the Summary sheet's tier-5 count (21 → 22) and total-scored count (113 → 114 of 114).
+  Updated the catalog-size mentions in both pages' meta/JSON-LD description tags (113 → 114).
 
 ### 35. The Dark Tower — Stephen King — Novels
 
