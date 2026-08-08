@@ -627,7 +627,7 @@ reasoning in SCORING_RECORD.md.
 31. [x] The Dark Crystal: Age of Resistance (2019 TV series) — DONE, see Completed
 32. [x] His Dark Materials — Philip Pullman — Novels, TV series — DONE, see Completed
 33. [x] The Dresden Files — Jim Butcher — Novels, TV series — DONE, see Completed
-34. [ ] The Grim Company — Luke Scull — Novels
+34. [x] The Grim Company — Luke Scull — Novels — DONE, see Completed
 35. [ ] The Dark Tower — Stephen King — Novels
 36. [ ] Eragon (the Inheritance Cycle) — Christopher Paolini — Novels
 37. [ ] The Princess Bride — William Goldman — Novel, Film
@@ -649,6 +649,58 @@ reasoning in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 34. The Grim Company — Luke Scull — Novels
+
+- Tier 7 (Extreme Dark Fantasy), Final Score 7.125 (Weighted Internal Score 2.5) — the new
+  tier-7 floor, just below His Dark Materials (7.4625).
+- Scores: Structural Despair 2, Limited Heroism 2, Moral Cynicism 2, Structural Corruption 3,
+  Redemption Difficulty 3, Narrative Acceptance of Injustice 2, Explicit Darkness 4.
+- Rationale: complete trilogy (The Grim Company, Sword of the North, Dead Man's Steel), an
+  explicitly self-identified grimdark series reviewers repeatedly compare to Joe Abercrombie's
+  The First Law (already Tier 9 on this scale) — "no-one does grimdark fantasy better than Joe
+  Abercrombie, but... Scull comes incredibly close." Structural Corruption (3) rests on more
+  than the initial 500-years-dead-gods/tyrant-magelord premise: book 2 shows the rebels'
+  victorious liberation of Dorminia curdling into an equally absolute new tyranny under the
+  White Lady ("anyone perceived as a threat seized and imprisoned or exiled"), and book 3 shows
+  Dorminia conquered outright by the Fade — a specific, textually-confirmed "toppling one tyrant
+  just installs the next" pattern, not a static backdrop. Redemption Difficulty (3) is carried
+  by Davarus Cole's arc: a godly essence residing in him grows stronger with every death that
+  "feeds it," meaning battlefield survival itself risks eroding who he is — a genuinely costly,
+  ongoing struggle against self-corruption — combined with the trilogy's own ending, where
+  reviewers note "almost everyone" in the ensemble is killed off by the final book, meaning most
+  arcs (redemptive or otherwise) don't get to land cleanly. Explicit Darkness reaches the
+  ceiling (4) on strong, repeated reviewer language ("amazingly violent," "two parts amoral,
+  ultra-violent fantasy," "gore and borderline horror scenes") sustained across all three books.
+- Cozy Fantasy = No. Hopepunk = No: matches precedent (no work at Tier 6 or darker carries the
+  tag).
+- Scored against the complete, published trilogy — Luke Scull has indicated interest in
+  additional standalone books in the same setting, but none are part of this entry.
+- Neighbor check: this profile initially landed as an *exact* per-axis match with Märchen Crown
+  (also Tier 6 at the time, 6.7875) — flagged immediately per the standing review practice.
+  Re-examined rather than accepted: reviews specifically credit the trilogy's central thematic
+  statement — "the only difference between a hero and a killer lies in the ability to justify
+  dark deeds" — as a moral-cynicism thesis, but a countervailing critical caveat exists too
+  ("some felt it wasn't grimdark enough... lacking the grimdark blurring of good and evil"),
+  which argued against inflating Moral Cynicism past 2 without better evidence. Redemption
+  Difficulty was the axis with genuine independent support for revision (Cole's ongoing
+  self-erosion arc, the near-total cast death by book 3), raised from an initial 2 to 3 — this
+  moved the total off the Märchen Crown match and into Tier 7, a real consequence of the
+  correction rather than a cosmetic tweak to dodge a collision. Checked further against a
+  non-adjacent Tier 7 work, Attack on Titan (7.80): Titan's Structural Despair 3 and Moral
+  Cynicism 3 both sit above this entry's 2 and 2 (Titan's setting is a more totally
+  civilization-collapsed, genocide-central world, and its moral physics more actively punish
+  idealism than Grim Company's "justify your dark deeds" theme, which reviewers themselves flag
+  as not fully committing to grimdark's usual moral murk) — a sensible, evidence-based gap given
+  the two works' different degree of commitment to the same genre. Label check: "Extreme Dark
+  Fantasy" fits at the tier's low end — genuinely severe institutional and personal corruption,
+  positioned as a real but less extreme cousin of Tier 9's The First Law, exactly matching how
+  critics themselves calibrate it relative to that benchmark.
+- Added to xlsx row 113, and to tier 7 on both index.html and es/index.html, inserted as the new
+  first (lowest-scoring) entry in the tier, before His Dark Materials; title "The Grim Company"
+  kept identical in EN and ES (no Spanish-language edition found); medium: "Novels" / "Novelas".
+  Updated the Summary sheet's tier-7 count (4 → 5) and total-scored count (111 → 112 of 112).
+  Updated the catalog-size mentions in both pages' meta/JSON-LD description tags (111 → 112).
 
 ### 33. The Dresden Files — Jim Butcher — Novels, TV series
 
