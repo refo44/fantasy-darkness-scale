@@ -682,6 +682,22 @@ reasoning in SCORING_RECORD.md.
   organizes around resisting the two-tier justice system as its throughline (unlike Fierce
   Hopepunk precedent such as Avatar/Korra) — he works within the system and wins personally
   rather than reforming it.
+- Neighbor check: the exact-tie floor cluster (Tales from Earthsea, Dragonlance, Harry Potter
+  and the Goblet of Fire, Elantris, Baldur's Gate III — all 5.2125) each differ from this
+  profile on two axes that trade off in opposite directions (e.g. Earthsea's Structural
+  Corruption 1/Redemption Difficulty 2 vs. this entry's 2/1 — Earthsea's corruption is
+  "personal/mythic, not institutional" while Arren's patricide-recovery arc is a much costlier
+  redemption than Eustace's), confirming a genuinely differentiated shape rather than a
+  copy-paste default that happens to land on the same total. Checked further up the tier
+  against a non-adjacent work, The Magicians (5.8875, the tier's ceiling): it out-scores this
+  entry specifically on Limited Heroism, Moral Cynicism, and Redemption Difficulty (real
+  depression/addiction themes, less decisive resolutions) while matching it on Structural
+  Corruption and Explicit Darkness — a sensible within-tier ordering, since Dunk & Egg earns
+  its place through contained heroic triumphs against a real institutional-injustice backdrop,
+  while The Magicians earns its higher position through deeper psychological cynicism. Label
+  check: "Gloomy Fantasy" fits — the tier's own definition ("a genuinely corrupt central
+  institution... is the norm here, but most of these are still 'good triumphs' stories, the
+  cost is real and visible") is close to a direct description of this entry's actual shape.
 - Scored against the three published, collected novellas only (The Hedge Knight, The Sworn
   Sword, The Mystery Knight, as gathered in the *A Knight of the Seven Kingdoms* omnibus) — the
   fourth story, "The She-Wolves of Winterfell," remains unpublished as of this entry.
