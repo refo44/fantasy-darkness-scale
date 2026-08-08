@@ -611,7 +611,7 @@ reasoning in SCORING_RECORD.md.
 20. [x] Calabozos y dragones / Dungeons & Dragons (1983 animated TV series) — DONE, see Completed
 21. [x] The Magicians — Lev Grossman — Novels, TV series — DONE, see Completed
 22. [x] House of the Dragon — DONE, see Completed
-23. [ ] A Knight of the Seven Kingdoms (Dunk & Egg) — George R. R. Martin — Novellas
+23. [x] A Knight of the Seven Kingdoms (Dunk & Egg) — George R. R. Martin — Novellas — DONE, see Completed
 24. [ ] Once Upon a Time (TV series)
 25. [ ] The Shannara Chronicles — based on Terry Brooks' novels — TV series
 26. [ ] Dirk Gently's Holistic Detective Agency — Douglas Adams — Novels, TV series
@@ -648,6 +648,51 @@ reasoning in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 23. A Knight of the Seven Kingdoms (Dunk & Egg) — George R. R. Martin — Novellas
+
+- Tier 5 (Gloomy Fantasy), Final Score 5.2125 (Weighted Internal Score 1.65) — an exact numeric
+  tie with Tales from Earthsea, landing as a new member of the tier's floor cluster (also
+  Dragonlance, Harry Potter and the Goblet of Fire, Elantris, Baldur's Gate III), inserted
+  immediately after Tales from Earthsea.
+- Scores: Structural Despair 2, Limited Heroism 1, Moral Cynicism 1, Structural Corruption 2,
+  Redemption Difficulty 1, Narrative Acceptance of Injustice 2, Explicit Darkness 3.
+- Rationale: covers the three published novellas (The Hedge Knight, The Sworn Sword, The
+  Mystery Knight), set ~90 years before A Song of Ice and Fire and following the hedge knight
+  Ser Duncan the Tall and his squire Egg (the future King Aegon V, in disguise). Scored as a
+  distinctly lighter corner of the same fictional universe as A Song of Ice and Fire (Tier 8,
+  8.475) and House of the Dragon (Tier 7, 7.80), not a copy of either: Dunk's own heroism is
+  genuinely effective and durable in all three stories — he wins his trial of seven outright
+  (Limited Heroism, Moral Cynicism both 1), the Coldmoat water feud resolves via reconciliation
+  rather than bloodshed, and the Whitewalls Blackfyre conspiracy is crushed before it can become
+  a war — a cleaner record of structural fixes than either ASOIAF parent work, whose wars grind
+  on or end only through mutual attrition. Set against that: the setting's justice system is
+  literally trial-by-combat (a prince who maims a commoner performer faces the same violent
+  contest as the hedge knight who struck him in her defense), and Bloodraven's fear-based rule
+  (an impaled dissenter's head opens The Mystery Knight) is real, if contained, institutional
+  corruption — Structural Corruption 2, not the multi-institution 3 that ASOIAF/House of the
+  Dragon's Iron Throne-and-Faith-and-Great-Houses bar requires. Narrative Acceptance of
+  Injustice sits at 2: the immediate plot crises each resolve, but the birth-based two-tier
+  legal system and Aerion Brightflame's unpunished cruelty are never addressed by the text
+  itself. Explicit Darkness reaches 3 on the strength of several distinct graphic on-page
+  moments across the three novellas (Aerion breaking a puppeteer's finger and beating her, a
+  laborer's face slashed open, Prince Baelor's skull caved in and his on-page death in Dunk's
+  arms, Dunk himself beaten half to death) rather than one isolated beat.
+- Cozy Fantasy = No. Hopepunk = No: Dunk's personal decency is real but the story never
+  organizes around resisting the two-tier justice system as its throughline (unlike Fierce
+  Hopepunk precedent such as Avatar/Korra) — he works within the system and wins personally
+  rather than reforming it.
+- Scored against the three published, collected novellas only (The Hedge Knight, The Sworn
+  Sword, The Mystery Knight, as gathered in the *A Knight of the Seven Kingdoms* omnibus) — the
+  fourth story, "The She-Wolves of Winterfell," remains unpublished as of this entry.
+- Added to xlsx row 102, and to tier 5 on both index.html and es/index.html, inserted
+  immediately after Tales from Earthsea per score order (exact tie, 5.21 displayed); title "A
+  Knight of the Seven Kingdoms (Dunk & Egg)" in EN, "El caballero de los Siete Reinos (Dunk y
+  Egg)" in ES (the official Spanish omnibus title, "Cuentos de Dunk y Egg: El caballero de los
+  Siete Reinos"); medium: "Novellas" / "Novelas cortas". Updated the Summary sheet's tier-5
+  count (20 → 21) and total-scored count (100 → 101 of 101). Also corrected a stale "99 fantasy
+  books" catalog-size mention in both pages' meta/JSON-LD description tags (last updated during
+  the v2 promotion, not kept current through the two additions since) to 101.
 
 ### 22. House of the Dragon — George R. R. Martin — TV series
 
