@@ -621,7 +621,7 @@ reasoning in SCORING_RECORD.md.
 29. [ ] The Wizard of Oz — L. Frank Baum (novel), 1939 film — classic adventure, real peril (the Wicked Witch, flying monkeys) but a fundamentally heartwarming, hopeful children's classic
 30. [ ] Wicked — Gregory Maguire (novel), stage musical — revisionist Oz told from Elphaba's perspective; real political oppression (the Wizard's totalitarian regime, persecution of sentient Animals as a genocide/civil-rights allegory), Elphaba's tragic arc as a misunderstood activist villainized by history — notably darker and more morally complex than the original Oz material
 27. [x] The Sandman — Neil Gaiman — Comics, TV series — DONE, see Completed
-28. [ ] Supernatural (TV series)
+28. [x] Supernatural (TV series) — DONE, see Completed
 29. [ ] Charmed (1998 TV series)
 30. [ ] The Dark Crystal (1982 film, Jim Henson & Frank Oz)
 31. [ ] The Dark Crystal: Age of Resistance (2019 TV series)
@@ -649,6 +649,69 @@ reasoning in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 28. Supernatural — Eric Kripke — TV series
+
+- Tier 6 (Dark Fantasy), Final Score 6.90 (Weighted Internal Score 2.4) — the new tier-6
+  ceiling, landing in a previously empty gap between Märchen Crown (6.7875) and The Stormlight
+  Archive (7.575, Tier 7).
+- Scores: Structural Despair 2, Limited Heroism 2, Moral Cynicism 3, Structural Corruption 3,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 2, Explicit Darkness 3.
+- Rationale: 15 seasons (2005-2020), the Winchester brothers hunting monsters after their
+  mother's demonic murder. Structural Corruption reaches 3 on real multi-institutional grounds:
+  both of the setting's ultimate cosmic institutions are shown as genuinely corrupt across the
+  show's run — Heaven's angel bureaucracy (Zachariah's manipulations, Naomi's mind-control of
+  Castiel, an actual angelic civil war) and Hell's demon hierarchy (Azazel's decades-long
+  breeding-program scheme to engineer Sam as a vessel, the crossroad-deal economy) — with the
+  season 11/15 revelation that God himself (Chuck) sits above both, confirmed to have been
+  "maliciously manipulating every tragedy in [the brothers'] lives for his personal
+  entertainment" as material for his own authored story. Moral Cynicism reaches 3 for the same
+  reason, on a specific textual basis distinct from a merely "neutral" world: the setting's
+  ultimate authority figure has an active, textually-confirmed preference for cruelty and
+  suffering over kindness because it makes "better story" — closer to "the world punishes virtue
+  and rewards brutality" than tier 6's more typical "morally neutral" default. Explicit Darkness
+  lands at 3, not the ceiling: despite genuinely dark content (Dean's ~30 subjective years of
+  Hell-torture, becoming a torturer himself under Alastair; recurring on-screen demonic
+  possession/body-horror; graphic monster-of-the-week violence across 327 episodes), this is
+  network television (The CW), and much of the show's darkest content — Dean's Hell torture
+  specifically — is delivered through dialogue and brief flashback rather than sustained
+  on-screen depiction, distinct from a premium-cable or manga format with no such constraint.
+- Cozy Fantasy = No. Hopepunk = No: matches precedent (no work at Tier 6 or darker carries the
+  tag) — found-family/brotherly love is genuinely central, but the show isn't structured as an
+  oppressed group's organized resistance to a specific institution (the Fierce shape).
+- Scored against the complete 15-season, 327-episode series through its actual finale: Chuck is
+  stripped of his power (though left alive, not killed) and Jack — Jack, a redeemed nephilim who
+  had earlier been treated as a dangerous liability — takes his place as a genuinely benevolent
+  new god, reshaping Heaven "for the better." Dean dies on a routine hunt; Sam lives a full life;
+  the brothers reunite in a peaceful Heaven. A real, structural fix, achieved only after 15
+  seasons of an escalating "stop the immediate threat, a worse one is revealed behind it"
+  pattern (the actual apocalypse, the Leviathans, the Darkness/Amara, the British Men of
+  Letters, Chuck's endgame) — which is why Limited Heroism sits at 2 rather than 1 despite the
+  finale's genuine resolution: the dominant felt pattern across the run is "resolves the
+  immediate threat, deeper condition intact" until the very last season.
+- Neighbor check: initially derived to an identical per-axis match with Claymore (also Tier 6,
+  6.5625) — flagged immediately per the standing review practice and re-examined rather than
+  accepted. On reflection, Moral Cynicism was under-scored at 2: Claymore's "morally neutral"
+  world doesn't have anything equivalent to a textually-confirmed governing authority who
+  actively prefers cruelty as better narrative material — a specific, evidence-based reason to
+  revise to 3, which also differentiates the profile from Märchen Crown (also initially an exact
+  match before this correction; Märchen Crown's Explicit Darkness 4 vs. this entry's 3 — a
+  manga's page can depict extremity a basic-cable network drama can't — combined with the
+  revised Moral Cynicism gap nets out to a small but real 0.1125-point difference rather than an
+  exact tie). Checked further against a non-adjacent Tier 6 work, Re:Zero (6.1125): Re:Zero's
+  Explicit Darkness 4 (Subaru's repeated on-screen violent deaths as a structural, central
+  mechanic) sits above this entry's 3, while this entry's Structural Corruption 3 (multi-
+  institutional: Heaven, Hell, and God himself) sits above Re:Zero's 2 (the Witch Cult as a
+  severe but non-central faction) — a sensible, differently-shaped comparison. Label check:
+  "Dark Fantasy... genuinely heavy without tipping into nihilism" fits — extreme cosmic-scale
+  betrayal and real torture content sit inside a story that ultimately restores a benevolent
+  order and gives its leads a peaceful ending, not a nihilistic one.
+- Added to xlsx row 107, and to tier 6 on both index.html and es/index.html, appended as the new
+  final entry in the tier (highest tier-6 score); title "Supernatural" in EN, "Sobrenatural" in
+  ES (the title used across Latin American press and Warner Channel's regional broadcast);
+  medium: "TV series" / "Serie de TV". Updated the Summary sheet's tier-6 count (15 → 16) and
+  total-scored count (105 → 106 of 106). Updated the catalog-size mentions in both pages'
+  meta/JSON-LD description tags (105 → 106).
 
 ### 27. The Sandman — Neil Gaiman — Comics, TV series
 
