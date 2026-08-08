@@ -626,7 +626,7 @@ reasoning in SCORING_RECORD.md.
 30. [x] The Dark Crystal (1982 film, Jim Henson & Frank Oz) — DONE, see Completed
 31. [x] The Dark Crystal: Age of Resistance (2019 TV series) — DONE, see Completed
 32. [x] His Dark Materials — Philip Pullman — Novels, TV series — DONE, see Completed
-33. [ ] The Dresden Files — Jim Butcher — Novels, TV series
+33. [x] The Dresden Files — Jim Butcher — Novels, TV series — DONE, see Completed
 34. [ ] The Grim Company — Luke Scull — Novels
 35. [ ] The Dark Tower — Stephen King — Novels
 36. [ ] Eragon (the Inheritance Cycle) — Christopher Paolini — Novels
@@ -649,6 +649,74 @@ reasoning in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 33. The Dresden Files — Jim Butcher — Novels, TV series
+
+- Tier 6 (Dark Fantasy), Final Score 6.1125 (Weighted Internal Score 2.05) — an exact numeric
+  tie with Re:Zero, Clevatess, and The Sandman, via a genuinely different profile from each (see
+  neighbor check below).
+- Scores: Structural Despair 1, Limited Heroism 2, Moral Cynicism 2, Structural Corruption 2,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 2, Explicit Darkness 4.
+- Rationale: scored against the 18 currently-published novels (of a planned 25, the series
+  remains ongoing as of Twelve Months, January 2026) plus the 2007 SciFi Channel adaptation —
+  the show is real but tonally lighter and looser than the source ("nothing like the books" per
+  contemporary reviews), so it doesn't push any axis higher than the novels already set. Limited
+  Heroism sits at 2: Harry wins each book's immediate crisis, but at real, escalating personal
+  cost (his body crippled and only restored via a Faustian bargain with the Winter Queen), and
+  each defeated villain reveals a larger one behind it (Denarians, the Black Council, the
+  Outsiders) — a durable "resolves the threat, deeper condition intact" pattern rather than
+  structural fixes. Moral Cynicism (2) reflects the story's own central moral compromise: in
+  *Changes*, Harry personally triggers a bloodline curse that wipes out the entire Red Court
+  vampire nation — including, implicitly, non-combatants caught in that bloodline — as the only
+  way to save his daughter, cutting his former lover's throat to do it. That's the protagonist
+  himself committing a magically genocidal act as the story's own resolution, not a villain's
+  crime, a real "the world rewards ruthless pragmatism" data point distinct from a merely neutral
+  moral physics. Structural Corruption (2) comes from the White Council's own justice system,
+  which executes practitioners (including its own members) after "a brief trial" for breaking
+  the Laws of Magic — Harry himself narrowly avoided this for killing his abusive mentor in
+  self-defense — a real, notorious institutional harshness, though the Council isn't purely
+  villainous (Harry has genuine allies within it), keeping this short of a multi-institution
+  Structural Corruption 3. Redemption Difficulty (2) is carried across the ensemble: Harry's own
+  ongoing struggle against the Winter Knight mantle's corrupting influence is a continuous, costly
+  battle rather than a one-time fix, and his apprentice Molly Carpenter's fall into forbidden
+  mind magic costs her years of consequence and atonement. Explicit Darkness reaches the ceiling
+  (4): the Red Court are predatory on-page killers, the Denarians are literal serial-killer-tier
+  villains possessed by fallen angels, and the *Changes* throat-cutting and its citywide
+  magical-war aftermath are sustained, visceral content recurring across nearly the entire
+  18-book run, not an isolated beat.
+- Cozy Fantasy = No. Hopepunk = No: matches precedent (no work at Tier 6 or darker carries the
+  tag) — found-family loyalty is real and central, but the surrounding institutional harshness
+  and the protagonist's own genocide-adjacent moral compromise sit past the point where
+  "kindness as the organizing response" is the most honest one-line description.
+- Scored against the currently-published 18 novels; the series is explicitly unfinished (7 more
+  volumes planned as of this entry), so later escalations aren't factored in, matching how this
+  catalog treats other ongoing series (Märchen Crown, The Stormlight Archive before its
+  post-promotion correction).
+- Neighbor check: Re:Zero's Structural Despair 2 (demi-human oppression as an ongoing societal
+  backdrop) sits above this entry's 1 — Dresden's supernatural society has harsh laws but no
+  equivalent persecuted-underclass throughline — trading against this entry's Limited Heroism 2
+  vs. Re:Zero's 1 (Re:Zero's Return-by-Death mechanic is a genuinely more corrective fix than
+  Dresden's escalating-threat pattern). Clevatess's Structural Despair 2 and Redemption
+  Difficulty 1 (a more central, more successful found-family redemption arc) both differ from
+  this entry's 1 and 2 in offsetting directions. The Sandman's Redemption Difficulty 3 (Dream's
+  arc costs him his literal existence) sits above this entry's 2, trading against The Sandman's
+  Structural Corruption 1 vs. this entry's 2 (Heaven/Hell's mythic-scale politics in The Sandman
+  vs. the White Council's concrete, on-page execution practice here). Checked further against a
+  non-adjacent Tier 6 work, Supernatural (6.90, added earlier this session, the closest tonal
+  cousin as another urban-fantasy monster-hunter): Supernatural's Moral Cynicism 3 and Structural
+  Corruption 3 (a textually-confirmed, actively malevolent God orchestrating events across three
+  cosmic institutions) both sit above this entry's 2 and 2 — Dresden's White Council is harsh but
+  not portrayed as secretly malevolent by design — while this entry's Explicit Darkness 4 sits
+  above Supernatural's 3 (prose fiction's page can sustain a level of visceral detail broadcast
+  TV's standards-and-practices couldn't). Label check: "Dark Fantasy... genuinely heavy without
+  tipping into nihilism" fits — real horror and moral compromise sit alongside Harry's persistent
+  wisecracking, found-family loyalty, and heroism.
+- Added to xlsx row 112, and to tier 6 on both index.html and es/index.html, inserted
+  immediately after The Sandman per score order (exact tie); title "The Dresden Files" in EN,
+  "Los Archivos Dresden" in ES (the title used across the Spanish-language editions); medium:
+  "Novels, TV series" / "Novelas, Serie de TV". Updated the Summary sheet's tier-6 count
+  (17 → 18) and total-scored count (110 → 111 of 111). Updated the catalog-size mentions in both
+  pages' meta/JSON-LD description tags (110 → 111).
 
 ### 32. His Dark Materials — Philip Pullman — Novels, TV series
 
