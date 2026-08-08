@@ -613,7 +613,7 @@ reasoning in SCORING_RECORD.md.
 22. [x] House of the Dragon — DONE, see Completed
 23. [x] A Knight of the Seven Kingdoms (Dunk & Egg) — George R. R. Martin — Novellas — DONE, see Completed
 24. [x] Once Upon a Time (TV series) — DONE, see Completed
-25. [ ] The Shannara Chronicles — based on Terry Brooks' novels — TV series
+25. [x] The Shannara Chronicles — based on Terry Brooks' novels — TV series — DONE, see Completed
 26. [ ] Dirk Gently's Holistic Detective Agency — Douglas Adams — Novels, TV series
 27. [ ] Dark Sun — TSR / Wizards of the Coast — Tabletop (D&D campaign setting) — post-apocalyptic desert world Athas, magic that kills plant life to power spells, widespread slavery, tyrannical sorcerer-kings draining their own kingdoms' life force; deliberately created as a grim subversion of standard D&D high fantasy
 28. [ ] Alice in Wonderland — Lewis Carroll — Novel — whimsical, surreal children's fantasy with unsettling undertones (the Queen of Hearts' "off with their heads," nonsensical/threatening logic, identity/growing-up themes), but generally light in overall register
@@ -648,6 +648,72 @@ reasoning in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 25. The Shannara Chronicles — Terry Brooks — TV series
+
+- Tier 4 (Fantasy in Gray Tones), Final Score 4.875 (Weighted Internal Score 1.5) — an exact
+  numeric tie with Final Fantasy IX, The Boy and the Heron, Ranking of Kings, and Fullmetal
+  Alchemist: Brotherhood, via a genuinely different profile from each (see neighbor check
+  below).
+- Scores: Structural Despair 1, Limited Heroism 1, Moral Cynicism 1, Structural Corruption 2,
+  Redemption Difficulty 1, Narrative Acceptance of Injustice 2, Explicit Darkness 3.
+- Rationale: 2 seasons (MTV 2016, Spike/Paramount Network 2017) adapting the opening books of
+  Terry Brooks' Shannara series, set in the post-apocalyptic far-future "Four Lands" (visible
+  ruins of cars and helicopters mark the setting as Earth after an implied nuclear-era
+  cataclysm, "the Great Wars"). Season 1 (The Elfstones of Shannara) ends with Amberle's full
+  self-sacrifice — becoming the new Ellcrys tree to seal the demon army out — a complete,
+  durable fix; Season 2 (loosely The Wishsong of Shannara) ends with Wil killing the Warlock
+  Lord outright, another decisive resolution. Both season-level threats support the tier-4 norm
+  of Limited Heroism 1 and Moral Cynicism 1 (classic quest-fantasy causality — critics
+  specifically pitched the show as "epic, colourful... for those tired of the unrelenting
+  grimness of Game of Thrones," despite real on-screen violence). Structural Corruption reaches
+  2 on real institutional grounds distinct from Once Upon a Time's individually-anomalous
+  corrupt rulers (also Tier 4, SC1): the Crimson is an organized, popularly-backed paramilitary
+  force built specifically to hunt, intimidate, and kill magic-users out of institutionalized
+  fear — a coherent persecution apparatus, not one usurper to be corrected. Narrative Acceptance
+  of Injustice reaches 2 for a specific, documented reason: the show was cancelled after its
+  season 2 finale (which doubled as the unplanned series finale) with no season 3, so while the
+  season's direct villain (the Warlock Lord) is defeated, the deeper Crimson persecution
+  thread only gets a tactical alliance ("join us against a common enemy"), never an actual
+  reckoning with the underlying bigotry — an injustice left genuinely unresolved, not a
+  narrative choice to leave it ambiguous. Explicit Darkness sits at 3 on reviewer-documented
+  evidence: multiple critics called the swordplay "kind of gorey" and questioned why a TV-14
+  rating applied rather than TV-MA, and the season 2 finale alone kills four major characters
+  (Allanon, King Ander, Queen Tamlin, General Riga — the last by on-screen decapitation-style
+  violence at the Warlock Lord's hands).
+- Cozy Fantasy = No. Hopepunk = No: the Crimson is real institutional persecution, but the
+  show's throughline is a love-triangle-and-quest coming-of-age story, not an oppressed group's
+  organized resistance to that persecution (the Fierce Hopepunk shape, e.g. Avatar) — and the
+  Crimson thread never gets the genuine reckoning that shape requires, partly because
+  production ended first.
+- Scored against both aired seasons in full, noting the cancellation openly rather than
+  guessing at an unmade season 3's resolution.
+- Neighbor check: compared against the four other works tied at exactly 4.875 — none share an
+  identical per-axis profile (checked specifically after the Once Upon a Time session's
+  FMA:B near-miss). Fullmetal Alchemist: Brotherhood's Redemption Difficulty 2 (Scar's and
+  Mustang's costly, sustained guilt arcs) sits above this entry's Redemption Difficulty 1
+  (Eretria's demon-blood struggle stays underdeveloped, again a casualty of cancellation) while
+  this entry's Narrative Acceptance of Injustice 2 sits above FMA:B's 1 — a clean swap. Ranking
+  of Kings' Redemption Difficulty 0 (a growth-and-earned-respect story, not a sinner-redeemed
+  one) trades against its Structural Despair 2 vs. this entry's 1. Checked further against
+  Once Upon a Time (4.20, Tier 4, added earlier this session): Shannara scores meaningfully
+  higher specifically via Structural Corruption (2 vs. 1 — a real organized persecution militia
+  vs. OUAT's individually-anomalous corrupt rulers) and Narrative Acceptance of Injustice (2 vs.
+  1 — Shannara's persecution thread stays genuinely open; OUAT's finale resolves nearly
+  everything), offset by Redemption Difficulty (1 vs. 2, OUAT's Regina/Rumpelstiltskin arcs are
+  far more central and costly) and Moral Cynicism (1 vs. 0, OUAT's True Love's Kiss is a more
+  explicit reward-mechanic than anything in Shannara) — a sensible, evidence-based ordering
+  rather than a coincidence. Label check: "Fantasy in Gray Tones (high stakes, real losses, but
+  still high hope)" fits — real character deaths and an unresolved persecution thread sit
+  alongside a classic, decisively-won heroic quest structure.
+- Added to xlsx row 104, and to tier 4 on both index.html and es/index.html, inserted
+  immediately after The Legend of Vox Machina (4.84) and before Final Fantasy IX (4.88) per
+  score order; title "The Shannara Chronicles" in EN, "Las crónicas de Shannara" in ES (the
+  standard Latin American/Spain title); creator credited as "Terry Brooks" (the source novels'
+  author, matching the House of the Dragon precedent of crediting the original literary IP for
+  a TV adaptation entry); medium: "TV series" / "Serie de TV". Updated the Summary sheet's
+  tier-4 count (17 → 18) and total-scored count (102 → 103 of 103). Updated the catalog-size
+  mentions in both pages' meta/JSON-LD description tags (102 → 103).
 
 ### 24. Once Upon a Time — Edward Kitsis & Adam Horowitz — TV series
 
