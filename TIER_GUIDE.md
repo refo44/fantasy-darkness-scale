@@ -148,18 +148,22 @@ found-family cores, but the surrounding darkness dominates too much page-time fo
 
 *(Unchanged label.)*
 
-1 work: Berserk (7.4625). Currently a "solo" tier by content, not just formatting — the only
-work on this catalog scoring Structural Despair 3, Moral Cynicism 3, *and* Redemption
-Difficulty 3 together with Explicit Darkness at its ceiling. This is where a story's basic moral
-physics genuinely inverts: cruelty is regularly rewarded, not merely unpunished.
+3 works: The Stormlight Archive (7.58), Attack on Titan (7.80), House of the Dragon (7.80).
+Berserk moved up to Tier 8 after a re-audit found its Limited Heroism and Narrative Acceptance
+of Injustice under-scored; this tier now sits just below that severity — real, hard-won
+structural resolutions (Titan's diplomatic peace, Stormlight's Radiants buying time) or a
+corruption that stays concentrated in one institution/court rather than pervasive across the
+whole setting (House of the Dragon vs. its own parent work, A Song of Ice and Fire) are what
+keep these below Tier 8's "no institution is safe" register.
 
 ## Tier 8 — Grimdark `[8.0–9.0)`
 
 *(Unchanged label — the genre's own namesake register.)*
 
-3 works: A Song of Ice and Fire, Elden Ring, Fire Punch. Every criterion sits at 3 or higher for
-at least one axis; several works hit 3 across nearly the whole profile. No institution is safe,
-virtue is frequently a liability rather than unrewarded, and named-character death is the norm.
+4 works: Berserk, A Song of Ice and Fire, Elden Ring, Fire Punch. Every criterion sits at 3 or
+higher for at least one axis; several works hit 3 across nearly the whole profile. No
+institution is safe, virtue is frequently a liability rather than unrewarded, and
+named-character death is the norm.
 
 ## Tier 9 — Extreme Grimdark `[9.0–10.0)`
 

@@ -610,7 +610,7 @@ reasoning in SCORING_RECORD.md.
 19. [x] (Des)encanto / Disenchantment (2018 TV series, Matt Groening) — DONE, see Completed
 20. [x] Calabozos y dragones / Dungeons & Dragons (1983 animated TV series) — DONE, see Completed
 21. [x] The Magicians — Lev Grossman — Novels, TV series — DONE, see Completed
-22. [ ] House of the Dragon — George R. R. Martin (A Song of Ice and Fire prequel) — TV series
+22. [x] House of the Dragon — DONE, see Completed
 23. [ ] A Knight of the Seven Kingdoms (Dunk & Egg) — George R. R. Martin — Novellas
 24. [ ] Once Upon a Time (TV series)
 25. [ ] The Shannara Chronicles — based on Terry Brooks' novels — TV series
@@ -648,6 +648,44 @@ reasoning in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 22. House of the Dragon — George R. R. Martin — TV series
+
+- Tier 7 (Extreme Dark Fantasy), Final Score 7.80 (Weighted Internal Score 2.8) — ties Attack
+  on Titan exactly on total, via a genuinely different profile (differs on four of seven axes:
+  Structural Despair, Limited Heroism, Structural Corruption, Narrative Acceptance of Injustice).
+- Scores: Structural Despair 2, Limited Heroism 3, Moral Cynicism 3, Structural Corruption 2,
+  Redemption Difficulty 3, Narrative Acceptance of Injustice 3, Explicit Darkness 4.
+- Rationale: scored against the complete Dance of the Dragons history as GRRM wrote it in *Fire
+  & Blood*, which the show is faithfully adapting (the TV series itself is still airing). The
+  central throughline is A Song of Ice and Fire's own thesis in miniature: Rhaenyra's legally
+  decreed, legitimate claim is stripped from her by ruthless court maneuvering (Otto and Alicent
+  Hightower's coup while Viserys's body is still warm), not by any failure of virtue — a direct
+  match to A Song of Ice and Fire's own "honor is systematically punished" reasoning, hence
+  Moral Cynicism 3. Every character who tries to prevent the war (Viserys's decree, Rhaenyra's
+  and Alicent's own late peace overture) fails, and the war "ends" through mutual attrition
+  (both claimant lines gutted, dragons driven to near-extinction) rather than any structural fix
+  — a stronger case for Limited Heroism 3 than Attack on Titan's LH2 (which achieves a genuine,
+  lasting peace). Redemption is attempted but doesn't land: Alicent's late remorse comes too
+  late to stop the war, and Daemon's Harrenhal reckoning doesn't durably change him — Redemption
+  Difficulty 3. The core injustice (a father's explicit decree overridden by succession
+  politics that favor a male claimant) is never resolved in-story; it stands as the seed of the
+  Targaryen dynasty's further, already-chronicled decline — Narrative Acceptance of Injustice 3.
+  Explicit Darkness sits at the ceiling: Aemma's forced, unanesthetized cesarean death in the
+  premiere, Blood and Cheese's on-page child murder, and Lucerys/Arrax being devoured alive by
+  Vhagar are graphic, shocking, and part of a sustained pattern, not incidental beats — matching
+  Attack on Titan and A Song of Ice and Fire's own ED4 bar. Weighed against the full A Song of
+  Ice and Fire (Tier 8, 8.475): this is a single dynasty's succession war, not a world where the
+  Iron Throne, the Faith, and the Great Houses are *all* independently corrupt, and it lacks the
+  Long Night's civilization-ending cosmology — Structural Despair and Structural Corruption both
+  stay at 2 rather than 3, keeping it a clear tier below its parent work.
+- Cozy Fantasy = No. Hopepunk = No: no work at Tier 6 or darker carries the tag on this scale,
+  and this is a tragedy about power and succession, not kindness as an organizing response to
+  adversity.
+- Added to xlsx row 101, and to tier 7 on both index.html and es/index.html, appended after
+  Attack on Titan per score order (tied at 7.80); title "House of the Dragon" in EN, "La Casa
+  del Dragón" in ES (the official HBO Max Latino title); medium: "TV series" / "TV". Updated the
+  Summary sheet's tier-7 count (2 → 3) and total-scored count (99 → 100 of 100).
 
 ### 21. The Magicians — Lev Grossman — Novels, TV series
 

@@ -1714,3 +1714,29 @@ virtues are consistently rewarded") while this world's moral physics is genuinel
 Cozy Fantasy = No, Hopepunk = No. Label check: "Gloomy Fantasy" fits — heavier and more
 psychologically unflinching than typical portal fantasy, without tipping into "Dark Fantasy"'s
 institutional-corruption register.
+
+## House of the Dragon
+
+New catalog addition, not a rescore. Scored against the complete Dance of the Dragons history
+as George R. R. Martin wrote it in *Fire & Blood* — the TV adaptation is still airing, but the
+source history it's faithfully dramatizing is finished, so the ending is knowable even though
+the show hasn't reached it yet.
+
+* Structural Despair: 2 — the Targaryen dynasty and its dragons are left permanently, severely diminished (dragons driven to near-extinction, the line's power broken for generations), but this is a self-contained succession war, not the civilization-wide cosmological decline of the Long Night that anchors full A Song of Ice and Fire's Structural Despair 3 — the Seven Kingdoms themselves endure.
+* Limited Heroism: 3 — every attempt to prevent the war fails (Viserys's decree for unity, Rhaenyra's and even Alicent's own late peace overtures), and the war doesn't end via any structural fix — it ends through mutual exhaustion and attrition, both claimant lines gutted. A stronger case than Attack on Titan's Limited Heroism 2, which achieves a genuine, lasting diplomatic peace.
+* Moral Cynicism: 3 — Rhaenyra's legally decreed, legitimate claim is stripped from her by ruthless court maneuvering (the Hightower coup crowning Aegon II while Viserys's body is still warm), not by any failure of virtue on her part — a direct match to A Song of Ice and Fire's own "honor is systematically punished" reasoning for this axis.
+* Structural Corruption: 2 — the succession process is bent by one faction's decades of scheming (Otto and Alicent Hightower), a real and consequential corruption, but concentrated in a single court's power grab rather than the multi-institution rot (Iron Throne, Faith, and Great Houses all independently compromised) that earns full A Song of Ice and Fire its Structural Corruption 3.
+* Redemption Difficulty: 3 — attempted but unsuccessful repair: Alicent's late remorse and peace overture come too late to stop the war, and Daemon's Harrenhal reckoning with his own cruelty doesn't durably change his behavior — matches the "rare, most who seek it fail or only partially succeed" bar set by Stormlight/Titan/Berserk/A Song of Ice and Fire.
+* Narrative Acceptance of Injustice: 3 — the core injustice (a father's explicit decree overridden by succession politics favoring a male claimant) is never resolved within the story; it stands as the seed of the Targaryen dynasty's further, already-chronicled decline rather than something the plot fixes.
+* Explicit Darkness: 4 — Aemma's forced, unanesthetized cesarean death in the premiere, Blood and Cheese's on-page child murder, and Lucerys/Arrax being devoured alive by Vhagar are graphic and shocking as a sustained pattern, not incidental beats — matches the Attack on Titan/A Song of Ice and Fire ED4 bar.
+
+Weighted = 2.8 → Final Score = 7.8 → **Tier 7**, tying Attack on Titan's total exactly via a
+genuinely different profile — differs on four of seven axes (Structural Despair, Limited
+Heroism, Structural Corruption, Narrative Acceptance of Injustice), not a copy-paste default.
+Neighbor check against its own parent work, A Song of Ice and Fire (Tier 8, 8.475): a clear
+tier below, since this is one dynasty's succession war rather than a setting where every major
+institution is independently corrupt and the world itself carries a civilization-ending
+cosmology. Cozy Fantasy = No, Hopepunk = No — matches precedent (no work at Tier 6 or darker
+carries the tag on this scale). Label check: "Extreme Dark Fantasy" fits — genuinely one of the
+darkest works considered, distinguished from Tier 8's "no institution is safe" register by its
+corruption staying concentrated in one court rather than pervasive across the setting.
