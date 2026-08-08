@@ -685,11 +685,20 @@ reasoning in SCORING_RECORD.md.
 - Scored against the three published, collected novellas only (The Hedge Knight, The Sworn
   Sword, The Mystery Knight, as gathered in the *A Knight of the Seven Kingdoms* omnibus) — the
   fourth story, "The She-Wolves of Winterfell," remains unpublished as of this entry.
+- Medium includes the HBO TV adaptation: Season 1 ("The Hedge Knight," 6 episodes) aired
+  Jan 18 – Feb 22, 2026, and showrunner Ira Parker has stated the guiding rule is "I really
+  wouldn't create story" — no reported content divergence that would change the darkness
+  profile, so treated as the same content as the source novella rather than rescored
+  separately, matching the precedent set for other novel-plus-faithful-adaptation entries
+  (e.g. The Saga of Tanya the Evil, The Witcher). Season 2 (The Sworn Sword, with some
+  Martin-approved expansion) is in production for an early-2027 release — not yet aired, so not
+  factored in.
 - Added to xlsx row 102, and to tier 5 on both index.html and es/index.html, inserted
   immediately after Tales from Earthsea per score order (exact tie, 5.21 displayed); title "A
   Knight of the Seven Kingdoms (Dunk & Egg)" in EN, "El caballero de los Siete Reinos (Dunk y
   Egg)" in ES (the official Spanish omnibus title, "Cuentos de Dunk y Egg: El caballero de los
-  Siete Reinos"); medium: "Novellas" / "Novelas cortas". Updated the Summary sheet's tier-5
+  Siete Reinos"); medium: "Novellas, TV series" / "Novelas cortas, Serie de TV". Updated the
+  Summary sheet's tier-5
   count (20 → 21) and total-scored count (100 → 101 of 101). Also corrected a stale "99 fantasy
   books" catalog-size mention in both pages' meta/JSON-LD description tags (last updated during
   the v2 promotion, not kept current through the two additions since) to 101.
