@@ -614,7 +614,8 @@ reasoning in SCORING_RECORD.md.
 23. [x] A Knight of the Seven Kingdoms (Dunk & Egg) — George R. R. Martin — Novellas — DONE, see Completed
 24. [x] Once Upon a Time (TV series) — DONE, see Completed
 25. [x] The Shannara Chronicles — based on Terry Brooks' novels — TV series — DONE, see Completed
-26. [ ] Dirk Gently's Holistic Detective Agency — Douglas Adams — Novels, TV series
+26. [x] Dirk Gently's Holistic Detective Agency — Douglas Adams — Novels, TV series — DONE, see
+    Completed
 27. [ ] Dark Sun — TSR / Wizards of the Coast — Tabletop (D&D campaign setting) — post-apocalyptic desert world Athas, magic that kills plant life to power spells, widespread slavery, tyrannical sorcerer-kings draining their own kingdoms' life force; deliberately created as a grim subversion of standard D&D high fantasy
 28. [ ] Alice in Wonderland — Lewis Carroll — Novel — whimsical, surreal children's fantasy with unsettling undertones (the Queen of Hearts' "off with their heads," nonsensical/threatening logic, identity/growing-up themes), but generally light in overall register
 29. [ ] The Wizard of Oz — L. Frank Baum (novel), 1939 film — classic adventure, real peril (the Wicked Witch, flying monkeys) but a fundamentally heartwarming, hopeful children's classic
@@ -648,6 +649,69 @@ reasoning in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 26. Dirk Gently's Holistic Detective Agency — Douglas Adams — Novels, TV series
+
+- Tier 4 (Fantasy in Gray Tones), Final Score 4.5375 (Weighted Internal Score 1.35) — an exact
+  numeric tie with Harry Potter and the Prisoner of Azkaban, via a genuinely different profile
+  (see neighbor check below).
+- Scores: Structural Despair 1, Limited Heroism 1, Moral Cynicism 1, Structural Corruption 2,
+  Redemption Difficulty 1, Narrative Acceptance of Injustice 1, Explicit Darkness 3.
+- Rationale: this queue item explicitly named both media, and the two exist in real tension
+  worth documenting rather than picking one and ignoring the rest. Douglas Adams' two novels
+  (Dirk Gently's Holistic Detective Agency, 1987; The Long Dark Tea-Time of the Soul, 1988) and
+  the 2010 BBC series (Stephen Mangan, 4 episodes) share one register: whimsical,
+  interconnected-mystery absurdist comedy in Adams' voice — real deaths occur (Gordon Way's
+  murder, an airport check-in desk exploding, a severed head) but they're processed through
+  comic tone, not horror, and the fading, senile Norse gods of Tea-Time read as melancholy
+  rather than despairing. The 2016-2017 BBC America series (creator Max Landis), by contrast,
+  is a substantial tonal departure — critics described it as combining "the violence of The
+  Walking Dead with the oddball stories of Twin Peaks" and noted it "violates the spirit of its
+  source material"; it adds Project Blackwing, a real government institution built to hunt,
+  capture, and experiment on people with paranormal abilities (Dirk himself is a former
+  captive), an on-screen assassin character (Bart), and reviewer-documented "gore and a lot of
+  blood." Rather than silently scoring only the gentler version, Explicit Darkness (3) and
+  Structural Corruption (2) are set by this darkest confirmed adaptation, consistent with how
+  Explicit Darkness is defined ("the visibility and intensity of violence... as depicted," per
+  CRITERIA_THEORY.md) — the violent content is real and mainstream, not a discarded rough cut. The other axes stay low because the *comedic, ultimately-triumphant* throughline holds
+  across every version, including the 2016 show: both novels end with their central mysteries
+  fully resolved, and reviewers confirm the 2016 series' Season 2 finale (which became the de
+  facto series finale on cancellation) gives the core cast "a happy ending... everyone living
+  happily ever after," landing Limited Heroism, Moral Cynicism, and Narrative Acceptance of
+  Injustice all at 1 rather than higher. The finale did introduce one new, unexplored mystery
+  hook before cancellation — a forward-looking dangling thread, not a lingering unresolved
+  injustice, so treated differently from The Shannara Chronicles' Crimson thread (Narrative
+  Acceptance of Injustice 1, not 2).
+- Cozy Fantasy = No. Hopepunk = No: Blackwing is real institutional harm, but the franchise's
+  organizing shape across every version is absurdist mystery-comedy built on "the
+  interconnectedness of all things," not an oppressed group's organized resistance to that
+  specific institution.
+- Scored against both novels and both TV adaptations (2010 BBC, 2016-2017 BBC America) as one
+  entry rather than splitting, since — unlike the Final Fantasy/Baldur's Gate splits earlier in
+  this catalog — there's no clean per-installment darkness escalation to split along; the
+  franchise's two TV adaptations are simply different creative takes on largely the same
+  underlying premise, not sequential chapters of one growing story.
+- Neighbor check: Harry Potter and the Prisoner of Azkaban's Narrative Acceptance of Injustice 2
+  (Sirius's wrongful imprisonment stays only partially resolved within this book) trades against
+  this entry's Redemption Difficulty 1 (no confirmed deep redemption arc across any version) vs.
+  Azkaban's Redemption Difficulty 0 — a clean, textually-grounded swap, not an identical match.
+  Checked against a non-adjacent Tier 4 work, The Shannara Chronicles (4.875, added earlier this
+  session): Shannara scores higher specifically via Narrative Acceptance of Injustice (2 vs. 1
+  — its Crimson-persecution thread stays genuinely open due to cancellation, while this entry's
+  unresolved thread is a fresh hook rather than a lingering injustice) despite an identical
+  Structural Corruption (2, both driven by a real institution built to hunt/harm a class of
+  people — Blackwing and the Crimson respectively). Label check: "Fantasy in Gray Tones (high
+  stakes, real losses, but still high hope)" fits — real on-screen violence and one dark
+  government-conspiracy backstory sit inside a fundamentally comic, ultimately-triumphant
+  franchise.
+- Added to xlsx row 105, and to tier 4 on both index.html and es/index.html, inserted
+  immediately after Harry Potter and the Prisoner of Azkaban per score order (exact tie); title
+  "Dirk Gently's Holistic Detective Agency" in EN, "Dirk Gently: Agencia de investigaciones
+  holísticas" in ES (the official Anagrama translation title for the first novel, used since the
+  TV adaptations kept the English title even in Latin American streaming); medium: "Novels, TV
+  series" / "Novelas, Serie de TV". Updated the Summary sheet's tier-4 count (18 → 19) and
+  total-scored count (103 → 104 of 104). Updated the catalog-size mentions in both pages'
+  meta/JSON-LD description tags (103 → 104).
 
 ### 25. The Shannara Chronicles — Terry Brooks — TV series
 
