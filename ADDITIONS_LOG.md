@@ -620,7 +620,7 @@ reasoning in SCORING_RECORD.md.
 28. [ ] Alice in Wonderland — Lewis Carroll — Novel — whimsical, surreal children's fantasy with unsettling undertones (the Queen of Hearts' "off with their heads," nonsensical/threatening logic, identity/growing-up themes), but generally light in overall register
 29. [ ] The Wizard of Oz — L. Frank Baum (novel), 1939 film — classic adventure, real peril (the Wicked Witch, flying monkeys) but a fundamentally heartwarming, hopeful children's classic
 30. [ ] Wicked — Gregory Maguire (novel), stage musical — revisionist Oz told from Elphaba's perspective; real political oppression (the Wizard's totalitarian regime, persecution of sentient Animals as a genocide/civil-rights allegory), Elphaba's tragic arc as a misunderstood activist villainized by history — notably darker and more morally complex than the original Oz material
-27. [ ] The Sandman — Neil Gaiman — Comics, TV series
+27. [x] The Sandman — Neil Gaiman — Comics, TV series — DONE, see Completed
 28. [ ] Supernatural (TV series)
 29. [ ] Charmed (1998 TV series)
 30. [ ] The Dark Crystal (1982 film, Jim Henson & Frank Oz)
@@ -649,6 +649,74 @@ reasoning in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 27. The Sandman — Neil Gaiman — Comics, TV series
+
+- Tier 6 (Dark Fantasy), Final Score 6.1125 (Weighted Internal Score 2.05) — an exact numeric
+  tie with Re:Zero and Clevatess, via a genuinely different profile from each (see neighbor
+  check below).
+- Scores: Structural Despair 1, Limited Heroism 2, Moral Cynicism 2, Structural Corruption 1,
+  Redemption Difficulty 3, Narrative Acceptance of Injustice 2, Explicit Darkness 4.
+- Rationale: Neil Gaiman's 75-issue Vertigo comic (1989-1996) plus the Netflix adaptation
+  (2022-2025, which carries the story through to the same ending). Redemption Difficulty is the
+  clear swing criterion at 3, the highest value assigned to any tier-6 work so far: the entire
+  series is organized around whether Dream, one of the seven cosmic Endless, can genuinely
+  change, and the answer the text gives is that meaningful change costs him his own existence —
+  he dies (in "The Kindly Ones") as the direct, textual consequence of killing his son Orpheus,
+  itself an act of mercy that broke an ancient law of his own kind; Daniel, a transformed and
+  gentler aspect, succeeds him. That's a categorically more expensive redemption arc than the
+  typical tier-6 "real, costly, but survivable" bar this scale usually applies — matching the
+  "rare, most who seek it fail or achieve it only partially" anchor used for A Song of Ice and
+  Fire/The First Law rather than tier 6's usual RD2. Explicit Darkness sits at the ceiling (4)
+  on well-documented grounds: issue #6 ("24 Hours") has Dr. Destiny psychologically torture,
+  mutilate, and murder ordinary diner patrons over 24 hours — Gaiman has said the deliberate
+  intent was "if I go this far — once — nobody will trust me," a mainstream-comics benchmark for
+  extremity; the "Calliope" issue depicts a muse imprisoned and repeatedly raped by two authors
+  across decades for creative inspiration; "The Doll's House" arc features a literal convention
+  of serial killers. Limited Heroism and Moral Cynicism land at 2 rather than higher: most
+  individual story arcs *do* resolve their immediate threat (24 Hours ends when Dream reclaims
+  his tools; the Doll's House vortex crisis and Corinthian are both stopped), but the deeper
+  condition — mortality, loss, historical atrocity as recurring texture across the many
+  centuries-spanning vignettes — isn't fixed, and the anthology structure means some individual
+  stories resolve kindly while others (Calliope's trauma, background historical suffering) are
+  simply left as they are, not corrected. Structural Corruption stays low (1): Hell's own
+  succession politics (Lucifer abandoning the throne, several claimants contesting the key) is
+  real but mythological-personal in scale, not a real-world institutional critique the way
+  Attack on Titan/A Song of Ice and Fire's central examples are. Structural Despair stays low
+  (1) for a specific reason: the ending is explicitly cyclical rather than declining — Dream's
+  death is immediately followed by Daniel's succession, continuity and renewal rather than
+  civilizational decay.
+- Cozy Fantasy = No. Hopepunk = No: not remotely a genre or narrative-shape fit for either tag.
+- Scored against the complete 75-issue comic run and the complete Netflix adaptation (2 seasons
+  plus the "Death: The High Cost of Living"-adjacent bonus epilogue), which carries the story
+  through the same ending (Dream's death, Daniel's succession) rather than stopping short.
+- Neighbor check: Re:Zero's Redemption Difficulty 2 (Rem's memory loss, Roswaal's centuries of
+  scheming) sits below this entry's 3 — a specific, evidence-based gap given Dream's redemption
+  costs him his literal existence, not just years of struggle — while Re:Zero's Structural
+  Corruption 2 (the Witch Cult as a severe if non-central corrupting faction) sits above this
+  entry's 1, and Re:Zero's Structural Despair 2 sits above this entry's 1 (demi-human oppression
+  as an ongoing world condition vs. this entry's cyclical-renewal ending) — three genuine,
+  independently-reasoned differences that happen to net to the same total, not a copy. Clevatess
+  differs similarly: its Redemption Difficulty 1 (Clevatess's found-family arc with the human
+  infant is comparatively gentler and more successful) sits well below this entry's 3, while its
+  Structural Despair 2 and Structural Corruption 2 both sit above this entry's 1 and 1
+  respectively. Checked further against a non-adjacent Tier 6 work, Pan's Labyrinth (6.45): both
+  share Explicit Darkness 4 and a fascist/authoritarian-adjacent institutional backdrop, but
+  Pan's Labyrinth's Narrative Acceptance of Injustice 3 (Falangist Spain's violence is never
+  narratively corrected) sits above this entry's 2, and its Redemption Difficulty 0 (not
+  designed as a redemption story at all) sits well below this entry's 3 — a sensible ordering
+  given how differently the two works are actually structured. Label check: "Dark Fantasy
+  ... genuinely heavy without tipping into nihilism" fits — extreme, well-documented content sits
+  inside a work whose defining thesis is that change and mortality, while costly, are meaningful
+  rather than purely bleak.
+- Added to xlsx row 106, and to tier 6 on both index.html and es/index.html, inserted
+  immediately after Clevatess per score order (exact tie); title "The Sandman" kept identical in
+  EN and ES (no distinct official Spanish title found for either the comic or the Netflix
+  series — DC/Vertigo and Netflix both market it under the English title in Spanish-language
+  markets, matching the site's existing convention for The Witcher/The Legend of Zelda); medium:
+  "Comics, TV series" / "Cómics, Serie de TV". Updated the Summary sheet's tier-6 count (14 → 15)
+  and total-scored count (104 → 105 of 105). Updated the catalog-size mentions in both pages'
+  meta/JSON-LD description tags (104 → 105).
 
 ### 26. Dirk Gently's Holistic Detective Agency — Douglas Adams — Novels, TV series
 
