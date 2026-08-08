@@ -624,7 +624,7 @@ reasoning in SCORING_RECORD.md.
 28. [x] Supernatural (TV series) — DONE, see Completed
 29. [x] Charmed (1998 TV series) — DONE, see Completed
 30. [x] The Dark Crystal (1982 film, Jim Henson & Frank Oz) — DONE, see Completed
-31. [ ] The Dark Crystal: Age of Resistance (2019 TV series)
+31. [x] The Dark Crystal: Age of Resistance (2019 TV series) — DONE, see Completed
 32. [ ] His Dark Materials — Philip Pullman — Novels, TV series
 33. [ ] The Dresden Files — Jim Butcher — Novels, TV series
 34. [ ] The Grim Company — Luke Scull — Novels
@@ -649,6 +649,70 @@ reasoning in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 31. The Dark Crystal: Age of Resistance — Jim Henson & Frank Oz — TV series
+
+- Tier 6 (Dark Fantasy), Final Score 6.7875 (Weighted Internal Score 2.35) — an exact numeric
+  tie with Märchen Crown, via a genuinely different profile (see neighbor check below). Notably
+  darker than its own parent film, The Dark Crystal (Tier 4, 4.20, added earlier this session).
+- Scores: Structural Despair 3, Limited Heroism 2, Moral Cynicism 2, Structural Corruption 3,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 3, Explicit Darkness 4.
+- Rationale: this 2019 Netflix prequel (10 episodes, cancelled after one season) is bound by a
+  structural constraint the film isn't: as a prequel to a story that already establishes the
+  Gelfling race is nearly wiped out and the Skeksis rule unchecked for a thousand years, Season
+  1's real, hard-won victory (the Gelfling clans unite for the first time and force a Skeksis
+  retreat) is inescapably read against a known, doomed future — a specific, textually-grounded
+  reason Structural Despair (3) and Narrative Acceptance of Injustice (3) both sit well above
+  the film's Structural Despair 2 / Narrative Acceptance of Injustice 1. The season also
+  establishes the Darkening (an active, spreading corruption of Thra caused by the Skeksis'
+  crystal misuse) as an ongoing, worsening condition, not a static backdrop. Structural
+  Corruption matches the film's 3 for the same reason established there: the Skeksis are Thra's
+  only shown ruling power, and this season depicts the exploitative machinery (systematic
+  essence-draining, the Garthim army under construction) being actively built out, if anything
+  more explicitly than the film's post-hoc thousand-year status quo. Redemption Difficulty stays
+  at the film's 0 — Season 1 doesn't center a personal moral-repair arc for any major character;
+  it's a story about a collective uprising, not individual redemption. Explicit Darkness reaches
+  the ceiling (4), one level above the film's 3, on specific critical consensus: reviewers
+  repeatedly describe the show as pushing further than the film into "torture, disfigurement,
+  and violence that are genuinely unpleasant," including a sustained, graphic on-screen sequence
+  of a sympathetic character's essence being drained and her body disintegrating — critics
+  specifically called it "Game of Thrones for a younger audience," and the 10-episode format
+  sustains that intensity across far more runtime than the film's 93 minutes could.
+- Cozy Fantasy = No. Hopepunk = No: the season's central shape (formerly-divided Gelfling clans
+  choosing unity as their resistance strategy against the Skeksis) is arguably a closer
+  numerical fit for Fierce Hopepunk than the film's solitary-quest structure, but Limited
+  Heroism and Moral Cynicism don't sit at the floor the way that shape requires (Avatar's LH1/
+  MC1), and this entry lands at Tier 6 — matching the established precedent that no work at this
+  severity or darker carries the tag, since the surrounding content dominates enough page-time
+  that "kindness as the organizing response" stops being the most honest description.
+- Scored against the complete, aired Season 1 only — the series was cancelled before a second
+  season, so later chapters of the Gelfling resistance (and its established eventual defeat)
+  are not part of the scored text, matching how this catalog treats other cancelled shows (The
+  Shannara Chronicles, earlier this session).
+- Neighbor check: Märchen Crown's Redemption Difficulty 2 sits above this entry's 0 (no
+  comparable personal-repair arc exists in this season), trading against this entry's Structural
+  Despair 3 and Narrative Acceptance of Injustice 3 vs. Märchen Crown's 2 and 2 (Märchen Crown's
+  ongoing serialized story doesn't carry Age of Resistance's specific certain-doom prequel
+  structure) — the three-axis difference nets to the same total via independently-reasoned
+  gaps, not a coincidence. Checked further against a non-adjacent Tier 6 work, The Sandman
+  (6.1125, added earlier this session): The Sandman's Redemption Difficulty 3 (Dream's arc costs
+  him his literal existence) sits well above this entry's 0, while this entry's Structural
+  Despair 3 and Narrative Acceptance of Injustice 3 both sit above The Sandman's 1 and 2 (The
+  Sandman's ending is explicitly cyclical/restorative — Daniel's succession — while this entry's
+  known future is straightforwardly worse) — a sensible ordering between two works that reach
+  a similar total through very different content. Label check: "Dark Fantasy... genuinely heavy
+  without tipping into nihilism" fits — the season's own ending keeps real hope alive (the
+  clans' unity is portrayed as meaningful, not futile), and the wider two-work Dark Crystal
+  story eventually does restore balance, even though this chapter is the bleakest part of it.
+- Added to xlsx row 110, and to tier 6 on both index.html and es/index.html, inserted
+  immediately after Märchen Crown per score order (exact tie); title "The Dark Crystal: Age of
+  Resistance" in EN, "Cristal oscuro: La era de la resistencia" in ES (Netflix's own regional
+  title for the series — notably using "Cristal oscuro," the Spain-dub name, rather than "El
+  cristal encantado," the Latin American dub name used for the 1982 film, a genuine
+  inconsistency in the source material reflected here rather than smoothed over); medium: "TV
+  series" / "Serie de TV". Updated the Summary sheet's tier-6 count (16 → 17) and total-scored
+  count (108 → 109 of 109). Updated the catalog-size mentions in both pages' meta/JSON-LD
+  description tags (108 → 109).
 
 ### 30. The Dark Crystal — Jim Henson & Frank Oz — Film
 
