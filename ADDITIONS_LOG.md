@@ -623,7 +623,7 @@ reasoning in SCORING_RECORD.md.
 27. [x] The Sandman — Neil Gaiman — Comics, TV series — DONE, see Completed
 28. [x] Supernatural (TV series) — DONE, see Completed
 29. [x] Charmed (1998 TV series) — DONE, see Completed
-30. [ ] The Dark Crystal (1982 film, Jim Henson & Frank Oz)
+30. [x] The Dark Crystal (1982 film, Jim Henson & Frank Oz) — DONE, see Completed
 31. [ ] The Dark Crystal: Age of Resistance (2019 TV series)
 32. [ ] His Dark Materials — Philip Pullman — Novels, TV series
 33. [ ] The Dresden Files — Jim Butcher — Novels, TV series
@@ -649,6 +649,69 @@ reasoning in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 30. The Dark Crystal — Jim Henson & Frank Oz — Film
+
+- Tier 4 (Fantasy in Gray Tones), Final Score 4.20 (Weighted Internal Score 1.2) — an exact
+  numeric tie with The NeverEnding Story and Once Upon a Time, via a genuinely different profile
+  from each (see neighbor check below).
+- Scores: Structural Despair 2, Limited Heroism 0, Moral Cynicism 0, Structural Corruption 3,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 1, Explicit Darkness 3.
+- Rationale: scored as the 1982 film only — the 2019 Netflix prequel series, Age of Resistance,
+  is queue item #31 and out of scope here. Structural Corruption is the profile's standout value
+  at 3: the Skeksis aren't one corrupt faction among legitimate institutions, they *are* Thra's
+  only shown ruling power, and their thousand-year reign is defined entirely by exploitation —
+  systematically draining the life-essence of Podlings and Gelflings to extend their own lives,
+  having already carried out a near-total genocide of the Gelfling race before the film even
+  starts (Jen and Kira are the last two). That's "injustice embedded in central institutions"
+  with no competing legitimate power shown at all, a stronger case than the more common
+  "anomalous usurping tyrant" pattern this scale usually scores at Structural Corruption 1
+  (e.g. Willow's Bavmorda). Against that: Limited Heroism and Moral Cynicism both sit at the
+  floor (0) because Jen's quest achieves about as complete a resolution as this scale has
+  scored — not just stopping the Skeksis but healing the millennium-old cosmic wound at its
+  root, reuniting the Skeksis and their opposite-selves the Mystics back into a single
+  transcendent species (the urSkeks), with Kira's apparent death at the climax explicitly undone
+  by the ending rather than left as a cost. Redemption Difficulty sits at 0 for a specific
+  reason distinct from "reforms easily": there isn't a character-level moral-repair arc in this
+  film at all — the Skeksis don't individually repent, they're cosmically reintegrated into
+  something that transcends the good/evil split, a different construct than personal redemption.
+  Explicit Darkness reaches 3 on well-documented grounds: the Skeksis' exaggerated physical
+  decay, the essence-draining sequences (visually a form of vampiric body-horror), and
+  specifically SkekTek's mind-wipe of a captured Podling (hair whitening, face caving in, eyes
+  glazing over) are widely cited by retrospective reviews as "uncomfortably dark" and
+  "traumatic nightmare fuel" for an ostensibly family-rated 1982 film.
+- Cozy Fantasy = No. Hopepunk = No, despite a numeric profile that superficially resembles the
+  Fierce Hopepunk shape (real institutional oppression + Limited Heroism/Moral Cynicism both at
+  the floor): considered and rejected on narrative-shape grounds, not just the numbers. Fierce
+  Hopepunk requires kindness/community organized *as resistance praxis* (Avatar's found-family
+  actively opposing empire); Jen's story is a solitary prophesied quest resolved through
+  mythic-fantasy mechanics (finding a shard, a cosmic conjunction), not collective kindness
+  chosen as a deliberate strategy against the Skeksis.
+- Neighbor check: The NeverEnding Story's Limited Heroism 1 and Redemption Difficulty 2 (Bastian's
+  own costly corruption arc) both sit above this entry's 0 — a specific gap, since this film has
+  no comparable personal-corruption throughline for its protagonist — trading against this
+  entry's Structural Corruption 3 vs. NES's 0 (NES's Nothing is an existential/cosmic threat,
+  not an institutional one, the opposite shape). Once Upon a Time's Redemption Difficulty 2
+  (Regina's and Rumpelstiltskin's costly arcs) also sits above this entry's 0, trading against
+  this entry's Structural Corruption 3 vs. OUAT's 1 (OUAT's corrupt rulers are each individually
+  anomalous and correctable, not one totalizing regime). Checked further against a non-adjacent
+  Tier 4 work, The Shannara Chronicles (4.875, added earlier this session, the closest peer for
+  "real institutional persecution" among this session's additions): Shannara's Narrative
+  Acceptance of Injustice 2 (the Crimson's persecution thread stays open due to the show's
+  cancellation) sits above this entry's 1 (the genocide's demographic damage isn't undone, but
+  the ending's "Jen and Kira will rebuild" framing is explicitly hopeful and resolution-oriented,
+  not left ambivalent), while this entry's Limited Heroism 0 sits well below Shannara's 1 — a
+  clean, complete mythic resolution vs. Shannara's real-world production accident leaving things
+  open. Label check: "Fantasy in Gray Tones (high stakes, real losses, but still high hope)"
+  fits — a genuinely severe, embedded institutional evil and a completed genocide sit inside a
+  story that ends in total restoration.
+- Added to xlsx row 109, and to tier 4 on both index.html and es/index.html, inserted
+  immediately after Once Upon a Time per score order (exact tie); title "The Dark Crystal" in
+  EN, "El cristal encantado" in ES (the Latin American dub title, matching this catalog's
+  existing preference for the Latin American title when it differs from Spain's — Spain uses
+  "Cristal oscuro"); medium: "Film" / "Película". Updated the Summary sheet's tier-4 count
+  (20 → 21) and total-scored count (107 → 108 of 108). Updated the catalog-size mentions in both
+  pages' meta/JSON-LD description tags (107 → 108).
 
 ### 29. Charmed — Constance M. Burge — TV series
 
