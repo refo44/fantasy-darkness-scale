@@ -612,7 +612,7 @@ reasoning in SCORING_RECORD.md.
 21. [x] The Magicians — Lev Grossman — Novels, TV series — DONE, see Completed
 22. [x] House of the Dragon — DONE, see Completed
 23. [x] A Knight of the Seven Kingdoms (Dunk & Egg) — George R. R. Martin — Novellas — DONE, see Completed
-24. [ ] Once Upon a Time (TV series)
+24. [x] Once Upon a Time (TV series) — DONE, see Completed
 25. [ ] The Shannara Chronicles — based on Terry Brooks' novels — TV series
 26. [ ] Dirk Gently's Holistic Detective Agency — Douglas Adams — Novels, TV series
 27. [ ] Dark Sun — TSR / Wizards of the Coast — Tabletop (D&D campaign setting) — post-apocalyptic desert world Athas, magic that kills plant life to power spells, widespread slavery, tyrannical sorcerer-kings draining their own kingdoms' life force; deliberately created as a grim subversion of standard D&D high fantasy
@@ -648,6 +648,72 @@ reasoning in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 24. Once Upon a Time — Edward Kitsis & Adam Horowitz — TV series
+
+- Tier 4 (Fantasy in Gray Tones), Final Score 4.20 (Weighted Internal Score 1.2) — an exact
+  numeric tie with The NeverEnding Story, via a genuinely different profile (see neighbor check
+  below), not a copy.
+- Scores: Structural Despair 1, Limited Heroism 1, Moral Cynicism 0, Structural Corruption 1,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 1, Explicit Darkness 3.
+- Rationale: 7 seasons (2011-2018) built around fairy-tale characters cursed into the small
+  town of Storybrooke, with the show's own explicit mission statement — Henry's line "you're
+  going to bring back the happy endings" — as close to a textual thesis statement as this scale
+  has seen. Moral Cynicism sits at the scale's floor (0) on unusually strong textual grounds:
+  True Love's Kiss is literal, explicit, consistently-applied in-universe magical law that
+  breaks any curse, matching anchor 0's "goodness and cooperation are rewarded consistently and
+  explicitly" almost exactly rather than the more general "acting well usually works out" of
+  anchor 1. Redemption Difficulty is the profile's clear outlier at 2: virtually every major
+  villain (Regina, Rumpelstiltskin, Hook, Zelena) gets a real redemption arc, and the show
+  insists redemption is reachable "no matter how far you've fallen" — but reachable is not
+  free. Regina's arc spans all 7 seasons with dramatized, specific costs (years without Henry's
+  trust, eventually literally splitting off and destroying her own Evil Queen persona to purge
+  her darkness), and Rumpelstiltskin backslides for 300 years before his arc resolves only in
+  his own finale death — real loss/pain/renunciation, the anchor-2 bar, not just "genuine effort
+  that succeeds" (anchor 1). Structural Corruption stays low (1): the various corrupt regimes
+  across the show's many fairy-tale kingdoms (Cora's Wonderland, Zelena's Oz, King George's
+  court) are each individually legitimate monarchies temporarily seized by an anomalous
+  villain and then corrected — not one coherent institution built by design to oppress, so this
+  stays a tier below the "notorious corruption in a central institution" bar of SC2. Explicit
+  Darkness reaches 3 on real evidence, not just genre reputation: the Parents Television
+  Council's own tracked count across sweep periods logged 37 deaths, 4 dismemberments, and 261
+  acts of violence, and heart-ripping — literally tearing a beating heart from someone's chest
+  to control or kill them — recurs as the show's single most central and frequently-used dark
+  magical device across the entire run, plus a full season set in the literal Underworld.
+- Cozy Fantasy = No. Hopepunk = No: unlike Avatar (also Tier 4, Hopepunk = Yes), Once Upon a
+  Time's shape isn't an oppressed group mounting organized resistance to a systemic power — it's
+  individual moral journeys and family reunion, which is why Structural Corruption stays low
+  rather than reading as real institutional oppression.
+- Scored against the complete 7-season series, source-consistent with the finale ("Leaving
+  Storybrooke") giving nearly every character, including several redeemed former villains, an
+  explicit happy ending.
+- Neighbor check: initially derived to an identical per-axis match with Fullmetal Alchemist:
+  Brotherhood (also Tier 4) — flagged as the exact uniform-default pattern this log warns
+  against, and re-examined rather than accepted. On reflection, FMA:B's Structural Corruption 2
+  reflects Amestris as one coherent nation built by a hidden cabal specifically to harvest its
+  population, a much harder institutional-design case than Once Upon a Time's pattern of
+  individually-legitimate kingdoms seized by anomalous usurpers — and FMA:B has no equivalent to
+  True Love's Kiss's explicit reward-mechanic. Revised Structural Corruption 2 to 1 and Moral
+  Cynicism 1 to 0 on that basis, landing instead on an exact tie with The NeverEnding Story
+  (4.20) via a materially different shape: NES's Structural Despair 2 (the Nothing actively
+  consuming Fantasia through most of the story) trades against this entry's Narrative Acceptance
+  of Injustice 1 (recurring but individually-resolved injustices, rather than NES's fully-undone
+  single threat), and NES's Structural Corruption 0 trades against this entry's Moral Cynicism
+  0 — two independent, textually-grounded swaps landing on the same total, not a coincidence of
+  identical inputs. Checked further against a tonally distant non-adjacent Tier 4 work, Star vs.
+  the Forces of Evil (4.9875, near the tier ceiling): it out-scores this entry specifically via
+  a real institutional-oppression backdrop (the Mewman genocide against Monsters, Structural
+  Corruption 2) and a more unresolved ending (the Rumbling-adjacent "erase the system" finale,
+  Narrative Acceptance of Injustice 2), while this entry compensates with higher Explicit
+  Darkness (3 vs. 2) from its sustained on-screen violence — a sensible, non-arbitrary ordering.
+  Label check: "Fantasy in Gray Tones (high stakes, real losses, but still high hope)" is a
+  near-literal description of the show's own reputation and stated thesis.
+- Added to xlsx row 103, and to tier 4 on both index.html and es/index.html, inserted
+  immediately after The NeverEnding Story per score order (exact tie); title "Once Upon a Time"
+  in EN, "Érase una vez" in ES (the standard Latin American/Spain title used since 2016); medium:
+  "TV series" / "Serie de TV". Updated the Summary sheet's tier-4 count (16 → 17) and
+  total-scored count (101 → 102 of 102). Updated the catalog-size mentions in both pages'
+  meta/JSON-LD description tags (101 → 102).
 
 ### 23. A Knight of the Seven Kingdoms (Dunk & Egg) — George R. R. Martin — Novellas
 
