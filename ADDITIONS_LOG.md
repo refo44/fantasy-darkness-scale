@@ -622,7 +622,7 @@ reasoning in SCORING_RECORD.md.
 30. [ ] Wicked — Gregory Maguire (novel), stage musical — revisionist Oz told from Elphaba's perspective; real political oppression (the Wizard's totalitarian regime, persecution of sentient Animals as a genocide/civil-rights allegory), Elphaba's tragic arc as a misunderstood activist villainized by history — notably darker and more morally complex than the original Oz material
 27. [x] The Sandman — Neil Gaiman — Comics, TV series — DONE, see Completed
 28. [x] Supernatural (TV series) — DONE, see Completed
-29. [ ] Charmed (1998 TV series)
+29. [x] Charmed (1998 TV series) — DONE, see Completed
 30. [ ] The Dark Crystal (1982 film, Jim Henson & Frank Oz)
 31. [ ] The Dark Crystal: Age of Resistance (2019 TV series)
 32. [ ] His Dark Materials — Philip Pullman — Novels, TV series
@@ -649,6 +649,68 @@ reasoning in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 29. Charmed — Constance M. Burge — TV series
+
+- Tier 4 (Fantasy in Gray Tones), Final Score 4.65 (Weighted Internal Score 1.4) — an exact
+  numeric tie with Earthsea, Avatar: The Last Airbender, Final Fantasy XII, and Grimgar: Ashes
+  and Illusions, via a genuinely different profile from each (see neighbor check below).
+- Scores: Structural Despair 1, Limited Heroism 1, Moral Cynicism 1, Structural Corruption 1,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 2, Explicit Darkness 2.
+- Rationale: the original 1998-2006 WB/CW series (the 2018 CW reboot is a separate production
+  and out of scope for this entry). The Halliwell sisters' "can't use magic for personal gain"
+  rule is close to an explicit, mechanical just-world guarantee, keeping Moral Cynicism low (1);
+  the demonic hierarchy (the Source, the Triad) is straightforwardly evil rather than a
+  corrupted-from-legitimate institution, keeping Structural Corruption low (1) — the "Elders,"
+  the show's good-aligned governing council, are shown as flawed and bureaucratic at points but
+  never rise to a central-institution-level critique. The two axes that carry this entry's real
+  weight: Redemption Difficulty (2) is earned by Cole Turner's arc — Phoebe's husband, possessed
+  by and eventually merged with the Source of All Evil, whose love-driven struggle to resist
+  total corruption spans multiple seasons and ultimately *fails*, ending in his vanquishing
+  rather than a successful redemption, a real and costly exception to the show's otherwise
+  reliable "love wins" pattern. Narrative Acceptance of Injustice (2) is earned by a specific,
+  well-documented case: Prue Halliwell's death in the Season 3 finale ("All Hell Breaks Loose")
+  is permanent — not undone despite that same episode's own time-reset plot device — and the
+  show gives her no on-screen closure afterward (no funeral episode; Season 4 simply states she
+  died), a gap critics and fans have specifically flagged (paste magazine's "It Still Stings:
+  Justice for Prue"). Explicit Darkness (2) reflects the show's generally restrained, network-TV
+  demon-of-the-week violence — real but not graphic in sustained detail, distinctly softer than
+  Supernatural's practical-horror aesthetic (also Tier 6, added earlier this session).
+- Cozy Fantasy = No. Hopepunk = No: love and sisterhood are the show's central themes, but the
+  narrative isn't structured as an oppressed group's organized resistance to an institution (the
+  Fierce shape) or built around mortality/time as an organizing meditation (the Bittersweet
+  shape) — it's episodic good-vs-evil urban fantasy with genuine but conventionally-resolved
+  stakes.
+- Scored against the complete original 8-season, 178-episode series through its finale ("Forever
+  Charmed"), which gives the surviving sisters (and Paige's replacement of Prue) a settled,
+  hopeful ending.
+- Neighbor check: none of the four other works tied at 4.65 share an identical per-axis profile.
+  Avatar/Grimgar's Structural Despair 2 (an active genocide backstory; a stranded-in-a-death-game
+  premise) sits above this entry's 1, trading against their Narrative Acceptance of Injustice 1
+  vs. this entry's 2 (Prue's unaddressed death has no equivalent in either). Earthsea's Moral
+  Cynicism 0 and Structural Corruption 2 differ from this entry's 1 and 1 in opposite directions
+  — Earthsea's mythic story isn't institutional at all, closer to a personal quest, the opposite
+  shape from Charmed's demonic-hierarchy backdrop. Final Fantasy XII's Structural Corruption 2
+  and Redemption Difficulty 1 swap against this entry's 1 and 2 — Charmed's Cole arc is a more
+  costly, failed redemption than anything in FFXII's political-intrigue plot. Checked further
+  against a non-adjacent Tier 4 work, Once Upon a Time (4.20, added earlier this session, the
+  closest tonal cousin as another found-family urban-fantasy TV drama): Once Upon a Time's Moral
+  Cynicism 0 (True Love's Kiss as explicit magical law) sits below this entry's 1 (Cole's failed
+  redemption is a real cynicism data point OUAT's cleaner magic system doesn't share), while
+  this entry's Narrative Acceptance of Injustice 2 sits above OUAT's 1 (OUAT's finale resolves
+  nearly everything; Prue's death never gets equivalent narrative closure) — a sensible,
+  evidence-based ordering between the two closest peers on the scale. Label check: "Fantasy in
+  Gray Tones (high stakes, real losses, but still high hope)" fits — a real, narratively
+  unaddressed permanent loss and one failed redemption arc sit inside a fundamentally
+  love-and-sisterhood-affirming show.
+- Added to xlsx row 108, and to tier 4 on both index.html and es/index.html, inserted
+  immediately after Grimgar per score order (exact tie); title "Charmed" in EN, "Embrujadas" in
+  ES (the title used in both Spain and Latin American Spanish-language markets); creator
+  credited as "Constance M. Burge" (the series creator, matching the site's convention of
+  crediting the creator/showrunner for original TV properties rather than the studio); medium:
+  "TV series" / "Serie de TV". Updated the Summary sheet's tier-4 count (19 → 20) and
+  total-scored count (106 → 107 of 107). Updated the catalog-size mentions in both pages'
+  meta/JSON-LD description tags (106 → 107).
 
 ### 28. Supernatural — Eric Kripke — TV series
 
