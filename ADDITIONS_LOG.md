@@ -630,7 +630,7 @@ reasoning in SCORING_RECORD.md.
 34. [x] The Grim Company — Luke Scull — Novels — DONE, see Completed
 35. [x] The Dark Tower — Stephen King — Novels — DONE, see Completed
 36. [x] Eragon (the Inheritance Cycle) — Christopher Paolini — Novels — DONE, see Completed
-37. [ ] The Princess Bride — William Goldman — Novel, Film
+37. [x] The Princess Bride — William Goldman — Novel, Film — DONE, see Completed
 38. [ ] Fourth Wing / Iron Flame / Onyx Storm (Empyrean series) — Rebecca Yarros — Novels — score each, bundle into one entry if they land in the same tier
 39. [ ] Sweet Tooth — Jeff Lemire — Comics, TV series
 40. [ ] Arcane — Riot Games — TV series
@@ -649,6 +649,59 @@ reasoning in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 37. The Princess Bride — William Goldman — Novel, Film
+
+- Tier 2 (Bright Fantasy), Final Score 2.9625 (Weighted Internal Score 0.65) — an exact
+  numeric tie with The Chronicles of Narnia and The Legend of Zelda, via a genuinely different
+  profile from each (see neighbor check below).
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 1, Structural Corruption 1,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 1, Explicit Darkness 2.
+- Rationale: covers William Goldman's 1973 novel and the beloved 1987 Rob Reiner film. The
+  story itself resolves about as cleanly and triumphantly as this scale scores anything — Westley
+  and Buttercup escape together, Inigo avenges his father by killing Count Rugen, Humperdinck's
+  war-mongering murder plot is foiled — supporting the floor on Structural Despair, Limited
+  Heroism, and Redemption Difficulty (there's no personal-corruption arc for any major
+  character; Humperdinck is defeated and humiliated, not redeemed). Moral Cynicism and
+  Narrative Acceptance of Injustice sit at 1 rather than 0 on a specific, textual basis
+  distinct from the plot itself: Goldman's novel is framed as his own restoration of "the good
+  parts" his father skipped when reading it to him as a child, built around an explicit,
+  repeated thematic thesis — "life isn't fair... it's just fairer than death" — that directly
+  argues against the "good guys always win, bad guys always get their comeuppance" worldview a
+  simpler fairy tale would present uncomplicated. Goldman even appends a real aside musing that
+  the characters likely didn't get an unambiguously happy ending long-term. That's a meta-level
+  complication of pure just-world causality this scale doesn't usually see in otherwise-clean
+  Tier 2 stories, even though the *told* story (the one Goldman actually chooses to narrate) is
+  itself a full, unambiguous triumph. Explicit Darkness (2) reflects real, if
+  comedically-framed, intensity: Westley's torture on The Machine, the "to the pain" speech
+  (a vividly detailed mutilation threat), Buttercup's suicide attempt, and Inigo's father's
+  murder are all genuine dark beats, but none are lingered on in a sustained, horror-coded way
+  the way Willow/Legend's dedicated scary-villain aesthetics are — closer to "real danger,
+  without extreme graphic detail" than a horror-adjacent register.
+- Cozy Fantasy = No. Hopepunk = No: Humperdinck's scheme is one prince's individual plot rather
+  than a systemic institutional critique (the Fierce shape doesn't fit), there's no
+  adversity-free default-kindness world (Gentle doesn't fit), and the "life isn't fair" theme is
+  a framing aside rather than an organizing meditation on mortality (Bittersweet doesn't fit).
+- Neighbor check: neither of the two other works tied at 2.9625 shares an identical per-axis
+  profile. Narnia's Structural Despair 1 (the White Witch's hundred-year winter, a real
+  declining-world backdrop) and Redemption Difficulty 1 (Edmund's betrayal-and-forgiveness arc)
+  both sit above this entry's 0 and 0 — Princess Bride has neither an ongoing world-decline
+  premise nor a personal-redemption throughline — trading against this entry's Moral Cynicism 1
+  and Narrative Acceptance of Injustice 1 vs. Narnia's 0 and 0 (Narnia's Christian-allegory
+  just-world structure doesn't carry Goldman's meta-narrative "life isn't fair" complication).
+  The Legend of Zelda's Structural Despair 1 and Limited Heroism 1 (each game's world requires
+  saving from an active, recurring threat) sit above this entry's 0 and 0, trading against this
+  entry's Moral Cynicism 1 and Narrative Acceptance of Injustice 1 vs. Zelda's 0 and 0 (episodic
+  video-game heroics don't carry any equivalent authorial complication of the just-world
+  premise). Label check: "Bright Fantasy" fits — a warm, comedic, triumphant fairy-tale
+  adventure with a few genuinely dark beats and a knowing wink that real happy endings are
+  rarer than stories pretend, without ever undermining its own told story's triumph.
+- Added to xlsx row 116, and to tier 2 on both index.html and es/index.html, inserted between
+  The Legend of Zelda and DanMachi per score order (exact tie); title "The Princess Bride" in
+  EN, "La Princesa Prometida" in ES (the standard Spanish translation title); medium: "Novel,
+  Film" / "Novela, Película". Updated the Summary sheet's tier-2 count (17 → 18) and
+  total-scored count (114 → 115 of 115). Updated the catalog-size mentions in both pages'
+  meta/JSON-LD description tags (114 → 115).
 
 ### 36. Eragon (The Inheritance Cycle) — Christopher Paolini — Novels, Film
 
