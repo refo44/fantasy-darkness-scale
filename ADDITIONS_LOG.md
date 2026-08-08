@@ -628,7 +628,7 @@ reasoning in SCORING_RECORD.md.
 32. [x] His Dark Materials — Philip Pullman — Novels, TV series — DONE, see Completed
 33. [x] The Dresden Files — Jim Butcher — Novels, TV series — DONE, see Completed
 34. [x] The Grim Company — Luke Scull — Novels — DONE, see Completed
-35. [ ] The Dark Tower — Stephen King — Novels
+35. [x] The Dark Tower — Stephen King — Novels — DONE, see Completed
 36. [ ] Eragon (the Inheritance Cycle) — Christopher Paolini — Novels
 37. [ ] The Princess Bride — William Goldman — Novel, Film
 38. [ ] Fourth Wing / Iron Flame / Onyx Storm (Empyrean series) — Rebecca Yarros — Novels — score each, bundle into one entry if they land in the same tier
@@ -649,6 +649,67 @@ reasoning in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 35. The Dark Tower — Stephen King — Novels
+
+- Tier 7 (Extreme Dark Fantasy), Final Score 7.80 (Weighted Internal Score 2.8) — an exact
+  numeric tie with Attack on Titan and House of the Dragon, via a genuinely different profile
+  from each (see neighbor check below).
+- Scores: Structural Despair 3, Limited Heroism 3, Moral Cynicism 2, Structural Corruption 2,
+  Redemption Difficulty 3, Narrative Acceptance of Injustice 3, Explicit Darkness 4.
+- Rationale: the complete 8-book series (The Gunslinger through The Dark Tower, plus The Wind
+  Through the Keyhole). Reality's decay ("the world has moved on") is the series' single most
+  explicit, repeated, author-confirmed theme — King himself has described the Crimson King as a
+  direct embodiment of "chaos and entropy" — but Structural Despair stops short of the ceiling
+  (3, not 4) because Roland's quest is shown genuinely stabilizing the Tower by the end, a real
+  achieved improvement, not a world where nothing can alter the trajectory. That distinction is
+  exactly why Limited Heroism and Narrative Acceptance of Injustice carry the story's real
+  bleakness instead: Roland reaches the Tower — succeeds, by any conventional measure — and is
+  immediately reset to the desert at the start of his quest, implying he has done this before,
+  possibly many times, with no confirmation the cycle ever actually ends (critics describe
+  whether he "succeeded" as explicitly left unanswered). That's about as direct a match for
+  "even the biggest victories are insufficient" as this scale has scored, and Redemption
+  Difficulty (3) follows the same logic: Roland's arc toward genuine love and connection (his
+  ka-tet, replacing his old ruthlessness) is real, but the loop's implication that he hasn't yet
+  earned a different outcome — despite carrying the Horn of Eld this time as a sliver of hope —
+  keeps his redemption unresolved rather than achieved. Structural Corruption (2) is grounded in
+  a specific institutional case distinct from the series' cosmic-scale themes: the Wolves of the
+  Calla, a sustained, organized child-theft practice (children returned "roont" — mentally and
+  physically ruined) enforced by a hidden power connected to the Crimson King's forces, not an
+  isolated crime. Explicit Darkness sits at the ceiling (4) on King's characteristically visceral
+  and sustained horror content across eight books — the Low Men, Mordred (a monstrous
+  spider-child who kills and feeds on people including his own surrogate mother), and repeated
+  graphic violence throughout.
+- Cozy Fantasy = No. Hopepunk = No: matches precedent (no work at Tier 6 or darker carries the
+  tag).
+- Scored against the complete 8-book main series (the connective tissue linking most of King's
+  other work is acknowledged but not itself in scope for this entry).
+- Neighbor check: Attack on Titan's Limited Heroism 2 (a genuine, lasting diplomatic peace is
+  achieved) sits below this entry's 3 (Roland's own victory doesn't durably resolve anything for
+  him personally), while Titan's Moral Cynicism 3 and Structural Corruption 3 (idealism
+  repeatedly, brutally punished; multi-institutional societal rot) both sit above this entry's 2
+  and 2 — Dark Tower's antagonist force is cosmic/entropic rather than a critique of specific
+  political institutions the way Titan's is. House of the Dragon's Structural Despair 2 and
+  Moral Cynicism 3 differ from this entry's 3 and 2 in exactly opposite directions — HotD's
+  succession war is a contained, single-dynasty tragedy where honor is systematically punished
+  by court politics, while Dark Tower's despair is cosmological rather than political, and no
+  single act of court cynicism drives its plot the way the Hightower coup drives HotD's. Checked
+  further against a non-adjacent Tier 7 work, His Dark Materials (7.4625): this entry's
+  Structural Despair 3 and Redemption Difficulty 3 both sit above HDM's 2 and 2 (reality-decay
+  as a repeated, explicit, book-spanning thesis is a more totalizing condition than HDM's
+  contained Dust-crisis, and Roland's unresolved cyclical redemption is less certain than Mrs.
+  Coulter's costly-but-successful one), offset by this entry's Structural Corruption 2 sitting
+  below HDM's 3 (the Magisterium's intercision program is a cleaner, more centralized
+  institutional-design case than the Calla Wolves' more contained practice) — a sensible,
+  evidence-based ordering. Label check: "Extreme Dark Fantasy" fits — cosmic-scale decay,
+  extensive visceral horror, and an ending that refuses easy resolution sit at the tier's
+  established severity, alongside Titan and HotD.
+- Added to xlsx row 114, and to tier 7 on both index.html and es/index.html, appended after
+  House of the Dragon per score order (three-way tie at 7.80); title "The Dark Tower" in EN, "La
+  Torre Oscura" in ES (the standard Spanish title used across all translated editions); medium:
+  "Novels" / "Novelas". Updated the Summary sheet's tier-7 count (5 → 6) and total-scored count
+  (112 → 113 of 113). Updated the catalog-size mentions in both pages' meta/JSON-LD description
+  tags (112 → 113).
 
 ### 34. The Grim Company — Luke Scull — Novels
 
