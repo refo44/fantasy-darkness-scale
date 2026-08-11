@@ -631,7 +631,7 @@ reasoning in SCORING_RECORD.md.
 35. [x] The Dark Tower — Stephen King — Novels — DONE, see Completed
 36. [x] Eragon (the Inheritance Cycle) — Christopher Paolini — Novels — DONE, see Completed
 37. [x] The Princess Bride — William Goldman — Novel, Film — DONE, see Completed
-38. [ ] Fourth Wing / Iron Flame / Onyx Storm (Empyrean series) — Rebecca Yarros — Novels — score each, bundle into one entry if they land in the same tier
+38. [x] Fourth Wing / Iron Flame / Onyx Storm (Empyrean series) — Rebecca Yarros — Novels — score each, bundle into one entry if they land in the same tier — DONE, see Completed
 39. [ ] Sweet Tooth — Jeff Lemire — Comics, TV series
 40. [ ] Arcane — Riot Games — TV series
 41. [ ] Percy Jackson & the Olympians — Rick Riordan — Novels, TV series
@@ -649,6 +649,80 @@ reasoning in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 38. Fourth Wing (The Empyrean) — Rebecca Yarros — Novels
+
+- Tier 6 (Dark Fantasy), Final Score 6.7875 (Weighted Internal Score 2.35) — an exact numeric
+  tie with Märchen Crown and The Grim Company (see the extended neighbor-check note below —
+  this one is worth reading in full given the session's recent self-correction).
+- Scores: Structural Despair 2, Limited Heroism 2, Moral Cynicism 2, Structural Corruption 3,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 2, Explicit Darkness 4.
+- **Bundle decision, per this queue item's own instruction to score each book and bundle only if
+  they land in the same tier:** all three published books (Fourth Wing, Iron Flame, Onyx Storm)
+  were assessed for tier consistency. The core institutional critique — Basgiath War College's
+  lethal culling system and Navarre's centuries-long cover-up about the true nature of the war
+  — is established by the end of Fourth Wing and simply escalates (not tonally shifts) across
+  Iron Flame and Onyx Storm: more brutal tests, a deepening conspiracy, Xaden's venin-corruption
+  arc. No book introduces a different register the way, say, Harry Potter's early volumes do
+  relative to its finale; this is continuous escalation within one register, matching the
+  reasoning already applied to Eragon earlier this session. Bundled as one entry.
+- Rationale: Structural Corruption (3) is grounded in two distinct, textually-confirmed
+  practices, not reviewer inference alone — (1) Basgiath's death-culling system, where an
+  average 15% of conscripts die on the very first day (71 candidates in Fourth Wing's opening),
+  only a quarter of Riders Quadrant cadets reach graduation, and cadets are permitted to kill
+  each other during training; and (2) Navarre's leadership has "been lying to its citizens for
+  hundreds of years" about the true enemy, willing "to sacrifice everyone on the borders... to
+  stay safe" — an explicit, plot-confirmed centuries-long cover-up maintained "to maintain
+  control." Two distinct corrupt practices administered by one government, not multiple
+  independently-corrupt institutions (the Church-plus-Crown-plus-nobility pattern that earns
+  ASOIAF's Structural Corruption 3 its own "irrecoverable" framing) — kept this short of the
+  scale's ceiling anchor ("institutions exist, in practice, to sustain exploitation") since nothing
+  in the confirmed text states the culling system's *purpose* is population control, only that
+  reviewers read it that way. Redemption Difficulty (2) is carried by Xaden's arc: he begins
+  turning venin at the end of Iron Flame, an active, ongoing corruption Violet is still fighting
+  to reverse as of Onyx Storm — scored as a real, costly, in-progress struggle (matching "exacts
+  a real sacrifice") rather than assuming either an unconfirmed success or an unconfirmed
+  failure, since the series isn't finished. Explicit Darkness reaches the ceiling (4) on the
+  sheer, sustained volume of named on-page cadet deaths documented across all three books, a
+  structural and recurring feature of the series rather than an occasional beat.
+- Cozy Fantasy = No. Hopepunk = No: matches precedent (no work at Tier 6 or darker carries the
+  tag).
+- Scored against the three published novels only (Fourth Wing 2023, Iron Flame 2023, Onyx Storm
+  2025); the series is confirmed unfinished (5 books planned total, with book 4 in progress and
+  a separate non-numbered Empyrean release announced for September 2026), so nothing from
+  unpublished material is assumed either way.
+- **Neighbor check, addressed at length given the session's recent Grim Company correction:**
+  this profile landed as an *exact* per-axis match with Märchen Crown, and — after correcting
+  Grim Company's Redemption Difficulty back to 2 earlier this session — with Grim Company too,
+  producing a three-way exact match. Given the standing lesson (collision-avoidance must never
+  be the reason a score changes), each axis was re-scrutinized independently before accepting or
+  rejecting the match, not reflexively adjusted to escape it. Structural Corruption was tested
+  at both 2 (matching House of the Dragon's "concentrated in one court" reasoning, since
+  Navarre's corruption is administered by one government) and 4 (matching the "institutions
+  exist to sustain exploitation" ceiling anchor, since reviewers explicitly read the culling
+  system as serving population control) before settling on 3: SC2 undersold the specific,
+  plot-confirmed centuries-long war-truth cover-up, and SC4 over-relied on a reviewer's
+  interpretive reading rather than a textually explicit in-story claim about the culling
+  system's purpose. Redemption Difficulty was tested at 3 (matching Grim Company's post-
+  correction reasoning) but rejected: Xaden's arc is confirmed in-progress with real effort
+  being spent on a cure, not confirmed to fail or land only partially the way RD3 requires. No
+  axis survived re-scrutiny with a different, better-evidenced value, so the three-way tie
+  stands as a legitimate coincidence — three genuinely different stories (a fairy-tale-court
+  horror, a fading-magic revolution-cycles-into-tyranny epic, and a lethal war-college
+  political-conspiracy romantasy) that happen to land at comparable severity on all seven
+  independently-measured axes, not a sign any of the three was under-examined. Checked further
+  against a non-adjacent Tier 6 work, The Sandman (6.1125): Sandman's Redemption Difficulty 3
+  (Dream's cost is total and confirmed) sits above this entry's 2 (Xaden's cost is real but
+  still being actively fought, not yet confirmed total), a clean, evidence-based gap. Label
+  check: "Dark Fantasy... genuinely heavy without tipping into nihilism" fits — mass, sanctioned
+  cadet death and a centuries-long government lie sit inside a story that still centers
+  found-family, romance, and hard-won heroism.
+- Added to xlsx row 117, and to tier 6 on both index.html and es/index.html, inserted
+  immediately after The Grim Company per score order (exact tie); title "Fourth Wing (The
+  Empyrean)" in EN, "Alas de Sangre (Empíreo)" in ES (the Spanish title of the first novel and
+  the Spanish series name); medium: "Novels" / "Novelas". Updated the Summary sheet's tier-6
+  count (19 → 20) and total-scored count (115 → 116 of 116). Updated the catalog-size mentions
+  in both pages' meta/JSON-LD description tags (115 → 116).
 
 ### 37. The Princess Bride — William Goldman — Novel, Film
 
