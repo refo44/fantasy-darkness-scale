@@ -620,52 +620,52 @@ reasoning in SCORING_RECORD.md.
 28. [ ] Alice in Wonderland — Lewis Carroll — Novel — whimsical, surreal children's fantasy with unsettling undertones (the Queen of Hearts' "off with their heads," nonsensical/threatening logic, identity/growing-up themes), but generally light in overall register
 29. [ ] The Wizard of Oz — L. Frank Baum (novel), 1939 film — classic adventure, real peril (the Wicked Witch, flying monkeys) but a fundamentally heartwarming, hopeful children's classic
 30. [ ] Wicked — Gregory Maguire (novel), stage musical — revisionist Oz told from Elphaba's perspective; real political oppression (the Wizard's totalitarian regime, persecution of sentient Animals as a genocide/civil-rights allegory), Elphaba's tragic arc as a misunderstood activist villainized by history — notably darker and more morally complex than the original Oz material
-27. [x] The Sandman — Neil Gaiman — Comics, TV series — DONE, see Completed
-28. [x] Supernatural (TV series) — DONE, see Completed
-29. [x] Charmed (1998 TV series) — DONE, see Completed
-30. [x] The Dark Crystal (1982 film, Jim Henson & Frank Oz) — DONE, see Completed
-31. [x] The Dark Crystal: Age of Resistance (2019 TV series) — DONE, see Completed
-32. [x] His Dark Materials — Philip Pullman — Novels, TV series — DONE, see Completed
-33. [x] The Dresden Files — Jim Butcher — Novels, TV series — DONE, see Completed
-34. [x] The Grim Company — Luke Scull — Novels — DONE, see Completed
-35. [x] The Dark Tower — Stephen King — Novels — DONE, see Completed
-36. [x] Eragon (the Inheritance Cycle) — Christopher Paolini — Novels — DONE, see Completed
-37. [x] The Princess Bride — William Goldman — Novel, Film — DONE, see Completed
-38. [x] Fourth Wing / Iron Flame / Onyx Storm (Empyrean series) — Rebecca Yarros — Novels — score each, bundle into one entry if they land in the same tier — DONE, see Completed
-39. [x] Sweet Tooth — Jeff Lemire — Comics, TV series — DONE, see Completed
-40. [ ] Arcane — Riot Games — TV series
-41. [ ] Percy Jackson & the Olympians — Rick Riordan — Novels, TV series
-42. [ ] Devilman Crybaby (2018) — Masaaki Yuasa (based on Go Nagai's Devilman manga) — Anime
-43. [ ] The Mighty Nein — Critical Role (Campaign 2) — TV series / D&D actual-play — Amazon's
+31. [x] The Sandman — Neil Gaiman — Comics, TV series — DONE, see Completed
+32. [x] Supernatural (TV series) — DONE, see Completed
+33. [x] Charmed (1998 TV series) — DONE, see Completed
+34. [x] The Dark Crystal (1982 film, Jim Henson & Frank Oz) — DONE, see Completed
+35. [x] The Dark Crystal: Age of Resistance (2019 TV series) — DONE, see Completed
+36. [x] His Dark Materials — Philip Pullman — Novels, TV series — DONE, see Completed
+37. [x] The Dresden Files — Jim Butcher — Novels, TV series — DONE, see Completed
+38. [x] The Grim Company — Luke Scull — Novels — DONE, see Completed
+39. [x] The Dark Tower — Stephen King — Novels — DONE, see Completed
+40. [x] Eragon (the Inheritance Cycle) — Christopher Paolini — Novels — DONE, see Completed
+41. [x] The Princess Bride — William Goldman — Novel, Film — DONE, see Completed
+42. [x] Fourth Wing / Iron Flame / Onyx Storm (Empyrean series) — Rebecca Yarros — Novels — score each, bundle into one entry if they land in the same tier — DONE, see Completed
+43. [x] Sweet Tooth — Jeff Lemire — Comics, TV series — DONE, see Completed
+44. [ ] Arcane — Riot Games — TV series
+45. [ ] Percy Jackson & the Olympians — Rick Riordan — Novels, TV series
+46. [ ] Devilman Crybaby (2018) — Masaaki Yuasa (based on Go Nagai's Devilman manga) — Anime
+47. [ ] The Mighty Nein — Critical Role (Campaign 2) — TV series / D&D actual-play — Amazon's
     animated adaptation of Critical Role's second campaign, following on from The Legend of Vox
     Machina (Campaign 1, already in the catalog at Tier 4); a found-family of outcasts and
     monster hunters in a morally grayer, more politically complex setting than Campaign 1's,
     with trauma-centered arcs (Caleb's guilt over his role in his parents' deaths, Nott/Veth's
     identity and addiction arc)
-44. [ ] Goblins — Thunt (Tarol Hunt) — Webcomic — https://www.goblinscomic.org/ — began as a
+48. [ ] Goblins — Thunt (Tarol Hunt) — Webcomic — https://www.goblinscomic.org/ — began as a
     joke inverting standard D&D "kill goblins for XP" tropes, following a goblin warband trying
     to survive being slaughtered by adventurers for loot; the tone shifts dramatically over its
     run into genuine tragedy (PTSD, addiction, on-page major character deaths), repeatedly
     questioning who the real "monsters" in the story actually are
-45. [ ] Twilight (Crepúsculo) — Stephenie Meyer — Novels, Films — the vampire-romance saga
+49. [ ] Twilight (Crepúsculo) — Stephenie Meyer — Novels, Films — the vampire-romance saga
     (Twilight, New Moon, Eclipse, Breaking Dawn); consider the werewolf/vampire treaty politics,
     the Volturi as a governing vampire institution, and Bella's transformation/mortality themes
-46. [ ] Wednesday — Netflix TV series (2022– ), created by Alfred Gough & Miles Millar — a
+50. [ ] Wednesday — Netflix TV series (2022– ), created by Alfred Gough & Miles Millar — a
     reimagining centered on Wednesday Addams at Nevermore Academy; murder mystery, monster-hunt,
     and outcast-persecution themes distinct in tone from the classic Addams Family properties
-47. [ ] The Addams Family — TV series — the classic macabre-but-loving sitcom family (note:
+51. [ ] The Addams Family — TV series — the classic macabre-but-loving sitcom family (note:
     multiple TV incarnations exist — the 1964 live-action original, the 1973 animated series,
     the 1992 animated series — decide scope/bundling when scored)
-48. [ ] The Addams Family — Films — the Barry Sonnenfeld films (The Addams Family, 1991; Addams
+52. [ ] The Addams Family — Films — the Barry Sonnenfeld films (The Addams Family, 1991; Addams
     Family Values, 1993) and the animated films (The Addams Family, 2019; Addams Family 2, 2021)
-49. [ ] Chrono Trigger — Square (1995) — Video Game — time-travel JRPG; Lavos's apocalyptic
+53. [ ] Chrono Trigger — Square (1995) — Video Game — time-travel JRPG; Lavos's apocalyptic
     destruction of the world in 1999 (the game's default future ending unless averted), the
     genocidal Mystic/Human war, Frog's tragic backstory, and multiple alternate endings ranging
     from full prevention to leaving Lavos's threat unresolved
 
 ## Completed
 
-### 39. Sweet Tooth — Jeff Lemire — Comics, TV series
+### 43. Sweet Tooth — Jeff Lemire — Comics, TV series
 
 - Tier 7 (Extreme Dark Fantasy), Final Score 7.80 (Weighted Internal Score 2.8) — an exact
   numeric tie with Attack on Titan, House of the Dragon, and The Dark Tower, via a genuinely
@@ -736,7 +736,7 @@ reasoning in SCORING_RECORD.md.
   Updated the Summary sheet's tier-7 count (5 → 6) and total-scored count (116 → 117 of 117).
   Updated the catalog-size mentions in both pages' meta/JSON-LD description tags (116 → 117).
 
-### 38. Fourth Wing (The Empyrean) — Rebecca Yarros — Novels
+### 42. Fourth Wing (The Empyrean) — Rebecca Yarros — Novels
 
 - Tier 6 (Dark Fantasy), Final Score 6.7875 (Weighted Internal Score 2.35) — an exact numeric
   tie with Märchen Crown and The Grim Company (see the extended neighbor-check note below —
@@ -810,7 +810,7 @@ reasoning in SCORING_RECORD.md.
   count (19 → 20) and total-scored count (115 → 116 of 116). Updated the catalog-size mentions
   in both pages' meta/JSON-LD description tags (115 → 116).
 
-### 37. The Princess Bride — William Goldman — Novel, Film
+### 41. The Princess Bride — William Goldman — Novel, Film
 
 - Tier 2 (Bright Fantasy), Final Score 2.9625 (Weighted Internal Score 0.65) — an exact
   numeric tie with The Chronicles of Narnia and The Legend of Zelda, via a genuinely different
@@ -863,7 +863,7 @@ reasoning in SCORING_RECORD.md.
   total-scored count (114 → 115 of 115). Updated the catalog-size mentions in both pages'
   meta/JSON-LD description tags (114 → 115).
 
-### 36. Eragon (The Inheritance Cycle) — Christopher Paolini — Novels, Film
+### 40. Eragon (The Inheritance Cycle) — Christopher Paolini — Novels, Film
 
 - Tier 5 (Gloomy Fantasy), Final Score 5.2125 (Weighted Internal Score 1.65) — an exact numeric
   tie with the tier's floor cluster (Tales from Earthsea, A Knight of the Seven Kingdoms,
@@ -935,7 +935,7 @@ reasoning in SCORING_RECORD.md.
   Updated the Summary sheet's tier-5 count (21 → 22) and total-scored count (113 → 114 of 114).
   Updated the catalog-size mentions in both pages' meta/JSON-LD description tags (113 → 114).
 
-### 35. The Dark Tower — Stephen King — Novels
+### 39. The Dark Tower — Stephen King — Novels
 
 - Tier 7 (Extreme Dark Fantasy), Final Score 7.80 (Weighted Internal Score 2.8) — an exact
   numeric tie with Attack on Titan and House of the Dragon, via a genuinely different profile
@@ -996,7 +996,7 @@ reasoning in SCORING_RECORD.md.
   (112 → 113 of 113). Updated the catalog-size mentions in both pages' meta/JSON-LD description
   tags (112 → 113).
 
-### 34. The Grim Company — Luke Scull — Novels
+### 38. The Grim Company — Luke Scull — Novels
 
 - Tier 6 (Dark Fantasy), Final Score 6.7875 (Weighted Internal Score 2.35) — an exact numeric
   tie with Märchen Crown and The Dark Crystal: Age of Resistance.
@@ -1055,7 +1055,7 @@ reasoning in SCORING_RECORD.md.
   tier-7 count (6 → 5); total-scored count and the pages' catalog-size mentions are unaffected
   by a tier move and remain at 113 of 113.
 
-### 33. The Dresden Files — Jim Butcher — Novels, TV series
+### 37. The Dresden Files — Jim Butcher — Novels, TV series
 
 - Tier 6 (Dark Fantasy), Final Score 6.1125 (Weighted Internal Score 2.05) — an exact numeric
   tie with Re:Zero, Clevatess, and The Sandman, via a genuinely different profile from each (see
@@ -1123,7 +1123,7 @@ reasoning in SCORING_RECORD.md.
   (17 → 18) and total-scored count (110 → 111 of 111). Updated the catalog-size mentions in both
   pages' meta/JSON-LD description tags (110 → 111).
 
-### 32. His Dark Materials — Philip Pullman — Novels, TV series
+### 36. His Dark Materials — Philip Pullman — Novels, TV series
 
 - Tier 7 (Extreme Dark Fantasy), Final Score 7.4625 (Weighted Internal Score 2.65) — the new
   tier-7 floor, just below The Stormlight Archive (7.575).
@@ -1187,7 +1187,7 @@ reasoning in SCORING_RECORD.md.
   and total-scored count (109 → 110 of 110). Updated the catalog-size mentions in both pages'
   meta/JSON-LD description tags (109 → 110).
 
-### 31. The Dark Crystal: Age of Resistance — Jim Henson & Frank Oz — TV series
+### 35. The Dark Crystal: Age of Resistance — Jim Henson & Frank Oz — TV series
 
 - Tier 6 (Dark Fantasy), Final Score 6.7875 (Weighted Internal Score 2.35) — an exact numeric
   tie with Märchen Crown, via a genuinely different profile (see neighbor check below). Notably
@@ -1251,7 +1251,7 @@ reasoning in SCORING_RECORD.md.
   count (108 → 109 of 109). Updated the catalog-size mentions in both pages' meta/JSON-LD
   description tags (108 → 109).
 
-### 30. The Dark Crystal — Jim Henson & Frank Oz — Film
+### 34. The Dark Crystal — Jim Henson & Frank Oz — Film
 
 - Tier 4 (Fantasy in Gray Tones), Final Score 4.20 (Weighted Internal Score 1.2) — an exact
   numeric tie with The NeverEnding Story and Once Upon a Time, via a genuinely different profile
@@ -1259,7 +1259,7 @@ reasoning in SCORING_RECORD.md.
 - Scores: Structural Despair 2, Limited Heroism 0, Moral Cynicism 0, Structural Corruption 3,
   Redemption Difficulty 0, Narrative Acceptance of Injustice 1, Explicit Darkness 3.
 - Rationale: scored as the 1982 film only — the 2019 Netflix prequel series, Age of Resistance,
-  is queue item #31 and out of scope here. Structural Corruption is the profile's standout value
+  is queue item #35 and out of scope here. Structural Corruption is the profile's standout value
   at 3: the Skeksis aren't one corrupt faction among legitimate institutions, they *are* Thra's
   only shown ruling power, and their thousand-year reign is defined entirely by exploitation —
   systematically draining the life-essence of Podlings and Gelflings to extend their own lives,
@@ -1314,7 +1314,7 @@ reasoning in SCORING_RECORD.md.
   (20 → 21) and total-scored count (107 → 108 of 108). Updated the catalog-size mentions in both
   pages' meta/JSON-LD description tags (107 → 108).
 
-### 29. Charmed — Constance M. Burge — TV series
+### 33. Charmed — Constance M. Burge — TV series
 
 - Tier 4 (Fantasy in Gray Tones), Final Score 4.65 (Weighted Internal Score 1.4) — an exact
   numeric tie with Earthsea, Avatar: The Last Airbender, Final Fantasy XII, and Grimgar: Ashes
@@ -1376,7 +1376,7 @@ reasoning in SCORING_RECORD.md.
   total-scored count (106 → 107 of 107). Updated the catalog-size mentions in both pages'
   meta/JSON-LD description tags (106 → 107).
 
-### 28. Supernatural — Eric Kripke — TV series
+### 32. Supernatural — Eric Kripke — TV series
 
 - Tier 6 (Dark Fantasy), Final Score 6.90 (Weighted Internal Score 2.4) — the new tier-6
   ceiling, landing in a previously empty gap between Märchen Crown (6.7875) and The Stormlight
@@ -1439,7 +1439,7 @@ reasoning in SCORING_RECORD.md.
   total-scored count (105 → 106 of 106). Updated the catalog-size mentions in both pages'
   meta/JSON-LD description tags (105 → 106).
 
-### 27. The Sandman — Neil Gaiman — Comics, TV series
+### 31. The Sandman — Neil Gaiman — Comics, TV series
 
 - Tier 6 (Dark Fantasy), Final Score 6.1125 (Weighted Internal Score 2.05) — an exact numeric
   tie with Re:Zero and Clevatess, via a genuinely different profile from each (see neighbor
