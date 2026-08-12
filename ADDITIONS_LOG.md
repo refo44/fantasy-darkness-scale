@@ -669,6 +669,20 @@ reasoning in SCORING_RECORD.md.
     Drizzt novels), the Baldur's Gate games' Bhaalspawn-murder-god plot, the Zhentarim/Cult of the
     Dragon as recurring corrupt/villainous institutions, and Icewind Dale's bleaker frontier
     survival stories; decide scope (core setting + Drizzt novels vs. also the CRPGs) when scored
+55. [ ] Alice in Wonderland (2010) / Alice Through the Looking Glass (2016) — dir. Tim Burton —
+    Films — not a retelling of Carroll's plot but an original "return to Underland" story where
+    an adult Alice must slay the Jabberwocky in an actual war between the Red and White Queens'
+    courts; confirmed real violence (repeated ocular trauma, severed/rotting heads floating in
+    the Red Queen's moat) absent from the source novels, scored separately from the "Alice in
+    Wonderland" novels entry (Tier 2) per the same logic that kept Wicked separate from The
+    Wizard of Oz
+56. [ ] American McGee's Alice (2000) / Alice: Madness Returns (2011) — video games — psychological
+    horror reimagining: Alice's family dies in a house fire, she's institutionalized and
+    suicidal, and "Wonderland" becomes an explicit, hostile metaphor for her fractured psyche
+    (the Mad Hatter as her doctor, the Jabberwock as her survivor's guilt); graphic violence
+    throughout, likely several tiers darker than the novels — kept separate rather than bundled,
+    same logic that split Final Fantasy I, II & XII apart instead of forcing one score on a wide
+    severity spread
 
 ## Completed
 
