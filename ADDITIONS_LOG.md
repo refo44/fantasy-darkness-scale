@@ -616,7 +616,7 @@ reasoning in SCORING_RECORD.md.
 25. [x] The Shannara Chronicles — based on Terry Brooks' novels — TV series — DONE, see Completed
 26. [x] Dirk Gently's Holistic Detective Agency — Douglas Adams — Novels, TV series — DONE, see
     Completed
-27. [ ] Dark Sun — TSR / Wizards of the Coast — Tabletop (D&D campaign setting) — post-apocalyptic desert world Athas, magic that kills plant life to power spells, widespread slavery, tyrannical sorcerer-kings draining their own kingdoms' life force; deliberately created as a grim subversion of standard D&D high fantasy
+27. [x] Dark Sun — TSR / Wizards of the Coast — Tabletop (D&D campaign setting) — post-apocalyptic desert world Athas, magic that kills plant life to power spells, widespread slavery, tyrannical sorcerer-kings draining their own kingdoms' life force; deliberately created as a grim subversion of standard D&D high fantasy — DONE, see Completed
 28. [ ] Alice in Wonderland — Lewis Carroll — Novel — whimsical, surreal children's fantasy with unsettling undertones (the Queen of Hearts' "off with their heads," nonsensical/threatening logic, identity/growing-up themes), but generally light in overall register
 29. [ ] The Wizard of Oz — L. Frank Baum (novel), 1939 film — classic adventure, real peril (the Wicked Witch, flying monkeys) but a fundamentally heartwarming, hopeful children's classic
 30. [ ] Wicked — Gregory Maguire (novel), stage musical — revisionist Oz told from Elphaba's perspective; real political oppression (the Wizard's totalitarian regime, persecution of sentient Animals as a genocide/civil-rights allegory), Elphaba's tragic arc as a misunderstood activist villainized by history — notably darker and more morally complex than the original Oz material
@@ -662,8 +662,90 @@ reasoning in SCORING_RECORD.md.
     destruction of the world in 1999 (the game's default future ending unless averted), the
     genocidal Mystic/Human war, Frog's tragic backstory, and multiple alternate endings ranging
     from full prevention to leaving Lavos's threat unresolved
+54. [ ] Forgotten Realms — TSR / Wizards of the Coast — Tabletop (D&D campaign setting), Novels —
+    D&D's flagship, most mainstream high-fantasy setting (Faerûn), generally more heroic/optimistic
+    in default tone than Dark Sun or Ravenloft, but with genuinely dark corners worth weighing:
+    Menzoberranzan's slaveholding, torture-based drow matriarchy under Lolth (R.A. Salvatore's
+    Drizzt novels), the Baldur's Gate games' Bhaalspawn-murder-god plot, the Zhentarim/Cult of the
+    Dragon as recurring corrupt/villainous institutions, and Icewind Dale's bleaker frontier
+    survival stories; decide scope (core setting + Drizzt novels vs. also the CRPGs) when scored
 
 ## Completed
+
+### 27. Dark Sun — TSR / Wizards of the Coast — Tabletop (D&D campaign setting), Novels
+
+- Tier 8 (Grimdark), Final Score 8.8125 (Weighted Internal Score 3.25) — an exact numeric tie
+  with Fire Punch, via a genuinely different profile (see neighbor check below).
+- Scores: Structural Despair 3, Limited Heroism 3, Moral Cynicism 3, Structural Corruption 4,
+  Redemption Difficulty 3, Narrative Acceptance of Injustice 3, Explicit Darkness 4.
+- **Bundle-vs-split decision, addressed explicitly per this session's brief:** scored as one
+  bundled entry, anchored on the AD&D 2nd Edition campaign setting (1991, the version this
+  queue item itself describes, and the one the brand's own reputation rests on) plus the Prism
+  Pentad novels (Troy Denning, 5 books, 1991-95) as co-primary sources — same era, same canon,
+  mutually reinforcing rather than divergent. Checked, and excluded from separate scoring,
+  three other candidates: (1) the 4th Edition revival (2010) — a contemporary EN World review
+  found it "stuck to the vast majority of both the content and tone of the original," so it
+  doesn't move any axis, matching how this session already handles adaptations lighter/no
+  different than their source (Eragon's film, Sweet Tooth's show); (2) the Shattered Lands
+  (1993) and Wake of the Ravager (1994) CRPGs — their plot (escaped gladiator-slaves, a
+  sorcerer-king planning to mass-sacrifice entire cities, an apocalyptic monster) tracks the
+  same severity, so nothing here contradicts the score, but as niche SSI games with far less
+  cultural weight than the novels or the setting itself, and no story distinct enough to
+  warrant their own slot (unlike Age of Resistance or The Mighty Nein), they're excluded as not
+  relevant enough to the catalog on their own; (3) 3rd edition/d20 material — never officially
+  published, only unofficial third-party content, excluded as non-canonical; and the announced
+  2027 5th Edition books — unreleased, out of scope like any unreleased work.
+- Rationale: Structural Corruption reaches the ceiling (4) on the setting's defining feature —
+  every city-state in the Tyr region is ruled by a sorcerer-king whose power is drawn directly
+  from draining his own population's life-force via "defiler" magic; there is no legitimate
+  ruling institution shown anywhere on Athas, a more totalizing case than the more common
+  "corrupt faction among functioning institutions" pattern (e.g. A Song of Ice and Fire's SC3,
+  which still has some aspirational/functioning institutions like the Night's Watch). Explicit
+  Darkness also reaches the ceiling (4) on specific, sourced content: the Dragon of Tyr
+  (Borys) demands a tithe of 1,000 sacrificial slaves *per year, from every city-state*,
+  harvested for their life energy to keep the setting's original threat (Rajaat) imprisoned —
+  not a one-off atrocity but the setting's literal, recurring operating mechanism for
+  centuries before the Pentad's climax — plus "defiler" magic that visibly withers all plant
+  life to ash with every casting, and confirmed body-horror mutation in magic-scarred zones.
+  WotC's own 2027 relaunch is explicitly D&D's first-ever 18+ rated setting, with a stated
+  content warning for slavery, nudity, and violence — the current publisher's own read
+  corroborates this as an outlier in graphic content, not just theme. Structural Despair and
+  Limited Heroism both land at 3, not 4, on a specific distinction: unlike settings where
+  nothing is ever resolved, the Prism Pentad's heroes don't just free Tyr locally — they
+  destroy Borys and end Rajaat's threat outright, a real cosmic-scale victory. That's why
+  ordinary city-state tyranny persisting elsewhere on Athas keeps this at "improvement is the
+  exception, not the norm" rather than "no improvement alters the trajectory." Moral Cynicism
+  (3) reflects that the setting's power structure explicitly rewards atrocity — Rajaat's
+  champions became immortal sorcerer-kings *as payment* for committing genocide against entire
+  non-human races (the "Cleansing Wars") — without going all the way to 4, since the Pentad's
+  own heroes do succeed through genuine cooperation, not universal punishment of virtue.
+  Redemption Difficulty (3) rests on Tithian: he backs the revolution against Kalak, is
+  installed as Tyr's new king, then immediately schemes to become a sorcerer-king himself —
+  becoming exactly what he helped overthrow — and ends the Pentad permanently exiled to
+  another dimension, never redeemed; Sadira's more flexible use of defiler-coded magic for
+  good ends (she survives, gains power, helps end Rajaat) shows redemption/grace isn't
+  foreclosed for everyone, keeping this short of the 4 ceiling. Narrative Acceptance of
+  Injustice (3) reflects that Tyr's own injustice is resolved within this story, but ordinary
+  tyranny across the rest of Athas is left explicitly ongoing, addressed only across many later
+  novels outside this entry's scope — a structural condition, not something this story resolves
+  or simply leaves permanently unaddressed.
+- Cozy Fantasy = No. Hopepunk = No: matches precedent (no work at Tier 6 or darker carries the
+  tag).
+- Neighbor check: Fire Punch (also 8.8125) has the identical Weighted Internal Score via a
+  swapped profile — Moral Cynicism 4 / Structural Corruption 3, vs. this entry's Moral Cynicism
+  3 / Structural Corruption 4 — everything else on both entries matches exactly. Below this
+  entry, Elden Ring (8.59, Structural Despair 4 but Structural Corruption/Explicit Darkness
+  only 3) and A Song of Ice and Fire (8.475, an identical SD3/LH3/MC3/RD3/NAI3/ED4 profile but
+  Structural Corruption only 3, per the institutional-legitimacy distinction above) both sit
+  below on specific, named axes. Above this entry, the tier-9 floor (The First Law, Weighted
+  Internal Score 3.7, Structural Despair/Limited Heroism/Moral Cynicism/Structural Corruption
+  all at the 4 ceiling) sits a full 0.45 WIS clear — not a close call — consistent with Dark
+  Sun's own Structural Despair/Limited Heroism staying at 3 rather than 4 for the specific
+  reason given above (a real cosmic-scale threat does get resolved here, unlike The First Law).
+  Label "Grimdark" fits at the tier's upper end.
+- Added to xlsx row 119, and to tier 8 on both index.html and es/index.html, appended after
+  Fire Punch (exact score tie, existing-entry-first ordering matching the Attack on
+  Titan/House of the Dragon/Dark Tower/Sweet Tooth precedent at Tier 7).
 
 ### 43. Sweet Tooth — Jeff Lemire — Comics, TV series
 
