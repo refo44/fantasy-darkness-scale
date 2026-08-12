@@ -650,6 +650,14 @@ reasoning in SCORING_RECORD.md.
 45. [ ] Twilight (Crepúsculo) — Stephenie Meyer — Novels, Films — the vampire-romance saga
     (Twilight, New Moon, Eclipse, Breaking Dawn); consider the werewolf/vampire treaty politics,
     the Volturi as a governing vampire institution, and Bella's transformation/mortality themes
+46. [ ] Wednesday — Netflix TV series (2022– ), created by Alfred Gough & Miles Millar — a
+    reimagining centered on Wednesday Addams at Nevermore Academy; murder mystery, monster-hunt,
+    and outcast-persecution themes distinct in tone from the classic Addams Family properties
+47. [ ] The Addams Family — TV series — the classic macabre-but-loving sitcom family (note:
+    multiple TV incarnations exist — the 1964 live-action original, the 1973 animated series,
+    the 1992 animated series — decide scope/bundling when scored)
+48. [ ] The Addams Family — Films — the Barry Sonnenfeld films (The Addams Family, 1991; Addams
+    Family Values, 1993) and the animated films (The Addams Family, 2019; Addams Family 2, 2021)
 
 ## Completed
 
