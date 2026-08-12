@@ -647,6 +647,9 @@ reasoning in SCORING_RECORD.md.
     to survive being slaughtered by adventurers for loot; the tone shifts dramatically over its
     run into genuine tragedy (PTSD, addiction, on-page major character deaths), repeatedly
     questioning who the real "monsters" in the story actually are
+45. [ ] Twilight (Crepúsculo) — Stephenie Meyer — Novels, Films — the vampire-romance saga
+    (Twilight, New Moon, Eclipse, Breaking Dawn); consider the werewolf/vampire treaty politics,
+    the Volturi as a governing vampire institution, and Bella's transformation/mortality themes
 
 ## Completed
 
