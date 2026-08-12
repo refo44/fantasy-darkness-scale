@@ -1740,3 +1740,787 @@ cosmology. Cozy Fantasy = No, Hopepunk = No — matches precedent (no work at Ti
 carries the tag on this scale). Label check: "Extreme Dark Fantasy" fits — genuinely one of the
 darkest works considered, distinguished from Tier 8's "no institution is safe" register by its
 corruption staying concentrated in one court rather than pervasive across the setting.
+
+## A Knight of the Seven Kingdoms (Dunk & Egg)
+
+New catalog addition, not a rescore. Covers the three published novellas (The Hedge Knight, The
+Sworn Sword, The Mystery Knight), set ~90 years before A Song of Ice and Fire and following hedge
+knight Ser Duncan the Tall and his squire Egg (the future King Aegon V). The HBO adaptation ("A
+Knight of the Seven Kingdoms," Season 1, 2026) is a faithful telling per the showrunner and
+doesn't change the profile.
+
+* Structural Despair: 2 — a distinctly lighter corner of the same fictional universe as A Song of
+  Ice and Fire (Tier 8) and House of the Dragon (Tier 7), not a copy of either.
+* Limited Heroism: 1 — Dunk's heroism is genuinely effective and durable across all three
+  stories: he wins his trial of seven outright, the Coldmoat water feud resolves via
+  reconciliation, and the Whitewalls Blackfyre conspiracy is crushed before it becomes a war.
+* Moral Cynicism: 1 — matches Limited Heroism's cleaner record of structural fixes than either
+  ASOIAF parent work.
+* Structural Corruption: 2 — the setting's justice system is literally trial-by-combat (a
+  maiming prince faces the same violent contest as the hedge knight who struck him defending a
+  commoner), and Bloodraven's fear-based rule (an impaled dissenter's head opens The Mystery
+  Knight) is real, if contained, institutional corruption — not the multi-institution 3 that
+  ASOIAF/House of the Dragon's Iron Throne-and-Faith-and-Great-Houses bar requires.
+* Redemption Difficulty: 1 — not a strong focus of the novellas; Dunk's arc is one of contained
+  heroic triumph rather than moral repair.
+* Narrative Acceptance of Injustice: 2 — the immediate plot crises each resolve, but the
+  birth-based two-tier legal system and Aerion Brightflame's unpunished cruelty are never
+  addressed by the text itself.
+* Explicit Darkness: 3 — several distinct graphic on-page moments across the three novellas
+  (Aerion breaking a puppeteer's finger and beating her, a laborer's face slashed open, Prince
+  Baelor's skull caved in and his on-page death in Dunk's arms, Dunk himself beaten half to
+  death).
+
+Weighted = 1.65 → Final Score = 5.2125 → **Tier 5**, an exact tie with Tales from Earthsea,
+landing in the tier's floor cluster (also Dragonlance, Harry Potter and the Goblet of Fire,
+Elantris, Baldur's Gate III). Checked against The Magicians (5.8875, the tier's ceiling): it
+out-scores this entry on Limited Heroism, Moral Cynicism, and Redemption Difficulty (real
+depression/addiction themes, less decisive resolutions), a sensible within-tier ordering. Cozy
+Fantasy = No, Hopepunk = No — Dunk works within the unjust system and wins personally rather than
+organizing to reform it.
+
+## Once Upon a Time
+
+New catalog addition, not a rescore. Scored against the complete 7-season series (2011-2018),
+built around fairy-tale characters cursed into the small town of Storybrooke.
+
+* Structural Despair: 1 — the many fairy-tale kingdoms shown are in real but individually-
+  contained crises, not a world on a broad decline.
+* Limited Heroism: 1 — season-arcs resolve with real, if imperfect, victories.
+* Moral Cynicism: 0 — True Love's Kiss is literal, explicit, consistently-applied in-universe
+  magical law that breaks any curse, matching "goodness and cooperation are rewarded consistently
+  and explicitly" almost exactly.
+* Structural Corruption: 1 — the various corrupt regimes across the show's kingdoms (Cora's
+  Wonderland, Zelena's Oz, King George's court) are each individually-legitimate monarchies
+  temporarily seized by an anomalous villain and then corrected, not one coherent institution
+  built to oppress.
+* Redemption Difficulty: 2 — virtually every major villain (Regina, Rumpelstiltskin, Hook,
+  Zelena) gets a real redemption arc with dramatized, specific costs: Regina's spans all 7
+  seasons and ends with her literally splitting off and destroying her own Evil Queen persona;
+  Rumpelstiltskin backslides for 300 years before his arc resolves only in his own finale death.
+* Narrative Acceptance of Injustice: 1 — recurring conflicts are each individually resolved.
+* Explicit Darkness: 3 — the Parents Television Council's own tracked count logged 37 deaths, 4
+  dismemberments, and 261 acts of violence across the run; heart-ripping (tearing a beating heart
+  from someone's chest) recurs as the show's single most central dark device, plus a full season
+  set in the literal Underworld.
+
+Weighted = 1.2 → Final Score = 4.2 → **Tier 4**, an exact tie with The NeverEnding Story via a
+genuinely different profile: NES's Structural Despair 2 (the Nothing actively consuming Fantasia)
+trades against this entry's Narrative Acceptance of Injustice 1, and NES's Structural Corruption
+0 trades against this entry's Moral Cynicism 0. Cozy Fantasy = No, Hopepunk = No — unlike Avatar
+(also Tier 4, Hopepunk = Yes), this is individual moral journeys and family reunion, not an
+oppressed group's organized resistance to a systemic power.
+
+## The Shannara Chronicles
+
+New catalog addition, not a rescore. Scored against both aired seasons (MTV 2016, Spike/Paramount
+Network 2017) adapting the opening books of Terry Brooks' Shannara series, set in the
+post-apocalyptic far-future "Four Lands." The show was cancelled after its season 2 finale, which
+doubled as the unplanned series finale.
+
+* Structural Despair: 1 — season-level threats resolve decisively (Amberle's self-sacrifice
+  sealing the demon army out in season 1; Wil killing the Warlock Lord outright in season 2).
+* Limited Heroism: 1 — classic quest-fantasy causality; critics pitched the show as "epic,
+  colourful... for those tired of the unrelenting grimness of Game of Thrones."
+* Moral Cynicism: 1 — matches Limited Heroism's classic causality.
+* Structural Corruption: 2 — the Crimson is an organized, popularly-backed paramilitary force
+  built specifically to hunt, intimidate, and kill magic-users out of institutionalized fear — a
+  coherent persecution apparatus, not one usurper to be corrected.
+* Redemption Difficulty: 1 — Eretria's demon-blood struggle stays underdeveloped, a casualty of
+  the show's cancellation.
+* Narrative Acceptance of Injustice: 2 — the season's direct villain (the Warlock Lord) is
+  defeated, but the deeper Crimson persecution thread only gets a tactical alliance, never an
+  actual reckoning with the underlying bigotry, because the show was cancelled before it could
+  address it.
+* Explicit Darkness: 3 — critics called the swordplay "kind of gorey" and questioned why a TV-14
+  rating applied rather than TV-MA; the season 2 finale alone kills four major characters,
+  including General Riga by on-screen decapitation-style violence.
+
+Weighted = 1.5 → Final Score = 4.875 → **Tier 4**, an exact tie with Final Fantasy IX, The Boy and
+the Heron, Ranking of Kings, and Fullmetal Alchemist: Brotherhood, each via a genuinely different
+profile. Checked against Once Upon a Time (4.20, added the same session): this entry scores
+meaningfully higher via Structural Corruption (an organized persecution militia vs. OUAT's
+individually-anomalous corrupt rulers) and Narrative Acceptance of Injustice (the Crimson thread
+stays genuinely open vs. OUAT's near-total resolution). Cozy Fantasy = No, Hopepunk = No — the
+Crimson is real institutional persecution, but the show's throughline is a love-triangle-and-quest
+coming-of-age story, not an oppressed group's organized resistance.
+
+## Dirk Gently's Holistic Detective Agency
+
+New catalog addition, not a rescore. Covers both Douglas Adams novels (Dirk Gently's Holistic
+Detective Agency, 1987; The Long Dark Tea-Time of the Soul, 1988) and both TV adaptations (the
+2010 BBC series and the 2016-2017 BBC America series) as one entry, since there's no clean
+per-installment escalation to split along.
+
+* Structural Despair: 1 — the fading, senile Norse gods of Tea-Time read as melancholy rather
+  than despairing.
+* Limited Heroism: 1 — both novels end with their central mysteries fully resolved, and the 2016
+  show's Season 2 finale (the de facto series finale on cancellation) gives the core cast "a
+  happy ending."
+* Moral Cynicism: 1 — matches the comedic, ultimately-triumphant throughline across every
+  version.
+* Structural Corruption: 2 — set by the 2016-2017 BBC America series' Project Blackwing, a real
+  government institution built to hunt, capture, and experiment on people with paranormal
+  abilities (Dirk himself is a former captive) — a substantial tonal departure from the whimsical
+  novels and 2010 series, which critics said "violates the spirit of its source material."
+* Redemption Difficulty: 1 — no confirmed deep redemption arc across any version.
+* Narrative Acceptance of Injustice: 1 — the finale's one new unexplored mystery hook is a
+  forward-looking dangling thread, not a lingering unresolved injustice.
+* Explicit Darkness: 3 — set by the same darkest confirmed adaptation: the 2016 series adds an
+  on-screen assassin character and reviewer-documented "gore and a lot of blood," combining, per
+  critics, "the violence of The Walking Dead with the oddball stories of Twin Peaks."
+
+Weighted = 1.35 → Final Score = 4.5375 → **Tier 4**, an exact tie with Harry Potter and the
+Prisoner of Azkaban via a genuinely different profile (Azkaban's Narrative Acceptance of Injustice
+2 trades against this entry's Redemption Difficulty 1 vs. Azkaban's 0). Checked against The
+Shannara Chronicles (4.875, added the same session): Shannara scores higher via Narrative
+Acceptance of Injustice despite an identical Structural Corruption (2, both driven by a real
+institution built to hunt/harm a class of people). Cozy Fantasy = No, Hopepunk = No — Blackwing is
+real institutional harm, but the franchise's organizing shape is absurdist mystery-comedy, not an
+oppressed group's organized resistance to that institution.
+
+## The Sandman
+
+New catalog addition, not a rescore. Covers Neil Gaiman's complete 75-issue Vertigo comic
+(1989-1996) and the complete Netflix adaptation (2022-2025), which carries the story through to
+the same ending.
+
+* Structural Despair: 1 — the ending is explicitly cyclical rather than declining: Dream's death
+  is immediately followed by Daniel's succession, continuity and renewal rather than
+  civilizational decay.
+* Limited Heroism: 2 — most individual story arcs resolve their immediate threat, but the deeper
+  condition (mortality, loss, historical atrocity as recurring texture) isn't fixed, and the
+  anthology structure leaves some stories (Calliope's trauma) simply as they are.
+* Moral Cynicism: 2 — matches Limited Heroism's mixed anthology pattern.
+* Structural Corruption: 1 — Hell's own succession politics (Lucifer abandoning the throne,
+  several claimants contesting the key) is real but mythological-personal in scale, not a
+  real-world institutional critique.
+* Redemption Difficulty: 3 — the entire series is organized around whether Dream, one of the
+  seven cosmic Endless, can genuinely change, and the text's answer is that meaningful change
+  costs him his own existence: he dies in "The Kindly Ones" as the direct consequence of killing
+  his son Orpheus (an act of mercy that broke an ancient law of his own kind), succeeded by a
+  transformed, gentler Daniel.
+* Narrative Acceptance of Injustice: 2 — matches Limited Heroism's mixed-resolution anthology
+  pattern.
+* Explicit Darkness: 4 — issue #6 ("24 Hours") has Dr. Destiny psychologically torture, mutilate,
+  and murder ordinary diner patrons over 24 hours (Gaiman has said the intent was "if I go this
+  far — once — nobody will trust me"); "Calliope" depicts a muse imprisoned and repeatedly raped
+  by two authors across decades; "The Doll's House" arc features a literal convention of serial
+  killers.
+
+Weighted = 2.05 → Final Score = 6.1125 → **Tier 6**, an exact tie with Re:Zero and Clevatess via a
+genuinely different profile from each — Re:Zero's Redemption Difficulty 2 sits below this entry's
+3 (Dream's redemption costs him his literal existence), while Re:Zero's Structural Corruption 2
+and Structural Despair 2 both sit above this entry's 1. Cozy Fantasy = No, Hopepunk = No. Label
+check: "Dark Fantasy... genuinely heavy without tipping into nihilism" fits — extreme,
+well-documented content sits inside a work whose defining thesis is that change and mortality,
+while costly, are meaningful.
+
+## Supernatural
+
+New catalog addition, not a rescore. Scored against the complete 15-season, 327-episode series
+(2005-2020) through its actual finale.
+
+* Structural Despair: 2 — an escalating "stop the immediate threat, a worse one is revealed
+  behind it" pattern runs almost the whole series (the apocalypse, the Leviathans, the
+  Darkness/Amara, the British Men of Letters, Chuck's endgame) before a real structural fix in
+  the finale: Chuck is stripped of his power and Jack, a redeemed nephilim, becomes a genuinely
+  benevolent new god who reshapes Heaven "for the better."
+* Limited Heroism: 2 — the dominant felt pattern across the run is "resolves the immediate
+  threat, deeper condition intact" until the very last season, despite the finale's genuine
+  resolution.
+* Moral Cynicism: 3 — the setting's ultimate authority figure, God (Chuck), is textually
+  confirmed to have been "maliciously manipulating every tragedy in [the brothers'] lives for his
+  personal entertainment" as material for his own authored story — an active preference for
+  cruelty over kindness, closer to "the world punishes virtue and rewards brutality" than a
+  merely neutral world.
+* Structural Corruption: 3 — both of the setting's ultimate cosmic institutions are shown
+  genuinely corrupt: Heaven's angel bureaucracy (Zachariah's manipulations, Naomi's mind-control
+  of Castiel, an actual angelic civil war) and Hell's demon hierarchy (Azazel's decades-long
+  breeding-program scheme, the crossroad-deal economy), with God himself confirmed above both.
+* Redemption Difficulty: 2 — matches the show's general costly-but-survivable pattern.
+* Narrative Acceptance of Injustice: 2 — matches Limited Heroism's escalating-threat pattern
+  until the finale's real fix.
+* Explicit Darkness: 3 — genuinely dark content (Dean's ~30 subjective years of Hell-torture,
+  becoming a torturer himself under Alastair; recurring on-screen possession/body-horror) but
+  delivered largely through dialogue and brief flashback rather than sustained on-screen
+  depiction, distinct from premium-cable or manga formats — this is network television (The CW).
+
+Weighted = 2.4 → Final Score = 6.9 → **Tier 6**, the new tier-6 ceiling, landing in a previously
+empty gap between Märchen Crown (6.7875) and The Stormlight Archive (7.575, Tier 7). Initially
+derived to an identical match with Claymore before Moral Cynicism was revised up from 2 to 3 on
+the specific evidence that Claymore's "morally neutral" world has nothing equivalent to a
+textually-confirmed governing authority who prefers cruelty as better narrative material. Cozy
+Fantasy = No, Hopepunk = No — found-family/brotherly love is central, but the show isn't
+structured as an oppressed group's organized resistance to a specific institution.
+
+## Charmed
+
+New catalog addition, not a rescore. Scored against the complete original 8-season, 178-episode
+series (1998-2006); the 2018 CW reboot is a separate production and out of scope.
+
+* Structural Despair: 1 — no broad world-decline; episodic demon-of-the-week structure.
+* Limited Heroism: 1 — matches the show's episodic resolution pattern.
+* Moral Cynicism: 1 — the Halliwell sisters' "can't use magic for personal gain" rule is close to
+  an explicit, mechanical just-world guarantee.
+* Structural Corruption: 1 — the demonic hierarchy (the Source, the Triad) is straightforwardly
+  evil rather than a corrupted-from-legitimate institution; the "Elders," the show's good-aligned
+  governing council, are flawed and bureaucratic but never rise to a central-institution-level
+  critique.
+* Redemption Difficulty: 2 — earned by Cole Turner's arc: Phoebe's husband, possessed by and
+  eventually merged with the Source of All Evil, whose love-driven struggle to resist total
+  corruption spans multiple seasons and ultimately fails, ending in his vanquishing rather than a
+  successful redemption.
+* Narrative Acceptance of Injustice: 2 — Prue Halliwell's death in the Season 3 finale ("All Hell
+  Breaks Loose") is permanent, not undone despite that same episode's own time-reset plot device,
+  and the show gives her no on-screen closure afterward (Season 4 simply states she died) — a gap
+  critics and fans have specifically flagged.
+* Explicit Darkness: 2 — restrained, network-TV demon-of-the-week violence, distinctly softer
+  than Supernatural's practical-horror aesthetic (also Tier 6).
+
+Weighted = 1.4 → Final Score = 4.65 → **Tier 4**, an exact tie with Earthsea, Avatar: The Last
+Airbender, Final Fantasy XII, and Grimgar: Ashes and Illusions, none sharing an identical per-axis
+profile. Checked against Once Upon a Time (4.20, added the same session, the closest tonal
+cousin): Once Upon a Time's Moral Cynicism 0 (True Love's Kiss as explicit magical law) sits below
+this entry's 1 (Cole's failed redemption is a real cynicism data point OUAT's cleaner magic system
+doesn't share), while this entry's Narrative Acceptance of Injustice 2 sits above OUAT's 1. Cozy
+Fantasy = No, Hopepunk = No — episodic good-vs-evil urban fantasy with genuine but
+conventionally-resolved stakes, not an oppressed group's organized resistance.
+
+## The Dark Crystal
+
+New catalog addition, not a rescore. Scored as the 1982 film only — the 2019 Netflix prequel, Age
+of Resistance, is a separate entry.
+
+* Structural Despair: 2 — the Skeksis have already carried out a near-total genocide of the
+  Gelfling race before the film begins (Jen and Kira are the last two), a severe, if resolved-by-
+  film's-end, condition.
+* Limited Heroism: 0 — Jen's quest achieves about as complete a resolution as this scale has
+  scored: not just stopping the Skeksis but healing the millennium-old cosmic wound at its root,
+  reuniting the Skeksis and their opposite-selves the Mystics into a single transcendent species
+  (the urSkeks), with Kira's apparent death at the climax explicitly undone.
+* Moral Cynicism: 0 — matches Limited Heroism's total, uncomplicated resolution.
+* Structural Corruption: 3 — the Skeksis aren't one corrupt faction among legitimate
+  institutions, they are Thra's only shown ruling power, and their thousand-year reign is defined
+  entirely by exploitation — systematically draining the life-essence of Podlings and Gelflings
+  to extend their own lives.
+* Redemption Difficulty: 0 — there isn't a character-level moral-repair arc in this film at all;
+  the Skeksis don't individually repent, they're cosmically reintegrated into something that
+  transcends the good/evil split.
+* Narrative Acceptance of Injustice: 1 — the genocide's demographic damage isn't undone, but the
+  ending's "Jen and Kira will rebuild" framing is explicitly hopeful and resolution-oriented.
+* Explicit Darkness: 3 — the Skeksis' exaggerated physical decay, the essence-draining sequences
+  (a form of vampiric body-horror), and specifically SkekTek's mind-wipe of a captured Podling are
+  widely cited by retrospective reviews as "uncomfortably dark" for an ostensibly family-rated
+  1982 film.
+
+Weighted = 1.2 → Final Score = 4.2 → **Tier 4**, an exact tie with The NeverEnding Story and Once
+Upon a Time via a genuinely different profile from each. Cozy Fantasy = No, Hopepunk = No:
+considered and rejected on narrative-shape grounds despite a numeric profile that superficially
+resembles Fierce Hopepunk — Jen's story is a solitary prophesied quest resolved through
+mythic-fantasy mechanics, not collective kindness chosen as a deliberate strategy against the
+Skeksis.
+
+## The Dark Crystal: Age of Resistance
+
+New catalog addition, not a rescore. Scored against the complete, aired Season 1 only (2019
+Netflix prequel, cancelled after one season). Notably darker than its own parent film, The Dark
+Crystal (Tier 4, 4.20).
+
+* Structural Despair: 3 — as a prequel to a story that already establishes the Gelfling race is
+  nearly wiped out and the Skeksis rule unchecked for a thousand years, Season 1's real, hard-won
+  victory (the Gelfling clans unite for the first time and force a Skeksis retreat) is inescapably
+  read against a known, doomed future; the season also establishes the Darkening as an active,
+  spreading, worsening corruption of Thra.
+* Limited Heroism: 2 — the clans' unity forces a real Skeksis retreat, though within the
+  doomed-future frame.
+* Moral Cynicism: 2 — matches Limited Heroism's real-but-shadowed victory.
+* Structural Corruption: 3 — matches the film's reasoning: the Skeksis are Thra's only shown
+  ruling power, and this season depicts the exploitative machinery (systematic essence-draining,
+  the Garthim army under construction) being actively built out.
+* Redemption Difficulty: 0 — matches the film: this is a story about collective uprising, not
+  individual redemption.
+* Narrative Acceptance of Injustice: 3 — the known, certain-doom future established by the parent
+  film.
+* Explicit Darkness: 4 — reviewers repeatedly describe the show pushing further than the film
+  into "torture, disfigurement, and violence that are genuinely unpleasant," including a
+  sustained, graphic sequence of a sympathetic character's essence being drained and her body
+  disintegrating; critics called it "Game of Thrones for a younger audience."
+
+Weighted = 2.35 → Final Score = 6.7875 → **Tier 6**, an exact tie with Märchen Crown via a
+genuinely different profile: Märchen Crown's Redemption Difficulty 2 sits above this entry's 0,
+trading against this entry's Structural Despair 3 and Narrative Acceptance of Injustice 3 vs.
+Märchen Crown's 2 and 2. Cozy Fantasy = No, Hopepunk = No: the season's collective-uprising shape
+is arguably a closer numerical fit for Fierce Hopepunk than the film's solitary quest, but Limited
+Heroism and Moral Cynicism don't sit at the floor the way that shape requires, and no work at this
+severity or darker carries the tag.
+
+## His Dark Materials
+
+New catalog addition, not a rescore. Covers Philip Pullman's trilogy (Northern Lights, The Subtle
+Knife, The Amber Spyglass) and the faithful 2019-2022 BBC/HBO adaptation, not the standalone
+companion novels (La Belle Sauvage, The Secret Commonwealth).
+
+* Structural Despair: 2 — the Magisterium's institutional evil is explicitly left standing at the
+  trilogy's end, an ongoing condition rather than a defeated one.
+* Limited Heroism: 3 — the trilogy's own ending states outright that Lord Asriel's entire
+  multiverse-spanning war against Heaven and the Magisterium "would have failed anyway" as a
+  strategy; the actual resolution is reframed as an incomplete, indefinite, personal-scale task
+  ("we have to build the Republic of Heaven where we are") rather than an institutional victory.
+* Moral Cynicism: 2 — individual virtue (Lyra's honesty, Will's courage) is treated as genuinely
+  meaningful even though it can't fix institutions.
+* Structural Corruption: 3 — the Magisterium is a totalitarian church-state controlling
+  governments, education, and research across the story's worlds, and its "intercision" program —
+  surgically severing children from their dæmons, run as sanctioned institutional policy under
+  the General Oblation Board — is as clean a "central institutions exist to sustain exploitation"
+  case as this scale has scored.
+* Redemption Difficulty: 2 — carried by Mrs. Coulter, an established child-abuser (including of
+  her own daughter) whose final act — sacrificing her life alongside Lord Asriel to destroy the
+  angel Metatron, motivated by love — is widely read by critics as "a redemption of a kind,"
+  achieved but only at the cost of her life.
+* Narrative Acceptance of Injustice: 3 — follows directly from Limited Heroism: the Magisterium's
+  institutional evil is explicitly left standing.
+* Explicit Darkness: 4 — intercision recurs as a central plot engine across the trilogy, and Lord
+  Asriel sacrificing his own son Roger's life to power the experiment that tears open the sky is
+  one of the more shocking single moments in mainstream YA fantasy, alongside real war-in-heaven
+  battle content and the literal death of God.
+
+Weighted = 2.65 → Final Score = 7.4625 → **Tier 7**, the new tier-7 floor, just below The
+Stormlight Archive (7.575). Checked against The Stormlight Archive: Stormlight's Redemption
+Difficulty 3 sits above this entry's 2 (Mrs. Coulter's redemption actually succeeds at real cost,
+a less bleak case), trading against this entry's Explicit Darkness 4 vs. Stormlight's 3
+(intercision's sustained, central-to-the-plot cruelty against children is a more concentrated
+horror). Cozy Fantasy = No, Hopepunk = No — the story's own ending explicitly argues against "the
+grand crusade" as the right shape for hope, close to the opposite of Fierce Hopepunk's thesis that
+organized resistance is the causally correct strategy.
+
+## The Dresden Files
+
+New catalog addition, not a rescore. Scored against the 18 currently-published novels (of a
+planned 25, ongoing as of this entry) plus the 2007 SciFi Channel adaptation, which is tonally
+lighter and looser than the source and doesn't push any axis higher.
+
+* Structural Despair: 1 — no broad world-decline; Harry's supernatural Chicago has harsh laws but
+  no equivalent persecuted-underclass throughline.
+* Limited Heroism: 2 — Harry wins each book's immediate crisis at real, escalating personal cost
+  (his body crippled and only restored via a Faustian bargain with the Winter Queen), and each
+  defeated villain reveals a larger one behind it (Denarians, the Black Council, the Outsiders).
+* Moral Cynicism: 2 — in *Changes*, Harry personally triggers a bloodline curse that wipes out
+  the entire Red Court vampire nation — including, implicitly, non-combatants — as the only way to
+  save his daughter, cutting his former lover's throat to do it: the protagonist himself
+  committing a magically genocidal act as the story's own resolution.
+* Structural Corruption: 2 — the White Council's own justice system executes practitioners
+  (including its own members) after "a brief trial" for breaking the Laws of Magic — Harry
+  himself narrowly avoided this — a real, notorious institutional harshness, though the Council
+  isn't purely villainous.
+* Redemption Difficulty: 2 — carried across the ensemble: Harry's ongoing struggle against the
+  Winter Knight mantle's corrupting influence is a continuous, costly battle, and his apprentice
+  Molly Carpenter's fall into forbidden mind magic costs her years of consequence and atonement.
+* Narrative Acceptance of Injustice: 2 — matches the escalating-threat pattern of Limited
+  Heroism.
+* Explicit Darkness: 4 — the Red Court are predatory on-page killers, the Denarians are literal
+  serial-killer-tier villains possessed by fallen angels, and the *Changes* throat-cutting and its
+  citywide magical-war aftermath are sustained, visceral content recurring across nearly the
+  entire 18-book run.
+
+Weighted = 2.05 → Final Score = 6.1125 → **Tier 6**, an exact tie with Re:Zero, Clevatess, and The
+Sandman via a genuinely different profile from each. Checked against Supernatural (6.90, the
+closest tonal cousin as another urban-fantasy monster-hunter): Supernatural's Moral Cynicism 3 and
+Structural Corruption 3 (a textually-confirmed, actively malevolent God) both sit above this
+entry's 2 and 2, while this entry's Explicit Darkness 4 sits above Supernatural's 3 (prose can
+sustain visceral detail broadcast TV's standards-and-practices couldn't). Cozy Fantasy = No,
+Hopepunk = No — found-family loyalty is central, but the institutional harshness and the
+protagonist's own genocide-adjacent moral compromise sit past the point where "kindness as the
+organizing response" is the most honest description.
+
+## The Grim Company
+
+New catalog addition, not a rescore. Covers the complete trilogy (The Grim Company, Sword of the
+North, Dead Man's Steel), an explicitly self-identified grimdark series reviewers compare to Joe
+Abercrombie's The First Law ("no-one does grimdark fantasy better than Joe Abercrombie, but...
+Scull comes incredibly close"). This entry originally landed at Tier 7 (Redemption Difficulty
+scored 3) but was corrected back to Tier 6 in the same session — see below.
+
+* Structural Despair: 2 — the 500-years-dead-gods/tyrant-magelord premise persists across the
+  trilogy.
+* Limited Heroism: 2 — matches Structural Despair's persisting-threat pattern.
+* Moral Cynicism: 2 — matches the trilogy's cyclical power struggles.
+* Structural Corruption: 3 — book 2 shows the rebels' victorious liberation of Dorminia curdling
+  into an equally absolute new tyranny under the White Lady ("anyone perceived as a threat seized
+  and imprisoned or exiled"), and book 3 shows Dorminia conquered outright by the Fade — a
+  specific, textually-confirmed "toppling one tyrant just installs the next" pattern.
+* Redemption Difficulty: 2 — Davarus Cole's arc: a godly essence residing in him grows stronger
+  with every death that "feeds it," meaning battlefield survival itself risks eroding who he is —
+  a genuinely costly, ongoing struggle against self-corruption, matching "possible, but exacts a
+  real sacrifice." (Originally scored at 3 to differentiate from an exact tie with Märchen Crown,
+  then reverted on review: neither "Cole's ongoing self-erosion" nor general trilogy-wide carnage
+  actually confirms his redemption specifically fails or lands only partially — the standard RD3
+  requires.)
+* Narrative Acceptance of Injustice: 2 — matches Structural Corruption's cyclical-tyranny
+  pattern.
+* Explicit Darkness: 4 — strong, repeated reviewer language ("amazingly violent," "two parts
+  amoral, ultra-violent fantasy," "gore and borderline horror scenes") sustained across all three
+  books.
+
+Weighted = 2.35 → Final Score = 6.7875 → **Tier 6**, an exact tie with Märchen Crown and (after
+its own later addition) The Dark Crystal: Age of Resistance and Fourth Wing — a legitimate
+coincidence, since the works reach comparable severity via genuinely different content. Tier 6
+fits the critical consensus ("some felt it wasn't grimdark enough... lacking the grimdark
+blurring of good and evil") better than Tier 7 did. Cozy Fantasy = No, Hopepunk = No.
+
+## The Dark Tower
+
+New catalog addition, not a rescore. Covers the complete 8-book main series (The Gunslinger
+through The Dark Tower, plus The Wind Through the Keyhole).
+
+* Structural Despair: 3 — reality's decay ("the world has moved on") is the series' single most
+  explicit, repeated, author-confirmed theme (King has described the Crimson King as a direct
+  embodiment of "chaos and entropy"), though it stops short of the ceiling because Roland's quest
+  genuinely stabilizes the Tower by the end.
+* Limited Heroism: 3 — Roland reaches the Tower and succeeds by any conventional measure, but is
+  immediately reset to the desert at the start of his quest, implying he has done this before,
+  possibly many times, with no confirmation the cycle ever actually ends — critics describe
+  whether he "succeeded" as explicitly left unanswered.
+* Moral Cynicism: 2 — the series' antagonist force is cosmic/entropic rather than a critique of
+  specific political institutions.
+* Structural Corruption: 2 — the Wolves of the Calla, a sustained, organized child-theft practice
+  (children returned "roont" — mentally and physically ruined) enforced by a hidden power
+  connected to the Crimson King's forces, not an isolated crime.
+* Redemption Difficulty: 3 — Roland's arc toward genuine love and connection (his ka-tet,
+  replacing his old ruthlessness) is real, but the loop's implication that he hasn't yet earned a
+  different outcome — despite carrying the Horn of Eld this time as a sliver of hope — keeps his
+  redemption unresolved rather than achieved.
+* Narrative Acceptance of Injustice: 3 — follows Limited Heroism's unresolved-cycle logic.
+* Explicit Darkness: 4 — King's characteristically visceral and sustained horror content across
+  eight books — the Low Men, Mordred (a monstrous spider-child who kills and feeds on people
+  including his own surrogate mother), and repeated graphic violence throughout.
+
+Weighted = 2.8 → Final Score = 7.8 → **Tier 7**, an exact tie with Attack on Titan and House of
+the Dragon via a genuinely different profile from each: Titan's Limited Heroism 2 (a genuine,
+lasting diplomatic peace) sits below this entry's 3, while Titan's Moral Cynicism 3 and Structural
+Corruption 3 sit above this entry's 2 and 2. Cozy Fantasy = No, Hopepunk = No. Label check:
+"Extreme Dark Fantasy" fits — cosmic-scale decay, extensive visceral horror, and an ending that
+refuses easy resolution.
+
+## Eragon (The Inheritance Cycle)
+
+New catalog addition, not a rescore. Scored as one bundled entry covering the full four-book main
+cycle (Eragon, Eldest, Brisingr, Inheritance) plus the 2006 film — unlike the Harry Potter series,
+which is split by book on this catalog, the Inheritance Cycle's darkness intensifies within a
+single consistent YA-epic-fantasy register rather than crossing HP's audience-shift, famous-per-
+volume threshold. The 2006 film is a widely-panned, heavily simplified adaptation that is tonally
+lighter than the books, so it doesn't move any axis.
+
+* Structural Despair: 1 — the story's central conflict resolves; no sustained world-decline.
+* Limited Heroism: 1 — Galbatorix's tyranny is fully defeated by the cycle's end.
+* Moral Cynicism: 1 — matches Limited Heroism's classic heroic-fantasy resolution.
+* Structural Corruption: 2 — King Galbatorix's century-long tyranny, seized through his own
+  genocide of the Dragon Riders decades before the story starts and enforced by the Ra'zac as a
+  secret-police-style hunting apparatus — real and sustained, though concentrated in one usurped
+  kingdom.
+* Redemption Difficulty: 2 — Murtagh's arc: bound into forced service to Galbatorix against his
+  will, his path to freedom requires literally changing his own fundamental self-identity (his
+  "true name") — a real, costly transformation, ultimately achieved.
+* Narrative Acceptance of Injustice: 2 — Galbatorix's immediate tyranny is fully defeated, but
+  the deeper injustice — the historic genocide of the old Dragon Rider order — is never undone;
+  Eragon and Saphira instead found an entirely new order in a distant land, since Alagaësia itself
+  isn't yet safe for Riders to return.
+* Explicit Darkness: 3 — extensive, graphic on-page torture of named female characters recurs and
+  escalates across the series (Arya "burned, punctured, drugged, branded" in Eldest; Nasuada's
+  "brutal disfiguring and dehumanizing torture" in the finale) — critics explicitly describe this
+  as "a crutch" the author leans on repeatedly.
+
+Weighted = 1.65 → Final Score = 5.2125 → **Tier 5**, an exact tie with the tier's floor cluster
+(Tales from Earthsea, A Knight of the Seven Kingdoms, Dragonlance, Harry Potter and the Goblet of
+Fire, Elantris, Baldur's Gate III). Checked against The Magicians (5.8875, the tier's ceiling): it
+scores higher via Limited Heroism 2 and Redemption Difficulty 2 combined with real unresolved
+psychological damage that Eragon's more classically-heroic, cleanly-won conflict doesn't carry.
+Cozy Fantasy = No, Hopepunk = No — classic heroic-fantasy virtue-rewarded structure, not kindness
+as deliberate resistance praxis.
+
+## The Princess Bride
+
+New catalog addition, not a rescore. Covers William Goldman's 1973 novel and the 1987 Rob Reiner
+film.
+
+* Structural Despair: 0 — no world-decline; a contained fairy-tale adventure.
+* Limited Heroism: 0 — Westley and Buttercup escape together, Inigo avenges his father by killing
+  Count Rugen, and Humperdinck's war-mongering murder plot is foiled — resolves about as cleanly
+  and triumphantly as this scale scores anything.
+* Moral Cynicism: 1 — Goldman's novel is framed as his own restoration of "the good parts" his
+  father skipped when reading it to him as a child, built around an explicit, repeated thesis —
+  "life isn't fair... it's just fairer than death" — that directly complicates a simpler fairy
+  tale's uncomplicated just-world premise, even though the *told* story is itself a full,
+  unambiguous triumph.
+* Structural Corruption: 1 — Humperdinck's war-mongering murder plot is one prince's individual
+  scheme, not a systemic institution.
+* Redemption Difficulty: 0 — no personal-corruption arc for any major character; Humperdinck is
+  defeated and humiliated, not redeemed.
+* Narrative Acceptance of Injustice: 1 — Goldman appends a real aside musing that the characters
+  likely didn't get an unambiguously happy ending long-term, a meta-level complication this scale
+  doesn't usually see in otherwise-clean Tier 2 stories.
+* Explicit Darkness: 2 — Westley's torture on The Machine, the "to the pain" speech (a vividly
+  detailed mutilation threat), Buttercup's suicide attempt, and Inigo's father's murder are
+  genuine dark beats, but none are lingered on in a sustained, horror-coded way.
+
+Weighted = 0.65 → Final Score = 2.9625 → **Tier 2**, an exact tie with The Chronicles of Narnia
+and The Legend of Zelda via a genuinely different profile from each — neither Narnia's Structural
+Despair 1/Redemption Difficulty 1 (a hundred-year winter, an Edmund betrayal-forgiveness arc) has
+an equivalent here, and Princess Bride's Moral Cynicism 1/Narrative Acceptance of Injustice 1
+trade against Narnia's 0/0 (Narnia's Christian-allegory just-world structure doesn't carry
+Goldman's meta-narrative complication). Cozy Fantasy = No, Hopepunk = No. Label check: "Bright
+Fantasy" fits — a warm, comedic, triumphant fairy-tale adventure with a knowing wink that real
+happy endings are rarer than stories pretend.
+
+## Fourth Wing (The Empyrean)
+
+New catalog addition, not a rescore. Covers all three published books (Fourth Wing 2023, Iron
+Flame 2023, Onyx Storm 2025), assessed individually for tier consistency and bundled since the
+core institutional critique escalates rather than tonally shifts across the series (matching the
+reasoning applied to Eragon). The series is confirmed unfinished (5 books planned total).
+
+* Structural Despair: 2 — Navarre's true-enemy cover-up and the war it conceals worsen across the
+  three books without a resolving fix yet in scope.
+* Limited Heroism: 2 — matches the ongoing-crisis pattern of Structural Despair.
+* Moral Cynicism: 2 — matches the institutional-cover-up pattern.
+* Structural Corruption: 3 — two distinct, textually-confirmed practices: Basgiath's death-culling
+  system (an average 15% of conscripts die on the very first day — 71 candidates in Fourth Wing's
+  opening — only a quarter of Riders Quadrant cadets reach graduation, and cadets are permitted to
+  kill each other during training), and Navarre's leadership "lying to its citizens for hundreds
+  of years" about the true enemy, willing "to sacrifice everyone on the borders... to stay safe."
+* Redemption Difficulty: 2 — Xaden's arc: he begins turning venin at the end of Iron Flame, an
+  active, ongoing corruption Violet is still fighting to reverse as of Onyx Storm — a real,
+  costly, in-progress struggle, not a confirmed success or failure since the series isn't
+  finished.
+* Narrative Acceptance of Injustice: 2 — matches Structural Corruption's ongoing-cover-up
+  pattern.
+* Explicit Darkness: 4 — the sheer, sustained volume of named on-page cadet deaths documented
+  across all three books, a structural and recurring feature of the series.
+
+Weighted = 2.35 → Final Score = 6.7875 → **Tier 6**, an exact tie with Märchen Crown and The Grim
+Company (and, later, The Dark Crystal: Age of Resistance and Arcane) — each axis was
+re-scrutinized independently given the standing rule that collision-avoidance must never drive a
+score change, and none survived re-scrutiny with a different, better-evidenced value; a legitimate
+coincidence across genuinely different stories. Cozy Fantasy = No, Hopepunk = No. Label check:
+"Dark Fantasy... genuinely heavy without tipping into nihilism" fits — mass, sanctioned cadet
+death and a centuries-long government lie sit inside a story that still centers found-family,
+romance, and hard-won heroism.
+
+## Sweet Tooth
+
+New catalog addition, not a rescore. Scored against Jeff Lemire's complete 2009-2013 Vertigo comic
+(40 issues) as the darker, defining version — the 2021-2024 Netflix adaptation is confirmed
+substantially gentler ("the show does not assume the overtly nihilistic tone of the comics") and
+doesn't move any axis.
+
+* Structural Despair: 3 — the comic's completed ending has humanity go fully extinct as a species
+  over the following generations, succeeded entirely by the hybrids — not an averted threat but
+  the story's actual, confirmed outcome.
+* Limited Heroism: 3 — Gus's personal journey succeeds completely, but no individual heroism
+  changes or prevents the species-level extinction, which happens regardless of what any
+  character does.
+* Moral Cynicism: 3 — critics describe "nearly all human characters" as antagonistic or
+  self-serving; Jepperd himself begins the story by selling Gus out for his own gain, and
+  multiple distinct human-run operations (the Preserve's child dissection/experimentation, camps
+  running "prostitution rings" using captive children) show predation on hybrid children as
+  closer to a norm than an aberration.
+* Structural Corruption: 3 — carried by those same distinct exploitative operations.
+* Redemption Difficulty: 2 — Jepperd's arc: begins as "an amoral killer," becomes a genuine
+  father figure, and dies protecting Gus — a real, costly, but ultimately successful redemption
+  (his death is the price, not a failure).
+* Narrative Acceptance of Injustice: 2 — humanity's fate isn't left as an unresolved crisis to
+  keep fighting; it's narratively accepted and ritually honored (the elderly Gus tells the story
+  to new generations, visiting the Precursors' burial site yearly) as history.
+* Explicit Darkness: 4 — children are "captured, abused, dissected, and killed," camps hold
+  captive children for "prostitution rings," and reviewers describe "gory bullets to heads" and
+  sustained graphic violence as a defining feature.
+
+Weighted = 2.8 → Final Score = 7.8 → **Tier 7**, an exact tie with Attack on Titan, House of the
+Dragon, and The Dark Tower via a genuinely different profile from each — Titan's Limited Heroism 2
+(a lasting diplomatic peace) sits below this entry's 3, trading against this entry's Redemption
+Difficulty 2 vs. Titan's 3. Cozy Fantasy = No, Hopepunk = No — the completed story's own
+"ultimately hopeful" critical framing applies to its long-term thematic resolution (life
+continues, just not as humans), not to found-family kindness organized as resistance.
+
+## Dark Sun
+
+New catalog addition, not a rescore. Scored as one bundled entry anchored on the AD&D 2nd Edition
+campaign setting (1991) plus the Prism Pentad novels (Troy Denning, 5 books, 1991-95) as
+co-primary, mutually-reinforcing sources. The 4th Edition revival (2010) "stuck to the vast
+majority of both the content and tone of the original" and doesn't move any axis; the Shattered
+Lands/Wake of the Ravager CRPGs track the same severity but are excluded as too niche to warrant
+their own slot; unofficial 3rd-edition material and the unreleased 2027 5th Edition books are out
+of scope.
+
+* Structural Despair: 3 — ordinary city-state tyranny persists across Athas beyond Tyr, though the
+  Prism Pentad's heroes destroy Borys and end Rajaat's threat outright — a real cosmic-scale
+  victory that keeps this at "improvement is the exception" rather than the ceiling.
+* Limited Heroism: 3 — matches Structural Despair's real-but-partial victory.
+* Moral Cynicism: 3 — the setting's power structure explicitly rewards atrocity: Rajaat's
+  champions became immortal sorcerer-kings *as payment* for committing genocide against entire
+  non-human races (the "Cleansing Wars") — short of the ceiling since the Pentad's own heroes
+  succeed through genuine cooperation.
+* Structural Corruption: 4 — every city-state in the Tyr region is ruled by a sorcerer-king whose
+  power is drawn directly from draining his own population's life-force via "defiler" magic;
+  there is no legitimate ruling institution shown anywhere on Athas, more totalizing than even A
+  Song of Ice and Fire's SC3, which still has some functioning institutions like the Night's
+  Watch.
+* Redemption Difficulty: 3 — Tithian backs the revolution against Kalak, is installed as Tyr's
+  new king, then immediately schemes to become a sorcerer-king himself — becoming exactly what he
+  helped overthrow — and ends the Pentad permanently exiled, never redeemed; Sadira's more
+  flexible use of defiler-coded magic for good ends keeps this short of the ceiling.
+* Narrative Acceptance of Injustice: 3 — Tyr's own injustice is resolved within this story, but
+  ordinary tyranny across the rest of Athas is left explicitly ongoing, addressed only across
+  later novels outside this entry's scope.
+* Explicit Darkness: 4 — the Dragon of Tyr (Borys) demands a tithe of 1,000 sacrificial slaves
+  *per year, from every city-state*, harvested for their life energy to keep the setting's
+  original threat (Rajaat) imprisoned — a recurring operating mechanism for centuries, not a
+  one-off atrocity — plus "defiler" magic that visibly withers all plant life to ash with every
+  casting; WotC's own 2027 relaunch is D&D's first-ever 18+ rated setting.
+
+Weighted = 3.25 → Final Score = 8.8125 → **Tier 8**, an exact tie with Fire Punch via a genuinely
+different profile (Fire Punch's Moral Cynicism 4/Structural Corruption 3 vs. this entry's 3/4,
+everything else matching). Sits a full 0.45 Weighted Internal Score below the Tier 9 floor (The
+First Law), consistent with Structural Despair/Limited Heroism staying at 3 rather than 4 here
+since a real cosmic-scale threat does get resolved, unlike The First Law. Cozy Fantasy = No,
+Hopepunk = No. Label "Grimdark" fits at the tier's upper end.
+
+## Alice in Wonderland
+
+New catalog addition, not a rescore. Scored as the duology — Alice's Adventures in Wonderland
+(1865) and Through the Looking-Glass (1871) — as commonly published and read together;
+adaptations weren't consulted since the queue item specified the novels.
+
+* Structural Despair: 0 — the entire adventure is explicitly a dream, resolved completely and
+  instantly the moment Alice wakes, with nothing carrying real consequence.
+* Limited Heroism: 0 — Alice's single assertive act at the climax ("You're nothing but a pack of
+  cards!") ends the entire conflict outright.
+* Moral Cynicism: 0 — the story's ostensible central threat is confirmed toothless within the
+  text itself: the Gryphon tells Alice "It's all her fancy: she executes nobody, you know," and
+  the King of Hearts secretly pardons everyone the Queen condemns — cruelty is systematically
+  undercut, not rewarded.
+* Structural Corruption: 1 — the Queen genuinely is a capriciously tyrannical ruler on her face,
+  even though confirmed toothless — an anomaly rather than a functioning exploitative system.
+* Redemption Difficulty: 0 — no wrongdoer needing repair; matches the dream-logic resolution of
+  the other floor axes.
+* Narrative Acceptance of Injustice: 0 — matches Moral Cynicism: cruelty is systematically
+  undercut across the text.
+* Explicit Darkness: 1 — real, specific, if bloodless content: the "Walrus and the Carpenter"
+  poem has the pair flatter and lure trusting oysters before eating them; the Duchess violently
+  jostles her baby while singing "Speak roughly to your little boy, and beat him when he
+  sneezes"; the executioner's debate over whether the Cheshire Cat's disembodied head can be
+  beheaded without a body is a real, if comic, grotesque image.
+
+Weighted = 0.25 → Final Score = 2.0625 → **Tier 2**, an exact profile match with Harry Potter and
+the Philosopher's Stone (identical on all seven criteria) — different stories, same shape: both
+have a nominal villain whose threat proves non-lethal/contained (Quirrell/Voldemort vs. the Queen
+of Hearts). Cozy Fantasy = No — doesn't belong to the modern cozy-fantasy publishing genre any
+more than Totoro does despite a similarly gentle surface tone. Hopepunk = No.
+
+## The Wizard of Oz
+
+New catalog addition, not a rescore. Scored as the 1900 novel (The Wonderful Wizard of Oz) plus
+the 1939 film, bundled, since the film keeps the book's content essentially intact (even its
+beatings and slavery). Baum's wider 14-book Oz series was checked and excluded: individual later
+books have real dark beats but critical consensus is the series "stays playful" even at its
+highest stakes and trends more utopian over time — not severe or distinct enough to move this
+entry (unlike Return to Oz, queued separately).
+
+* Structural Despair: 0 — no broad decline; a contained adventure.
+* Limited Heroism: 0 — a thorough, durable victory: both witches killed or deposed, the enslaved
+  Winkies freed, the fraudulent Wizard exposed, and Dorothy's companions installed as legitimate
+  new rulers of two regions.
+* Moral Cynicism: 0 — matches Limited Heroism's complete resolution.
+* Structural Corruption: 2 — the Wicked Witch of the West conquered Winkie Country using the
+  Golden Cap's army and enslaved the native Winkies, forcing them "to labor night and day" and, on
+  failure, beating them "well with a strap" — a real institution built on forced labor, though
+  confined to one region (Glinda's Quadling Country governs legitimately).
+* Redemption Difficulty: 0 — no wrongdoer redemption arc; matches the story's clean resolution.
+* Narrative Acceptance of Injustice: 0 — matches Limited Heroism: the slavery and fraud are both
+  fully undone.
+* Explicit Darkness: 2 — real, visible danger without graphic detail: critics and retrospectives
+  consistently cite the flying-monkey attack as among the most frightening scenes in children's
+  cinema, on top of the on-page beatings and Dorothy's own captivity as a slave.
+
+Weighted = 0.5 → Final Score = 2.625 → **Tier 2**, a three-way, profile-distinct tie with Harry
+Potter and the Chamber of Secrets and The Little Prince — HP's central injustice (the attacks on
+Muggle-born students) is only partially resolved by book's end, while Oz's slavery and fraud are
+both fully undone; The Little Prince's SD1/MC1 reflects a wholly different kind of gentle
+melancholy rather than institutional exploitation. Cozy Fantasy = No, Hopepunk = No —
+adventure-driven peril-and-triumph, not kindness/community positioned as a deliberate value.
+
+## Wicked
+
+New catalog addition, not a rescore. Scored via Gregory Maguire's 1995 novel (Wicked: The Life and
+Times of the Wicked Witch of the West) as the darker, definitive version. The stage musical (2003)
+and the 2024/2025 films, which follow the musical, are confirmed significantly softer (Doctor
+Dillamond is merely removed from his post rather than assassinated, Elphaba fakes her death and
+escapes with Fiyero rather than dying, and the story ends on reconciliation) — a rough parallel
+estimate for the musical alone lands around Tier 4, roughly a 3-tier gap, so it doesn't move this
+entry.
+
+* Structural Despair: 3 — Animal rights are actively worsening across the novel under the
+  Wizard's laws, with no counterbalancing improvement shown by the book's end.
+* Limited Heroism: 3 — matches Structural Despair's worsening trajectory.
+* Moral Cynicism: 3 — carried by Doctor Dillamond's murder specifically to suppress the
+  scientific evidence he was gathering against the regime's discriminatory laws — the one
+  character producing inconvenient truth is killed for it, while the actual moral actor (Elphaba)
+  is the one history mythologizes as evil.
+* Structural Corruption: 3 — two distinct central institutions built on oppression: the Wizard's
+  regime (enforced via Madame Morrible's assassination of dissidents and legal stripping of an
+  entire sentient population's rights) and, later, Nessarose's own tyrannical rule of
+  Munchkinland.
+* Redemption Difficulty: 1 — notably low for this tier because the axis isn't strongly engaged:
+  Elphaba isn't a wrongdoer working toward redemption, she's a sympathetic figure misjudged by
+  history.
+* Narrative Acceptance of Injustice: 3 — both core injustices (Animal oppression and Elphaba's
+  false legacy) are explicitly left unresolved: she dies believing everyone hated her, and the
+  myth of her wickedness is what survives, not the truth.
+* Explicit Darkness: 3 — a graphic assassination (throat slit) and Elphaba's own fiery death, plus
+  confirmed sexual content (an affair with Fiyero, described "in some detail but never in lurid
+  terms").
+
+Weighted = 2.70 → Final Score = 7.575 → **Tier 7**, an exact tie with The Stormlight Archive via a
+genuinely different profile (Stormlight's SD2/MC2/RD3 vs. this entry's SD3/MC3/RD1 — Stormlight's
+severity is carried by Kaladin and Dalinar's costly, sustained redemption arcs, where Wicked's is
+carried by an actively worsening political situation and a regime that kills for the truth). Sits
+just below the four 7.80 works (Attack on Titan, House of the Dragon, The Dark Tower, Sweet
+Tooth), each of which clears either Explicit Darkness 4 or Redemption Difficulty 3, or both. Cozy
+Fantasy = No, Hopepunk = No. Label "Extreme Dark Fantasy" fits.
+
+## Arcane
+
+New catalog addition, not a rescore. Scored against both seasons (2021, 2024) as a complete
+story.
+
+* Structural Despair: 2 — an escalating war/oppression arc between Piltover and Zaun runs through
+  both seasons.
+* Limited Heroism: 2 — Piltover's checkpoints are literally dismantled by the finale, real
+  visible structural change, but the show frames this as fragile and unresolved rather than a
+  clean fix.
+* Moral Cynicism: 2 — matches the fragile-progress framing of Limited Heroism.
+* Structural Corruption: 3 — Piltover's explicit, state-run discrimination against Zaun — an
+  Enforcer police force and border checkpoints enforcing a real institutional class divide, not
+  just informal prejudice — one government running two distinct discriminatory practices, short
+  of a multi-institution "all independently corrupt" pattern.
+* Redemption Difficulty: 2 — Viktor's "Glorious Evolution" arc ends with him choosing to destroy
+  his own life's work (and likely himself) to stop the forced assimilation he set in motion — a
+  genuine success, but only at real, possibly fatal cost.
+* Narrative Acceptance of Injustice: 2 — discrimination is "paused," and the closing scene has Vi
+  and Caitlyn "committed to a future fight," not a settled peace.
+* Explicit Darkness: 4 — the show's TV-MA reputation for sustained, graphic on-screen violence:
+  named-character deaths shown directly (the Council bombing, war casualties), a visible
+  shimmer-addiction crisis, and body-horror transformation (Vander into Warwick) running
+  throughout.
+
+Weighted = 2.35 → Final Score = 6.7875 → **Tier 6**, an exact 7-axis profile match with Fourth
+Wing and The Grim Company — checked as a real, independently-reachable coordinate (The Dark
+Crystal: Age of Resistance sits at the same total via a genuinely different profile) rather than a
+lazy default. Checked against The Dresden Files (6.1125, bottom of the tier): the 0.30 gap
+resolves on Structural Corruption (Piltover's checkpoints are explicit state-run discrimination
+against an entire underclass, a stronger institutional case than Dresden's corrupt-but-not-
+governmental supernatural factions) and Structural Despair (an escalating war/oppression arc vs.
+Dresden's more episodic structure). Cozy Fantasy = No, Hopepunk = No. Label check: "Dark Fantasy"
+fits — genuinely heavy content, but Piltover's government actually dismantles its own
+discriminatory checkpoints by the end, a real institutional reform short of Tier 7-8's "no
+institution is safe" register.
