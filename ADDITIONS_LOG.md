@@ -658,6 +658,10 @@ reasoning in SCORING_RECORD.md.
     the 1992 animated series — decide scope/bundling when scored)
 48. [ ] The Addams Family — Films — the Barry Sonnenfeld films (The Addams Family, 1991; Addams
     Family Values, 1993) and the animated films (The Addams Family, 2019; Addams Family 2, 2021)
+49. [ ] Chrono Trigger — Square (1995) — Video Game — time-travel JRPG; Lavos's apocalyptic
+    destruction of the world in 1999 (the game's default future ending unless averted), the
+    genocidal Mystic/Human war, Frog's tragic backstory, and multiple alternate endings ranging
+    from full prevention to leaving Lavos's threat unresolved
 
 ## Completed
 
