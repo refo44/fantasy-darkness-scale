@@ -619,7 +619,7 @@ reasoning in SCORING_RECORD.md.
 27. [x] Dark Sun — TSR / Wizards of the Coast — Tabletop (D&D campaign setting) — post-apocalyptic desert world Athas, magic that kills plant life to power spells, widespread slavery, tyrannical sorcerer-kings draining their own kingdoms' life force; deliberately created as a grim subversion of standard D&D high fantasy — DONE, see Completed
 28. [x] Alice in Wonderland — Lewis Carroll — Novel — whimsical, surreal children's fantasy with unsettling undertones (the Queen of Hearts' "off with their heads," nonsensical/threatening logic, identity/growing-up themes), but generally light in overall register — DONE, see Completed
 29. [x] The Wizard of Oz — L. Frank Baum (novel), 1939 film — classic adventure, real peril (the Wicked Witch, flying monkeys) but a fundamentally heartwarming, hopeful children's classic — DONE, see Completed
-30. [ ] Wicked — Gregory Maguire (novel), stage musical — revisionist Oz told from Elphaba's perspective; real political oppression (the Wizard's totalitarian regime, persecution of sentient Animals as a genocide/civil-rights allegory), Elphaba's tragic arc as a misunderstood activist villainized by history — notably darker and more morally complex than the original Oz material
+30. [x] Wicked — Gregory Maguire (novel), stage musical — revisionist Oz told from Elphaba's perspective; real political oppression (the Wizard's totalitarian regime, persecution of sentient Animals as a genocide/civil-rights allegory), Elphaba's tragic arc as a misunderstood activist villainized by history — notably darker and more morally complex than the original Oz material — DONE, see Completed
 31. [x] The Sandman — Neil Gaiman — Comics, TV series — DONE, see Completed
 32. [x] Supernatural (TV series) — DONE, see Completed
 33. [x] Charmed (1998 TV series) — DONE, see Completed
@@ -692,6 +692,58 @@ reasoning in SCORING_RECORD.md.
     entry (Tier 2) for the same reason Wicked stayed separate from it
 
 ## Completed
+
+### 30. Wicked — Gregory Maguire — Novel
+
+- Tier 7 (Extreme Dark Fantasy), Final Score 7.575 (Weighted Internal Score 2.70) — an exact
+  numeric tie with The Stormlight Archive, via a genuinely different profile.
+- Scores: Structural Despair 3, Limited Heroism 3, Moral Cynicism 3, Structural Corruption 3,
+  Redemption Difficulty 1, Narrative Acceptance of Injustice 3, Explicit Darkness 3.
+- Scope: scored via the novel (Wicked: The Life and Times of the Wicked Witch of the West,
+  1995) as the darker, definitive version. The stage musical (2003) and the 2024/2025 films,
+  which follow the musical rather than the book, were checked and confirmed significantly
+  softer: Doctor Dillamond is merely removed from his teaching post and silenced rather than
+  assassinated, Elphaba fakes her death and escapes with Fiyero rather than dying, and the
+  story ends on reconciliation (Glinda and Elphaba's friendship restored, Glinda taking power)
+  rather than the book's unresolved tragedy. A rough parallel estimate for the musical alone
+  (SD1/LH1/MC1/SC2/RD1/NAI1/ED1, WIS ~1.15) lands around Tier 4 — roughly a 3-tier gap — so it
+  doesn't move this entry, the same pattern already used for Eragon's film and Sweet Tooth's
+  show. Not split into a separate entry (unlike Wicked's own relationship to The Wizard of Oz,
+  which is a genuinely different, morally complex retelling of the same events and so earned
+  its own catalog slot): the musical isn't a different story, just a much softer telling of the
+  same one.
+- Rationale: Structural Despair (3) reflects that Animal rights are actively worsening across
+  the novel under the Wizard's laws, with no counterbalancing improvement shown by the book's
+  end. Moral Cynicism (3) is carried by Doctor Dillamond's murder specifically to suppress the
+  scientific evidence he was gathering against the regime's discriminatory laws — the one
+  character producing inconvenient truth is killed for it, while the actual moral actor
+  (Elphaba) is the one history mythologizes as evil. Structural Corruption (3) rests on two
+  distinct central institutions built on oppression: the Wizard's regime (enforced via Madame
+  Morrible's assassination of dissidents and legal stripping of an entire sentient population's
+  rights) and, later in the novel, Nessarose's own tyrannical rule of Munchkinland. Redemption
+  Difficulty (1) is notably low for this tier because the axis isn't strongly engaged here —
+  Elphaba isn't a wrongdoer working toward redemption, she's a sympathetic figure misjudged by
+  history, a different dynamic than the criterion is built to measure. Narrative Acceptance of
+  Injustice (3) reflects that both core injustices (Animal oppression and Elphaba's false
+  legacy) are explicitly left unresolved: she dies believing everyone hated her, and the myth of
+  her wickedness is what survives, not the truth. Explicit Darkness (3) covers a graphic
+  assassination (throat slit) and Elphaba's own fiery death, plus confirmed sexual content (an
+  affair with Fiyero, described "in some detail but never in lurid terms") — real and frequent,
+  short of the tier's extreme ceiling.
+- Cozy Fantasy = No. Hopepunk = No: matches precedent (no work at Tier 6 or darker carries the
+  tag).
+- Neighbor check: exact WIS match (2.70) with The Stormlight Archive (SD2/MC2/RD3 instead of
+  this entry's SD3/MC3/RD1 — Stormlight's severity is carried by Kaladin and Dalinar's costly,
+  sustained redemption arcs, where Wicked's is carried by an actively worsening political
+  situation and a regime that kills for the truth). Sits comfortably above His Dark Materials
+  (7.4625, WIS 2.65, lower on SD/MC despite ED4) and Fourth Wing/Supernatural (6.79/6.90, both
+  WIS 2.35-2.4, a clear gap). Sits just below the four 7.80 works (Attack on Titan, House of the
+  Dragon, The Dark Tower, Sweet Tooth) — each clears either Explicit Darkness 4 (sustained
+  graphic content, vs. this entry's real-but-not-sustained ED3) or Redemption Difficulty 3 (a
+  real, costly redemption arc, which this entry doesn't have), or both. Label "Extreme Dark
+  Fantasy" fits.
+- Added to xlsx row 122, and to tier 7 on both index.html and es/index.html, inserted after The
+  Stormlight Archive (exact score tie, existing-entry-first ordering).
 
 ### 29. The Wizard of Oz — L. Frank Baum — Novel, Film
 
