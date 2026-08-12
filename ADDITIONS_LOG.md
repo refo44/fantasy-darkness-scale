@@ -633,7 +633,7 @@ reasoning in SCORING_RECORD.md.
 41. [x] The Princess Bride — William Goldman — Novel, Film — DONE, see Completed
 42. [x] Fourth Wing / Iron Flame / Onyx Storm (Empyrean series) — Rebecca Yarros — Novels — score each, bundle into one entry if they land in the same tier — DONE, see Completed
 43. [x] Sweet Tooth — Jeff Lemire — Comics, TV series — DONE, see Completed
-44. [ ] Arcane — Riot Games — TV series
+44. [x] Arcane — Riot Games — TV series — DONE, see Completed
 45. [ ] Percy Jackson & the Olympians — Rick Riordan — Novels, TV series
 46. [ ] Devilman Crybaby (2018) — Masaaki Yuasa (based on Go Nagai's Devilman manga) — Anime
 47. [ ] The Mighty Nein — Critical Role (Campaign 2) — TV series / D&D actual-play — Amazon's
@@ -692,6 +692,54 @@ reasoning in SCORING_RECORD.md.
     entry (Tier 2) for the same reason Wicked stayed separate from it
 
 ## Completed
+
+### 44. Arcane — Riot Games — TV series
+
+- Tier 6 (Dark Fantasy), Final Score 6.7875 (Weighted Internal Score 2.35) — an exact 7-axis
+  profile match with Fourth Wing and The Grim Company (see extended neighbor check below).
+- Scores: Structural Despair 2, Limited Heroism 2, Moral Cynicism 2, Structural Corruption 3,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 2, Explicit Darkness 4.
+- Scope: scored against both seasons (2021, 2024) as a complete story.
+- Rationale: Structural Corruption (3) rests on Piltover's explicit, state-run discrimination
+  against Zaun — an Enforcer police force and border checkpoints enforcing a real institutional
+  class divide, not just informal prejudice; this is one government running two distinct
+  discriminatory practices (matching Fourth Wing's precedent for what keeps Structural
+  Corruption at 3 rather than the scale's ceiling — a single institution, not the multi-
+  institution "all independently corrupt" pattern that earns A Song of Ice and Fire's 3 its own
+  more totalizing framing). Redemption Difficulty (2) is carried by Viktor: his "Glorious
+  Evolution" arc ends with him choosing to destroy his own life's work (and likely himself) to
+  stop the forced assimilation he set in motion — a genuine success, but only at real, possibly
+  fatal cost. Explicit Darkness (4) reflects the show's TV-MA reputation for sustained, graphic
+  on-screen violence: named-character deaths shown directly (the Council bombing, war
+  casualties), a visible shimmer-addiction crisis, and body-horror transformation (Vander into
+  Warwick) running throughout, not as isolated beats. Narrative Acceptance of Injustice (2)
+  reflects that Piltover's checkpoints are literally dismantled by the finale — real, visible
+  structural change — but the show frames this as fragile and unresolved rather than a clean
+  fix (discrimination is "paused," and the closing scene has Vi and Caitlyn "committed to a
+  future fight," not a settled peace).
+- Cozy Fantasy = No. Hopepunk = No: matches precedent (no work at Tier 6 or darker carries the
+  tag).
+- Neighbor check, extended given the exact profile match: checked Redemption Difficulty
+  specifically against The Grim Company's own documented precedent (that entry originally
+  over-scored RD to 3 to break a tie with Märchen Crown, then corrected back to 2 after finding
+  no confirmed failure/partial-success pattern in the text) — applied the same scrutiny here and
+  found Viktor's arc is a genuine, textually clear success at cost, at least as solid a case for
+  RD2 as Grim Company's own anchor, so it wasn't inflated just to differentiate the tie. The
+  4-way score cluster at 6.7875 isn't a single default shape: The Dark Crystal: Age of
+  Resistance sits at the same total via a genuinely different profile (Structural Despair 3,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 3), confirming this is a real,
+  independently-reachable coordinate. Non-adjacent check against The Dresden Files (6.1125,
+  bottom of the tier, SD1/LH2/MC2/SC2/RD2/NAI2/ED4): the 0.30 WIS gap resolves cleanly on two
+  named axes — Structural Corruption (3 vs. 2: Piltover's checkpoints are explicit state-run
+  discrimination against an entire underclass, a stronger institutional case than Dresden's
+  corrupt-but-not-governmental supernatural factions) and Structural Despair (2 vs. 1: an
+  escalating war/oppression arc vs. Dresden's more episodic structure). Label check: "Dark
+  Fantasy" fits — genuinely heavy content (terrorism, war, addiction, body horror), but
+  Piltover's government actually dismantles its own discriminatory checkpoints by the end, a
+  real institutional reform that keeps this short of Tier 7-8's "no institution is safe, nothing
+  gets fixed" register (Dark Tower, House of the Dragon, A Song of Ice and Fire).
+- Added to xlsx row 123, and to tier 6 on both index.html and es/index.html, appended after
+  Fourth Wing (exact score tie, existing-entries-first ordering).
 
 ### 30. Wicked — Gregory Maguire — Novel
 
