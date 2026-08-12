@@ -617,7 +617,7 @@ reasoning in SCORING_RECORD.md.
 26. [x] Dirk Gently's Holistic Detective Agency — Douglas Adams — Novels, TV series — DONE, see
     Completed
 27. [x] Dark Sun — TSR / Wizards of the Coast — Tabletop (D&D campaign setting) — post-apocalyptic desert world Athas, magic that kills plant life to power spells, widespread slavery, tyrannical sorcerer-kings draining their own kingdoms' life force; deliberately created as a grim subversion of standard D&D high fantasy — DONE, see Completed
-28. [ ] Alice in Wonderland — Lewis Carroll — Novel — whimsical, surreal children's fantasy with unsettling undertones (the Queen of Hearts' "off with their heads," nonsensical/threatening logic, identity/growing-up themes), but generally light in overall register
+28. [x] Alice in Wonderland — Lewis Carroll — Novel — whimsical, surreal children's fantasy with unsettling undertones (the Queen of Hearts' "off with their heads," nonsensical/threatening logic, identity/growing-up themes), but generally light in overall register — DONE, see Completed
 29. [ ] The Wizard of Oz — L. Frank Baum (novel), 1939 film — classic adventure, real peril (the Wicked Witch, flying monkeys) but a fundamentally heartwarming, hopeful children's classic
 30. [ ] Wicked — Gregory Maguire (novel), stage musical — revisionist Oz told from Elphaba's perspective; real political oppression (the Wizard's totalitarian regime, persecution of sentient Animals as a genocide/civil-rights allegory), Elphaba's tragic arc as a misunderstood activist villainized by history — notably darker and more morally complex than the original Oz material
 31. [x] The Sandman — Neil Gaiman — Comics, TV series — DONE, see Completed
@@ -671,6 +671,52 @@ reasoning in SCORING_RECORD.md.
     survival stories; decide scope (core setting + Drizzt novels vs. also the CRPGs) when scored
 
 ## Completed
+
+### 28. Alice in Wonderland — Lewis Carroll — Novels
+
+- Tier 2 (Bright Fantasy), Final Score 2.0625 (Weighted Internal Score 0.25) — an exact profile
+  match with Harry Potter and the Philosopher's Stone (identical on all seven criteria), not
+  just a numeric tie.
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 0, Structural Corruption 1,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 0, Explicit Darkness 1.
+- Scope: scored as the duology — Alice's Adventures in Wonderland (1865) and Through the
+  Looking-Glass (1871) — as commonly published and read together under this title; adaptations
+  (1951 Disney, 2010 Tim Burton, etc.) weren't consulted since the queue item specified the
+  novel(s).
+- Rationale: Structural Despair, Limited Heroism, Moral Cynicism, Redemption Difficulty, and
+  Narrative Acceptance of Injustice all bottom out at 0 for the same underlying reason — the
+  entire adventure is explicitly a dream, resolved completely and instantly the moment Alice
+  wakes, with nothing carrying real consequence. Even the story's ostensible central threat is
+  confirmed toothless within the text itself: the Gryphon tells Alice "It's all her fancy: she
+  executes nobody, you know," and the King of Hearts secretly pardons everyone the Queen
+  condemns — cruelty is systematically undercut, not rewarded (Moral Cynicism 0), and Alice's
+  single assertive act at the climax ("You're nothing but a pack of cards!") ends the entire
+  conflict outright (Limited Heroism 0). Structural Corruption lands at 1, not 0, because the
+  Queen genuinely is a capriciously tyrannical ruler on her face, even though confirmed
+  toothless — an anomaly rather than a functioning exploitative system. Explicit Darkness
+  similarly lands at 1 on real, specific, if bloodless content: the "Walrus and the Carpenter"
+  poem (Through the Looking-Glass, recited by Tweedledum/Tweedledee) has the pair flatter and
+  lure trusting oysters before eating them, playing genuine betrayal and predation for
+  whimsical effect; the Duchess violently jostles her baby while singing "Speak roughly to your
+  little boy, and beat him when he sneezes"; and the executioner's debate over whether the
+  Cheshire Cat's disembodied head can be beheaded without a body is a real, if comic, grotesque
+  image — enough for "occasional tension, no graphic violence" but no higher.
+- Cozy Fantasy = No: doesn't belong to the modern cozy-fantasy publishing genre (comfort-focused,
+  low-stakes, found-family) any more than Totoro does despite a similarly gentle surface tone.
+  Hopepunk = No: doesn't fit any of the three variants — Wonderland's nonsense-logic isn't kindness
+  or community positioned as a deliberate value.
+- Neighbor check: exact profile match with Harry Potter and the Philosopher's Stone (SD0 LH0 MC0
+  SC1 RD0 NAI0 ED1 on both) — different stories, same shape: both have a nominal villain whose
+  threat proves non-lethal/contained (Quirrell/Voldemort vs. the Queen of Hearts), no real
+  stakes, and only mild unsettling imagery. Sits comfortably below The House in the Cerulean
+  Sea, Final Fantasy III & V, and Slayers (all 2.175, WIS 0.3) — those clear a full criterion
+  point higher on at least one axis (Cerulean Sea's SD1; FFIII&V's and Slayers' ED3 from actual
+  on-screen combat/death). Clear of Tier 1's true zero-conflict cluster (Totoro, Ponyo, Kiki's
+  Delivery Service, Legends & Lattes, all WIS 0) precisely because of the handful of real, if
+  bloodless, unsettling beats above. Label "Bright Fantasy" fits.
+- Added to xlsx row 120, and to tier 2 on both index.html and es/index.html, inserted
+  immediately after Harry Potter and the Philosopher's Stone (exact score tie, existing-entry-
+  first ordering matching precedent).
 
 ### 27. Dark Sun — TSR / Wizards of the Coast — Tabletop (D&D campaign setting), Novels
 
