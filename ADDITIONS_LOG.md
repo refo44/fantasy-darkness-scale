@@ -618,7 +618,7 @@ reasoning in SCORING_RECORD.md.
     Completed
 27. [x] Dark Sun — TSR / Wizards of the Coast — Tabletop (D&D campaign setting) — post-apocalyptic desert world Athas, magic that kills plant life to power spells, widespread slavery, tyrannical sorcerer-kings draining their own kingdoms' life force; deliberately created as a grim subversion of standard D&D high fantasy — DONE, see Completed
 28. [x] Alice in Wonderland — Lewis Carroll — Novel — whimsical, surreal children's fantasy with unsettling undertones (the Queen of Hearts' "off with their heads," nonsensical/threatening logic, identity/growing-up themes), but generally light in overall register — DONE, see Completed
-29. [ ] The Wizard of Oz — L. Frank Baum (novel), 1939 film — classic adventure, real peril (the Wicked Witch, flying monkeys) but a fundamentally heartwarming, hopeful children's classic
+29. [x] The Wizard of Oz — L. Frank Baum (novel), 1939 film — classic adventure, real peril (the Wicked Witch, flying monkeys) but a fundamentally heartwarming, hopeful children's classic — DONE, see Completed
 30. [ ] Wicked — Gregory Maguire (novel), stage musical — revisionist Oz told from Elphaba's perspective; real political oppression (the Wizard's totalitarian regime, persecution of sentient Animals as a genocide/civil-rights allegory), Elphaba's tragic arc as a misunderstood activist villainized by history — notably darker and more morally complex than the original Oz material
 31. [x] The Sandman — Neil Gaiman — Comics, TV series — DONE, see Completed
 32. [x] Supernatural (TV series) — DONE, see Completed
@@ -683,8 +683,48 @@ reasoning in SCORING_RECORD.md.
     throughout, likely several tiers darker than the novels — kept separate rather than bundled,
     same logic that split Final Fantasy I, II & XII apart instead of forcing one score on a wide
     severity spread
+57. [ ] Return to Oz — dir. Walter Murch (1985) — Film — based on Baum's 2nd/3rd Oz novels (The
+    Marvelous Land of Oz, Ozma of Oz), not the first book; confirmed genuinely disturbing —
+    opens with Dorothy about to undergo electroshock therapy in an asylum to "cure" her of
+    believing in Oz, features a hall of living disembodied heads, and depicts a transformed,
+    near-post-apocalyptic Oz ruled by the unsettling Wheelers; multiple retrospectives call it
+    "the most terrifying Disney movie ever made" — kept separate from the original Wizard of Oz
+    entry (Tier 2) for the same reason Wicked stayed separate from it
 
 ## Completed
+
+### 29. The Wizard of Oz — L. Frank Baum — Novel, Film
+
+- Tier 2 (Bright Fantasy), Final Score 2.625 (Weighted Internal Score 0.5) — a three-way,
+  profile-distinct tie with Harry Potter and the Chamber of Secrets and The Little Prince.
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 0, Structural Corruption 2,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 0, Explicit Darkness 2.
+- Scope: scored as the 1900 novel (The Wonderful Wizard of Oz) + the 1939 film, bundled — the
+  film keeps the book's content essentially intact (even its beatings and slavery), just
+  visually intensifying the peril. Later Baum sequel novels and the 1985 Return to Oz weren't
+  consulted (see below).
+- Rationale: Limited Heroism bottoms out at 0 on a thorough, durable victory — both witches
+  killed or deposed, the enslaved Winkies freed, the fraudulent Wizard exposed, and Dorothy's
+  companions installed as legitimate new rulers of two regions. Structural Corruption lands at
+  2, not lower, on specific, sourced content: the Wicked Witch of the West conquered Winkie
+  Country using the Golden Cap's army and enslaved the native Winkies, forcing them "to labor
+  night and day" and, on failure, beating them "well with a strap" — a real institution built
+  on forced labor, not a symbolic threat, though confined to one region (Glinda's Quadling
+  Country governs legitimately, keeping this short of a totalizing 3-4). Explicit Darkness
+  lands at 2 on real, visible danger without graphic detail: critics and retrospectives
+  consistently cite the flying-monkey attack as among the most frightening scenes in children's
+  cinema, on top of the on-page beatings and Dorothy's own captivity as a slave.
+- Cozy Fantasy = No. Hopepunk = No: adventure-driven peril-and-triumph, not kindness/community
+  positioned as a deliberate value against real adversity.
+- Neighbor check: exact WIS match (0.5) with Harry Potter and the Chamber of Secrets (SC1/NAI1
+  instead of this entry's SC2/NAI0 — HP's central injustice, the attacks on Muggle-born
+  students, is only partially resolved by book's end, while Oz's slavery and fraud are both
+  fully undone) and The Little Prince (SD1/MC1 instead of SC2 — a wholly different kind of
+  gentle melancholy rather than institutional exploitation). Sits above Legend (2.5125, SC0 —
+  no institutional corruption, just one dark lord) and below A Conspiracy of Truths (2.7375,
+  which adds SD1 on top of a comparable SC1/ED1). Label "Bright Fantasy" fits.
+- Added to xlsx row 121, and to tier 2 on both index.html and es/index.html, inserted after
+  Harry Potter and the Chamber of Secrets (exact score tie, existing-entries-first ordering).
 
 ### 28. Alice in Wonderland — Lewis Carroll — Novels
 
