@@ -632,7 +632,7 @@ reasoning in SCORING_RECORD.md.
 36. [x] Eragon (the Inheritance Cycle) — Christopher Paolini — Novels — DONE, see Completed
 37. [x] The Princess Bride — William Goldman — Novel, Film — DONE, see Completed
 38. [x] Fourth Wing / Iron Flame / Onyx Storm (Empyrean series) — Rebecca Yarros — Novels — score each, bundle into one entry if they land in the same tier — DONE, see Completed
-39. [ ] Sweet Tooth — Jeff Lemire — Comics, TV series
+39. [x] Sweet Tooth — Jeff Lemire — Comics, TV series — DONE, see Completed
 40. [ ] Arcane — Riot Games — TV series
 41. [ ] Percy Jackson & the Olympians — Rick Riordan — Novels, TV series
 42. [ ] Devilman Crybaby (2018) — Masaaki Yuasa (based on Go Nagai's Devilman manga) — Anime
@@ -649,6 +649,77 @@ reasoning in SCORING_RECORD.md.
     questioning who the real "monsters" in the story actually are
 
 ## Completed
+
+### 39. Sweet Tooth — Jeff Lemire — Comics, TV series
+
+- Tier 7 (Extreme Dark Fantasy), Final Score 7.80 (Weighted Internal Score 2.8) — an exact
+  numeric tie with Attack on Titan, House of the Dragon, and The Dark Tower, via a genuinely
+  different profile from each (see neighbor check below).
+- Scores: Structural Despair 3, Limited Heroism 3, Moral Cynicism 3, Structural Corruption 3,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 2, Explicit Darkness 4.
+- Rationale: scored against Jeff Lemire's 2009-2013 Vertigo comic (40 issues, 6 volumes) as the
+  darker, defining version — the 2021-2024 Netflix adaptation is real but confirmed by multiple
+  sources to be substantially gentler ("the show does not assume the overtly nihilistic tone of
+  the comics," "the comic is particularly misanthropic, with nearly all human characters being
+  monsters," vs. the show's "hopeful melancholy"), so it doesn't move any axis, matching how
+  this session already handled other adaptation-lighter-than-source cases (Eragon's film, The
+  Shannara Chronicles' and The Dresden Files' TV adaptations). Structural Despair (3) is
+  grounded in the comic's completed ending: humanity goes fully extinct as a species over the
+  following generations, succeeded entirely by the hybrids — not an averted threat but the
+  story's actual, confirmed outcome. Limited Heroism (3) follows directly: Gus's personal
+  journey succeeds completely (he survives, learns the truth, raises a thriving lineage), but no
+  individual heroism changes or prevents the species-level outcome — matching "even the biggest
+  victories are insufficient" precisely, since the extinction happens regardless of what any
+  character does. Moral Cynicism (3) reflects the comic's specifically documented misanthropy —
+  critics describe "nearly all human characters" as antagonistic or self-serving, Jepperd
+  himself begins the story by selling Gus out for his own gain, and multiple distinct human-run
+  operations (the Preserve's child dissection/experimentation, separate camps described as
+  running "prostitution rings" using captive children) show predation on hybrid children as
+  something closer to a norm than an aberration across the shattered post-plague world — a
+  stronger, more pervasive "cruelty is rewarded/expected" case than a single corrupt faction.
+  Structural Corruption (3) is carried by those same distinct exploitative operations. Redemption
+  Difficulty (2) is Jepperd's arc: begins as, per multiple sources, "an amoral killer," becomes
+  a genuine father figure, and dies protecting Gus — a real, costly, but ultimately *successful*
+  redemption (his death is the price, not a failure), matching "exacts a real sacrifice" rather
+  than RD3's "most fail" bar. Narrative Acceptance of Injustice (2) reflects that the story
+  doesn't leave humanity's fate as an unresolved crisis to keep fighting — it's narratively
+  accepted and even ritually honored (the elderly Gus tells the story to new generations,
+  visiting the Precursors' burial site yearly) as history rather than an ongoing injustice,
+  which is why this stays at 2 rather than 3 despite the underlying event's severity. Explicit
+  Darkness reaches the ceiling (4) on specific, sourced content: children are "captured, abused,
+  dissected, and killed," camps hold captive children for "prostitution rings," and reviewers
+  describe "gory bullets to heads" and sustained graphic violence as a defining, not occasional,
+  feature of the series.
+- Cozy Fantasy = No. Hopepunk = No: matches precedent (no work at Tier 6 or darker carries the
+  tag) — the completed story's own critical framing as "ultimately hopeful" applies to its
+  long-term thematic resolution (life continues, just not as humans), not to found-family
+  kindness organized as resistance to an institution.
+- Scored against the complete, finished comic (all 40 issues); the Netflix show's own ending
+  (season 3, 2024) is separately complete but, as established, tonally gentler throughout and
+  doesn't affect any axis here.
+- Neighbor check: none of the three other works tied at 7.80 share an identical per-axis
+  profile. Attack on Titan's Limited Heroism 2 (a genuine, lasting diplomatic peace is achieved)
+  sits below this entry's 3 (nothing reverses humanity's extinction), trading against this
+  entry's Redemption Difficulty 2 vs. Titan's 3 (Jepperd's arc succeeds at cost; Titan's
+  multiple redemption arcs are explicitly rare-and-partial). House of the Dragon's Structural
+  Despair 2 and Structural Corruption 2 (a contained, single-dynasty succession war) both sit
+  below this entry's 3 and 3 (a full species-level outcome and multiple distinct exploitative
+  operations are more totalizing), trading against HotD's Redemption Difficulty 3 and Narrative
+  Acceptance of Injustice 3 vs. this entry's 2 and 2 (HotD's core injustice is never resolved at
+  all; Sweet Tooth's is resolved via succession, then ritually accepted). The Dark Tower's Moral
+  Cynicism 2 sits below this entry's 3 (Dark Tower's antagonist force is cosmic/entropic rather
+  than a pervasive "humans as monsters" thesis), trading against Dark Tower's Structural
+  Corruption 2 vs. this entry's 3 (multiple distinct human-run exploitative operations here vs.
+  one central institution there). Label check: "Extreme Dark Fantasy" fits at the tier's upper
+  end — systemic cruelty toward children and a confirmed species-level extinction sit at a
+  severity matching Titan, HotD, and Dark Tower, while the story's own quiet, generations-later
+  acceptance keeps it just short of Tier 8's more totalizing bleakness.
+- Added to xlsx row 118, and to tier 7 on both index.html and es/index.html, appended after The
+  Dark Tower per score order (four-way tie at 7.80); title "Sweet Tooth" kept identical in EN
+  and ES (no distinct Spanish-language title found — the Netflix release retains the English
+  title in Latin American markets); medium: "Comics, TV series" / "Cómics, Serie de TV".
+  Updated the Summary sheet's tier-7 count (5 → 6) and total-scored count (116 → 117 of 117).
+  Updated the catalog-size mentions in both pages' meta/JSON-LD description tags (116 → 117).
 
 ### 38. Fourth Wing (The Empyrean) — Rebecca Yarros — Novels
 
