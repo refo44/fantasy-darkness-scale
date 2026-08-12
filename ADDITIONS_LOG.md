@@ -634,7 +634,7 @@ reasoning in SCORING_RECORD.md.
 42. [x] Fourth Wing / Iron Flame / Onyx Storm (Empyrean series) — Rebecca Yarros — Novels — score each, bundle into one entry if they land in the same tier — DONE, see Completed
 43. [x] Sweet Tooth — Jeff Lemire — Comics, TV series — DONE, see Completed
 44. [x] Arcane — Riot Games — TV series — DONE, see Completed
-45. [ ] Percy Jackson & the Olympians — Rick Riordan — Novels, TV series
+45. [x] Percy Jackson & the Olympians — Rick Riordan — Novels, TV series — DONE, see Completed
 46. [ ] Devilman Crybaby (2018) — Masaaki Yuasa (based on Go Nagai's Devilman manga) — Anime
 47. [ ] The Mighty Nein — Critical Role (Campaign 2) — TV series / D&D actual-play — Amazon's
     animated adaptation of Critical Role's second campaign, following on from The Legend of Vox
@@ -692,6 +692,51 @@ reasoning in SCORING_RECORD.md.
     entry (Tier 2) for the same reason Wicked stayed separate from it
 
 ## Completed
+
+### 45. Percy Jackson & the Olympians — Rick Riordan — Novels, TV series
+
+- Tier 3 (Moderately Bright Fantasy), Final Score 3.6375 (Weighted Internal Score 0.95) — an
+  exact numeric tie with The Hobbit and Howl's Moving Castle, via a genuinely different profile.
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 1, Structural Corruption 2,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 0, Explicit Darkness 2.
+- Scope: scored against the original 5-book series (The Lightning Thief, The Sea of Monsters,
+  The Titan's Curse, The Battle of the Labyrinth, The Last Olympian) and the Disney+ TV
+  adaptation, which closely follows the books. The later series (The Heroes of Olympus, The
+  Trials of Apollo) are out of scope.
+- Rationale: Limited Heroism and Narrative Acceptance of Injustice both bottom out at 0 on the
+  same specific textual basis — the series doesn't just defeat its villain (Kronos), it resolves
+  the story's real underlying institutional problem: the Olympian gods' recurring neglect of
+  their demigod children. Percy's climactic act is forcing the entire pantheon to change how it
+  treats its children — an explicit, structural, pantheon-wide reform, not just a threat
+  removed. Structural Corruption (2) is grounded in that same neglect being framed as systemic
+  across the gods generally, not an isolated bad parent, strong enough to require a forced,
+  universal rule change to fix. Redemption Difficulty (2) is carried by Luke: he genuinely
+  betrays the gods and becomes Kronos's vessel, then sacrifices his own life in the finale to
+  stop Kronos from within — a real, costly, successful redemption. Explicit Darkness (2) reflects
+  the series' real, recurring named-character deaths (Zoë Nightshade poisoned and then crushed by
+  her own Titan father; Bianca di Angelo's self-sacrifice; Charles Beckendorf dying to complete a
+  suicide mission; Silena Beauregard dying in atonement) — genuine loss across the series, but
+  confirmed by parent-review sources to stay short of graphic detail (monsters disintegrate to
+  dust rather than leaving gore).
+- Cozy Fantasy = No. Hopepunk = No: adventure-and-found-family driven, not organized specifically
+  around resisting oppression or bittersweet mortality-acceptance.
+- Neighbor check: exact WIS match (0.95) with The Hobbit and Howl's Moving Castle (both
+  SD1/LH1/MC0/SC1 instead of this entry's SD0/LH0/MC1/SC2) — a clean trade-off, since the
+  Hobbit's Battle of Five Armies leaves real, unrecovered losses (Thorin, Fíli, and Kíli all die)
+  that this entry's clean systemic-reform ending doesn't carry, while this entry's institutional
+  godly-neglect problem is a stronger, more explicit "central institution" case than the Hobbit's
+  more isolated dragon-hoarding conflict. Checked further against a non-adjacent tier-3 work,
+  Nausicaä of the Valley of the Wind (3.975, near the tier's ceiling, SD2/LH1/MC1/SC1/RD0/NAI1/
+  ED2): the 0.15 WIS gap resolves cleanly — Nausicaä's environmental-apocalypse backdrop and war
+  outweigh this entry's higher Structural Corruption/Redemption Difficulty (institutional neglect
+  plus Luke's costly redemption vs. Nausicaä having no real redemption arc). Label check:
+  "Moderately Bright Fantasy" fits — real death and betrayal exist, but the found-family Camp
+  Half-Blood setting and the ending's genuine institutional fix keep it well short of Tier 4's
+  heavier "real losses, still high hope" register.
+- Added to xlsx row 124, and to tier 3 on both index.html and es/index.html, inserted after
+  Howl's Moving Castle (exact score tie, existing-entries-first ordering); title "Percy Jackson &
+  the Olympians" in EN, "Percy Jackson y los dioses del Olimpo" in ES (the official Spanish
+  series title); medium: "Novels, TV series" / "Novelas, Serie de TV".
 
 ### 44. Arcane — Riot Games — TV series
 

@@ -2524,3 +2524,36 @@ Dresden's more episodic structure). Cozy Fantasy = No, Hopepunk = No. Label chec
 fits — genuinely heavy content, but Piltover's government actually dismantles its own
 discriminatory checkpoints by the end, a real institutional reform short of Tier 7-8's "no
 institution is safe" register.
+
+## Percy Jackson & the Olympians
+
+New catalog addition, not a rescore. Scored against the original 5-book series (The Lightning
+Thief through The Last Olympian) and the closely-following Disney+ TV adaptation; the later
+series (The Heroes of Olympus, The Trials of Apollo) are out of scope.
+
+* Structural Despair: 0 — no cosmological decline; a contained crisis (Kronos's plot) fully
+  resolved by the story's own ending.
+* Limited Heroism: 0 — Percy's climactic act forces the entire Olympian pantheon to change how it
+  treats its demigod children, an explicit structural reform, not just a threat removed.
+* Moral Cynicism: 1 — the gods' pettiness/neglect is real but secondary; heroism is reliably
+  rewarded and the story ends by fixing the injustice.
+* Structural Corruption: 2 — divine neglect is framed as systemic across the whole pantheon, not
+  one bad parent, strong enough to require a forced, universal rule change.
+* Redemption Difficulty: 2 — Luke genuinely betrays the gods and becomes Kronos's vessel, then
+  sacrifices his own life in the finale to stop Kronos from within — a real, costly, successful
+  redemption.
+* Narrative Acceptance of Injustice: 0 — the core injustice (godly neglect) is explicitly and
+  completely resolved by the story's own ending.
+* Explicit Darkness: 2 — real, recurring named-character deaths (Zoë Nightshade, Bianca di
+  Angelo, Charles Beckendorf, Silena Beauregard) confirmed by parent-review sources to stay short
+  of graphic detail (monsters disintegrate to dust rather than leaving gore).
+
+Weighted = 0.95 → Final Score = 3.6375 → **Tier 3**, an exact numeric tie with The Hobbit and
+Howl's Moving Castle (both SD1/LH1/MC0/SC1 instead of this entry's SD0/LH0/MC1/SC2) — a clean
+trade-off, since the Hobbit's Battle of Five Armies leaves real, unrecovered losses (Thorin,
+Fíli, and Kíli all die) this entry's clean systemic-reform ending doesn't carry, while this
+entry's institutional godly-neglect problem is a stronger "central institution" case than the
+Hobbit's more isolated dragon-hoarding conflict. Cozy Fantasy = No, Hopepunk = No. Label check:
+"Moderately Bright Fantasy" fits — real death and betrayal exist, but the found-family Camp
+Half-Blood setting and the ending's genuine institutional fix keep it short of Tier 4's heavier
+"real losses, still high hope" register.
