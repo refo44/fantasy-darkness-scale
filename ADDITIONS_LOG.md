@@ -701,8 +701,14 @@ reasoning in SCORING_RECORD.md.
   Redemption Difficulty 0, Narrative Acceptance of Injustice 0, Explicit Darkness 2.
 - Scope: scored as the 1900 novel (The Wonderful Wizard of Oz) + the 1939 film, bundled — the
   film keeps the book's content essentially intact (even its beatings and slavery), just
-  visually intensifying the peril. Later Baum sequel novels and the 1985 Return to Oz weren't
-  consulted (see below).
+  visually intensifying the peril. Checked and excluded the rest of Baum's 14-book Oz series:
+  individual later books do have real dark beats (Rinkitink in Oz's invasion and enslavement of
+  an entire island; the Tin Woodman's origin, revealed in book 12, involving a cursed axe that
+  repeatedly severs his limbs), but critical consensus is that the series as a whole "stays
+  playful" even at its highest stakes, and if anything trends more utopian over time (later Oz
+  establishes its inhabitants can't even die) — not severe or distinct enough to move this
+  entry or justify its own slot, unlike Return to Oz (1985, queued separately as #57), which
+  draws on the same later books but is confirmed as a genuinely different, disturbing register.
 - Rationale: Limited Heroism bottoms out at 0 on a thorough, durable victory — both witches
   killed or deposed, the enslaved Winkies freed, the fraudulent Wizard exposed, and Dorothy's
   companions installed as legitimate new rulers of two regions. Structural Corruption lands at
