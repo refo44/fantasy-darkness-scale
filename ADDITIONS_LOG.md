@@ -1,6 +1,20 @@
 # Additions Log
 
 Tracks new works being added to the Fantasy Darkness Scale, one at a time, across sessions.
+
+**Genre gate, before scoring anything:** first confirm the candidate is genuinely fantasy, or
+at least a real fantasy hybrid — magic, mythical/supernatural beings, gods, or other genre-
+fantasy trappings have to be a real, central element of the work, not just a surface label or
+an adjacent aesthetic. Don't confuse this with "the Fantastique" (the French/literary tradition
+of ambiguous, uncanny, or supernatural-tinged realism) or other neighboring-but-distinct genres
+(pure science fiction, pure horror with no fantastical element, magical realism used as a
+literary device rather than a genre) — none of those qualify on their own just because they
+touch the uncanny or the strange. Weird/genre-blending fantasy can still qualify, but only when
+it actually reads as fantasy in practice, not merely because it's unconventional — verify with
+a quick, explicit genre check when a candidate's classification isn't obvious (e.g. Violence
+Jack, confirmed as "post-apocalyptic dark fantasy" with a direct demonic-mythos tie to Devilman,
+not pure post-apocalyptic sci-fi, before it was scored).
+
 Process for each item: (1) research & score against the 7 weighted criteria in the xlsx
 Methodology sheet, (2) add the row to `Evaluations` with live formulas matching the existing
 rows, (3) recalc via LibreOffice to get cached values, (4) determine tier placement, (5) add
@@ -8,7 +22,12 @@ the entry to both `index.html` (EN) and `es/index.html` (ES), inserted into the 
 `<ul class="works">` in ascending-score order relative to the other works already there (not
 appended at the end — the xlsx row order stays chronological/append-only, but the HTML display
 order is sorted by score within each tier), (6) commit, push, deploy, verify live, (7) update
-this log, (8) stop and ask before continuing.
+this log AND `SCORING_RECORD.md` (add a condensed `## Title` entry there too — every 7-criteria
+score plus its rationale, in the format already used by that file's existing entries — every
+single time a work is completed here, not just occasionally; this file and SCORING_RECORD.md
+fell out of sync for 22 entries between "House of the Dragon" and "Arcane" because this step was
+skipped repeatedly, and the user had to catch and backfill it — don't let that happen again),
+(8) stop and ask before continuing.
 
 ## Methodology v2 (in progress)
 
@@ -635,7 +654,7 @@ reasoning in SCORING_RECORD.md.
 43. [x] Sweet Tooth — Jeff Lemire — Comics, TV series — DONE, see Completed
 44. [x] Arcane — Riot Games — TV series — DONE, see Completed
 45. [x] Percy Jackson & the Olympians — Rick Riordan — Novels, TV series — DONE, see Completed
-46. [ ] Devilman Crybaby (2018) — Masaaki Yuasa (based on Go Nagai's Devilman manga) — Anime
+46. [x] Devilman Crybaby (2018) — Masaaki Yuasa (based on Go Nagai's Devilman manga) — Anime — DONE, see Completed
 47. [ ] The Mighty Nein — Critical Role (Campaign 2) — TV series / D&D actual-play — Amazon's
     animated adaptation of Critical Role's second campaign, following on from The Legend of Vox
     Machina (Campaign 1, already in the catalog at Tier 4); a found-family of outcasts and
@@ -690,8 +709,139 @@ reasoning in SCORING_RECORD.md.
     near-post-apocalyptic Oz ruled by the unsettling Wheelers; multiple retrospectives call it
     "the most terrifying Disney movie ever made" — kept separate from the original Wizard of Oz
     entry (Tier 2) for the same reason Wicked stayed separate from it
+58. [x] Violence Jack — Go Nagai — Manga — DONE, see Completed
+59. [x] Devilman Lady — Go Nagai — Manga — DONE, see Completed
 
 ## Completed
+
+### 59. Devilman Lady — Go Nagai — Manga
+
+- Tier 6 (Dark Fantasy), Final Score 6.1125 (Weighted Internal Score 2.05) — an exact numeric
+  tie with Clevatess, Re:Zero, The Sandman, and The Dresden Files, via a genuinely different
+  profile.
+- Scores: Structural Despair 1, Limited Heroism 2, Moral Cynicism 3, Structural Corruption 3,
+  Redemption Difficulty 1, Narrative Acceptance of Injustice 1, Explicit Darkness 4.
+- Scope: scored against the manga (1997-2000), confirmed more violent and sexually explicit
+  than its own anime adaptation.
+- Rationale: Structural Despair (1) reflects a real outlier for this franchise — the ending
+  explicitly reveals the Devil-Beast transformation sweeping humanity is its next evolutionary
+  stage, reframed as a natural, positive change rather than decline, closing on protagonist Jun
+  Fudo watching children with tails playing peacefully. Structural Corruption (3) is grounded in
+  the Human Alliance, a clandestine military unit working with world governments specifically to
+  hunt down and kill anyone with "Devil Beast Syndrome" while keeping the public in the dark — a
+  real, confirmed multi-government persecution apparatus targeting an emergent class later
+  revealed to be no threat at all. Moral Cynicism (3) reflects extensive depicted torture and
+  rape of innocent characters along the way, including the loss of Kazumi, a girl Jun grows
+  close to, who dies saving her. Redemption Difficulty and Narrative Acceptance of Injustice
+  both stay low (1) since the story's own resolution explicitly validates and resolves the
+  central conflict rather than leaving it open. Explicit Darkness reaches the ceiling (4) on
+  confirmed graphic torture, rape, and dismemberment throughout.
+- Cozy Fantasy = No. Hopepunk = No: matches precedent (no work at Tier 6 or darker carries the
+  tag).
+- Genre check: confirmed fantasy/horror, not science fiction — demonic possession, supernatural
+  transformation, and an entire "Devil-Beast" evolutionary mythos are central and load-bearing,
+  not incidental dressing.
+- Added to xlsx row 127, and to tier 6 on both index.html and es/index.html, appended after The
+  Dresden Files (exact score tie, existing-entries-first ordering).
+
+### 58. Violence Jack — Go Nagai — Manga
+
+- Tier 8 (Grimdark), Final Score 8.1375 (Weighted Internal Score 2.95) — an exact numeric tie
+  with Berserk, via a genuinely different profile (Structural Corruption 3/Narrative Acceptance
+  of Injustice 2 here vs. Berserk's 2/3).
+- Scores: Structural Despair 3, Limited Heroism 3, Moral Cynicism 3, Structural Corruption 3,
+  Redemption Difficulty 3, Narrative Acceptance of Injustice 2, Explicit Darkness 4.
+- Rationale: a post-apocalyptic dark fantasy set after an earthquake and volcanic eruption level
+  the Kanto region, ruled by warlords and biker gangs; the giant, near-unstoppable Jack wanders
+  the wasteland in an ongoing conflict with the tyrant Slum King. Structural Despair and Limited
+  Heroism both land at 3: Jack does defeat Slum King in their final confrontation, but the wider
+  anarchic collapse depicted across the series' many side-stories isn't shown reversed by that
+  one victory. Structural Corruption (3) is reinforced by the story's own supernatural framing —
+  Slum King was literally created by Satan (Ryo Asuka) out of self-punishment for killing Akira
+  Fudo, tying the warlord's entire rule directly to the Devilman mythos rather than organic
+  human collapse alone. Redemption Difficulty (3) rests on a confirmed failed case: Slum Queen
+  chooses to rebel against her husband and is killed with her own whip for it. Explicit Darkness
+  reaches the ceiling (4) on the series' own reputation — "particularly infamous for... large
+  amounts of sex and gory violence," notorious even within Go Nagai's catalog.
+- Cozy Fantasy = No. Hopepunk = No: matches precedent (no work at Tier 6 or darker carries the
+  tag).
+- Genre check: confirmed post-apocalyptic dark fantasy, not pure sci-fi — Jack is directly tied
+  to the Devilman demon mythos (in the main continuity he's revealed to be a revived Akira Fudo),
+  and Satan is a key element of the narrative, not just a wasteland-survival premise.
+- Neighbor check: exact WIS match (2.95) with Berserk (Structural Corruption 2/Narrative
+  Acceptance of Injustice 3 there vs. this entry's 3/2 — Berserk's evil is concentrated in one
+  arc (the Godhand/Eclipse) rather than a pervasive ruling structure, per that entry's own
+  established reasoning, while this entry's warlord rule is the setting's entire governing
+  structure and is explicitly demon-created; trading against Berserk's own core injustice never
+  being addressed at all by its still-ongoing story, vs. this entry's top-level tyrant actually
+  being defeated). Label check: "Grimdark" fits — a demon-tied warlord wasteland with graphic,
+  pervasive violence, matching the tier's register.
+- Added to xlsx row 126, and to tier 8 on both index.html and es/index.html, appended after
+  Berserk (exact score tie, existing-entry-first ordering).
+
+### 46. Devilman Crybaby — Go Nagai — Manga, Anime
+
+- Tier 9 (Extreme Grimdark), Final Score 9.825 (Weighted Internal Score 3.70) — an exact
+  numeric tie with The First Law, via a swapped profile (Structural Corruption 3/Narrative
+  Acceptance of Injustice 4 here vs. The First Law's 4/3).
+- Scores: Structural Despair 4, Limited Heroism 4, Moral Cynicism 4, Structural Corruption 3,
+  Redemption Difficulty 3, Narrative Acceptance of Injustice 4, Explicit Darkness 4.
+- **Bundle decision:** kept the original manga and the 2018 Netflix anime (dir. Masaaki Yuasa)
+  as one entry, not split — the anime is explicitly the first adaptation to bring the manga's
+  own ending to screen (near-total human extinction, Earth destroyed outright by God), so the
+  two tell the same story at the same intensity, matching the bundling precedent already used
+  for Record of Lodoss War and The Saga of Tanya the Evil rather than the split used for Final
+  Fantasy I/II/XII. The earlier, considerably softer 1970s TV anime is excluded as not moving
+  the needle, same pattern as any other lighter adaptation on this scale.
+- Rationale: Structural Despair (4) and Limited Heroism (4) both reach the ceiling on the
+  series' own confirmed ending: God's angel army annihilates the remaining demons and
+  devilmen (including Akira, the protagonist, whose body is left bifurcated), and God then
+  destroys the entire Earth outright, reducing it to a molten ball — not an averted threat but
+  the story's actual, on-page conclusion, with Akira's entire struggle to retain his humanity
+  while gaining demon power ultimately saving no one. Moral Cynicism (4) reflects the series'
+  central thesis that humanity's own fear and paranoia (a global broadcast revealing "demons
+  look like ordinary humans") destroys it faster than any external threat — Miki Makimura, an
+  innocent, kind character, is killed by a mob specifically for her association with Akira
+  (lacerated, dismembered, her body parts paraded on sticks before her house is burned), while
+  cruelty goes systemically unpunished until Akira's own retaliatory violence. Narrative
+  Acceptance of Injustice (4) reflects that none of this is corrected or addressed by the
+  story's own end — the closing image of a lifeless Earth eventually re-forming is a minimal,
+  ambiguous coda, not a resolution of anything depicted. Structural Corruption stays at 3, not
+  4: the mob violence is societal collapse rather than a functioning institution, and while
+  God's own disproportionate, punitive destruction of the entire planet is a real institutional-
+  authority case, it's a singular cosmic judgment rather than an ongoing exploitative apparatus.
+  Redemption Difficulty stays at 3, not 4: Ryo/Satan's love for Akira is real, if it arrives
+  only after Akira's death — a clear failure case, but a genuine, felt attempt at redemption
+  (the story's own "Crybaby" thematic core), distinguishing it from a setting where redemption
+  isn't even attempted anywhere. Explicit Darkness reaches the ceiling (4): Miki's death scene
+  is widely cited as among the most graphic single scenes in mainstream anime, on top of
+  extensive gore, sexual content, and self-mutilation running throughout the series.
+- Cozy Fantasy = No. Hopepunk = No: matches precedent (no work at Tier 6 or darker carries the
+  tag).
+- Neighbor check: exact WIS match (3.70) with The First Law (SC4/NAI3 instead of this entry's
+  SC3/NAI4 — The First Law's severity is grounded in its setting's institutions (SC4), this
+  entry's in its confirmed apocalyptic ending (NAI4) — a legitimate different route to the same
+  total). No other Tier 9 work exists for a non-adjacent same-tier check, so checked instead
+  against the full Tier 8 spread: the gap resolves exactly on named axes against all six
+  entries — Berserk's manga is ongoing with a real found-family thread and no confirmed
+  extinction ending (0.75 gap); Dark Souls' cyclical curse is ambiguous across multiple possible
+  endings, some implying real change (0.70 gap); A Song of Ice and Fire is unfinished, with no
+  confirmed ultimate resolution (0.60 gap); Elden Ring's multiple endings include real paths
+  toward restoration that this entry's fixed ending lacks (0.55 gap); and against Fire Punch/
+  Dark Sun (0.45 gap each, the only two where this entry doesn't lead on every axis), this
+  entry still comes out ahead specifically on Structural Despair, Limited Heroism, and
+  Narrative Acceptance of Injustice — the expected trade-off between a totalizing-institution
+  story and a totalizing-extinction one. Checked against Tier 10 (Warhammer 40,000, all 4s,
+  Weighted Internal Score 4.0): the gap holds specifically on Redemption Difficulty (3 vs. 4) —
+  Warhammer's setting has no redemption ever attempted anywhere across the franchise, while this
+  entry's entire thematic core is a real, if failed, act of love and grief. Label check:
+  "Extreme Grimdark" fits — total extinction and a planet destroyed outright, distinguished from
+  Tier 10's totalizing, hopeless-by-design register by remaining one complete story with a real
+  (if failed) emotional core.
+- Added to xlsx row 125, and to tier 9 on both index.html and es/index.html, appended after The
+  First Law (exact score tie, existing-entry-first ordering); removed the "solo" CSS class from
+  the tier-9 section on both pages now that it holds two works, matching the precedent set when
+  Attack on Titan joined Berserk at Tier 8/left it solo again.
 
 ### 45. Percy Jackson & the Olympians — Rick Riordan — Novels, TV series
 

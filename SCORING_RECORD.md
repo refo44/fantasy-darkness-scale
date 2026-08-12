@@ -2557,3 +2557,108 @@ Hobbit's more isolated dragon-hoarding conflict. Cozy Fantasy = No, Hopepunk = N
 "Moderately Bright Fantasy" fits — real death and betrayal exist, but the found-family Camp
 Half-Blood setting and the ending's genuine institutional fix keep it short of Tier 4's heavier
 "real losses, still high hope" register.
+
+## Devilman Crybaby
+
+New catalog addition, not a rescore. Bundled with Go Nagai's original manga rather than split —
+the 2018 Netflix anime (dir. Masaaki Yuasa) is explicitly the first adaptation to bring the
+manga's own ending to screen (near-total human extinction, Earth destroyed outright by God), so
+the two tell the same story at the same intensity. The earlier, considerably softer 1970s TV
+anime is excluded as not moving the needle.
+
+* Structural Despair: 4 — God's angel army annihilates the remaining demons and devilmen
+  (including protagonist Akira, whose body is left bifurcated), and God then destroys the
+  entire Earth outright, reducing it to a molten ball — the story's actual, on-page conclusion,
+  not an averted threat.
+* Limited Heroism: 4 — Akira's entire struggle to retain his humanity while gaining demon power
+  ultimately saves no one.
+* Moral Cynicism: 4 — the series' central thesis is that humanity's own fear/paranoia destroys
+  it faster than any external threat; Miki Makimura, an innocent, kind character, is killed by a
+  mob specifically for her association with Akira (lacerated, dismembered, paraded on sticks),
+  while cruelty goes systemically unpunished until Akira's own retaliatory violence.
+* Structural Corruption: 3 — the mob violence is societal collapse rather than a functioning
+  institution, and God's own disproportionate, punitive destruction of the entire planet is a
+  singular cosmic judgment rather than an ongoing exploitative apparatus, short of the ceiling.
+* Redemption Difficulty: 3 — Ryo/Satan's love for Akira is real, if it arrives only after
+  Akira's death — a clear failure case, but a genuine, felt attempt (the series' own "Crybaby"
+  thematic core), distinguishing it from a setting where redemption isn't even attempted.
+* Narrative Acceptance of Injustice: 4 — none of the story's tragedies are corrected or
+  addressed by its own end; the closing image of a lifeless Earth eventually re-forming is a
+  minimal, ambiguous coda, not a resolution of anything depicted.
+* Explicit Darkness: 4 — Miki's death scene is widely cited as among the most graphic single
+  scenes in mainstream anime, on top of extensive gore, sexual content, and self-mutilation
+  running throughout.
+
+Weighted = 3.70 → Final Score = 9.825 → **Tier 9**, an exact numeric tie with The First Law via
+a swapped profile (The First Law's Structural Corruption 4/Narrative Acceptance of Injustice 3
+vs. this entry's 3/4 — The First Law's severity is grounded in its setting's institutions, this
+entry's in its confirmed apocalyptic ending). Checked against the full Tier 8 spread in the
+absence of a same-tier non-adjacent comparison: the gap resolves exactly on named axes against
+all six entries (Berserk's manga is ongoing with no confirmed extinction ending; Dark Souls' and
+Elden Ring's endings leave real paths toward change this entry's fixed ending lacks; A Song of
+Ice and Fire is unfinished; Fire Punch and Dark Sun trade Structural Corruption/Moral Cynicism
+against this entry's higher Structural Despair/Limited Heroism/Narrative Acceptance of
+Injustice). Checked against Tier 10 (Warhammer 40,000, all 4s): the gap holds on Redemption
+Difficulty (3 vs. 4) — Warhammer's setting has no redemption ever attempted anywhere, while this
+entry's entire thematic core is a real, if failed, act of love and grief. Cozy Fantasy = No,
+Hopepunk = No. Label check: "Extreme Grimdark" fits — total extinction and a planet destroyed
+outright, distinguished from Tier 10's totalizing, hopeless-by-design register by remaining one
+complete story with a real (if failed) emotional core.
+
+## Violence Jack
+
+New catalog addition, not a rescore. Genre-checked before scoring: confirmed post-apocalyptic
+dark fantasy, not pure sci-fi — Jack is directly tied to the Devilman demon mythos (revealed to
+be a revived Akira Fudo in the main continuity), and Satan is a key element of the narrative.
+
+* Structural Despair: 3 — Jack defeats the tyrant Slum King, but the wider anarchic collapse
+  across the series' many side-stories isn't shown reversed by that one victory.
+* Limited Heroism: 3 — matches Structural Despair's real-but-partial victory.
+* Moral Cynicism: 3 — a wasteland where the strong openly prey on the weak until Jack personally
+  intervenes.
+* Structural Corruption: 3 — Slum King's warlord rule over Kanto is the setting's entire
+  governing structure, and was literally created by Satan out of self-punishment for killing
+  Akira Fudo, tying it directly to the Devilman mythos rather than organic human collapse.
+* Redemption Difficulty: 3 — a confirmed failed case: Slum Queen rebels against her husband and
+  is killed with her own whip for it.
+* Narrative Acceptance of Injustice: 2 — the top-level tyrant falls, but the wasteland's broader
+  condition persists as the ongoing status quo.
+* Explicit Darkness: 4 — "particularly infamous for... large amounts of sex and gory violence,"
+  notorious even within Go Nagai's catalog.
+
+Weighted = 2.95 → Final Score = 8.1375 → **Tier 8**, an exact numeric tie with Berserk via a
+swapped profile (Berserk's Structural Corruption 2/Narrative Acceptance of Injustice 3 vs. this
+entry's 3/2 — Berserk's evil is concentrated in one arc rather than a pervasive ruling structure,
+while this entry's warlord rule is the setting's entire governing structure and explicitly
+demon-created, trading against Berserk's core injustice never being addressed at all by its
+still-ongoing story vs. this entry's top-level tyrant actually being defeated). Cozy Fantasy =
+No, Hopepunk = No. Label check: "Grimdark" fits — a demon-tied warlord wasteland with graphic,
+pervasive violence.
+
+## Devilman Lady
+
+New catalog addition, not a rescore. Scored against the manga (1997-2000), confirmed more
+violent and sexually explicit than its own anime adaptation. Genre-checked before scoring:
+unambiguous fantasy/horror — demonic possession, supernatural transformation, and an entire
+"Devil-Beast" evolutionary mythos are central and load-bearing.
+
+* Structural Despair: 1 — a real outlier for this franchise: the ending explicitly reveals the
+  Devil-Beast transformation is humanity's next evolutionary stage, reframed as a natural,
+  positive change rather than decline, closing on protagonist Jun Fudo watching children with
+  tails playing peacefully.
+* Limited Heroism: 2 — Jun succeeds at protecting humanity through the transition, but Kazumi's
+  death (a girl she grows close to, who dies saving her) is real and permanent.
+* Moral Cynicism: 3 — extensive depicted torture and rape of innocent characters along the way.
+* Structural Corruption: 3 — the Human Alliance, a clandestine military unit working with world
+  governments specifically to hunt down and kill anyone with "Devil Beast Syndrome" while
+  keeping the public in the dark — a real, confirmed multi-government persecution apparatus
+  targeting a class later revealed to be no threat at all.
+* Redemption Difficulty: 1 — no strong confirmed redemption arc.
+* Narrative Acceptance of Injustice: 1 — the story's own resolution explicitly validates and
+  resolves the central conflict rather than leaving it open.
+* Explicit Darkness: 4 — confirmed graphic torture, rape, and dismemberment throughout.
+
+Weighted = 2.05 → Final Score = 6.1125 → **Tier 6**, an exact numeric tie with Clevatess, Re:Zero,
+The Sandman, and The Dresden Files via a genuinely different profile. Cozy Fantasy = No,
+Hopepunk = No. Label check: "Dark Fantasy" fits — graphic content offset by a genuinely resolved,
+validated ending, distinct from works whose core injustice stays open.

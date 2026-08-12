@@ -1,9 +1,18 @@
 # The Fantasy Darkness Scale
 
-A 1–10 index scoring 100 fantasy books, anime, games, and films from cozy hope to grimdark
+A 1–10 index scoring 126 fantasy books, anime, games, and films from cozy hope to grimdark
 despair, weighted across seven criteria (structural despair, limited heroism, moral cynicism,
 structural corruption, redemption difficulty, narrative acceptance of injustice, and explicit
-darkness).
+darkness). The catalog keeps growing over time — see `ADDITIONS_LOG.md` for the current count
+and what's still queued.
+
+**Scope:** entries must be genuinely fantasy, or a real fantasy hybrid (magic, gods, mythical or
+supernatural beings as a central, load-bearing element) — not just adjacent to it. This
+excludes "the Fantastique" (ambiguous, uncanny literary fiction with no real fantastical
+content), pure science fiction, and pure horror with no fantastical element. Weird or
+genre-blending fantasy is welcome, but only when it actually reads as fantasy, not merely
+because it's unconventional (post-apocalyptic settings like Dark Sun or The Dark Tower still
+qualify when their supernatural element is real and central).
 
 **Live site:** https://fantasydarknessscale.site/ (defaults to English, with an ES/EN switcher
 in the top-right corner)
@@ -18,8 +27,8 @@ in the top-right corner)
 - `Fantasy_Grimdark_Scale_v2_WIP.xlsx` — the scored source data backing the live site above
   (Methodology, Evaluations, and Summary sheets), under the v2 methodology: interval-based
   tiering and a 0-4 integer scale per criterion for reproducibility — see its Methodology sheet
-  for the formula and criteria anchors, and `ADDITIONS_LOG.md` for the rationale. All 100 catalog
-  works are scored (filename kept as "WIP" since new works are still added over time)
+  for the formula and criteria anchors, and `ADDITIONS_LOG.md` for the rationale. All 126
+  catalog works are scored (filename kept as "WIP" since new works are still added over time)
 - `og-en.jpg`, `og-es.jpg` — Open Graph/Twitter Card preview images, referenced from each
   page's `<head>`
 - `ADDITIONS_LOG.md` — tracks new works being scored and added to the scale over time
