@@ -710,6 +710,15 @@ reasoning in SCORING_RECORD.md.
     "the most terrifying Disney movie ever made" — kept separate from the original Wizard of Oz
     entry (Tier 2) for the same reason Wicked stayed separate from it
 58. [x] Violence Jack — Go Nagai — Manga — DONE, see Completed
+60. [ ] Ravenloft — TSR / Wizards of the Coast — Tabletop (D&D campaign setting), Novels —
+    gothic horror setting: the Demiplane of Dread, an inescapable prison of fog-bound "domains,"
+    each ruled by a cursed "Darklord" (Strahd von Zarovich, vampire lord of Barovia, is the most
+    iconic) condemned to eternally repeat the sins that trapped them there; unlike Dark Sun's
+    grim-subversion-of-high-fantasy premise, Ravenloft is built specifically around inescapable
+    punishment and tragic-villain horror (vampires, werewolves, hags, Frankenstein-analogues);
+    the Mists can also pull in innocent travelers with no guaranteed way out; has a substantial
+    novel line (Vampire of the Mists and the wider Ravenloft novel series) alongside the
+    tabletop material — decide scope/bundling when scored
 59. [x] Devilman Lady — Go Nagai — Manga — DONE, see Completed
 
 ## Completed
