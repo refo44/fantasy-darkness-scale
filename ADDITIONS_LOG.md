@@ -753,6 +753,13 @@ reasoning in SCORING_RECORD.md.
     the demon realm sustained by collective human belief/emotion, and explicitly frames "inner
     demons" as something to integrate rather than fully banish — genuinely dark antagonist
     mythology wrapped in an ultimately hopeful, identity-affirming musical register
+65. [ ] Chaotic Good Barbarian — Dungeon Soup (YouTube web animation) — a D&D-parody series
+    following an unstoppable Barbarian Hero who slays monsters "in ways that make you feel sorry
+    for the monsters" (e.g. defeating a self-resurrecting lich, then dismembering and carrying it
+    around daily as a pet rather than letting it die and come back); played explicitly for black
+    comedy, not sincere tragedy — likely closer to the Nightmare Before Christmas pattern
+    (aesthetically dark, structurally light) than to Goblins' sincere-tragedy pattern, but confirm
+    this against the dark-comedy checklist established for Goblins when scored, not by default
 
 ## Completed
 
