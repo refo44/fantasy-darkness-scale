@@ -720,6 +720,25 @@ reasoning in SCORING_RECORD.md.
     novel line (Vampire of the Mists and the wider Ravenloft novel series) alongside the
     tabletop material — decide scope/bundling when scored
 59. [x] Devilman Lady — Go Nagai — Manga — DONE, see Completed
+61. [ ] Shadowrun — FASA / Catalyst Game Labs — Tabletop, Novels, Video Games — genre-checked:
+    a genuine cyberpunk/urban-fantasy hybrid, not sci-fi with fantasy garnish — magic is a
+    co-equal design pillar (the 2011 "Awakening" brings back elves, dwarves, orks, trolls, and
+    full spellcasting/astral-projection/spirit systems), and sapient dragons literally run
+    megacorporations that control the global economy, a load-bearing mythic-political element,
+    not decoration; matches the precedent already set by Warhammer 40,000's inclusion. Media
+    scope: tabletop + novels + the Harebrained Schemes trilogy (Shadowrun Returns, Dragonfall,
+    Hong Kong — well-regarded, Dragonfall in particular cited as "one of the best written RPGs
+    in years"); excludes the earlier SNES/Genesis/Mega-CD games (1993-1996) and the 2007 FPS as
+    lower-notability/lower-quality and not relevant enough on their own, matching the CRPG
+    exclusion precedent set for Dark Sun
+62. [ ] Legend of the Five Rings (L5R) — AEG / Fantasy Flight Games — Tabletop, Novels — a
+    feudal-Japan-inspired setting (Rokugan) built on honor/duty/clan-politics tragedy, threatened
+    by the Shadowlands: a realm of corruption and undeath created when Fu Leng, the Ninth Kami,
+    fell into Jigoku (the Realm of Evil); "the Taint" spreads Shadowlands corruption into anyone
+    it touches, turning them into monsters; combines political intrigue (seven clans jockeying
+    for power under a largely powerless Emperor) with a real cosmic-corruption horror threat and
+    a bushido code whose violations are punished by seppuku — decide scope (core tabletop line
+    vs. also the extensive novel line) when scored
 
 ## Completed
 
