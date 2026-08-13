@@ -739,6 +739,12 @@ reasoning in SCORING_RECORD.md.
     for power under a largely powerless Emperor) with a real cosmic-corruption horror threat and
     a bushido code whose violations are punished by seppuku — decide scope (core tabletop line
     vs. also the extensive novel line) when scored
+63. [ ] Black Myth: Wukong — Game Science (2024) — Video Game — action RPG retelling episodes of
+    Journey to the West through the "Destined One," a monkey warrior following Sun Wukong's path;
+    real mythological stakes (gods, demons, and Buddhist/Taoist cosmology), several boss
+    characters framed as tragic figures destroyed by heaven's own cruelty or their own corruption,
+    and multiple endings ranging from restoring the Monkey King's power to a darker, more
+    ambiguous continuation of the cycle
 
 ## Completed
 
