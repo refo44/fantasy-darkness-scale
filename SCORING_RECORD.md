@@ -2813,3 +2813,32 @@ and Labyrinth via genuinely different profiles. Cozy Fantasy = No, Hopepunk = No
 "Bright Fantasy" fits — real, recurring darker-tinged content keeps it a notch above Tier 1's
 true zero-conflict works, while the family's own warmth and contentment keep it well short of
 anything heavier.
+
+## The Addams Family (1991–1993)
+
+New catalog addition, not a rescore. Covers only the Barry Sonnenfeld live-action films (The
+Addams Family, 1991; Addams Family Values, 1993) — the 2019/2021 animated films are confirmed
+genuinely lighter by critics ("loud, fast, bright, and moralizing," "a significant tonal shift"
+away from the franchise's darker roots) and excluded as not distinct/significant enough on their
+own. Kept separate from The Addams Family (1964-1992) TV entry (Tier 2, 2.29) since the films'
+content is confirmed meaningfully more intense.
+
+* Structural Despair: 0 — contained plots, both fully resolved.
+* Limited Heroism: 0 — both films' central threats decisively, completely defeated.
+* Moral Cynicism: 1 — trusted authority figures are repeatedly revealed as predators (the
+  family's own lawyer schemes to steal their fortune; the hired nanny is a prolific serial
+  killer who murdered her own parents and two husbands), though the family's virtue is
+  ultimately vindicated in both films.
+* Structural Corruption: 1 — the Camp Chippewa subplot forces a whitewashed pageant on the kids,
+  a real institutional case decisively overthrown by Wednesday's own uprising.
+* Redemption Difficulty: 0 — no redemption arcs; villains are defeated or killed, not redeemed.
+* Narrative Acceptance of Injustice: 0 — both films' injustices are completely resolved by their
+  own endings.
+* Explicit Darkness: 3 — real weapon-based sibling "play," Debbie's graphic murder history, and
+  an elaborate electrocution device built to kill the entire family including a baby — clearly
+  beyond the TV series' register.
+
+Weighted = 0.60 → Final Score = 2.85 → **Tier 2**, an exact numeric tie with Willow and The
+Nightmare Before Christmas via genuinely different profiles. Cozy Fantasy = No, Hopepunk = No.
+Label check: "Bright Fantasy" still fits despite the elevated Explicit Darkness — both films
+resolve with love and family unity decisively triumphing.

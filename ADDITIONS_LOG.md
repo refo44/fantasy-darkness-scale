@@ -772,8 +772,9 @@ reasoning in SCORING_RECORD.md.
 51. [x] The Addams Family — TV series — the classic macabre-but-loving sitcom family (note:
     multiple TV incarnations exist — the 1964 live-action original, the 1973 animated series,
     the 1992 animated series — decide scope/bundling when scored) — DONE, see Completed
-52. [ ] The Addams Family — Films — the Barry Sonnenfeld films (The Addams Family, 1991; Addams
+52. [x] The Addams Family — Films — the Barry Sonnenfeld films (The Addams Family, 1991; Addams
     Family Values, 1993) and the animated films (The Addams Family, 2019; Addams Family 2, 2021)
+    — DONE, see Completed
 53. [ ] Chrono Trigger — Square (1995) — Video Game — time-travel JRPG; Lavos's apocalyptic
     destruction of the world in 1999 (the game's default future ending unless averted), the
     genocidal Mystic/Human war, Frog's tragic backstory, and multiple alternate endings ranging
@@ -867,6 +868,56 @@ reasoning in SCORING_RECORD.md.
     violence and loss are the show's default register, not exceptional beats
 
 ## Completed
+
+### 52. The Addams Family (1991–1993) — dir. Barry Sonnenfeld — Films
+
+- Tier 2 (Bright Fantasy), Final Score 2.85 (Weighted Internal Score 0.60) — an exact numeric
+  tie with Willow and The Nightmare Before Christmas, via genuinely different profiles.
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 1, Structural Corruption 1,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 0, Explicit Darkness 3.
+- **Bundle-vs-split decision, addressed explicitly:** covers only the Barry Sonnenfeld live-action
+  films (The Addams Family, 1991; Addams Family Values, 1993), not the 2019/2021 animated films.
+  Critics explicitly describe the animated films as "loud, fast, bright, and moralizing," having
+  lost "the spirit of what makes the Addams Family special," and representing "a significant
+  tonal shift" away from the franchise's darker roots — confirmed genuinely lighter, not just
+  differently styled, so excluded as not distinct/significant enough on their own, matching the
+  precedent set for Dark Sun's CRPGs. Also kept separate from The Addams Family (1964-1992) TV
+  entry (Tier 2, 2.29) rather than bundled with it, since the films' content (a serial killer
+  nanny, weapon-based sibling violence, an electrocution device threatening a baby) is
+  confirmed meaningfully more intense than the TV series' register.
+- Rationale: Moral Cynicism (1) reflects that trusted authority figures are repeatedly revealed
+  as predators across both films — the family's own lawyer, Tully Alford, schemes with loan
+  shark Abigail Craven (posing as a psychiatrist) to install an amnesiac impersonator as "Fester"
+  and steal the family fortune; the hired nanny, Debbie Jellinsky, is a prolific serial killer
+  who murdered her own parents at ten (burning their house down over the wrong Barbie doll),
+  killed her first husband with an axe, and ran over her second with a car — though the family's
+  own virtue is ultimately vindicated in both films. Structural Corruption (1) is carried by the
+  Camp Chippewa subplot: Wednesday and Pugsley are forced into a whitewashed Thanksgiving
+  pageant, a real if satirically-treated institutional case, decisively overthrown by Wednesday's
+  own uprising (hostages taken, the camp burned, a successful escape). Explicit Darkness (3)
+  reflects content clearly beyond the TV series' register: real weapon-based sibling "play"
+  (arrows, an electric chair, guillotine blades), Debbie's graphic murder history, and an
+  elaborate real electrocution device built specifically to kill the entire family, including
+  baby Pubert — frequent and genuinely detailed, short of the tier's extreme ceiling since the
+  story remains dark comedy throughout and no sympathetic character is lost.
+- Cozy Fantasy = No. Hopepunk = No: adventure/comedy driven, not organized around resisting
+  oppression or bittersweet mortality-acceptance as its throughline.
+- Neighbor check: exact WIS match (0.60) with Willow (Moral Cynicism 0/Redemption Difficulty 1
+  instead of this entry's 1/0) and The Nightmare Before Christmas (Structural Corruption 0
+  instead of this entry's 1, same Redemption Difficulty trade) — both differences net to zero.
+  Checked further against a non-adjacent work, The Princess Bride (2.9625, WIS 0.65,
+  SD0/LH0/MC1/SC1/RD0/NAI1/ED2): the 0.05 gap resolves on two axes — Princess Bride carries
+  slightly more narrative loose ends (Narrative Acceptance of Injustice 1) while this entry's
+  Explicit Darkness runs higher (3 vs. 2), driven by the real electrocution device and Debbie's
+  graphic backstory. Label check: "Bright Fantasy" still fits despite the elevated Explicit
+  Darkness — both films resolve with love and family unity decisively triumphing (Pubert saves
+  everyone, Wednesday's rebellion succeeds, Fester's place in the family restored), matching the
+  same pattern already established by this tier's other ED3 entries (Willow, Legend, Nightmare
+  Before Christmas).
+- Added to xlsx row 133, and to tier 2 on both index.html and es/index.html, appended after The
+  Nightmare Before Christmas (exact score tie, existing-entries-first ordering); title "The
+  Addams Family (1991–1993)" in EN, "Los Locos Addams (1991–1993)" in ES; medium: "Films" /
+  "Películas".
 
 ### 51. The Addams Family (1964–1992) — Charles Addams — TV series
 
