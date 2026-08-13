@@ -745,6 +745,14 @@ reasoning in SCORING_RECORD.md.
     characters framed as tragic figures destroyed by heaven's own cruelty or their own corruption,
     and multiple endings ranging from restoring the Monkey King's power to a darker, more
     ambiguous continuation of the cycle
+64. [ ] KPop Demon Hunters — Netflix / Sony Pictures Animation, dir. Maggie Kang & Chris
+    Appelhans (2025) — Film — Huntr/x, a K-pop girl group descended from generations of warriors,
+    secretly protects humanity from real demons using the power of music; opposed by the Saja
+    Boys, a rival boy band whose members are actually demons serving Gwi-Ma (a Korean-mythology-
+    inspired, flaming, all-consuming entity); centers on the Golden Honmoon, a barrier against
+    the demon realm sustained by collective human belief/emotion, and explicitly frames "inner
+    demons" as something to integrate rather than fully banish — genuinely dark antagonist
+    mythology wrapped in an ultimately hopeful, identity-affirming musical register
 
 ## Completed
 
