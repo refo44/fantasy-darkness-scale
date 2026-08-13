@@ -2662,3 +2662,32 @@ Weighted = 2.05 → Final Score = 6.1125 → **Tier 6**, an exact numeric tie wi
 The Sandman, and The Dresden Files via a genuinely different profile. Cozy Fantasy = No,
 Hopepunk = No. Label check: "Dark Fantasy" fits — graphic content offset by a genuinely resolved,
 validated ending, distinct from works whose core injustice stays open.
+
+## The Mighty Nein
+
+New catalog addition, not a rescore. Scored against the complete, finished tabletop campaign
+(141 episodes, 2018-2021), not just the still-airing Amazon TV adaptation (Season 1, November
+2025), matching the precedent used for House of the Dragon and A Knight of the Seven Kingdoms.
+
+* Structural Despair: 1 — a contained regional conflict, not a declining world, but the Cerberus
+  Assembly's institutional evil is a real undercurrent beyond pure personal stakes.
+* Limited Heroism: 2 — real victories achieved (Veth's curse reversed, the Empire/Xhorhas war
+  ending), but the peace is explicitly doubted within the story itself.
+* Moral Cynicism: 2 — real institutional cruelty offset by the story's own arc consistently
+  rewarding the party's virtue.
+* Structural Corruption: 3 — the Cerberus Assembly, a sitting body of the Dwendalian Empire's
+  government, manipulated Caleb Widogast's memories as a teen into believing his own parents
+  were traitors and ordered him to kill them — state-sponsored psychological manipulation of
+  children into parricide.
+* Redemption Difficulty: 2 — Veth's curse/addiction recovery, achieved only through her friends'
+  sustained effort, is real and costly but ultimately successful.
+* Narrative Acceptance of Injustice: 2 — Veth's injustice is resolved; the war's peace is
+  explicitly left uncertain by a character within the story.
+* Explicit Darkness: 3 — Molly's death and resurrection as Lucien, a wholly different
+  personality with no memory of him ("Mollymauk means nothing to him"), plus Caleb's parents'
+  immolation and sustained war content.
+
+Weighted = 2.10 → Final Score = 6.225 → **Tier 6**, a three-way exact numeric tie with The
+Witcher and Final Fantasy XIV via different profiles. Cozy Fantasy = No, Hopepunk = No. Label
+check: "Dark Fantasy" fits — genuinely heavy institutional and personal trauma, but real
+recovery and a real, if fragile, peace keep it short of Tier 7's harder-edged register.

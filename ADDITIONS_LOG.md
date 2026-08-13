@@ -655,12 +655,12 @@ reasoning in SCORING_RECORD.md.
 44. [x] Arcane — Riot Games — TV series — DONE, see Completed
 45. [x] Percy Jackson & the Olympians — Rick Riordan — Novels, TV series — DONE, see Completed
 46. [x] Devilman Crybaby (2018) — Masaaki Yuasa (based on Go Nagai's Devilman manga) — Anime — DONE, see Completed
-47. [ ] The Mighty Nein — Critical Role (Campaign 2) — TV series / D&D actual-play — Amazon's
+47. [x] The Mighty Nein — Critical Role (Campaign 2) — TV series / D&D actual-play — Amazon's
     animated adaptation of Critical Role's second campaign, following on from The Legend of Vox
     Machina (Campaign 1, already in the catalog at Tier 4); a found-family of outcasts and
     monster hunters in a morally grayer, more politically complex setting than Campaign 1's,
     with trauma-centered arcs (Caleb's guilt over his role in his parents' deaths, Nott/Veth's
-    identity and addiction arc)
+    identity and addiction arc) — DONE, see Completed
 48. [ ] Goblins — Thunt (Tarol Hunt) — Webcomic — https://www.goblinscomic.org/ — began as a
     joke inverting standard D&D "kill goblins for XP" tropes, following a goblin warband trying
     to survive being slaughtered by adventurers for loot; the tone shifts dramatically over its
@@ -713,6 +713,54 @@ reasoning in SCORING_RECORD.md.
 59. [x] Devilman Lady — Go Nagai — Manga — DONE, see Completed
 
 ## Completed
+
+### 47. The Mighty Nein — Critical Role — TV series / D&D actual-play
+
+- Tier 6 (Dark Fantasy), Final Score 6.225 (Weighted Internal Score 2.10) — a three-way exact
+  numeric tie with The Witcher and Final Fantasy XIV.
+- Scores: Structural Despair 1, Limited Heroism 2, Moral Cynicism 2, Structural Corruption 3,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 2, Explicit Darkness 3.
+- Scope: scored against the complete, finished tabletop campaign (141 episodes, 2018-2021), not
+  just the still-airing Amazon TV adaptation (Season 1, 8 episodes, November 2025, which has
+  only aired the opening arc so far) — matching the precedent used for House of the Dragon and
+  A Knight of the Seven Kingdoms, where a finished source history is scored even while its
+  adaptation is still airing.
+- Rationale: Structural Corruption (3) is grounded in Caleb Widogast's confirmed backstory — the
+  Cerberus Assembly, a sitting body of the Dwendalian Empire's government, groomed him and two
+  other teens under Trent Ikithon (Archmage of Civil Influence), manipulated their memories into
+  believing their own parents were traitors, and ordered them to kill their parents as a "final
+  trial"; Caleb set his parents' house on fire and broke only when he heard them screaming
+  inside — state-sponsored psychological manipulation of children into parricide, a real,
+  named, government-level institution enabling atrocity. Redemption Difficulty (2) is carried
+  by Veth: cursed into goblin form after her family was captured and she was deliberately
+  tortured and drowned ("make Veth suffer"), she became an alcoholic coping with the trauma, and
+  was only cured and reunited with her husband and son through her friends' sustained effort — a
+  real, costly, ultimately successful recovery. Explicit Darkness (3) reflects confirmed content
+  beyond Vox Machina's own already-elevated bar: Molly, a beloved main character, is killed and
+  then resurrected — but as Lucien, a completely different original personality with no memory
+  of Molly at all, who tells the party "Mollymauk means nothing to him," a real identity-horror
+  arc, on top of Caleb's parents' immolation and sustained war content. Limited Heroism and
+  Narrative Acceptance of Injustice both land at 2: real victories are achieved (Veth's curse
+  reversed, the war between the Empire and Xhorhas ending), but the war's peace is explicitly
+  doubted within the story itself (Essek believes it won't last), keeping this short of a clean
+  resolution.
+- Cozy Fantasy = No. Hopepunk = No: matches precedent (no work at Tier 6 or darker carries the
+  tag).
+- Neighbor check: exact WIS match (2.10) with The Witcher (SD2/SC2 instead of this entry's
+  SD1/SC3 — The Witcher's despair is spread evenly across its world, while this entry's severity
+  concentrates specifically in one institutional villain against a less generally-despairing
+  backdrop) and Final Fantasy XIV (SD3/LH1/MC1 instead of this entry's SD1/LH2/MC2). Checked
+  further against a non-adjacent tier-6 work, Supernatural (6.90, near the tier's ceiling,
+  SD2/LH2/MC3/SC3/RD2/NAI2/ED3): the 0.15 gap resolves on Structural Despair and Moral Cynicism
+  — Supernatural's monster-of-the-week format sustains a bleaker baseline world-state and harsher
+  moral physics than this entry's found-family-centered story. Label check: "Dark Fantasy" fits —
+  genuinely heavy institutional and personal trauma, but real recovery (Veth) and a real, if
+  fragile, peace keep it short of Tier 7's harder-edged register.
+- Added to xlsx row 128, and to tier 6 on both index.html and es/index.html, appended after The
+  Witcher (exact score tie, existing-entries-first ordering); title kept in English on both
+  pages, matching The Legend of Vox Machina's own precedent (Amazon's official releases use the
+  same English title regardless of dub language); medium: "TV series / D&D actual-play" /
+  "Serie de TV / Actual play de D&D".
 
 ### 59. Devilman Lady — Go Nagai — Manga
 
