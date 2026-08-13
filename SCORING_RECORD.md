@@ -1383,24 +1383,29 @@ Kingkiller Chronicle or Dragonlance.
 
 ## The Legend of Vox Machina
 
-Scored fresh against the rubric anchors, then checked against the full tier 4 and tier 5 rosters
-(not just neighbors) given the lessons from the two audit rounds above.
+**Rescored** against the complete Campaign 1 tabletop actual-play (115 episodes, finished
+2017), not just the TV adaptation (which is itself still airing — Season 4 aired 2026, a
+"final" Season 5 not yet released). The prior scoring below was based on the TV show's earlier
+seasons and never engaged with the actual campaign's ending. Confirmed genre-checked: the show's
+Season 4 additions (Keyleth's father and Pike's great-grandfather killed by the Whispered One's
+cult) are TV-original, not part of the real campaign, and correctly excluded from scope.
 
 * Structural Despair: 1 — each threat (Briarwood tyranny over Whitestone, the Chroma Conclave's draconic conquest, Vecna's bid for godhood) is severe, but the dominant pattern across the series is decisive defeat followed by real rebuilding (Whitestone liberated and held, Emon rebuilt) — no baked-in decaying-world backstory the way Avatar's Air Nomad genocide is.
-* Limited Heroism: 1 — genuinely complete victories, not just immediate threats stopped: Whitestone is freed and held, all four Chroma Conclave dragons are killed, Vecna's plan is stopped outright.
+* Limited Heroism: **2** (revised from 1) — the structural threats are all fully resolved, but the campaign's actual ending carries a real, permanent cost the prior TV-based scoring never addressed: Vax'ildan's bargain with the Raven Queen (his life and eternal service, made earlier in the campaign to resurrect his sister Vex) comes due after Vecna falls — he says permanent goodbyes to his entire found-family and leaves his mortal life forever to become her eternal Champion. Widely regarded as the campaign's single most iconic, most devastating beat; not a "minor detail" left unresolved, which is what kept this at 1 anchor-wise.
 * Moral Cynicism: 1 — classic heroic-fantasy moral physics: the found-family's loyalty and heroism are consistently, durably rewarded (wealth, standing, love, survival).
 * Structural Corruption: 1 — the Briarwoods' vampiric tyranny over Whitestone is real institutional evil, but it's one contained, fully-corrected incident, not a recurring, saga-wide condition the way Menzoberranzan is for Drizzt.
-* Redemption Difficulty: 2 — Percy's Orthax-fueled revenge spiral after his family's massacre is a real arc with genuine cost (he nearly loses his own moral compass) before his friends pull him back — matches "possible, but requires real sacrifice."
-* Narrative Acceptance of Injustice: 1 — every major injustice in the series (the usurpation, the draconic conquest, Vecna's bid for godhood) gets resolved within the story, not left as a permanent condition.
-* Explicit Darkness: 3 — TV-MA rated: confirmed on-screen gore, a torture/vivisection scene (Ripley on Grog), on-screen child deaths during the dragon attacks — frequent and genuinely detailed, though not central-and-recurring the way true body-horror shows (Goblin Slayer, Berserk) are, so not level 4.
+* Redemption Difficulty: 2 — Percy's Orthax-fueled revenge spiral after his family's massacre is a real arc with genuine cost (he nearly loses his own moral compass) before his friends pull him back — matches "possible, but requires real sacrifice." Grog's parallel corruption arc with the sentient, blood-draining sword Craven Edge reinforces the same pattern rather than pushing it higher (he resists rather than falling).
+* Narrative Acceptance of Injustice: 1 — every major injustice in the series (the usurpation, the draconic conquest, Vecna's bid for godhood) gets resolved within the story; Vax's sacrifice is framed by the campaign's own ending ("The Chapter Closes") as an accepted, even celebrated farewell, not an unresolved wrong, keeping this at 1 rather than higher.
+* Explicit Darkness: 3 — confirmed gore, a torture/vivisection scene (Ripley on Grog), and civilian/leadership deaths during the Chroma Conclave's assassination-styled attack on Emon (the Sovereign and much of the city's leadership killed) — frequent and genuinely detailed, though not central-and-recurring the way true body-horror shows (Goblin Slayer, Berserk) are, so not level 4.
 
-Weighted = 1.35 → Final Score = 4.8375 → **Tier 4**, between Final Fantasy XII (4.65) and
-Fullmetal Alchemist: Brotherhood (4.875). Checked against FMA specifically (near-identical
-profile except Structural Corruption 1 vs. FMA's 2) — holds up: FMA's genocide is a deep,
-historical, institutional condition, while the Briarwoods' usurpation is one contained incident
-that gets fully corrected. A wash from v1 (score 3.75, also tier 4) rather than a rise. Label
-check: "Fantasy in Gray Tones" fits — the show genuinely mixes raunchy comedy, found-family
-warmth, and real TV-MA violence rather than settling into one register.
+Weighted = 1.50 → Final Score = 4.875 → **Tier 4**, an exact numeric tie with Fullmetal
+Alchemist: Brotherhood via a swapped profile (FMA's Structural Corruption 2 vs. this entry's 1,
+this entry's Limited Heroism 2 vs. FMA's 1) — FMA's genocide is a deep, historical, institutional
+condition, while the Briarwoods' usurpation is one contained incident that gets fully corrected;
+trading against this entry's real, permanent personal cost to its ending that FMA's own
+victory doesn't carry in the same way. A modest rise from the prior TV-based score (4.8375),
+not a tier change. Label check: "Fantasy in Gray Tones" fits — the show genuinely mixes raunchy
+comedy, found-family warmth, and real TV-MA violence rather than settling into one register.
 
 ## Final Fantasy VI
 

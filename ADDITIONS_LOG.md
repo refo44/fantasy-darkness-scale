@@ -2591,6 +2591,28 @@ reasoning in SCORING_RECORD.md.
   inserted immediately after Star vs. the Forces of Evil (title kept in
   English on both pages — Amazon's official Latin American release uses
   the same English title even with Spanish dub audio; medium: "TV").
+- **Rescored** (prompted by the user, who pointed out the show has other media
+  and is itself incomplete): the v2 rescoring pass recorded in `SCORING_RECORD.md`
+  had re-scored this entry against only the TV show's earlier seasons and, in
+  doing so, dropped Vax'ildan's fate from the analysis entirely — a real loss
+  this original v1 entry above had actually captured ("Vax'ildan's permanent
+  death — paying his soul to the Raven Queen to save his sister") but the v2
+  pass didn't carry forward. Rescored against the complete Campaign 1 tabletop
+  actual-play (115 episodes, finished 2017) instead of the still-airing TV
+  adaptation (Season 4 aired 2026 with a still-unreleased "final" Season 5),
+  matching the precedent set for The Mighty Nein; confirmed the show's own
+  Season 4 additions (Keyleth's father and Pike's great-grandfather killed by
+  the Whispered One's cult) are TV-original, not part of the real campaign,
+  and correctly stayed out of scope. Limited Heroism raised 1 → 2 to reflect
+  Vax's permanent, structurally real departure from the story. New: Weighted
+  Internal Score 1.50, Final Score 4.875, still Tier 4 — a modest rise, not a
+  tier change, but enough to create a new exact tie with Fullmetal Alchemist:
+  Brotherhood (swapped profile: FMA's Structural Corruption 2 vs. this entry's
+  1, this entry's Limited Heroism 2 vs. FMA's 1). Updated xlsx row 51 in
+  place (medium also updated to "TV series / D&D actual-play" / "Serie de TV
+  / Actual play de D&D" to match), and moved the HTML entry on both
+  index.html and es/index.html to its new position, inserted after Fullmetal
+  Alchemist: Brotherhood (exact score tie, existing-entries-first ordering).
 
 ### 11. Record of Lodoss War — Ryo Mizuno — Novels / Anime
 
