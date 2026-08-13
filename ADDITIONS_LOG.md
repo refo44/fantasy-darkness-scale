@@ -94,6 +94,19 @@ is about narrative design and self-awareness, not a guarantee of in-story magic 
 fabulist work can use real fantastical content or can just play games with story structure and
 mimetic convention; check which one it actually is.
 
+**Retroactive audit (prompted by the user, once the gate above existed):** scanned all catalog
+entries already scored at that point against this gate. Five were genuinely worth researching
+rather than assuming (the rest were unambiguous fantasy on their face — Harry Potter, LOTR, the
+Final Fantasy series, the Ghibli films, every D&D-based entry, etc.): Dirk Gently's Holistic
+Detective Agency (confirmed fantasy/supernatural — real ghosts, alien spirits, time travel, not
+just comic sci-fi), Shin Sekai Yori (confirmed genuine fantasy anime despite its sci-fi
+psychic-powers framing), Attack on Titan (classified as "dark fantasy"; Ymir's origin is an
+explicitly mythic/religious fusion with a god-like entity), Fullmetal Alchemist (classified as
+"dark fantasy and steampunk"; the Gate of Truth and homunculi are confirmed supernatural, not
+pseudo-science), and Sweet Tooth (explicitly classified as "Fantasy" / "magical fantasy," the
+hybrid-children premise genuinely load-bearing). All five passed — no exclusions resulted. This
+doesn't need repeating unless something about these five entries' scope changes.
+
 Process for each item: (1) run the genre gate above FIRST, before any research or scoring
 begins — confirm the candidate is genuinely fantasy or a real fantasy hybrid, not just adjacent
 to it; do not skip this because a title "obviously" sounds like fantasy or because time is
