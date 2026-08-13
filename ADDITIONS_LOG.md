@@ -779,13 +779,14 @@ reasoning in SCORING_RECORD.md.
     destruction of the world in 1999 (the game's default future ending unless averted), the
     genocidal Mystic/Human war, Frog's tragic backstory, and multiple alternate endings ranging
     from full prevention to leaving Lavos's threat unresolved — DONE, see Completed
-54. [ ] Forgotten Realms — TSR / Wizards of the Coast — Tabletop (D&D campaign setting), Novels —
+54. [x] Forgotten Realms — TSR / Wizards of the Coast — Tabletop (D&D campaign setting), Novels —
     D&D's flagship, most mainstream high-fantasy setting (Faerûn), generally more heroic/optimistic
     in default tone than Dark Sun or Ravenloft, but with genuinely dark corners worth weighing:
     Menzoberranzan's slaveholding, torture-based drow matriarchy under Lolth (R.A. Salvatore's
     Drizzt novels), the Baldur's Gate games' Bhaalspawn-murder-god plot, the Zhentarim/Cult of the
     Dragon as recurring corrupt/villainous institutions, and Icewind Dale's bleaker frontier
     survival stories; decide scope (core setting + Drizzt novels vs. also the CRPGs) when scored
+    — DONE, see Completed
 55. [ ] Alice in Wonderland (2010) / Alice Through the Looking Glass (2016) — dir. Tim Burton —
     Films — not a retelling of Carroll's plot but an original "return to Underland" story where
     an adult Alice must slay the Jabberwocky in an actual war between the Red and White Queens'
@@ -868,6 +869,68 @@ reasoning in SCORING_RECORD.md.
     violence and loss are the show's default register, not exceptional beats
 
 ## Completed
+
+### 54. Forgotten Realms — TSR / Wizards of the Coast — Tabletop (D&D campaign setting), Novels
+
+- Tier 4 (Fantasy in Gray Tones), Final Score 4.65 (Weighted Internal Score 1.40) — an exact
+  numeric tie with a five-work cluster: Grimgar: Ashes and Illusions, Avatar: The Last
+  Airbender, Earthsea, Final Fantasy XII, and Charmed (1998-2006).
+- Scores: Structural Despair 1, Limited Heroism 1, Moral Cynicism 1, Structural Corruption 1,
+  Redemption Difficulty 3, Narrative Acceptance of Injustice 1, Explicit Darkness 2.
+- Scope: scored against the core tabletop setting/general lore only. Explicitly excludes The
+  Dark Elf / Drizzt (already a separate catalog entry, Tier 5) and the Baldur's Gate I/II/III
+  games (already separate entries, Tier 3/4/5) — folding them back in here would double-count
+  content already scored on its own.
+- Rationale: Structural Despair (1) reflects two real, catastrophic historical events baked
+  into the setting's core lore — the Time of Troubles (the gods are stripped of power and
+  forced to walk Toril after trying to steal from the overdeity Ao; divine and arcane magic
+  both catastrophically break down) and the Spellplague (Cyric murders Mystra, goddess of
+  magic, triggering chaotic magic storms that kill or drive mad countless spellcasters and
+  erase or displace entire nations) — both since narratively restored to a more classic
+  baseline by 5th edition's Sundering storyline, so real but not an ongoing decline. Structural
+  Corruption (1) reflects that real, organized evil factions (the Zhentarim, the Cult of the
+  Dragon) cause genuine harm but are explicitly, actively opposed by legitimate, functioning
+  institutions (the Harpers, the Lords' Alliance, Waterdeep's own government) — a "points of
+  light" structure, not a setting where central institutions themselves exist to sustain
+  exploitation. Limited Heroism and Narrative Acceptance of Injustice both land at 1 for the
+  same reason: because this is a perpetual toolkit setting with decades of published material
+  against the same recurring factions, individual adventures resolve their immediate threats
+  cleanly, but the factions themselves are never permanently eliminated — a genuine "resolves
+  the immediate threat, leaves the generating conditions intact" pattern, not a lazy default.
+  Redemption Difficulty (3) is grounded in a specific, confirmed case: Artemis Entreri, a major
+  recurring antagonist across the broader Salvatore literary universe (the Entreri/Jarlaxle-
+  focused "Sellswords" trilogy, not a Drizzt-protagonist book), shows "some moral growth" but
+  explicitly refuses full redemption when directly offered the chance by the priest Cadderly —
+  a real, "achieves it only partially" case matching this tier's own stated Redemption
+  Difficulty benchmark. Explicit Darkness (2) covers the Time of Troubles' and Spellplague's
+  real, world-scale carnage, described in sourcebook-summary prose rather than graphic,
+  scene-by-scene depiction.
+- Cozy Fantasy = No. Hopepunk = No: a toolkit setting without a single organizing thesis around
+  kindness-as-resistance or mortality-acceptance.
+- Neighbor check: exact WIS match (1.40) with Grimgar and Avatar: The Last Airbender (Structural
+  Despair 2/Redemption Difficulty 2 instead of this entry's 1/3), Earthsea (a four-axis trade
+  netting to zero), Final Fantasy XII (Structural Corruption 2/Redemption Difficulty 1/Narrative
+  Acceptance of Injustice 2 instead of this entry's 1/3/1), and Charmed (Redemption Difficulty
+  2/Narrative Acceptance of Injustice 2 instead of this entry's 3/1) — all five verified
+  pairwise, every difference resolves cleanly. Checked further against a non-adjacent work, The
+  NeverEnding Story (4.20, bottom of the tier, SD2/LH1/MC1/SC0/RD2/NAI0/ED3): the 0.20 gap
+  resolves on Structural Corruption, Redemption Difficulty, and Narrative Acceptance of
+  Injustice (this entry's organized factions, Entreri's confirmed partial-failure redemption,
+  and the recurring-threat pattern) trading against NeverEnding Story's higher Structural
+  Despair and Explicit Darkness. **Related-media check, given how much of this franchise is
+  already separately catalogued:** sits sensibly in the middle of its own franchise's spread —
+  above Baldur's Gate I (3.41, Tier 3) and Baldur's Gate II (4.31, Tier 4), below Baldur's Gate
+  III (5.21, Tier 5) and The Dark Elf / Drizzt (5.55, Tier 5) — a general-setting overview
+  correctly scoring lighter than its own specifically-curated darkest corners (BG3's Absolute
+  cult mind-control plot, Drizzt's Menzoberranzan slavery/torture content), not darker than them.
+  Label check: "Fantasy in Gray Tones" fits, and specifically satisfies TIER_GUIDE.md's own
+  stated Tier 4 benchmark ("Redemption Difficulty starts requiring 2") since this entry sits at
+  3, even though Structural Corruption (1) stays a touch below the tier's typical 2.
+- Added to xlsx row 135, and to tier 4 on both index.html and es/index.html, appended after
+  Charmed (1998-2006) (exact score tie, existing-entries-first ordering); title kept in English
+  on both pages (the setting name isn't typically translated in Spanish-language D&D material);
+  medium: "Tabletop (D&D campaign setting), Novels" / "Juego de rol (ambientación de D&D),
+  Novelas".
 
 ### 53. Chrono Trigger — Square — Video Game
 

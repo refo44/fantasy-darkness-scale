@@ -2877,3 +2877,36 @@ isn't this story's organizing thesis (only Frieren and Mushishi of the six tied 
 tag; this entry's shape is closer to LOTR/Black Clover/Lodoss War/Nausicaä/FFII, none of which
 carry it either). Label check: "Moderately Bright Fantasy" fits, reinforced by the boundary
 check above.
+
+## Forgotten Realms
+
+New catalog addition, not a rescore. Scored against the core tabletop setting/general lore
+only — The Dark Elf / Drizzt and the Baldur's Gate I/II/III games are already separate catalog
+entries and excluded here to avoid double-counting.
+
+* Structural Despair: 1 — two real historical catastrophes (the Time of Troubles, the
+  Spellplague) are baked into the setting's core lore, but both have since been narratively
+  restored to a classic baseline by 5th edition's Sundering — real, not an ongoing decline.
+* Limited Heroism: 1 — a perpetual toolkit setting where individual adventures resolve their
+  immediate threats cleanly, but recurring factions (Zhentarim, Cult of the Dragon) are never
+  permanently eliminated.
+* Moral Cynicism: 1 — virtue generally wins in published material, but evil factions'
+  perpetual return keeps this short of a clean 0.
+* Structural Corruption: 1 — real, organized evil factions exist but are actively opposed by
+  legitimate institutions (the Harpers, the Lords' Alliance, Waterdeep), not embedded in them.
+* Redemption Difficulty: 3 — Artemis Entreri, a major recurring antagonist in the broader
+  Salvatore literary universe, shows "some moral growth" but explicitly refuses full redemption
+  when directly offered the chance.
+* Narrative Acceptance of Injustice: 1 — the same recurring-faction pattern, an ongoing,
+  hard-to-eradicate condition rather than something any single story resolves.
+* Explicit Darkness: 2 — the Time of Troubles and Spellplague both involve real, world-scale
+  carnage, described in sourcebook-summary prose rather than graphic depiction.
+
+Weighted = 1.40 → Final Score = 4.65 → **Tier 4**, an exact numeric tie with Grimgar, Avatar:
+The Last Airbender, Earthsea, Final Fantasy XII, and Charmed (1998-2006) via genuinely different
+profiles (verified pairwise). Checked against the franchise's own already-scored related media:
+sits sensibly between Baldur's Gate II (4.31, Tier 4) and Baldur's Gate III (5.21, Tier 5) —
+below both Baldur's Gate III and Drizzt (5.55, Tier 5), its own darkest specifically-curated
+corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" fits, and
+specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
+requiring 2 at this tier.
