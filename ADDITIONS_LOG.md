@@ -61,19 +61,22 @@ academia work (The Secret History and its lineage) has zero fantastical content.
 "parable" — allegorical or animal-character morality tales aren't automatically set in a fantasy
 world; check for real magic vs. pure allegory.
 
-Process for each item: (1) research & score against the 7 weighted criteria in the xlsx
-Methodology sheet, (2) add the row to `Evaluations` with live formulas matching the existing
-rows, (3) recalc via LibreOffice to get cached values, (4) determine tier placement, (5) add
+Process for each item: (1) run the genre gate above FIRST, before any research or scoring
+begins — confirm the candidate is genuinely fantasy or a real fantasy hybrid, not just adjacent
+to it; do not skip this because a title "obviously" sounds like fantasy or because time is
+short, (2) research & score against the 7 weighted criteria in the xlsx
+Methodology sheet, (3) add the row to `Evaluations` with live formulas matching the existing
+rows, (4) recalc via LibreOffice to get cached values, (5) determine tier placement, (6) add
 the entry to both `index.html` (EN) and `es/index.html` (ES), inserted into the right tier's
 `<ul class="works">` in ascending-score order relative to the other works already there (not
 appended at the end — the xlsx row order stays chronological/append-only, but the HTML display
-order is sorted by score within each tier), (6) commit, push, deploy, verify live, (7) update
+order is sorted by score within each tier), (7) commit, push, deploy, verify live, (8) update
 this log AND `SCORING_RECORD.md` (add a condensed `## Title` entry there too — every 7-criteria
 score plus its rationale, in the format already used by that file's existing entries — every
 single time a work is completed here, not just occasionally; this file and SCORING_RECORD.md
 fell out of sync for 22 entries between "House of the Dragon" and "Arcane" because this step was
 skipped repeatedly, and the user had to catch and backfill it — don't let that happen again),
-(8) stop and ask before continuing.
+(9) stop and ask before continuing.
 
 ## Methodology v2 (in progress)
 
