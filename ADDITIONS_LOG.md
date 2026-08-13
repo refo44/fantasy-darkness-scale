@@ -40,6 +40,27 @@ to essentially superhero-format sci-fi with no mythic core. Check each one the s
 everything else above — real, central fantastical content required, label alone proves nothing
 either direction.
 
+Further labels that need the same explicit check, not an assumption either way: "steampunk" is
+an aesthetic/tech label (gears, brass, airships), not a fantasy guarantee — plenty of it is
+alternate-history sci-fi with zero real magic. "Post-apocalyptic" can be pure sci-fi/survival
+(radiation, plague, nukes, no fantastical element) or genuine dark fantasy (Dark Sun) — check per
+case. "Folk horror" frequently keeps the supernatural *deliberately ambiguous* (real witchcraft
+vs. mass hysteria/cultural dread) — check whether the fantastical is actually confirmed real
+in-story, not just implied or left uncertain. "Wuxia" and "xianxia" are easy to conflate but
+aren't the same: wuxia is often just heightened-but-naturalistic martial arts with no real magic,
+while xianxia usually is fantasy (cultivation, immortals, real supernatural power) — don't treat
+them as interchangeable. "Kaiju" is sometimes framed as pseudo-scientific (radiation/mutation-
+created monsters, closer to sci-fi) rather than mythical. "Cosmic horror" / "Lovecraftian" often
+does have real cosmic entities (arguably qualifies), but a lot of the genre keeps things
+psychologically ambiguous — check whether the horror is confirmed real. "Gothic" is a mood/mode
+label (decayed estates, family curses, dread, the uncanny), not a genre — gothic fiction spans
+everything from full supernatural horror (Ravenloft, Dracula) to purely psychological gothic with
+no confirmed fantastical element at all (many gothic novels, e.g. some of the Brontë tradition) —
+check per work. "Dark academia" isn't even a genre, it's an aesthetic/vibe label; most dark
+academia work (The Secret History and its lineage) has zero fantastical content. "Fable" /
+"parable" — allegorical or animal-character morality tales aren't automatically set in a fantasy
+world; check for real magic vs. pure allegory.
+
 Process for each item: (1) research & score against the 7 weighted criteria in the xlsx
 Methodology sheet, (2) add the row to `Evaluations` with live formulas matching the existing
 rows, (3) recalc via LibreOffice to get cached values, (4) determine tier placement, (5) add
