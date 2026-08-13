@@ -15,10 +15,11 @@ because it's unconventional (post-apocalyptic settings like Dark Sun or The Dark
 qualify when their supernatural element is real and central). Genre-adjacent labels — supernatural,
 weird, superhero, horror, space opera, mythical, magical girl, isekai, nekketsu, tokusatsu,
 steampunk, post-apocalyptic, folk horror, wuxia/xianxia, kaiju, cosmic horror, gothic, dark
-academia, fable/parable — aren't fantasy by default and don't get waved through (or excluded) on
-the label alone; each candidate is checked individually for whether its fantastical content is
-actually real and central. See `ADDITIONS_LOG.md`'s genre gate for the case-by-case reasoning on
-each of these.
+academia, fable/parable, magical realism, lo real maravilloso, absurdism, surrealism, slipstream,
+onirism/oneiric, lyricism, literary nonsense, 'pataphysics, fabulation — aren't fantasy by
+default and don't get waved through (or excluded) on the label alone; each candidate is checked
+individually for whether its fantastical content is actually real and central. See
+`ADDITIONS_LOG.md`'s genre gate for the case-by-case reasoning on each of these.
 
 **Live site:** https://fantasydarknessscale.site/ (defaults to English, with an ES/EN switcher
 in the top-right corner)

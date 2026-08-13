@@ -61,6 +61,39 @@ academia work (The Secret History and its lineage) has zero fantastical content.
 "parable" — allegorical or animal-character morality tales aren't automatically set in a fantasy
 world; check for real magic vs. pure allegory.
 
+Literary/avant-garde modes need the same check, arguably more than any of the above, since these
+are frequently mistaken for fantasy by association: "magical realism" ("realismo mágico")
+presents the fantastical as mundane and unremarked-upon within an otherwise realistic world —
+often a narrative technique for symbolic or political meaning (García Márquez, Rushdie) rather
+than world-building with real stakes and rules; check whether the fantastical content actually
+functions as load-bearing to the story, not just as metaphor. "Lo real maravilloso" (marvelous
+realism, Alejo Carpentier's term) is a distinct, related concept — it claims the marvelous is
+inherent to Latin American reality/history itself, not an authorial technique layered onto
+realism — and is a literary-critical framing more than a genre; doesn't guarantee real
+fantastical stakes on its own. "Absurdism" (Kafka, Beckett, Ionesco) depicts irrational,
+illogical, or meaningless situations, often with no genuine supernatural content at all — Kafka's
+Metamorphosis is the defining edge case: literal fantastical transformation, or absurdist
+metaphor for alienation, is genuinely debatable and must be checked, not assumed either way.
+"Surrealism" is dream-logic, irrational imagery and juxtaposition, usually about subconscious/
+psychological content rather than consistent world-building or myth — not automatically fantasy.
+"Slipstream" is a deliberately genre-resistant, liminal category blending literary fiction with
+SF/fantasy elements — ambiguous by definition, check per work rather than treating the label as
+an answer. "Onirism" / "oneiric" (dreamlike narrative quality) doesn't imply fantasy either — a
+story can be dream-logic-driven with no real magic, purely psychological. "Lyricism" ("lyrism")
+is a prose *style* (poetic, evocative language), not a genre or content category at all — it's
+orthogonal to whether something is fantasy; beautiful prose is not evidence of fantastical
+content. "Literary nonsense" (Lewis Carroll, Edward Lear — wordplay, logic-inversion, absurd
+creatures) needs checking for real fantastical *world* content (Alice in Wonderland's Wonderland
+genuinely qualifies) versus purely linguistic/logical absurdity layered onto a mundane setting,
+which wouldn't. "'Pataphysics" (Alfred Jarry's "science of imaginary solutions") is absurdist
+parody of scientific/philosophical logic and wordplay — not inherently fantastical, and usually
+about logical/linguistic play rather than myth or magic; check rather than assume. "Fabulation"
+(Robert Scholes' term for fiction like John Barth's, Robert Coover's, or Angela Carter's that
+consciously breaks from realism through fable-like, self-aware, artificial narrative structures)
+is about narrative design and self-awareness, not a guarantee of in-story magic or myth — a
+fabulist work can use real fantastical content or can just play games with story structure and
+mimetic convention; check which one it actually is.
+
 Process for each item: (1) run the genre gate above FIRST, before any research or scoring
 begins — confirm the candidate is genuinely fantasy or a real fantasy hybrid, not just adjacent
 to it; do not skip this because a title "obviously" sounds like fantasy or because time is
