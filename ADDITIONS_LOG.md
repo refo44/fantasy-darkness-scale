@@ -661,11 +661,11 @@ reasoning in SCORING_RECORD.md.
     monster hunters in a morally grayer, more politically complex setting than Campaign 1's,
     with trauma-centered arcs (Caleb's guilt over his role in his parents' deaths, Nott/Veth's
     identity and addiction arc) — DONE, see Completed
-48. [ ] Goblins — Thunt (Tarol Hunt) — Webcomic — https://www.goblinscomic.org/ — began as a
+48. [x] Goblins — Thunt (Tarol Hunt) — Webcomic — https://www.goblinscomic.org/ — began as a
     joke inverting standard D&D "kill goblins for XP" tropes, following a goblin warband trying
     to survive being slaughtered by adventurers for loot; the tone shifts dramatically over its
     run into genuine tragedy (PTSD, addiction, on-page major character deaths), repeatedly
-    questioning who the real "monsters" in the story actually are
+    questioning who the real "monsters" in the story actually are — DONE, see Completed
 49. [ ] Twilight (Crepúsculo) — Stephenie Meyer — Novels, Films — the vampire-romance saga
     (Twilight, New Moon, Eclipse, Breaking Dawn); consider the werewolf/vampire treaty politics,
     the Volturi as a governing vampire institution, and Bella's transformation/mortality themes
@@ -713,6 +713,62 @@ reasoning in SCORING_RECORD.md.
 59. [x] Devilman Lady — Go Nagai — Manga — DONE, see Completed
 
 ## Completed
+
+### 48. Goblins — Tarol Hunt — Webcomic
+
+- Tier 8 (Grimdark), Final Score 8.1375 (Weighted Internal Score 2.95) — a three-way exact
+  numeric tie with Berserk and Violence Jack, via genuinely different profiles.
+- Scores: Structural Despair 2, Limited Heroism 3, Moral Cynicism 3, Structural Corruption 3,
+  Redemption Difficulty 3, Narrative Acceptance of Injustice 3, Explicit Darkness 4.
+- Scope: scored against the comic as it stands — still actively updating as of 2025-2026, with
+  no final resolution; the most recent characterization available is a "fragile peace" with
+  "lingering threats" to the goblin world.
+- **Dark comedy check, addressed explicitly given the queue item's own "began as a joke"
+  framing:** this is not the Nightmare Before Christmas pattern (aesthetically macabre but
+  structurally light, played consistently for stylized dark comedy — the specific citation
+  CRITERIA_THEORY.md uses to justify Explicit Darkness diverging from the other six criteria).
+  Critics specifically flag tonal dissonance, not a harmonious blend: "the colorful, loose
+  artwork and oftentimes silly setting... doesn't lend itself to the oftentimes VERY dark
+  storylines" — the tragedy is played straight even while the art stays cartoonish. The "IMSAD"
+  fan meme (literally "I'm sad") reflects genuine emotional impact, not readers finding the
+  darkness funny, and the creator has stated she wrote the story's most extreme villains to
+  "work through emotional trauma" — sincere content, not an ironic device. The comic starts
+  comedic and genuinely transitions into sustained tragedy, matching the queue's own framing,
+  rather than staying consistently light-with-dark-trappings throughout.
+- Rationale: Moral Cynicism and Structural Corruption both land at 3 on the same evidence — Kore,
+  a dwarven paladin (a class explicitly tied to sanctioned goodness in this genre), commits
+  preemptive massacres of "evil" creatures including children, unchecked by his own order; the
+  entire adventurer/paladin economy this world runs on is built on treating goblins as
+  disposable prey, the comic's founding premise made literal and structural rather than just a
+  starting joke. Limited Heroism (3) reflects that the goblins' efforts to gain narrative agency
+  achieve real personal survival and growth, but multiple core cast members die despite it —
+  Chief dies from wounds sustained fighting Kore. Redemption Difficulty (3) is carried by
+  Big-Ears, explicitly described as "a rare instance" of a goblin achieving paladin status and
+  real acceptance — its rarity is itself the evidence that most goblins don't get this kind of
+  redemption/acceptance. Narrative Acceptance of Injustice (3) reflects that the core injustice
+  remains explicitly unresolved as of the comic's current status. Explicit Darkness reaches the
+  ceiling (4) on confirmed graphic content: Dies-Horribly is tortured to death (his arm cut off)
+  in a revenge spiral after Big-Ears' apparent death, on top of the infanticide themes and
+  sustained major-character death toll.
+- Cozy Fantasy = No. Hopepunk = No: matches precedent (no work at Tier 6 or darker carries the
+  tag).
+- Neighbor check: exact WIS match (2.95) with Berserk (Structural Corruption 2 instead of this
+  entry's 3 — Berserk's evil is concentrated in one arc, per its own established reasoning,
+  while this entry's genocide-adjacent violence is built into the setting's entire
+  adventurer/paladin economy) and Violence Jack (Narrative Acceptance of Injustice 2 instead of
+  this entry's 3 — Violence Jack's top-level tyrant is actually defeated, while this entry's
+  core injustice remains explicitly unresolved). Checked further against a non-adjacent tier-8
+  work, A Song of Ice and Fire (8.475, SD3 vs. this entry's SD2, everything else identical): the
+  entire 0.15 WIS gap resolves on that single axis — ASOIAF's world carries a civilization-ending
+  cosmological backdrop (the Long Night) and three independently corrupt institutions, more
+  totalizing than this entry's setting, where genuine if rare counter-examples (Big-Ears) show
+  progress is at least possible. Label check: "Grimdark" fits on severity — sanctioned "heroes"
+  committing genocide/infanticide, graphic torture, and an unresolved systemic injustice — even
+  though the comic retains more comedic texture (witty D&D-rules banter) than some other tier-8
+  entries; a texture difference, not a severity one, since the content driving the score is
+  sincere rather than a comedic device.
+- Added to xlsx row 129, and to tier 8 on both index.html and es/index.html, appended after
+  Violence Jack (exact score tie, existing-entries-first ordering).
 
 ### 47. The Mighty Nein — Critical Role — TV series / D&D actual-play
 

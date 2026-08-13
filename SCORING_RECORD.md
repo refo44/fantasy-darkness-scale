@@ -2696,3 +2696,30 @@ Weighted = 2.10 → Final Score = 6.225 → **Tier 6**, a three-way exact numeri
 Witcher and Final Fantasy XIV via different profiles. Cozy Fantasy = No, Hopepunk = No. Label
 check: "Dark Fantasy" fits — genuinely heavy institutional and personal trauma, but real
 recovery and a real, if fragile, peace keep it short of Tier 7's harder-edged register.
+
+## Goblins
+
+New catalog addition, not a rescore. Scored against the comic as it stands — still actively
+updating as of 2025-2026, no final resolution. Dark-comedy framing checked and rejected: critics
+flag tonal dissonance (cartoonish art vs. sincerely dark storylines), not a harmonious blend;
+the creator has stated she wrote the story's most extreme villains to process real trauma.
+
+* Structural Despair: 2 — systemic anti-goblin violence is entrenched, but genuine counter-
+  examples exist (Big-Ears' rare acceptance as a paladin) — no dominant trend either way.
+* Limited Heroism: 3 — the goblins' efforts achieve real personal survival and growth, but
+  multiple core cast members die despite it (Chief dies fighting the paladin Kore).
+* Moral Cynicism: 3 — Kore, a paladin (this genre's sanctioned "good" class), commits
+  preemptive massacres including children, unchecked by his own order.
+* Structural Corruption: 3 — the entire adventurer/paladin economy is built on treating goblins
+  as disposable prey — the comic's founding premise made literal and structural.
+* Redemption Difficulty: 3 — Big-Ears' acceptance as a goblin paladin is explicitly framed as
+  rare/exceptional, not the norm.
+* Narrative Acceptance of Injustice: 3 — still unresolved as of the comic's current status.
+* Explicit Darkness: 4 — confirmed graphic torture (Dies-Horribly tortured to death, his arm
+  cut off), infanticide themes, and a sustained major-character death toll.
+
+Weighted = 2.95 → Final Score = 8.1375 → **Tier 8**, a three-way exact numeric tie with Berserk
+(Structural Corruption 2 there vs. this entry's 3) and Violence Jack (Narrative Acceptance of
+Injustice 2 there vs. this entry's 3) via genuinely different profiles. Cozy Fantasy = No,
+Hopepunk = No. Label check: "Grimdark" fits on severity, even though the comic retains more
+comedic texture than most tier-8 entries — a texture difference, not a severity one.
