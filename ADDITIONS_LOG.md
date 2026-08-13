@@ -15,6 +15,17 @@ a quick, explicit genre check when a candidate's classification isn't obvious (e
 Jack, confirmed as "post-apocalyptic dark fantasy" with a direct demonic-mythos tie to Devilman,
 not pure post-apocalyptic sci-fi, before it was scored).
 
+Labels like "supernatural," "weird," "superhero," "horror," "space opera," and "mythical" are
+not themselves fantasy and don't get a pass (or an automatic exclusion) just for being
+genre-adjacent — each is its own case, checked on whether it has real, central fantastical
+content, not waved through or rejected by label. A "supernatural" story can be pure ghost-story
+horror with nothing mythic in it; a "space opera" can turn out to be a real fantasy hybrid once
+checked (Shadowrun: cyberpunk on the surface, but dragons run the megacorporations and magic is
+a co-equal design pillar — confirmed before adding it to the queue); a "superhero" story is
+usually its own genre, not fantasy, unless gods/magic/mythical beings are genuinely load-bearing
+to it. Run the same explicit check every time, regardless of what genre bucket the marketing or
+Wikipedia infobox puts a candidate in.
+
 Process for each item: (1) research & score against the 7 weighted criteria in the xlsx
 Methodology sheet, (2) add the row to `Evaluations` with live formulas matching the existing
 rows, (3) recalc via LibreOffice to get cached values, (4) determine tier placement, (5) add
