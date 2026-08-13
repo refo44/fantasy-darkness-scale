@@ -1959,7 +1959,7 @@ textually-confirmed governing authority who prefers cruelty as better narrative 
 Fantasy = No, Hopepunk = No — found-family/brotherly love is central, but the show isn't
 structured as an oppressed group's organized resistance to a specific institution.
 
-## Charmed
+## Charmed (1998–2006)
 
 New catalog addition, not a rescore. Scored against the complete original 8-season, 178-episode
 series (1998-2006); the 2018 CW reboot is a separate production and out of scope.

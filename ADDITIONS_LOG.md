@@ -2254,7 +2254,7 @@ reasoning in SCORING_RECORD.md.
   (20 → 21) and total-scored count (107 → 108 of 108). Updated the catalog-size mentions in both
   pages' meta/JSON-LD description tags (107 → 108).
 
-### 33. Charmed — Constance M. Burge — TV series
+### 33. Charmed (1998–2006) — Constance M. Burge — TV series
 
 - Tier 4 (Fantasy in Gray Tones), Final Score 4.65 (Weighted Internal Score 1.4) — an exact
   numeric tie with Earthsea, Avatar: The Last Airbender, Final Fantasy XII, and Grimgar: Ashes
