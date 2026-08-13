@@ -666,9 +666,10 @@ reasoning in SCORING_RECORD.md.
     to survive being slaughtered by adventurers for loot; the tone shifts dramatically over its
     run into genuine tragedy (PTSD, addiction, on-page major character deaths), repeatedly
     questioning who the real "monsters" in the story actually are — DONE, see Completed
-49. [ ] Twilight (Crepúsculo) — Stephenie Meyer — Novels, Films — the vampire-romance saga
+49. [x] Twilight (Crepúsculo) — Stephenie Meyer — Novels, Films — the vampire-romance saga
     (Twilight, New Moon, Eclipse, Breaking Dawn); consider the werewolf/vampire treaty politics,
     the Volturi as a governing vampire institution, and Bella's transformation/mortality themes
+    — DONE, see Completed
 50. [ ] Wednesday — Netflix TV series (2022– ), created by Alfred Gough & Miles Millar — a
     reimagining centered on Wednesday Addams at Nevermore Academy; murder mystery, monster-hunt,
     and outcast-persecution themes distinct in tone from the classic Addams Family properties
@@ -760,8 +761,67 @@ reasoning in SCORING_RECORD.md.
     comedy, not sincere tragedy — likely closer to the Nightmare Before Christmas pattern
     (aesthetically dark, structurally light) than to Goblins' sincere-tragedy pattern, but confirm
     this against the dark-comedy checklist established for Goblins when scored, not by default
+66. [ ] Primal — created by Genndy Tartakovsky, Adult Swim (2019-2023) — TV series — genre-
+    checked: not pure prehistoric-survival realism — Tartakovsky deliberately layers in
+    supernatural/mythical elements that escalate across the series (giant bat-creatures, an
+    ape-man bloodsport cult, eventually "a dark, lost land where everything is possible"),
+    explicitly discussed as influenced by Robert E. Howard's sword-and-sorcery tradition; follows
+    a mute Neanderthal (Spear) and a Tyrannosaurus (Fang), both mourning their own dead families,
+    surviving a series of brutal, often wordless confrontations — near-continuous graphic
+    violence and loss are the show's default register, not exceptional beats
 
 ## Completed
+
+### 49. Twilight — Stephenie Meyer — Novels, Films
+
+- Tier 4 (Fantasy in Gray Tones), Final Score 4.20 (Weighted Internal Score 1.20) — a four-way
+  exact numeric tie with The NeverEnding Story, Once Upon a Time, and The Dark Crystal, via
+  genuinely different profiles.
+- Scores: Structural Despair 0, Limited Heroism 1, Moral Cynicism 0, Structural Corruption 2,
+  Redemption Difficulty 1, Narrative Acceptance of Injustice 2, Explicit Darkness 3.
+- Scope: scored against all four novels (Twilight, New Moon, Eclipse, Breaking Dawn) and the
+  film series. The Breaking Dawn Part 2 film's battle sequence — which kills off several major
+  characters — is explicitly revealed to be Alice's vision of a possible future, not real
+  events; the canonical outcome (the books' own bloodless resolution) was used for the
+  structural axes, but the battle's imagery still counts toward Explicit Darkness since it was
+  genuinely depicted on screen.
+- Rationale: Structural Corruption (2) rests on the Volturi, the vampire world's supreme
+  governing authority, who enforce their laws (especially the ban on "immortal children") with
+  instant execution and no trial — killing not just violators but anyone who merely knows about
+  a violation and fails to report it. Narrative Acceptance of Injustice (2) follows directly:
+  the Volturi's tyranny is never challenged or reformed by the story's end, only deterred this
+  one specific time, leaving the broader injustice of their rule an unaddressed, ongoing
+  condition. Explicit Darkness (3) is carried by several real, sometimes graphic beats: James's
+  brutal attack on Bella in book one (requiring emergency intervention to stop her venom-driven
+  transformation), Victoria's "newborn army" of barely-controlled vampires raised purely as
+  disposable weapons (resolved in a large battle in Eclipse), and Bella's pregnancy and
+  childbirth in Breaking Dawn, described by critics as "the closest the franchise got to
+  horror" — her spine breaks and she nearly dies before Edward turns her at the point of death.
+  Limited Heroism (1) reflects that each individual threat (James, the newborn army, the
+  Volturi's mobilization) is genuinely, durably resolved, but the deeper institutional problem
+  (the Volturi's absolute rule) remains completely intact.
+- Cozy Fantasy = No. Hopepunk = No: a self-contained romance/action structure, not organized
+  around resisting oppression or bittersweet mortality-acceptance as its throughline.
+- Neighbor check: the four-way tie at WIS 1.20 (NeverEnding Story, Once Upon a Time, Dark
+  Crystal) each differ from this entry on multiple axes that trade off in opposite directions
+  (verified pairwise — e.g. vs. Dark Crystal: this entry trades lower Structural Despair and
+  higher Limited Heroism/Redemption Difficulty for lower Structural Corruption, netting to
+  zero), confirming a genuinely differentiated shape rather than a copy-paste default. Checked
+  further against a non-adjacent tier-4 work, Star vs. the Forces of Evil (4.9875, near the
+  tier's ceiling, SD1/LH1/MC1/SC2/RD2/NAI2/ED2): the 0.35 WIS gap resolves cleanly — Star vs.
+  the Forces of Evil carries sustained, systemic stakes across its whole run (an ongoing
+  interdimensional war, a corrupted royal institution, a real family curse) that push its
+  Structural Despair, Moral Cynicism, and Redemption Difficulty above this entry's more
+  contained, romance-centered plot, trading against this entry's higher Explicit Darkness from
+  its isolated intense scenes (the birth-horror sequence, the newborn army battle). Label check:
+  "Fantasy in Gray Tones" fits — James's attack, the newborn army, and Bella's near-fatal birth
+  are all real, high-stakes danger, but the saga's dominant register stays unambiguously
+  hopeful: no permanent losses among the core cast, found family and romantic love both triumph
+  completely by the end.
+- Added to xlsx row 130, and to tier 4 on both index.html and es/index.html, appended after The
+  Dark Crystal (exact score tie, existing-entries-first ordering); title "Twilight" in EN,
+  "Crepúsculo" in ES (the official Spanish title); medium: "Novels, Films" / "Novelas,
+  Películas".
 
 ### 48. Goblins — Tarol Hunt — Webcomic
 

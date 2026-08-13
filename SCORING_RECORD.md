@@ -2723,3 +2723,32 @@ Weighted = 2.95 → Final Score = 8.1375 → **Tier 8**, a three-way exact numer
 Injustice 2 there vs. this entry's 3) via genuinely different profiles. Cozy Fantasy = No,
 Hopepunk = No. Label check: "Grimdark" fits on severity, even though the comic retains more
 comedic texture than most tier-8 entries — a texture difference, not a severity one.
+
+## Twilight
+
+New catalog addition, not a rescore. Scored against all four novels (Twilight, New Moon,
+Eclipse, Breaking Dawn) and the film series. The Breaking Dawn Part 2 film's battle sequence is
+explicitly revealed to be Alice's vision of a possible future, not real events — the books' own
+bloodless resolution was used for the structural axes, but the battle's imagery still counts
+toward Explicit Darkness since it was genuinely depicted on screen.
+
+* Structural Despair: 0 — no systemic decline; contained threats, each fully resolved.
+* Limited Heroism: 1 — each individual threat (James, the newborn army, the Volturi's
+  mobilization) is genuinely, durably resolved, but the Volturi's absolute rule itself remains
+  completely intact.
+* Moral Cynicism: 0 — the Cullens' ethical choices are consistently rewarded.
+* Structural Corruption: 2 — the Volturi, the vampire world's supreme governing authority,
+  enforce their laws with instant execution and no trial, killing not just violators but anyone
+  who merely knows about a violation and fails to report it.
+* Redemption Difficulty: 1 — no strong redemption arc found.
+* Narrative Acceptance of Injustice: 2 — the Volturi's tyranny is deterred once but never
+  challenged or reformed, an unaddressed ongoing condition.
+* Explicit Darkness: 3 — James's brutal attack on Bella, Victoria's newborn-army battle, and
+  Bella's near-fatal pregnancy/childbirth (described by critics as "the closest the franchise
+  got to horror").
+
+Weighted = 1.20 → Final Score = 4.20 → **Tier 4**, a four-way exact numeric tie with The
+NeverEnding Story, Once Upon a Time, and The Dark Crystal via genuinely different profiles
+(verified pairwise). Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" fits
+— real high-stakes danger throughout, but the saga's dominant register stays unambiguously
+hopeful, with no permanent losses among the core cast.
