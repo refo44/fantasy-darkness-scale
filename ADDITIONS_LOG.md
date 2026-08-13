@@ -752,9 +752,10 @@ reasoning in SCORING_RECORD.md.
     (Twilight, New Moon, Eclipse, Breaking Dawn); consider the werewolf/vampire treaty politics,
     the Volturi as a governing vampire institution, and Bella's transformation/mortality themes
     — DONE, see Completed
-50. [ ] Wednesday — Netflix TV series (2022– ), created by Alfred Gough & Miles Millar — a
+50. [x] Wednesday — Netflix TV series (2022– ), created by Alfred Gough & Miles Millar — a
     reimagining centered on Wednesday Addams at Nevermore Academy; murder mystery, monster-hunt,
-    and outcast-persecution themes distinct in tone from the classic Addams Family properties
+    and outcast-persecution themes distinct in tone from the classic Addams Family properties —
+    DONE, see Completed
 51. [ ] The Addams Family — TV series — the classic macabre-but-loving sitcom family (note:
     multiple TV incarnations exist — the 1964 live-action original, the 1973 animated series,
     the 1992 animated series — decide scope/bundling when scored)
@@ -853,6 +854,55 @@ reasoning in SCORING_RECORD.md.
     violence and loss are the show's default register, not exceptional beats
 
 ## Completed
+
+### 50. Wednesday — Alfred Gough & Miles Millar — TV series
+
+- Tier 4 (Fantasy in Gray Tones), Final Score 4.9875 (Weighted Internal Score 1.55) — a
+  three-way exact numeric tie with Adventure Time and Star vs. the Forces of Evil, right at the
+  top edge of the tier.
+- Scores: Structural Despair 1, Limited Heroism 2, Moral Cynicism 1, Structural Corruption 2,
+  Redemption Difficulty 1, Narrative Acceptance of Injustice 2, Explicit Darkness 2.
+- Scope: scored against seasons 1-2, complete as of September 2025. Season 3 is confirmed but
+  unreleased and not factored in — season 2 ends on real, unresolved cliffhangers (Enid forced
+  into permanent wolf form and disappearing into the wild; Wednesday's aunt Ophelia revealed
+  alive but imprisoned, leaving a disturbing message), not a clean resolution.
+- Rationale: Structural Despair (1) reflects a severe historical atrocity baked into the
+  setting's backstory — Joseph Crackstone and the Pilgrim settlers of Jericho historically burned
+  Nevermore's founding "Outsider" community to death — without an ongoing present-day decline
+  trend. Structural Corruption (2) is grounded in season 2's reveal that Augustus Stonehurst, a
+  former Nevermore teacher, used his position inside the very school meant to protect outcasts to
+  kidnap and experiment on its students, research his daughter Judi later continued — a real
+  institutional betrayal from within, not an outside threat. Limited Heroism (2) reflects that
+  each season's central antagonist is decisively defeated (Crackstone killed in season 1, Isaac
+  Night and the Morning Song cult stopped in season 2), but new dangers keep emerging as fast as
+  the last is resolved, and the season 2 finale explicitly ends without closure. Explicit
+  Darkness (2) covers multiple on-screen murders across both seasons (a coroner, a mayor, a
+  principal, a private investigator, a former sheriff) and body-horror content (Enid's forced
+  transformation), restrained relative to the catalog's TV-MA entries given the show's TV-14
+  register.
+- Cozy Fantasy = No. Hopepunk = No: outcast solidarity is real but the show's dominant register
+  is gothic mystery-comedy, not kindness-as-organizing-value.
+- Neighbor check: exact WIS match (1.55) with Adventure Time (SD2/SC1/RD2 instead of this
+  entry's SD1/SC2/RD1) and Star vs. the Forces of Evil (LH1/RD2 instead of this entry's LH2/RD1)
+  — both verified pairwise, offsetting axes netting to zero. Checked further against a
+  non-adjacent tier-4 work, Twilight (4.20, bottom of the tier, SD0/LH1/MC0/SC2/RD1/NAI2/ED3):
+  the 0.35 gap resolves on Structural Despair, Limited Heroism, and Moral Cynicism (this entry's
+  harsher world and recurring-threat pattern) trading against Twilight's higher Explicit Darkness
+  (its isolated intense scenes — the birth-horror sequence, the newborn army battle — are more
+  graphic than this entry's more restrained violence). Given how close this sits to the Tier 5
+  boundary (only 0.10 WIS below the Tier 5 floor), also checked directly against Dragonlance
+  (5.2125, WIS 1.65, closest structural match): the gap resolves on Structural Despair and
+  Redemption Difficulty (Dragonlance's more thoroughly world-scale, costly-redemption saga) and
+  Explicit Darkness, trading against this entry's higher Limited Heroism and Narrative Acceptance
+  of Injustice — every axis has a specific, named reason for its value, not a coin-flip that
+  could easily tip into Tier 5. Label check: "Fantasy in Gray Tones" fits — real historical
+  genocide and institutional betrayal, but Wednesday and her found-family consistently defeat
+  each season's threat, keeping hope structurally dominant even at the tier's upper edge.
+- Added to xlsx row 131, and to tier 4 on both index.html and es/index.html, appended after Star
+  vs. the Forces of Evil (exact score tie, existing-entries-first ordering); title "Wednesday" in
+  EN, "Merlina" in ES (Netflix's official Latin American Spanish title; Spain uses "Miércoles"
+  instead — Latin America's larger combined audience was used as the tiebreaker); medium: "TV
+  series" / "Serie de TV".
 
 ### 49. Twilight — Stephenie Meyer — Novels, Films
 

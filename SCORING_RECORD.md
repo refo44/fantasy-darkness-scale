@@ -2752,3 +2752,36 @@ NeverEnding Story, Once Upon a Time, and The Dark Crystal via genuinely differen
 (verified pairwise). Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" fits
 — real high-stakes danger throughout, but the saga's dominant register stays unambiguously
 hopeful, with no permanent losses among the core cast.
+
+## Wednesday
+
+New catalog addition, not a rescore. Scored against seasons 1-2, complete as of September 2025;
+season 3 is confirmed but unreleased and not factored in — season 2 ends on real, unresolved
+cliffhangers (Enid, Ophelia), not a clean resolution.
+
+* Structural Despair: 1 — a severe historical atrocity is baked into the backstory (Joseph
+  Crackstone and the Pilgrim settlers burned Nevermore's founding "Outsider" community to death),
+  without an ongoing present-day decline trend.
+* Limited Heroism: 2 — each season's central antagonist is decisively defeated, but new dangers
+  keep emerging as fast as the last is resolved, and the season 2 finale explicitly ends without
+  closure.
+* Moral Cynicism: 1 — real persecution themes, but the outcast heroes are consistently
+  vindicated.
+* Structural Corruption: 2 — a former Nevermore teacher used his position inside the school
+  meant to protect outcasts to kidnap and experiment on its students, research his daughter
+  later continued — a real institutional betrayal from within.
+* Redemption Difficulty: 1 — no strong redemption arc found.
+* Narrative Acceptance of Injustice: 2 — season-level threats resolve, but the show's ongoing
+  central dangers are explicitly left open.
+* Explicit Darkness: 2 — multiple on-screen murders across both seasons and body-horror content
+  (Enid's forced transformation), restrained relative to the catalog's TV-MA entries given the
+  show's TV-14 register.
+
+Weighted = 1.55 → Final Score = 4.9875 → **Tier 4**, a three-way exact numeric tie with
+Adventure Time and Star vs. the Forces of Evil, right at the top edge of the tier — checked
+directly against the Tier 5 floor (Dragonlance, 0.10 WIS above) given how close the gap is; it
+resolves on Structural Despair, Redemption Difficulty, and Explicit Darkness (Dragonlance's more
+thoroughly world-scale, costly-redemption saga) trading against this entry's higher Limited
+Heroism and Narrative Acceptance of Injustice, not a coin-flip. Cozy Fantasy = No, Hopepunk = No.
+Label check: "Fantasy in Gray Tones" fits — real historical genocide and institutional betrayal,
+but the found-family bond keeps hope structurally dominant even at the tier's upper edge.
