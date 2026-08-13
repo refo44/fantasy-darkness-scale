@@ -26,6 +26,20 @@ usually its own genre, not fantasy, unless gods/magic/mythical beings are genuin
 to it. Run the same explicit check every time, regardless of what genre bucket the marketing or
 Wikipedia infobox puts a candidate in.
 
+Same goes for anime/tokusatsu-adjacent genre labels: "magical girl" is a demographic/format
+label (a girl protagonist with transformation powers), not a fantasy guarantee on its own — most
+magical girl shows are genuinely fantasy (mythic power sources, real supernatural stakes) but
+check rather than assume. "Isekai" (protagonist transported to another world) is not
+automatically fantasy either — plenty of isekai worlds are actually sci-fi (space/alien
+settings), game-mechanical without real myth/magic, or otherwise non-fantasy; the mere fact of
+"another world" isn't enough on its own. "Nekketsu" (hot-blooded shounen sports/rivalry stories)
+and "tokusatsu" (live-action effects-driven shows — sentai, kaiju, etc.) are format/tone labels,
+not genre: a nekketsu story can be pure sports drama with zero fantastical content, and
+tokusatsu spans everything from real fantasy/mythic content (many kaiju/henshin-hero settings)
+to essentially superhero-format sci-fi with no mythic core. Check each one the same way as
+everything else above — real, central fantastical content required, label alone proves nothing
+either direction.
+
 Process for each item: (1) research & score against the 7 weighted criteria in the xlsx
 Methodology sheet, (2) add the row to `Evaluations` with live formulas matching the existing
 rows, (3) recalc via LibreOffice to get cached values, (4) determine tier placement, (5) add
