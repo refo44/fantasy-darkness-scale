@@ -769,9 +769,9 @@ reasoning in SCORING_RECORD.md.
     reimagining centered on Wednesday Addams at Nevermore Academy; murder mystery, monster-hunt,
     and outcast-persecution themes distinct in tone from the classic Addams Family properties —
     DONE, see Completed
-51. [ ] The Addams Family — TV series — the classic macabre-but-loving sitcom family (note:
+51. [x] The Addams Family — TV series — the classic macabre-but-loving sitcom family (note:
     multiple TV incarnations exist — the 1964 live-action original, the 1973 animated series,
-    the 1992 animated series — decide scope/bundling when scored)
+    the 1992 animated series — decide scope/bundling when scored) — DONE, see Completed
 52. [ ] The Addams Family — Films — the Barry Sonnenfeld films (The Addams Family, 1991; Addams
     Family Values, 1993) and the animated films (The Addams Family, 2019; Addams Family 2, 2021)
 53. [ ] Chrono Trigger — Square (1995) — Video Game — time-travel JRPG; Lavos's apocalyptic
@@ -867,6 +867,54 @@ reasoning in SCORING_RECORD.md.
     violence and loss are the show's default register, not exceptional beats
 
 ## Completed
+
+### 51. The Addams Family (1964–1992) — Charles Addams — TV series
+
+- Tier 2 (Bright Fantasy), Final Score 2.2875 (Weighted Internal Score 0.35) — an exact
+  numeric tie with Castle in the Sky and Labyrinth, via genuinely different profiles.
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 1, Structural Corruption 0,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 0, Explicit Darkness 2.
+- Scope: bundled across the 1964 live-action original, the 1973 animated series, and the 1992
+  animated series — confirmed all three maintain a consistent tone (both animated versions
+  deliberately "toned down" the macabre content for children, and the family is described in
+  all versions as "clearly not evil... compassionate and loving"). Excludes Wednesday (already
+  its own separate entry, Tier 4) and the Barry Sonnenfeld/animated films (a separate queue
+  item, still pending).
+- Genre check: confirmed real, if lightly-played, supernatural content across versions —
+  Grandmama brews potions and flies on a broom, Morticia has canonical psychic
+  premonitions in the 1964 show, Uncle Fester generates electricity, and Thing is a genuinely
+  sentient, disembodied hand — not just spooky aesthetic dressing.
+- Rationale: this was revised twice from an initial pass, both times prompted by the user
+  directly. First revision — Explicit Darkness raised 1 → 2: the TV series (not just the later
+  film) has "bombs, explosives, dynamites, and explosions in general... featured prominently,"
+  plus guillotine-blade imagery used repeatedly as a recurring scene-transition motif — a
+  defining, recurring presence, not just occasional tension, even though nobody is ever
+  seriously hurt by it. Second revision — Moral Cynicism raised 0 → 1, after being asked to
+  check the axis *outside* the family, not just within it: the Addamses consistently extend
+  genuine warmth and hospitality to neighbors and visitors, but outsiders respond with fear,
+  disgust, and prejudice almost without exception — confirmed specifics include "the family is
+  feared by neighbors," a "snobbish neighbor insults their lineage," and visitors "almost
+  invariably... leave and don't return." That's a real case of virtue not being reliably
+  rewarded by the world around the protagonists, even though it stays gentle culture-clash
+  comedy rather than genuine harm (the family itself remains content, never punished by the
+  rejection), keeping this short of a higher score.
+- Cozy Fantasy = No: doesn't belong to the modern cozy-fantasy publishing genre, different
+  medium/category entirely. Hopepunk = No: doesn't fit any of the three variants.
+- Neighbor check: exact WIS match (0.35) with Castle in the Sky (Structural Corruption 1 instead
+  of this entry's Moral Cynicism 1) and Labyrinth (Redemption Difficulty 1 instead of this
+  entry's Moral Cynicism 1) — both differences net to zero. Checked further against a
+  non-adjacent work, Dungeons & Dragons: Honor Among Thieves (2.40, WIS 0.4): the small gap
+  resolves on Structural Corruption (Honor Among Thieves has real, if light, institutional
+  stakes this sitcom format doesn't carry) trading against this entry's higher Explicit
+  Darkness. Label check: "Bright Fantasy" fits — real, recurring darker-tinged content
+  (explosives, guillotine imagery, consistent social rejection) keeps it a notch above Tier 1's
+  true zero-conflict works, while the family's own warmth and contentment keep it well short of
+  anything heavier.
+- Added to xlsx row 132, and to tier 2 on both index.html and es/index.html, appended after
+  Labyrinth (exact score tie, existing-entries-first ordering); title "The Addams Family
+  (1964–1992)" in EN, "Los Locos Addams (1964–1992)" in ES (the classic Spanish dub title) — the
+  year range disambiguates from the still-pending "Films" queue item and from Wednesday, already
+  a separate entry; medium: "TV series" / "Serie de TV".
 
 ### 50. Wednesday — Alfred Gough & Miles Millar — TV series
 

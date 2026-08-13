@@ -2785,3 +2785,31 @@ thoroughly world-scale, costly-redemption saga) trading against this entry's hig
 Heroism and Narrative Acceptance of Injustice, not a coin-flip. Cozy Fantasy = No, Hopepunk = No.
 Label check: "Fantasy in Gray Tones" fits — real historical genocide and institutional betrayal,
 but the found-family bond keeps hope structurally dominant even at the tier's upper edge.
+
+## The Addams Family (1964–1992)
+
+New catalog addition, not a rescore. Bundled across the 1964 live-action original, the 1973
+animated series, and the 1992 animated series — confirmed consistent tone across all three.
+Genre-checked: real, if lightly-played, supernatural content (Grandmama's potions/broom,
+Morticia's psychic premonitions, Fester's electric powers, Thing as a sentient hand). Revised
+twice from an initial pass, both times prompted by the user.
+
+* Structural Despair: 0 — purely episodic sitcom, no systemic decline.
+* Limited Heroism: 0 — minor episodic conflicts resolve cleanly every time.
+* Moral Cynicism: 1 (revised from 0, after checking the axis outside the family) — the Addamses
+  consistently extend genuine warmth to neighbors and visitors, but outsiders respond with fear,
+  disgust, and prejudice almost without exception ("the family is feared by neighbors," visitors
+  "almost invariably... leave and don't return") — virtue not reliably rewarded by the world
+  around them, though it stays gentle culture-clash comedy rather than genuine harm.
+* Structural Corruption: 0 — no institutions depicted as corrupt.
+* Redemption Difficulty: 0 — no wrongdoing/redemption arcs in this format.
+* Narrative Acceptance of Injustice: 0 — no real injustice to accept or resolve.
+* Explicit Darkness: 2 (revised from 1) — bombs, explosives, and guillotine-blade imagery are
+  "featured prominently" and recur as a defining visual motif, not just occasional tension, even
+  though nobody is ever seriously hurt by it.
+
+Weighted = 0.35 → Final Score = 2.2875 → **Tier 2**, an exact numeric tie with Castle in the Sky
+and Labyrinth via genuinely different profiles. Cozy Fantasy = No, Hopepunk = No. Label check:
+"Bright Fantasy" fits — real, recurring darker-tinged content keeps it a notch above Tier 1's
+true zero-conflict works, while the family's own warmth and contentment keep it well short of
+anything heavier.
