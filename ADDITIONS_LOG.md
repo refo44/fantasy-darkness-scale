@@ -775,10 +775,10 @@ reasoning in SCORING_RECORD.md.
 52. [x] The Addams Family — Films — the Barry Sonnenfeld films (The Addams Family, 1991; Addams
     Family Values, 1993) and the animated films (The Addams Family, 2019; Addams Family 2, 2021)
     — DONE, see Completed
-53. [ ] Chrono Trigger — Square (1995) — Video Game — time-travel JRPG; Lavos's apocalyptic
+53. [x] Chrono Trigger — Square (1995) — Video Game — time-travel JRPG; Lavos's apocalyptic
     destruction of the world in 1999 (the game's default future ending unless averted), the
     genocidal Mystic/Human war, Frog's tragic backstory, and multiple alternate endings ranging
-    from full prevention to leaving Lavos's threat unresolved
+    from full prevention to leaving Lavos's threat unresolved — DONE, see Completed
 54. [ ] Forgotten Realms — TSR / Wizards of the Coast — Tabletop (D&D campaign setting), Novels —
     D&D's flagship, most mainstream high-fantasy setting (Faerûn), generally more heroic/optimistic
     in default tone than Dark Sun or Ravenloft, but with genuinely dark corners worth weighing:
@@ -868,6 +868,69 @@ reasoning in SCORING_RECORD.md.
     violence and loss are the show's default register, not exceptional beats
 
 ## Completed
+
+### 53. Chrono Trigger — Square — Video Game
+
+- Tier 3 (Moderately Bright Fantasy), Final Score 3.975 (Weighted Internal Score 1.10) — an
+  exact numeric tie with a densely-populated cluster: The Lord of the Rings, Frieren: Beyond
+  Journey's End, Black Clover, Record of Lodoss War, Final Fantasy II, and Nausicaä of the
+  Valley of the Wind.
+- Scores: Structural Despair 2, Limited Heroism 0, Moral Cynicism 0, Structural Corruption 1,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 1, Explicit Darkness 2.
+- Scope: scored against the canonical/main ending (defeating Lavos after full story
+  progression); the game's many alternate/joke endings, reachable via New Game+ or early
+  game-overs, weren't factored in.
+- Rationale: Structural Despair (2) reflects the game's own core narrative device — the opening
+  explicitly shows a ruined, dying 2300 AD as the confirmed default, unintervened trajectory
+  (Lavos erupts in 1999), a genuine competition between built-in doom and the story's own
+  demonstration that real change is achievable. Limited Heroism (0) follows from the canonical
+  ending's completeness: Lavos is destroyed permanently, not just its immediate threat — about
+  as clean a world-saving victory as this scale rewards. Structural Corruption (1) is grounded
+  in the ancient Kingdom of Zeal's real, if time-limited, class stratification (the ruling
+  "Enlightened Ones" versus the exiled surface-dwelling "Earthbound Ones") and Queen Zeal's
+  willingness to endanger her own kingdom to harness Lavos's power — a real case, but confined
+  to the past and destroyed along with Zeal itself, not an ongoing institution the party
+  contends with throughout. Redemption Difficulty (2) is carried by Magus: leader of the
+  genocidal Mystic/Human war and directly responsible for Frog's tragedy (killing his mentor
+  Cyrus, cursing Glenn into frog form), he joins the party and helps save the world but never
+  faces full reckoning, leaving alone at the end still searching for his lost sister Schala — a
+  real, only partially resolved case. Narrative Acceptance of Injustice (1) reflects that while
+  Lavos's threat resolves completely, Zeal's fall is never undone and Schala's fate remains a
+  genuine, unresolved loose thread. Explicit Darkness (2) covers real, mature themes (genocide,
+  war, apocalypse) that stay visible and central without reaching graphic depiction, consistent
+  with the game's 16-bit presentation.
+- Cozy Fantasy = No. Hopepunk = No: checked against precedent within this entry's own tied
+  cluster — only Frieren and Mushishi (of the six tied works) carry the tag, reserved for works
+  where loss-processing is the organizing thesis of the whole story, not just present as
+  backstory. Zeal's fall and Schala's fate are real losses, but Chrono Trigger's primary
+  structure is a heroic time-travel adventure to prevent apocalypse, closer in shape to The Lord
+  of the Rings, Black Clover, Record of Lodoss War, Nausicaä, and Final Fantasy II — all of
+  which sit in this same score cluster without the tag either.
+- Neighbor check: verified pairwise against all six works sharing this exact score — every
+  comparison resolves cleanly on named, offsetting axes (e.g. vs. The Lord of the Rings: trades
+  Limited Heroism for Narrative Acceptance of Injustice; vs. Nausicaä: trades Limited
+  Heroism/Moral Cynicism for a much higher Redemption Difficulty via Magus's arc). Checked
+  further against a non-adjacent work, Mushishi (3.075, bottom of the tier, WIS 0.70): the 0.40
+  gap resolves across four axes (Structural Despair, Structural Corruption, Redemption
+  Difficulty, Explicit Darkness), all driven by content Mushishi's gentle anthology format
+  doesn't carry. **Tier 4 boundary check, given how close the raw score sits to the 4.0 cutoff**
+  (only 0.025 short): checked against the actual Tier 4 floor cluster (The NeverEnding Story,
+  Once Upon a Time, The Dark Crystal, Twilight — all Final Score 4.20, a real 0.225-point gap,
+  not a coin-flip) and specifically against The NeverEnding Story (closest structural match,
+  also a "world dies unless intervened" narrative): the gap resolves cleanly, with NeverEnding
+  Story running higher on Limited Heroism/Moral Cynicism/Explicit Darkness against this entry's
+  higher Structural Corruption/Narrative Acceptance of Injustice. Also checked against Tier 4's
+  own stated definition in TIER_GUIDE.md ("Structural Corruption commonly reaches 2... and
+  Redemption Difficulty starts requiring 2") — this entry's Redemption Difficulty (2) matches
+  that bar, but its Structural Corruption (1) sits below it, since Zeal's corruption is
+  contained to the ancient past rather than a sustained, ongoing institution. Tier 3's own
+  definition, by contrast, explicitly names a "Bittersweet Hopepunk" flavor — "real, existential
+  loss... processed through connection chosen anyway" — citing Frieren, Mushishi, Final Fantasy
+  II & IV, and Nausicaä by name, which is a closer thematic match than anything in Tier 4's
+  roster. Label check: "Moderately Bright Fantasy" fits, reinforced rather than undercut by the
+  boundary check above.
+- Added to xlsx row 134, and to tier 3 on both index.html and es/index.html, appended after
+  Nausicaä of the Valley of the Wind (exact score tie, existing-entries-first ordering).
 
 ### 52. The Addams Family (1991–1993) — dir. Barry Sonnenfeld — Films
 

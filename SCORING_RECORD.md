@@ -2842,3 +2842,38 @@ Weighted = 0.60 → Final Score = 2.85 → **Tier 2**, an exact numeric tie with
 Nightmare Before Christmas via genuinely different profiles. Cozy Fantasy = No, Hopepunk = No.
 Label check: "Bright Fantasy" still fits despite the elevated Explicit Darkness — both films
 resolve with love and family unity decisively triumphing.
+
+## Chrono Trigger
+
+New catalog addition, not a rescore. Scored against the canonical/main ending (defeating Lavos
+after full story progression); the game's many alternate/joke endings weren't factored in.
+
+* Structural Despair: 2 — the opening explicitly shows a ruined 2300 AD as the confirmed
+  default, unintervened trajectory (Lavos erupts in 1999), a genuine competition between
+  built-in doom and the story's own demonstration that real change is achievable.
+* Limited Heroism: 0 — Lavos is destroyed permanently in the canonical ending, not just its
+  immediate threat.
+* Moral Cynicism: 0 — courage and virtue are directly, fully rewarded.
+* Structural Corruption: 1 — the ancient Kingdom of Zeal's real class stratification
+  (Enlightened Ones vs. exiled Earthbound Ones), but confined to the past and destroyed along
+  with Zeal itself, not an ongoing institution.
+* Redemption Difficulty: 2 — Magus, leader of the genocidal Mystic/Human war and directly
+  responsible for Frog's tragedy, joins the party but never faces full reckoning.
+* Narrative Acceptance of Injustice: 1 — Lavos's threat resolves completely, but Zeal's fall is
+  never undone and Schala's fate remains genuinely unresolved.
+* Explicit Darkness: 2 — real, mature themes (genocide, war, apocalypse) that stay visible and
+  central without reaching graphic depiction, consistent with the game's 16-bit presentation.
+
+Weighted = 1.10 → Final Score = 3.975 → **Tier 3**, an exact numeric tie with a densely
+populated cluster (The Lord of the Rings, Frieren, Black Clover, Record of Lodoss War, Final
+Fantasy II, Nausicaä) — verified pairwise against all six, every comparison resolves cleanly.
+Given how close the raw score sits to the 4.0 tier boundary (0.025 short), also checked against
+the actual Tier 4 floor (0.225-point gap, not a coin-flip) and against TIER_GUIDE.md's own
+definitions: Tier 4 expects Structural Corruption to commonly reach 2, which this entry doesn't
+(Zeal's corruption is contained to the past), while Tier 3's named "Bittersweet Hopepunk" flavor
+(real loss processed through connection chosen anyway) is a close thematic match. Cozy Fantasy =
+No, Hopepunk = No — despite Zeal's fall and Schala's fate being real losses, loss-processing
+isn't this story's organizing thesis (only Frieren and Mushishi of the six tied works carry the
+tag; this entry's shape is closer to LOTR/Black Clover/Lodoss War/Nausicaä/FFII, none of which
+carry it either). Label check: "Moderately Bright Fantasy" fits, reinforced by the boundary
+check above.
