@@ -2931,23 +2931,33 @@ multi-tier spread that justified that split.
 * Moral Cynicism: 3 — Bumby, a trusted orphanage physician, operates as a child trafficker and
   murderer for years, rewarded with social trust throughout, stopped only by his own victim's
   sister rather than any institution.
-* Structural Corruption: 2 — one predator exploiting a legitimate institutional role, not the
-  orphanage/asylum system itself designed for exploitation.
+* Structural Corruption: 3 — the orphanage guardianship is the actual operating front for a
+  child sex-trafficking ring serving "many of London's perverts and pedophiles," victims broken
+  and numbered for distribution — the institution's real function, not an anomaly within it.
 * Redemption Difficulty: 2 — scored on Alice's own arc (misplaced survivor's guilt over the
   fire, lifted only at real cost) rather than Bumby's, who receives no redemption arc at all.
-* Narrative Acceptance of Injustice: 2 — Alice's own core injustice is resolved, but the wider
-  trafficking pattern the story itself names ("as he has done with other children") is left
-  unaddressed.
+* Narrative Acceptance of Injustice: 3 — Alice's own core injustice is resolved, but the buyer
+  network and demand side of the trafficking operation the story itself names ("as he has done
+  with other children") are never addressed or dismantled — a structural condition the narrative
+  doesn't attempt to fully erase.
 * Explicit Darkness: 3 — frequent, graphic violence and body horror throughout (EA's first
   M-rated title), short of the extreme/central-and-recurring register.
 
-Weighted = 2.4 → Final Score = 6.9 → **Tier 6**, near-exact profile match with Supernatural
-(also 6.90, same weighted total redistributed between Despair and Corruption). Checked against
-a non-adjacent work, Pan's Labyrinth (6.45): correctly darker there on Redemption Difficulty and
-Narrative Acceptance of Injustice since Ofelia's fate and the surrounding regime never resolve,
-where Alice's personal core injustice does. Cozy Fantasy = No, Hopepunk = No. Label check: "Dark
-Fantasy" fits — sustained horror and institutional betrayal at personal/family scale, short of
-the world-scale systemic collapse that separates this tier from Tier 7.
+Weighted = 2.7 → Final Score = 7.575 → **Tier 7**, exact score match with Wicked (also 7.575,
+same weighted total via a different distribution: Wicked trades higher Limited Heroism for lower
+Redemption Difficulty) — a coherent parallel, both being the beloved source material reinterpreted
+as an institutionally corrupt, morally cynical tragedy. Checked against a non-adjacent Tier 7
+work, Attack on Titan (7.8): the gap resolves cleanly on AoT's higher Redemption Difficulty and
+Explicit Darkness, trading against this entry's higher Narrative Acceptance of Injustice. Cozy
+Fantasy = No, Hopepunk = No. Label check: "Extreme Dark Fantasy" fits on Structural Corruption and
+Moral Cynicism, though Limited Heroism (2) is atypically low for the tier — every Tier 6 work in
+the catalog scores Limited Heroism 1-2 while nearly every Tier 7 work scores 3; this entry sits at
+that boundary alongside Attack on Titan (also Limited Heroism 2) as the tier's other exception.
+
+Revision note: initially scored Structural Corruption 2 / Narrative Acceptance of Injustice 2
+(Tier 6, Final Score 6.9 — 0.044 weighted points under the Tier 7 threshold, the closest possible
+margin). Revised after an explicit Tier 6 vs. Tier 7 comparison surfaced that Bumby's operation is
+a functioning institutional trafficking front, not an isolated predator, per the anchors above.
 
 ## Alice in Wonderland (2010–2016)
 

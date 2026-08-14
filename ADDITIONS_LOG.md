@@ -867,9 +867,26 @@ reasoning in SCORING_RECORD.md.
 
 ### 56. American McGee's Alice (2000) / Alice: Madness Returns (2011) — Video Games
 
-- Tier 6 (Dark Fantasy), Final Score 6.9 (Weighted Internal Score 2.4).
-- Scores: Structural Despair 3, Limited Heroism 2, Moral Cynicism 3, Structural Corruption 2,
-  Redemption Difficulty 2, Narrative Acceptance of Injustice 2, Explicit Darkness 3.
+- Tier 7 (Extreme Dark Fantasy), Final Score 7.575 (Weighted Internal Score 2.7).
+- Scores: Structural Despair 3, Limited Heroism 2, Moral Cynicism 3, Structural Corruption 3,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 3, Explicit Darkness 3.
+- **Revised after an explicit Tier 6 vs. Tier 7 comparison, prompted by the user.** Initially
+  scored Structural Corruption 2 / Narrative Acceptance of Injustice 2 (Tier 6, 6.9) — landing
+  just 0.044 weighted points under the Tier 7 threshold, the closest possible margin. Comparing
+  full 7-axis profiles against both tiers surfaced a real structural marker: every Tier 6 work in
+  the catalog scores Limited Heroism at 1-2, while nearly every Tier 7 work scores it at 3 —
+  this entry's Limited Heroism (2, Alice's own fight against Bumby is genuinely and durably won)
+  argued for Tier 6 on that axis specifically. But further research into Dr. Bumby's operation
+  clarified it isn't an isolated abuse of a legitimate role — the orphanage is the actual
+  operating front for a child sex-trafficking ring serving "many of London's perverts and
+  pedophiles," with victims mentally broken and numbered for distribution — the institution's
+  real function, not an anomaly within it, matching Structural Corruption's "rooted in central
+  institutions" anchor rather than "notorious corruption in one institution, others still
+  legitimate." Narrative Acceptance of Injustice was raised alongside it for the same reason:
+  Alice's own case resolves, but the buyer network and demand side are never addressed or
+  dismantled by the story, closer to an unresolved structural condition than genuine ambivalence.
+  User's final call: Tier 7, matching Wicked's exact score (7.575) via a different axis
+  distribution — a defensible twin case, not an outlier.
 - **Genre gate:** Wonderland is explicitly framed by creator American McGee as the protagonist's
   psychological retreat, not a separately "real" world — closer to the "magical realism"/Kafka
   edge case than to a straightforward secondary-world fantasy. Resolved by checking classification
@@ -900,39 +917,46 @@ reasoning in SCORING_RECORD.md.
   whole. Moral Cynicism (3) — Bumby, a trusted orphanage physician, operates as a child trafficker
   and murderer (he set the fire that killed Alice's family to cover up raping her sister) for
   years, rewarded with social trust and access to victims throughout, stopped only by his own
-  victim's sister rather than any institution. Structural Corruption (2) — held below 3 since this
-  is one predator exploiting a legitimate institutional role (the orphanage, the medical/guardian
-  system), not those institutions being designed for exploitation; corruption is notorious but
-  localized to Bumby specifically, not systemic to the whole setting. Redemption Difficulty (2) —
-  scored on Alice's own arc, not Bumby's (he receives no redemption arc; he's killed): her
-  decade-long, ultimately misplaced survivor's guilt over the fire is only lifted at real cost
-  (repeated institutionalization, near-total psychological breakdown) once the truth surfaces.
-  Narrative Acceptance of Injustice (2) — ambivalent: Alice's own core injustice is resolved
-  (Bumby dies, her guilt is lifted, Wonderland is safe for now), but the wider pattern the story
-  itself names — "as he has done with other children" — implying an ongoing trafficking network
-  beyond just Alice, is left unaddressed. Explicit Darkness (3) — frequent, graphic violence and
-  body horror throughout both games (EA's first M-rated title; grotesque creature designs like
-  the Queen of Hearts as a tentacled fleshy monster; implied but not on-page sexual violence),
-  falling short of the extreme/central-and-recurring register that would push it to 4.
+  victim's sister rather than any institution. Structural Corruption (3) — the orphanage
+  guardianship isn't an isolated abuse of an otherwise-legitimate role; it's the operating front
+  for a child sex-trafficking ring serving "many of London's perverts and pedophiles," victims
+  mentally broken and numbered for distribution — the institution's actual function, matching
+  "injustice rooted in central institutions" rather than "notorious corruption in one institution,
+  others still legitimate." Redemption Difficulty (2) — scored on Alice's own arc, not Bumby's (he
+  receives no redemption arc; he's killed): her decade-long, ultimately misplaced survivor's guilt
+  over the fire is only lifted at real cost (repeated institutionalization, near-total
+  psychological breakdown) once the truth surfaces. Narrative Acceptance of Injustice (3) —
+  Alice's own core injustice is resolved (Bumby dies, her guilt is lifted, Wonderland is safe for
+  now), but the buyer network and demand side of the trafficking operation the story itself names
+  — "as he has done with other children" — are never addressed or dismantled, a structural
+  condition the narrative doesn't attempt to fully erase rather than genuine ambivalence. Explicit
+  Darkness (3) — frequent, graphic violence and body horror throughout both games (EA's first
+  M-rated title; grotesque creature designs like the Queen of Hearts as a tentacled fleshy
+  monster; implied but not on-page sexual violence), falling short of the extreme/central-and-
+  recurring register that would push it to 4.
 - Cozy Fantasy = No. Hopepunk = No: real, hard-won recovery from real trauma, not organized around
   resisting an active oppressive system (Fierce) or accepting existential loss (Bittersweet) as
   its throughline — closer to straightforward psychological-horror survival.
-- Neighbor check: near-exact match with Supernatural (also 6.90, SD2/LH2/MC3/SC3/RD2/NAI2/ED3 vs.
-  this entry's SD3/LH2/MC3/SC2/RD2/NAI2/ED3 — same weighted total, redistributed between Despair
-  and Corruption) — a coherent parallel, both centered on recurring family trauma and horror
-  antagonists eventually overcome at real personal cost. Checked further against a non-adjacent
-  work, Pan's Labyrinth (6.45, SD2/LH2/MC2/SC3/RD0/NAI3/ED4): a structurally similar case (a
-  child's fantastical retreat coping with real trauma/oppression), but correctly darker on
-  Redemption Difficulty and Narrative Acceptance of Injustice since Ofelia's fate and the
-  surrounding fascist regime are never resolved, where Alice's personal core injustice actually
-  is. Label check: "Dark Fantasy" fits — real, sustained horror and institutional betrayal, but at
-  personal/family scale rather than the world-scale systemic collapse that separates this tier
-  from Tier 7 (Attack on Titan, Sweet Tooth, Wicked).
-- Added to xlsx row 137, and to tier 6 on both index.html and es/index.html, appended after
-  Supernatural (exact score tie, existing-entries-first ordering); title kept as English
-  ("American McGee's Alice / Alice: Madness Returns") in both EN and ES versions, matching the
-  precedent of untranslated video-game titles like The Witcher and Made in Abyss; medium: "Video
-  Games" / "Videojuegos".
+- Neighbor check: matches Wicked's exact score (7.575) via a different axis distribution
+  (Wicked: SD3/LH3/MC3/SC3/RD1/NAI3/ED3 vs. this entry's SD3/LH2/MC3/SC3/RD2/NAI3/ED3 — Wicked
+  trades higher Limited Heroism for lower Redemption Difficulty) — a coherent parallel, both being
+  "the beloved source material's world, reinterpreted as an institutionally corrupt, morally
+  cynical tragedy." Checked further against a non-adjacent Tier 7 work, Attack on Titan (7.8,
+  SD3/LH2/MC3/SC3/RD3/NAI2/ED4): the 0.225 gap resolves cleanly — AoT carries a higher Redemption
+  Difficulty (its cast's moral compromises are far harder to walk back) and Explicit Darkness
+  (large-scale battlefield gore vs. this entry's more contained, largely implied violence),
+  trading against this entry's higher Narrative Acceptance of Injustice. Label check: "Extreme
+  Dark Fantasy" fits on Structural Corruption and Moral Cynicism (a real, functioning exploitation
+  institution, virtue unrewarded for years) even though Limited Heroism (2) is atypically low for
+  the tier — every other Tier 6 work in the catalog scores Limited Heroism 1-2 while nearly every
+  Tier 7 work scores 3, so this entry sits at the boundary on that specific axis, matching Attack
+  on Titan (also Limited Heroism 2) as the tier's other exception rather than being an outlier
+  within it.
+- Added to xlsx row 137, and to tier 7 on both index.html and es/index.html, appended after Wicked
+  (exact score tie, existing-entries-first ordering); title kept as English ("American McGee's
+  Alice / Alice: Madness Returns") in both EN and ES versions, matching the precedent of
+  untranslated video-game titles like The Witcher and Made in Abyss; medium: "Video Games" /
+  "Videojuegos".
 
 ### 55. Alice in Wonderland (2010–2016) — dir. Tim Burton — Films
 
