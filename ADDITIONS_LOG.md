@@ -794,13 +794,8 @@ reasoning in SCORING_RECORD.md.
     the Red Queen's moat) absent from the source novels, scored separately from the "Alice in
     Wonderland" novels entry (Tier 2) per the same logic that kept Wicked separate from The
     Wizard of Oz — DONE, see Completed
-56. [ ] American McGee's Alice (2000) / Alice: Madness Returns (2011) — video games — psychological
-    horror reimagining: Alice's family dies in a house fire, she's institutionalized and
-    suicidal, and "Wonderland" becomes an explicit, hostile metaphor for her fractured psyche
-    (the Mad Hatter as her doctor, the Jabberwock as her survivor's guilt); graphic violence
-    throughout, likely several tiers darker than the novels — kept separate rather than bundled,
-    same logic that split Final Fantasy I, II & XII apart instead of forcing one score on a wide
-    severity spread
+56. [x] American McGee's Alice (2000) / Alice: Madness Returns (2011) — video games — DONE, see
+    Completed
 57. [ ] Return to Oz — dir. Walter Murch (1985) — Film — based on Baum's 2nd/3rd Oz novels (The
     Marvelous Land of Oz, Ozma of Oz), not the first book; confirmed genuinely disturbing —
     opens with Dorothy about to undergo electroshock therapy in an asylum to "cure" her of
@@ -869,6 +864,75 @@ reasoning in SCORING_RECORD.md.
     violence and loss are the show's default register, not exceptional beats
 
 ## Completed
+
+### 56. American McGee's Alice (2000) / Alice: Madness Returns (2011) — Video Games
+
+- Tier 6 (Dark Fantasy), Final Score 6.9 (Weighted Internal Score 2.4).
+- Scores: Structural Despair 3, Limited Heroism 2, Moral Cynicism 3, Structural Corruption 2,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 2, Explicit Darkness 3.
+- **Genre gate:** Wonderland is explicitly framed by creator American McGee as the protagonist's
+  psychological retreat, not a separately "real" world — closer to the "magical realism"/Kafka
+  edge case than to a straightforward secondary-world fantasy. Resolved by checking classification
+  rather than assuming either way: both games are consistently marketed and reviewed as dark
+  fantasy (Wikipedia and contemporary press both classify the first game specifically as a
+  "third-person dark fantasy action-adventure"), the setting is populated with genuine fantastical
+  content carried over from Carroll's own established Wonderland (Cheshire Cat, Mad Hatter, Queen
+  of Hearts, Jabberwock), and even the game's own ambiguity about what's "real" vs. psychological
+  keeps it short of pure allegory — passes the gate.
+- **Bundle-vs-split decision:** kept as one entry rather than split like Final Fantasy I, II & XII.
+  Estimated separately, the first game alone (Wonderland corrupted then fully restored, no
+  real-world institutional reveal yet) would land near Tier 5, and the second alone (the Dr. Bumby
+  reveal) near Tier 6 — a one-tier gap, much narrower than the multi-tier spread that justified
+  splitting the Final Fantasy anthology entries apart. Madness Returns is also a direct narrative
+  sequel following the same protagonist through a single continuous arc, not a reboot or a
+  different cast/setting — matching the "single ongoing narrative" bundling precedent (A Song of
+  Ice and Fire, The First Law, Stormlight) rather than the "distinct works sharing a IP" pattern
+  that kept Vox Machina and The Mighty Nein separate.
+- Rationale: Structural Despair (3) — Wonderland opens already decayed/dying in both games (ruled
+  by a monstrous Queen of Hearts in the first; being physically devoured by the Dollmaker's
+  Infernal Train in the second), and the first game's apparent full restoration doesn't hold —
+  Wonderland has relapsed into a worse state by the second game's opening, matching "stagnation
+  predominant, improvement is the exception" rather than a world Alice's efforts have permanently
+  doomed. Limited Heroism (2) — Alice's first-game victory resolves the immediate threat but
+  leaves the actual root cause (Dr. Bumby, still active in the real world) untouched, requiring a
+  second full cycle of suffering before she achieves a genuine, lasting fix by confronting him
+  directly; even then, Wonderland ends the second game "damaged but safe for now," not fully
+  whole. Moral Cynicism (3) — Bumby, a trusted orphanage physician, operates as a child trafficker
+  and murderer (he set the fire that killed Alice's family to cover up raping her sister) for
+  years, rewarded with social trust and access to victims throughout, stopped only by his own
+  victim's sister rather than any institution. Structural Corruption (2) — held below 3 since this
+  is one predator exploiting a legitimate institutional role (the orphanage, the medical/guardian
+  system), not those institutions being designed for exploitation; corruption is notorious but
+  localized to Bumby specifically, not systemic to the whole setting. Redemption Difficulty (2) —
+  scored on Alice's own arc, not Bumby's (he receives no redemption arc; he's killed): her
+  decade-long, ultimately misplaced survivor's guilt over the fire is only lifted at real cost
+  (repeated institutionalization, near-total psychological breakdown) once the truth surfaces.
+  Narrative Acceptance of Injustice (2) — ambivalent: Alice's own core injustice is resolved
+  (Bumby dies, her guilt is lifted, Wonderland is safe for now), but the wider pattern the story
+  itself names — "as he has done with other children" — implying an ongoing trafficking network
+  beyond just Alice, is left unaddressed. Explicit Darkness (3) — frequent, graphic violence and
+  body horror throughout both games (EA's first M-rated title; grotesque creature designs like
+  the Queen of Hearts as a tentacled fleshy monster; implied but not on-page sexual violence),
+  falling short of the extreme/central-and-recurring register that would push it to 4.
+- Cozy Fantasy = No. Hopepunk = No: real, hard-won recovery from real trauma, not organized around
+  resisting an active oppressive system (Fierce) or accepting existential loss (Bittersweet) as
+  its throughline — closer to straightforward psychological-horror survival.
+- Neighbor check: near-exact match with Supernatural (also 6.90, SD2/LH2/MC3/SC3/RD2/NAI2/ED3 vs.
+  this entry's SD3/LH2/MC3/SC2/RD2/NAI2/ED3 — same weighted total, redistributed between Despair
+  and Corruption) — a coherent parallel, both centered on recurring family trauma and horror
+  antagonists eventually overcome at real personal cost. Checked further against a non-adjacent
+  work, Pan's Labyrinth (6.45, SD2/LH2/MC2/SC3/RD0/NAI3/ED4): a structurally similar case (a
+  child's fantastical retreat coping with real trauma/oppression), but correctly darker on
+  Redemption Difficulty and Narrative Acceptance of Injustice since Ofelia's fate and the
+  surrounding fascist regime are never resolved, where Alice's personal core injustice actually
+  is. Label check: "Dark Fantasy" fits — real, sustained horror and institutional betrayal, but at
+  personal/family scale rather than the world-scale systemic collapse that separates this tier
+  from Tier 7 (Attack on Titan, Sweet Tooth, Wicked).
+- Added to xlsx row 137, and to tier 6 on both index.html and es/index.html, appended after
+  Supernatural (exact score tie, existing-entries-first ordering); title kept as English
+  ("American McGee's Alice / Alice: Madness Returns") in both EN and ES versions, matching the
+  precedent of untranslated video-game titles like The Witcher and Made in Abyss; medium: "Video
+  Games" / "Videojuegos".
 
 ### 55. Alice in Wonderland (2010–2016) — dir. Tim Burton — Films
 

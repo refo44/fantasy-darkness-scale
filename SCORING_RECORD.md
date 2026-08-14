@@ -2911,6 +2911,44 @@ corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" 
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
 
+## American McGee's Alice (2000) / Alice: Madness Returns (2011)
+
+New catalog addition. Genre gate: Wonderland is explicitly the protagonist's psychological
+retreat per creator American McGee, not a separately "real" world — resolved via classification
+check (both games consistently marketed/reviewed as dark fantasy; the first is specifically
+described as "third-person dark fantasy action-adventure") rather than assumed either way.
+Bundled the two games as one entry (a direct narrative sequel following the same protagonist's
+single continuous arc, not a reboot) rather than split like Final Fantasy I/II/XII — the
+per-game severity gap (game 1 alone ~Tier 5, game 2 alone ~Tier 6) is far narrower than the
+multi-tier spread that justified that split.
+
+* Structural Despair: 3 — Wonderland opens already decayed in both games, and the first game's
+  apparent full restoration doesn't hold — it has relapsed into a worse state by the second
+  game's opening.
+* Limited Heroism: 2 — the first game's victory resolves the immediate threat but leaves the
+  actual root cause (Dr. Bumby) untouched; only a second full cycle of suffering produces a
+  lasting fix, and even then Wonderland ends only "damaged but safe for now."
+* Moral Cynicism: 3 — Bumby, a trusted orphanage physician, operates as a child trafficker and
+  murderer for years, rewarded with social trust throughout, stopped only by his own victim's
+  sister rather than any institution.
+* Structural Corruption: 2 — one predator exploiting a legitimate institutional role, not the
+  orphanage/asylum system itself designed for exploitation.
+* Redemption Difficulty: 2 — scored on Alice's own arc (misplaced survivor's guilt over the
+  fire, lifted only at real cost) rather than Bumby's, who receives no redemption arc at all.
+* Narrative Acceptance of Injustice: 2 — Alice's own core injustice is resolved, but the wider
+  trafficking pattern the story itself names ("as he has done with other children") is left
+  unaddressed.
+* Explicit Darkness: 3 — frequent, graphic violence and body horror throughout (EA's first
+  M-rated title), short of the extreme/central-and-recurring register.
+
+Weighted = 2.4 → Final Score = 6.9 → **Tier 6**, near-exact profile match with Supernatural
+(also 6.90, same weighted total redistributed between Despair and Corruption). Checked against
+a non-adjacent work, Pan's Labyrinth (6.45): correctly darker there on Redemption Difficulty and
+Narrative Acceptance of Injustice since Ofelia's fate and the surrounding regime never resolve,
+where Alice's personal core injustice does. Cozy Fantasy = No, Hopepunk = No. Label check: "Dark
+Fantasy" fits — sustained horror and institutional betrayal at personal/family scale, short of
+the world-scale systemic collapse that separates this tier from Tier 7.
+
 ## Alice in Wonderland (2010–2016)
 
 New catalog addition, not a rescore. Kept separate from the "Alice in Wonderland" novels entry
