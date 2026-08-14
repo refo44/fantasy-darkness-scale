@@ -2910,3 +2910,27 @@ below both Baldur's Gate III and Drizzt (5.55, Tier 5), its own darkest specific
 corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" fits, and
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
+
+## Alice in Wonderland (2010–2016)
+
+New catalog addition, not a rescore. Kept separate from the "Alice in Wonderland" novels entry
+(Tier 2, 2.0625) — both films are confirmed original stories, not retellings of Carroll's plot,
+matching the "genuinely different story" pattern (Wicked, Age of Resistance) rather than the
+"same story, different intensity" fold-in pattern (Eragon's film, Dresden Files' TV show).
+
+* Structural Despair: 0 — both films' central conflicts resolve completely and durably.
+* Limited Heroism: 0 — legitimate rule restored (2010); the Hatter's family reunited alive
+  (2016) — an apparent tragedy genuinely undone, not just softened.
+* Moral Cynicism: 0 — courage and loyalty are directly, fully rewarded.
+* Structural Corruption: 2 — unlike the source novel, where the Queen of Hearts "executes
+  nobody," this film's Red Queen genuinely carries out executions (a servant killed for eating
+  tarts, her own husband executed) — a real, notorious tyranny, though corrected by a legitimate
+  alternative (the White Queen).
+* Redemption Difficulty: 0 — no redemption arc; the Red Queen is banished, not reformed.
+* Narrative Acceptance of Injustice: 0 — both films' core injustices are fully resolved.
+* Explicit Darkness: 2 — real, frequent violent content (eye trauma, sword violence, on-screen
+  executions, a graphic decapitation) confirmed beyond the source material's register.
+
+Weighted = 0.50 → Final Score = 2.625 → **Tier 2**, an exact 7-axis profile match with The
+Wizard of Oz (both "a fairy-tale villain runs a real, contained tyranny, corrected cleanly by
+the story's end"). Cozy Fantasy = No, Hopepunk = No. Label check: "Bright Fantasy" fits.

@@ -787,13 +787,13 @@ reasoning in SCORING_RECORD.md.
     Dragon as recurring corrupt/villainous institutions, and Icewind Dale's bleaker frontier
     survival stories; decide scope (core setting + Drizzt novels vs. also the CRPGs) when scored
     — DONE, see Completed
-55. [ ] Alice in Wonderland (2010) / Alice Through the Looking Glass (2016) — dir. Tim Burton —
+55. [x] Alice in Wonderland (2010) / Alice Through the Looking Glass (2016) — dir. Tim Burton —
     Films — not a retelling of Carroll's plot but an original "return to Underland" story where
     an adult Alice must slay the Jabberwocky in an actual war between the Red and White Queens'
     courts; confirmed real violence (repeated ocular trauma, severed/rotting heads floating in
     the Red Queen's moat) absent from the source novels, scored separately from the "Alice in
     Wonderland" novels entry (Tier 2) per the same logic that kept Wicked separate from The
-    Wizard of Oz
+    Wizard of Oz — DONE, see Completed
 56. [ ] American McGee's Alice (2000) / Alice: Madness Returns (2011) — video games — psychological
     horror reimagining: Alice's family dies in a house fire, she's institutionalized and
     suicidal, and "Wonderland" becomes an explicit, hostile metaphor for her fractured psyche
@@ -869,6 +869,61 @@ reasoning in SCORING_RECORD.md.
     violence and loss are the show's default register, not exceptional beats
 
 ## Completed
+
+### 55. Alice in Wonderland (2010–2016) — dir. Tim Burton — Films
+
+- Tier 2 (Bright Fantasy), Final Score 2.625 (Weighted Internal Score 0.50) — an exact 7-axis
+  profile match with The Wizard of Oz, not just a numeric tie.
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 0, Structural Corruption 2,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 0, Explicit Darkness 2.
+- **Bundle-vs-split decision, revisited explicitly per the user's direct question:** kept
+  separate from the "Alice in Wonderland" novels entry (Tier 2, 2.0625) rather than folded in.
+  The rule used elsewhere this session — fold a lighter/harder adaptation into its source entry
+  when it tells the *same story* at different intensity (Eragon's film, Dresden Files' TV show)
+  — doesn't apply here: both Burton films are confirmed original stories, not retellings of
+  Carroll's plot, matching the "genuinely different story" pattern that earned Wicked and Age of
+  Resistance their own slots rather than the "same story, different intensity" pattern. Scale
+  also supports it: two full features, one of the highest-grossing films of its era (over $1B),
+  with a lasting cultural footprint as the default modern-Hollywood Alice for much of the
+  audience that's seen it — clearing the same bar Wicked and Age of Resistance cleared. (Noted
+  explicitly, since it was raised directly: this isn't gated on critical acclaim — Twilight and
+  Fourth Wing both have entries despite mixed reviews — but on being a distinct, substantial
+  work, which these films are, even though they're more "a Tim Burton movie" stylistically than
+  a celebrated standalone reinterpretation.)
+- Rationale: Structural Corruption (2) is grounded in a confirmed, direct contrast with the
+  source novel: unlike the book, where the Gryphon states outright that the Queen of Hearts
+  "executes nobody," the Red Queen in this film genuinely, actively carries out executions — a
+  frog servant killed for eating her tarts despite having a family, her own husband executed out
+  of paranoia — a real, notorious tyranny enforced through state power (an executioner, armored
+  card soldiers), though it coexists with and is ultimately corrected by a legitimate alternative
+  (the White Queen's court). Structural Despair, Limited Heroism, and Moral Cynicism all bottom
+  out at 0 since both films' central conflicts resolve completely and durably: Alice slays the
+  Jabberwocky and legitimate rule is restored (2010); the Hatter's family, believed killed in a
+  dragon attack, is discovered to have actually survived (merely shrunk, not dead) and is
+  reunited with him once time is stabilized (2016) — an apparent tragedy genuinely undone, not
+  just softened. Explicit Darkness (2) covers real, frequent violent content confirmed beyond
+  the source material's register — eye-plucking, eye-poking, sword violence, on-screen
+  executions, and Alice's own graphic decapitation of the Jabberwocky — intense for a PG rating,
+  though stopping short of true graphic/gory depiction.
+- Cozy Fantasy = No. Hopepunk = No: adventure/prophecy driven, not organized around resisting
+  oppression or bittersweet mortality-acceptance as its throughline.
+- Neighbor check: exact 7-axis profile match with The Wizard of Oz (both SD0/LH0/MC0/SC2/RD0/
+  NAI0/ED2) — a coherent parallel, not a coincidence, since both are "a fairy-tale villain runs
+  a real, contained tyranny, corrected cleanly by the story's end" cases (Oz's Wicked Witch
+  enslaving the Winkies; here, the Red Queen's carried-out executions). Also exact WIS match with
+  Harry Potter and the Chamber of Secrets (SC1/NAI1 instead of this entry's SC2/NAI0, nets to
+  zero) and The Little Prince (SD1/MC1/SC0 instead of SD0/MC0/SC2, nets to zero). Checked further
+  against a non-adjacent work, The Chronicles of Narnia (2.9625, WIS 0.65,
+  SD1/LH0/MC0/SC1/RD1/NAI0/ED2): the 0.15 gap resolves cleanly — Narnia carries real mythic-
+  despair elements (the White Witch's long winter, Aslan's sacrifice) and a genuine redemption
+  case (Edmund's betrayal and forgiveness) this entry doesn't have, trading against this entry's
+  higher Structural Corruption. Label check: "Bright Fantasy" fits — real tyranny and violence,
+  but everything resolves cleanly with virtue fully triumphant, matching its exact profile-twin,
+  The Wizard of Oz.
+- Added to xlsx row 136, and to tier 2 on both index.html and es/index.html, appended after The
+  Wizard of Oz (exact score tie, existing-entries-first ordering); title "Alice in Wonderland
+  (2010–2016)" in EN, "Alicia en el país de las maravillas (2010–2016)" in ES; medium: "Films" /
+  "Películas".
 
 ### 54. Forgotten Realms — TSR / Wizards of the Coast — Tabletop (D&D campaign setting), Novels
 
