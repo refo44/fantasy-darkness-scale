@@ -796,13 +796,7 @@ reasoning in SCORING_RECORD.md.
     Wizard of Oz — DONE, see Completed
 56. [x] American McGee's Alice (2000) / Alice: Madness Returns (2011) — video games — DONE, see
     Completed
-57. [ ] Return to Oz — dir. Walter Murch (1985) — Film — based on Baum's 2nd/3rd Oz novels (The
-    Marvelous Land of Oz, Ozma of Oz), not the first book; confirmed genuinely disturbing —
-    opens with Dorothy about to undergo electroshock therapy in an asylum to "cure" her of
-    believing in Oz, features a hall of living disembodied heads, and depicts a transformed,
-    near-post-apocalyptic Oz ruled by the unsettling Wheelers; multiple retrospectives call it
-    "the most terrifying Disney movie ever made" — kept separate from the original Wizard of Oz
-    entry (Tier 2) for the same reason Wicked stayed separate from it
+57. [x] Return to Oz — dir. Walter Murch (1985) — Film — DONE, see Completed
 58. [x] Violence Jack — Go Nagai — Manga — DONE, see Completed
 60. [ ] Ravenloft — TSR / Wizards of the Coast — Tabletop (D&D campaign setting), Novels —
     gothic horror setting: the Demiplane of Dread, an inescapable prison of fog-bound "domains,"
@@ -864,6 +858,68 @@ reasoning in SCORING_RECORD.md.
     violence and loss are the show's default register, not exceptional beats
 
 ## Completed
+
+### 57. Return to Oz — dir. Walter Murch (1985) — Film
+
+- Tier 3 (Moderately Bright Fantasy), Final Score 3.4125 (Weighted Internal Score 0.85).
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 1, Structural Corruption 2,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 0, Explicit Darkness 4.
+- **Genre gate:** trivial — same established Oz-verse as the existing Wizard of Oz entry
+  (Tier 2), based on Baum's 2nd/3rd Oz novels (The Marvelous Land of Oz, Ozma of Oz) rather than
+  the first book. Kept as its own entry, not folded into The Wizard of Oz, for the same
+  "genuinely different story, not a retelling" reason Wicked and Alice in Wonderland
+  (2010–2016) earned their own slots.
+- **Relevance check, raised explicitly by the user before scoring:** considered omitting this
+  entry since its thematic profile (six of seven axes at 0-1) lands it almost exactly on top of
+  existing catalog twins, and its dark reputation rests almost entirely on the single
+  lowest-weighted axis (Explicit Darkness). Kept in: it's a clean, well-documented standalone
+  work under an already-cataloged fantasy setting, and it's arguably the sharpest available
+  illustration of the surface-vs-theme divergence `CRITERIA_THEORY.md` already flags as
+  theoretically important (a more extreme, better-documented case of the same pattern The
+  Nightmare Before Christmas exemplifies) — a legitimate way for a work to earn its place on this
+  scale, not a category mismatch.
+- **Score revision, prompted by an explicit user request to rescore and compare against Tier 2
+  and Tier 3 profiles:** the first pass scored Moral Cynicism 0 and Explicit Darkness 3 (Tier 2,
+  2.85). Both were revised up on review: Moral Cynicism to 1, matching the reasoning already on
+  record for The Nightmare Before Christmas's own MC1 ("sincerity dismissed until vindicated") —
+  Dorothy's honesty about Oz is met with forced institutionalization and a scheduled electroshock
+  "cure," a more severe version of the same pattern (institutionalized and nearly tortured, not
+  just ignored, before vindication). Explicit Darkness raised to 4 since Mombi's wall of living,
+  swappable severed heads is genuine recurring body horror, not just atmospheric dread — a
+  different register than the ED3 ceiling of its closest genre-siblings (Nightmare Before
+  Christmas, Willow, Dark Crystal, The NeverEnding Story). Structural Corruption was also
+  reconsidered (2 vs. 3, given a second corrupt institution — the sanitarium — exists alongside
+  the Nome King's Oz) but held at 2: Dr. Worley's electrotherapy reads as one reckless doctor's
+  era-appropriate-but-brutal malpractice, not an institution built to perpetuate harm, unlike
+  American McGee's Alice's Bumby, where the orphanage was literally a trafficking front. Net
+  effect: Tier 2 → Tier 3.
+- Rationale: Structural Despair (0), Limited Heroism (0), Redemption Difficulty (0), and
+  Narrative Acceptance of Injustice (0) all bottom out since both plot threads — the Oz
+  conquest (the Nome King's rule, Emerald City's citizens turned to stone) and the frame story
+  (Dorothy's abusive sanitarium) — resolve completely and durably: Oz and its people are fully
+  restored, the sanitarium burns down, Dr. Worley dies, his nurse-accomplice is arrested, and
+  Ozma confirms Dorothy's experiences were real. Moral Cynicism (1) and Structural Corruption (2)
+  as detailed above. Explicit Darkness (4) as detailed above, further supported by the
+  electroshock opening, the Wheelers, and a near-cannibalism scene; multiple contemporary
+  retrospectives call this "the most terrifying Disney movie ever made."
+- Cozy Fantasy = No. Hopepunk = No: a straightforward child-hero adventure, not organized around
+  resisting an oppressive system or accepting mortality as its throughline.
+- Neighbor check: exact score match with Baldur's Gate I (also 3.4125) via a very different axis
+  distribution (BG1: SD1/LH1/MC1/SC1/RD1/NAI0/ED1, spread evenly across six axes; this entry:
+  SD0/LH0/MC1/SC2/RD0/NAI0/ED4, concentrated in Cynicism/Corruption/Explicit Darkness) — a
+  coherent tie, not a coincidence: both are "mostly light stories carrying one or two genuinely
+  sharp edges" cases, just with the edges in different places. Checked further against a
+  non-adjacent Tier 3 work, Discworld (3.75, SD1/LH1/MC1/SC1/RD1/NAI1/ED1): the gap resolves
+  cleanly — Discworld's darkness is diffuse low-grade cynicism across every axis with nothing
+  visually intense, the inverse shape of this entry's near-zero thematic profile paired with a
+  maxed Explicit Darkness. Label check: "Moderately Bright Fantasy" fits — the story itself is
+  about as clean and fully-resolved as fantasy gets, but the packaging is unusually intense for
+  its genre, correctly separating it from Tier 2 works like The Wizard of Oz that carry a similar
+  thematic profile without the visual intensity.
+- Added to xlsx row 138, and to tier 3 on both index.html and es/index.html, appended after
+  Baldur's Gate I (exact score tie, existing-entries-first ordering); title "Return to Oz" in EN,
+  "Regreso a Oz" in ES (the official Spanish release title, matching "El Mago de Oz" convention
+  for the franchise); medium: "Film" / "Película".
 
 ### 56. American McGee's Alice (2000) / Alice: Madness Returns (2011) — Video Games
 

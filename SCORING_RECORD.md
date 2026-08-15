@@ -2911,6 +2911,50 @@ corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" 
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
 
+## Return to Oz (1985)
+
+New catalog addition. Genre gate trivial — same established Oz-verse as the existing Wizard of
+Oz entry (Tier 2), based on Baum's 2nd/3rd Oz novels rather than the first book; kept as its own
+entry for the same "genuinely different story" reason Wicked and Alice in Wonderland
+(2010–2016) earned separate slots. Relevance was raised explicitly before scoring (six of seven
+axes land at 0-1, and its dark reputation rests almost entirely on Explicit Darkness) but kept
+in as a sharp, well-documented illustration of the surface-vs-theme divergence this scale's
+methodology already tracks.
+
+* Structural Despair: 0 — the Oz plot (Nome King's conquest) and the frame story (the abusive
+  sanitarium) both resolve completely: Oz and its people are fully restored, the sanitarium
+  burns down.
+* Limited Heroism: 0 — Dorothy's actions durably fix both the fantasy and real-world threats,
+  no ambiguity left standing.
+* Moral Cynicism: 1 — Dorothy's honesty about Oz is initially met with forced
+  institutionalization and a scheduled electroshock "cure" rather than belief, the same
+  "sincerity dismissed until vindicated" pattern already on record for The Nightmare Before
+  Christmas's MC1, here more severe before vindication arrives.
+* Structural Corruption: 2 — matches the same "one real, contained tyranny, corrected cleanly"
+  shape already scored for The Wizard of Oz and Alice in Wonderland (2010–2016); the sanitarium
+  was weighed as a second corrupt institution but held out of this count since Dr. Worley's
+  electrotherapy reads as one reckless doctor's era-appropriate-but-brutal malpractice, not an
+  institution built to perpetuate harm.
+* Redemption Difficulty: 0 — no character requires moral repair.
+* Narrative Acceptance of Injustice: 0 — every injustice in the story is fully resolved by the
+  ending.
+* Explicit Darkness: 4 — Mombi's wall of living, swappable severed heads is genuine recurring
+  body horror, not just atmosphere, on top of the electroshock opening, the Wheelers, and a
+  near-cannibalism scene — a different register than the ED3 ceiling of its closest genre-
+  siblings (Nightmare Before Christmas, Willow, Dark Crystal, The NeverEnding Story). Multiple
+  retrospectives call this "the most terrifying Disney movie ever made."
+
+Weighted = 0.85 → Final Score = 3.4125 → **Tier 3**, exact score match with Baldur's Gate I via a
+very different axis distribution (BG1 spreads 1s evenly across six axes; this entry concentrates
+in Cynicism/Corruption/Explicit Darkness). Checked against a non-adjacent Tier 3 work, Discworld
+(3.75): the gap resolves cleanly on Discworld's diffuse low-grade cynicism vs. this entry's
+near-zero thematic profile paired with maxed Explicit Darkness. Cozy Fantasy = No, Hopepunk = No.
+Label check: "Moderately Bright Fantasy" fits.
+
+Revision note: initially scored Moral Cynicism 0 / Explicit Darkness 3 (Tier 2, Final Score
+2.85). Both revised up after the user asked for an explicit rescore-and-compare against Tier 2
+and Tier 3 profiles — see rationale above.
+
 ## American McGee's Alice (2000) / Alice: Madness Returns (2011)
 
 New catalog addition. Genre gate: Wonderland is explicitly the protagonist's psychological
