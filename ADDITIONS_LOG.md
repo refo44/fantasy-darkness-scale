@@ -932,8 +932,12 @@ reasoning in SCORING_RECORD.md.
   executives are "utterly amoral" and thrive on it, held below 4 since genuine moral stances are
   shown as rare-but-real (Lofwyr's surprise at a shadowrunner's moral refusal to use the virus,
   rather than morality being treated as nonexistent). Redemption Difficulty (2) since moral
-  action is shown as possible at real cost, with no stronger textual signal of redemption-denial
-  than that. Narrative Acceptance of Injustice (4) is the genre's own defining convention,
+  action is shown as possible at real cost — strengthened on later self-audit (prompted by the
+  user checking for possible bias across this run of additions) with a concrete example rather
+  than resting on an absence of counter-evidence: Shadowrun: Hong Kong's protagonist has a
+  central arc built around reconciling with an estranged foster father and brother after years of
+  prison-caused separation, real reconciliation achieved at real emotional cost. Narrative
+  Acceptance of Injustice (4) is the genre's own defining convention,
   confirmed directly by Dragonfall's ending — the core injustice (corporate rule) is never
   addressed by design, not just left open. Explicit Darkness (4) for organ-legging (including
   forced-breeding operations using kidnapped women "as machines to produce fetuses"), BTL chip
@@ -961,9 +965,12 @@ reasoning in SCORING_RECORD.md.
 - Scores: Structural Despair 4, Limited Heroism 3, Moral Cynicism 2, Structural Corruption 4,
   Redemption Difficulty 4, Narrative Acceptance of Injustice 4, Explicit Darkness 4.
 - **Scope decision:** scored via the core gothic-horror campaign setting (the Demiplane of Dread,
-  its Darklords, the Dark Powers) plus the flagship novel line (Vampire of the Mists / I, Strahd)
-  as co-primary sources, matching the Dark Sun precedent (setting + Prism Pentad novels as
+  its Darklords, the Dark Powers) plus *I, Strahd: The Memoirs of a Vampire* (P.N. Elrod, 1993) as
+  co-primary sources, matching the Dark Sun precedent (setting + Prism Pentad novels as
   co-primary/definitive sources) rather than scoring the tabletop material in isolation.
+  (Correction: an earlier pass cited this novel jointly as "Vampire of the Mists / I, Strahd" as
+  if it were one title — *Vampire of the Mists* by Christie Golden is a separate novel in the
+  same line; the entry is scored against *I, Strahd* specifically, which was verified directly.)
 - **Compared explicitly against every other tabletop setting already in the catalog** (prompted
   by the user), not just scored in isolation:
   - vs. **Warhammer 40,000** (Tier 10, every axis maxed at 4): kept clearly below it. Limited
@@ -977,13 +984,17 @@ reasoning in SCORING_RECORD.md.
     co-primary source (the Prism Pentad) has a definitive ending with real, textually-confirmed
     redemption and progress (former templars turning against the sorcerer-kings and succeeding;
     ecological recovery beginning). Ravenloft's flagship figure, Strahd, has never once escaped
-    his curse across the setting's ~40-year history — only two Darklords ever have, both through
-    metaphysical loopholes (godhood, total domain abandonment) rather than genuine moral repair —
-    and the demiplane is explicitly designed to never resolve at the meta level, generating new
-    Darklords and trapped victims indefinitely rather than working toward an ending the way Dark
-    Sun's definitive novels do. Structural Despair (4, vs. Dark Sun's 3) follows the same logic:
-    Dark Sun earned its 3 specifically because its defining narrative shows a real positive
-    trajectory by the end; Ravenloft's flagship material shows no equivalent. Structural
+    his curse across the setting's history — only two Darklords ever have, both through
+    metaphysical loopholes (godhood, total domain abandonment) rather than genuine moral repair.
+    Structural Despair (4, vs. Dark Sun's 3) follows the same logic. **Verified on later
+    self-audit** (prompted by the user checking for possible scoring bias across this run of
+    additions): rather than resting on the wider ~40-year product line, both axes are directly
+    grounded in *I, Strahd*'s own ending — Strahd loses Tatyana when she breaks his enchantment
+    and falls to her death, and the novel's own closing material explicitly establishes the curse
+    as eternal and cyclical, Tatyana reincarnating across the centuries with "each incarnation
+    bringing joy but their relationships always ending in tragedy." That's the same evidentiary
+    standard used for Dark Sun (does the co-primary novel's own ending show progress or not),
+    applied consistently, and it confirms rather than undercuts the original score. Structural
     Corruption ties at 4 for both (each setting builds corrupt tyranny into its fundamental
     structure by design, not as an isolated flaw). Moral Cynicism (2, vs. Dark Sun's 3) is lower:
     Dark Sun's might-makes-right economy actively rewards cruelty with real power; Ravenloft's
@@ -1011,9 +1022,9 @@ reasoning in SCORING_RECORD.md.
 
 ### 57. Return to Oz — dir. Walter Murch (1985) — Film
 
-- Tier 3 (Moderately Bright Fantasy), Final Score 3.4125 (Weighted Internal Score 0.85).
+- Tier 3 (Moderately Bright Fantasy), Final Score 3.1875 (Weighted Internal Score 0.75).
 - Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 1, Structural Corruption 2,
-  Redemption Difficulty 0, Narrative Acceptance of Injustice 0, Explicit Darkness 4.
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 0, Explicit Darkness 3.
 - **Genre gate:** trivial — same established Oz-verse as the existing Wizard of Oz entry
   (Tier 2), based on Baum's 2nd/3rd Oz novels (The Marvelous Land of Oz, Ozma of Oz) rather than
   the first book. Kept as its own entry, not folded into The Wizard of Oz, for the same
@@ -1034,42 +1045,50 @@ reasoning in SCORING_RECORD.md.
   record for The Nightmare Before Christmas's own MC1 ("sincerity dismissed until vindicated") —
   Dorothy's honesty about Oz is met with forced institutionalization and a scheduled electroshock
   "cure," a more severe version of the same pattern (institutionalized and nearly tortured, not
-  just ignored, before vindication). Explicit Darkness raised to 4 since Mombi's wall of living,
-  swappable severed heads is genuine recurring body horror, not just atmospheric dread — a
-  different register than the ED3 ceiling of its closest genre-siblings (Nightmare Before
-  Christmas, Willow, Dark Crystal, The NeverEnding Story). Structural Corruption was also
-  reconsidered (2 vs. 3, given a second corrupt institution — the sanitarium — exists alongside
-  the Nome King's Oz) but held at 2: Dr. Worley's electrotherapy reads as one reckless doctor's
-  era-appropriate-but-brutal malpractice, not an institution built to perpetuate harm, unlike
-  American McGee's Alice's Bumby, where the orphanage was literally a trafficking front. Net
-  effect: Tier 2 → Tier 3.
+  just ignored, before vindication). Explicit Darkness was raised to 4 at the same time, on the
+  claim that Mombi's wall of living, swappable severed heads is genuine recurring body horror
+  rather than atmospheric dread. Structural Corruption was also reconsidered (2 vs. 3, given a
+  second corrupt institution — the sanitarium — exists alongside the Nome King's Oz) but held at
+  2: Dr. Worley's electrotherapy reads as one reckless doctor's era-appropriate-but-brutal
+  malpractice, not an institution built to perpetuate harm, unlike American McGee's Alice's
+  Bumby, where the orphanage was literally a trafficking front.
+- **Correction, on later self-audit** (prompted by the user asking directly, across several
+  recent entries, whether any score carried real doubt): the Explicit Darkness 3→4 revision above
+  didn't hold up on re-examination. It happened in the same discussion where a Tier 3 lean had
+  just been stated, and re-reading the actual comparison set with no tier outcome riding on it,
+  nothing in the source material indicates Mombi's severed heads are shown with more graphic,
+  visceral detail than its genre-siblings (Nightmare Before Christmas, Willow, Dark Crystal, The
+  NeverEnding Story — all confirmed ED3): the anchor's bar for a 4 is graphic depiction, and this
+  is a 1985 Disney-adjacent family film whose intensity is atmospheric and conceptual (deliberately
+  bleak, "eerie," genuinely unsettling) rather than visually graphic. Reverted to Explicit Darkness
+  3. Net effect on tier: none — 0.75 weighted still clears the Tier 3 floor comfortably (3.1875
+  final vs. the 3.0 cutoff), so the Tier 2 → Tier 3 call from the original rescore stands; only the
+  displayed score and its exact-tie neighbor change.
 - Rationale: Structural Despair (0), Limited Heroism (0), Redemption Difficulty (0), and
   Narrative Acceptance of Injustice (0) all bottom out since both plot threads — the Oz
   conquest (the Nome King's rule, Emerald City's citizens turned to stone) and the frame story
   (Dorothy's abusive sanitarium) — resolve completely and durably: Oz and its people are fully
   restored, the sanitarium burns down, Dr. Worley dies, his nurse-accomplice is arrested, and
   Ozma confirms Dorothy's experiences were real. Moral Cynicism (1) and Structural Corruption (2)
-  as detailed above. Explicit Darkness (4) as detailed above, further supported by the
-  electroshock opening, the Wheelers, and a near-cannibalism scene; multiple contemporary
-  retrospectives call this "the most terrifying Disney movie ever made."
+  as detailed above. Explicit Darkness (3) as corrected above, still supported by the electroshock
+  opening, the Wheelers, and a near-cannibalism scene, and by multiple contemporary retrospectives
+  calling this "the most terrifying Disney movie ever made" — real atmospheric intensity, just not
+  confirmed graphic depiction.
 - Cozy Fantasy = No. Hopepunk = No: a straightforward child-hero adventure, not organized around
   resisting an oppressive system or accepting mortality as its throughline.
-- Neighbor check: exact score match with Baldur's Gate I (also 3.4125) via a very different axis
-  distribution (BG1: SD1/LH1/MC1/SC1/RD1/NAI0/ED1, spread evenly across six axes; this entry:
-  SD0/LH0/MC1/SC2/RD0/NAI0/ED4, concentrated in Cynicism/Corruption/Explicit Darkness) — a
-  coherent tie, not a coincidence: both are "mostly light stories carrying one or two genuinely
-  sharp edges" cases, just with the edges in different places. Checked further against a
-  non-adjacent Tier 3 work, Discworld (3.75, SD1/LH1/MC1/SC1/RD1/NAI1/ED1): the gap resolves
-  cleanly — Discworld's darkness is diffuse low-grade cynicism across every axis with nothing
-  visually intense, the inverse shape of this entry's near-zero thematic profile paired with a
-  maxed Explicit Darkness. Label check: "Moderately Bright Fantasy" fits — the story itself is
-  about as clean and fully-resolved as fantasy gets, but the packaging is unusually intense for
-  its genre, correctly separating it from Tier 2 works like The Wizard of Oz that carry a similar
-  thematic profile without the visual intensity.
-- Added to xlsx row 138, and to tier 3 on both index.html and es/index.html, appended after
-  Baldur's Gate I (exact score tie, existing-entries-first ordering); title "Return to Oz" in EN,
-  "Regreso a Oz" in ES (the official Spanish release title, matching "El Mago de Oz" convention
-  for the franchise); medium: "Film" / "Película".
+- Neighbor check: no exact score twin at the corrected 3.1875 — sits between Neverwinter Nights /
+  A Choir of Lies / Mushishi (3.075) and Dungeon Meshi / Cormyr / Maleficent (3.30). Checked
+  against a non-adjacent Tier 3 work, Discworld (3.75, SD1/LH1/MC1/SC1/RD1/NAI1/ED1): the gap
+  resolves cleanly — Discworld's darkness is diffuse low-grade cynicism across every axis with
+  nothing visually intense, the inverse shape of this entry's near-zero thematic profile paired
+  with an elevated-but-not-maxed Explicit Darkness. Label check: "Moderately Bright Fantasy" fits
+  — the story itself is about as clean and fully-resolved as fantasy gets, but the packaging is
+  unusually intense for its genre, correctly separating it from Tier 2 works like The Wizard of
+  Oz that carry a similar thematic profile without the visual intensity.
+- Added to xlsx row 138, and to tier 3 on both index.html and es/index.html, positioned between
+  Neverwinter Nights and Dungeon Meshi/Cormyr/Maleficent; title "Return to Oz" in EN, "Regreso a
+  Oz" in ES (the official Spanish release title, matching "El Mago de Oz" convention for the
+  franchise); medium: "Film" / "Película".
 
 ### 56. American McGee's Alice (2000) / Alice: Madness Returns (2011) — Video Games
 

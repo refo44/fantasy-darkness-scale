@@ -2970,7 +2970,10 @@ novels + the Harebrained Schemes trilogy (Shadowrun Returns, Dragonfall, Hong Ko
   since genuine moral stances are shown as rare-but-real, not nonexistent.
 * Structural Corruption: 4 — megacorporations hold extraterritorial status, exempt from law,
   sovereign entities built specifically to escape accountability.
-* Redemption Difficulty: 2 — moral action is shown as possible at real cost.
+* Redemption Difficulty: 2 — moral action is shown as possible at real cost, most concretely in
+  Shadowrun: Hong Kong's protagonist, whose central arc is reconciling with an estranged foster
+  father and brother after years of prison-caused separation (added on self-audit — see note
+  below).
 * Narrative Acceptance of Injustice: 4 — the genre's defining convention, confirmed by
   Dragonfall's ending: the core injustice is never addressed by design.
 * Explicit Darkness: 4 — organ-legging (including forced-breeding operations using kidnapped
@@ -2984,18 +2987,25 @@ same "dystopian subversion" precedent Dark Sun and Warhammer 40,000 already set.
 a non-adjacent Tier 8 work, Berserk (8.1375): the gap resolves cleanly on this entry's higher
 Structural Corruption. Cozy Fantasy = No, Hopepunk = No. Label check: "Grimdark" fits.
 
+Self-audit note: prompted by the user checking for possible scoring bias across this run of
+additions, re-examined Redemption Difficulty, which had rested on an absence of counter-evidence
+rather than a positive example. Found and added the Hong Kong reconciliation-arc detail above; no
+score change, but the axis is now grounded in a concrete example rather than an inference.
+
 ## Ravenloft
 
 New catalog addition. Scored via the core gothic-horror campaign setting (the Demiplane of
-Dread, its Darklords, the Dark Powers) plus the flagship novel line (Vampire of the Mists /
-I, Strahd) as co-primary sources, matching the Dark Sun precedent. Compared explicitly against
+Dread, its Darklords, the Dark Powers) plus *I, Strahd: The Memoirs of a Vampire* (P.N. Elrod,
+1993) as co-primary sources, matching the Dark Sun precedent. Compared explicitly against
 every other tabletop setting already scored (Warhammer 40,000, Dark Sun, Forgotten Realms), not
-scored in isolation.
+scored in isolation. (Correction: an earlier pass cited the co-primary novel jointly as "Vampire
+of the Mists / I, Strahd" as if one title — *Vampire of the Mists*, by Christie Golden, is a
+separate novel in the same line; this entry is scored against *I, Strahd* specifically.)
 
 * Structural Despair: 4 — the demiplane's entire premise is a structurally condemned
   prison-world; unlike Dark Sun's Prism Pentad (which shows real ecological/political progress
-  by its ending, earning Dark Sun a 3 here), Ravenloft's flagship material shows no equivalent —
-  the central tragedy is designed to loop forever.
+  by its ending, earning Dark Sun a 3 here), *I, Strahd*'s own ending shows no equivalent —
+  verified directly on self-audit (see below), not inferred from the wider product line.
 * Limited Heroism: 3 — parties genuinely can and do defeat individual Darklords in actual play,
   real if domain-local victories — kept below Warhammer 40,000's total-futility 4.
 * Moral Cynicism: 2 — the Dark Powers read as amoral/capricious (trapping innocent and guilty
@@ -3005,13 +3015,24 @@ scored in isolation.
   Darklord as both throne and prison, not an isolated flaw in an otherwise-legitimate structure.
 * Redemption Difficulty: 4 — higher than Dark Sun's 3. Dark Sun's Pentad shows real redemption
   (former templars turning against the sorcerer-kings and succeeding); Strahd, Ravenloft's
-  flagship figure, has never once escaped his curse across the setting's ~40-year history — only
-  two Darklords ever have, both via metaphysical loopholes rather than genuine moral repair.
-* Narrative Acceptance of Injustice: 4 — also higher than Dark Sun's 3, for the same reason:
-  the demiplane is explicitly designed to never resolve at the meta level, generating new
-  Darklords and trapped victims indefinitely rather than working toward an ending.
+  flagship figure, has never once escaped his curse — only two Darklords ever have, both via
+  metaphysical loopholes rather than genuine moral repair.
+* Narrative Acceptance of Injustice: 4 — also higher than Dark Sun's 3, grounded directly in
+  *I, Strahd*'s own ending: Strahd loses Tatyana (she breaks his enchantment and falls to her
+  death), and the novel's own closing material explicitly establishes the curse as eternal and
+  cyclical — Tatyana reincarnating across the centuries, "each incarnation bringing joy but
+  their relationships always ending in tragedy."
 * Explicit Darkness: 4 — played-straight Poe/Shelley/Stoker gothic horror (vampiric assault,
   body horror, notoriously disturbing set-pieces like Curse of Strahd's "Death House" opener).
+
+Self-audit note: the Structural Despair / Narrative Acceptance of Injustice comparison against
+Dark Sun originally rested on a meta-IP claim ("Strahd hasn't escaped across ~40 years of
+products") rather than the specific co-primary novel's own ending — a looser standard than the
+one used for Dark Sun (which was scored against the Prism Pentad's actual ending). Prompted by
+the user checking for possible bias across this run of additions, went back and verified *I,
+Strahd*'s actual ending directly (see Narrative Acceptance of Injustice above): it confirms the
+same conclusion, on firmer, consistent footing. No score change resulted, but the standard now
+matches Dark Sun's.
 
 Weighted = 3.55 → Final Score = 9.4875 → **Tier 9**, sitting between Dark Sun (8.8125) and the
 exact tie of The First Law / Devilman Crybaby (9.825), with no exact twin — a deliberate result
@@ -3047,22 +3068,29 @@ methodology already tracks.
 * Redemption Difficulty: 0 — no character requires moral repair.
 * Narrative Acceptance of Injustice: 0 — every injustice in the story is fully resolved by the
   ending.
-* Explicit Darkness: 4 — Mombi's wall of living, swappable severed heads is genuine recurring
-  body horror, not just atmosphere, on top of the electroshock opening, the Wheelers, and a
-  near-cannibalism scene — a different register than the ED3 ceiling of its closest genre-
-  siblings (Nightmare Before Christmas, Willow, Dark Crystal, The NeverEnding Story). Multiple
-  retrospectives call this "the most terrifying Disney movie ever made."
+* Explicit Darkness: 3 — Mombi's wall of living severed heads, the electroshock opening, the
+  Wheelers, and a near-cannibalism scene are unsettling in concept and support real atmospheric
+  intensity (multiple retrospectives call this "the most terrifying Disney movie ever made"), but
+  nothing confirms graphic on-screen depiction beyond the ED3 register already established for
+  its closest genre-siblings (Nightmare Before Christmas, Willow, Dark Crystal, The NeverEnding
+  Story) — this is a 1985 Disney-adjacent family film, not something with visceral on-page gore.
 
-Weighted = 0.85 → Final Score = 3.4125 → **Tier 3**, exact score match with Baldur's Gate I via a
-very different axis distribution (BG1 spreads 1s evenly across six axes; this entry concentrates
-in Cynicism/Corruption/Explicit Darkness). Checked against a non-adjacent Tier 3 work, Discworld
-(3.75): the gap resolves cleanly on Discworld's diffuse low-grade cynicism vs. this entry's
-near-zero thematic profile paired with maxed Explicit Darkness. Cozy Fantasy = No, Hopepunk = No.
-Label check: "Moderately Bright Fantasy" fits.
+Weighted = 0.75 → Final Score = 3.1875 → **Tier 3**, no exact score twin — sits between
+Neverwinter Nights/A Choir of Lies/Mushishi (3.075) and Dungeon Meshi/Cormyr/Maleficent (3.30).
+Checked against a non-adjacent Tier 3 work, Discworld (3.75): the gap resolves cleanly on
+Discworld's diffuse low-grade cynicism vs. this entry's near-zero thematic profile paired with an
+elevated-but-not-maxed Explicit Darkness. Cozy Fantasy = No, Hopepunk = No. Label check:
+"Moderately Bright Fantasy" fits.
 
 Revision note: initially scored Moral Cynicism 0 / Explicit Darkness 3 (Tier 2, Final Score
 2.85). Both revised up after the user asked for an explicit rescore-and-compare against Tier 2
-and Tier 3 profiles — see rationale above.
+and Tier 3 profiles. Correction note: on later self-audit (prompted by the user asking directly
+whether any recent score carried doubt), the Explicit Darkness 3→4 revision didn't hold up — it
+was made in the same discussion where a Tier 3 lean had just been stated, and re-examined without
+that pressure, nothing supports graphic depiction beyond the genre-sibling ED3 ceiling. Reverted
+to Explicit Darkness 3, Final Score 3.4125 → 3.1875. The Tier 2 → Tier 3 call itself still holds
+(0.75 weighted clears the Tier 3 floor comfortably) — only the displayed score and neighbor
+changed.
 
 ## American McGee's Alice (2000) / Alice: Madness Returns (2011)
 
