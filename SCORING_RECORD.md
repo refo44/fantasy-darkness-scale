@@ -2911,6 +2911,36 @@ corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" 
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
 
+## Shadowrun
+
+New catalog addition. Genre gate and media scope already settled in the queue item: a genuine
+cyberpunk/urban-fantasy hybrid (magic a co-equal design pillar, sapient dragons literally running
+megacorporations), matching the Warhammer 40,000 inclusion precedent; scored via tabletop +
+novels + the Harebrained Schemes trilogy (Shadowrun Returns, Dragonfall, Hong Kong).
+
+* Structural Despair: 3 — an entrenched, bleak corporate status quo, not further collapsing but
+  not improving either.
+* Limited Heroism: 3 — directly confirmed by Dragonfall's own ending ("you defeat the villain
+  and realize the status quo sucks and you just helped preserve it"): local threats genuinely
+  resolved, the broader system explicitly unchanged.
+* Moral Cynicism: 3 — corporate executives are "utterly amoral" and thrive on it, held below 4
+  since genuine moral stances are shown as rare-but-real, not nonexistent.
+* Structural Corruption: 4 — megacorporations hold extraterritorial status, exempt from law,
+  sovereign entities built specifically to escape accountability.
+* Redemption Difficulty: 2 — moral action is shown as possible at real cost.
+* Narrative Acceptance of Injustice: 4 — the genre's defining convention, confirmed by
+  Dragonfall's ending: the core injustice is never addressed by design.
+* Explicit Darkness: 4 — organ-legging (including forced-breeding operations using kidnapped
+  women "as machines to produce fetuses"), BTL chip addiction, and genocide plotting, all
+  recurring black-market features rather than one-off shock content.
+
+Weighted = 3.25 → Final Score = 8.8125 → **Tier 8**, exact score tie with Dark Sun via a
+one-point redistribution (Dark Sun trades a point from Narrative Acceptance of Injustice into
+Redemption Difficulty) — matching the queue item's own framing of this entry as following the
+same "dystopian subversion" precedent Dark Sun and Warhammer 40,000 already set. Checked against
+a non-adjacent Tier 8 work, Berserk (8.1375): the gap resolves cleanly on this entry's higher
+Structural Corruption. Cozy Fantasy = No, Hopepunk = No. Label check: "Grimdark" fits.
+
 ## Ravenloft
 
 New catalog addition. Scored via the core gothic-horror campaign setting (the Demiplane of

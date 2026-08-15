@@ -801,17 +801,8 @@ reasoning in SCORING_RECORD.md.
 60. [x] Ravenloft — TSR / Wizards of the Coast — Tabletop (D&D campaign setting), Novels — DONE,
     see Completed
 59. [x] Devilman Lady — Go Nagai — Manga — DONE, see Completed
-61. [ ] Shadowrun — FASA / Catalyst Game Labs — Tabletop, Novels, Video Games — genre-checked:
-    a genuine cyberpunk/urban-fantasy hybrid, not sci-fi with fantasy garnish — magic is a
-    co-equal design pillar (the 2011 "Awakening" brings back elves, dwarves, orks, trolls, and
-    full spellcasting/astral-projection/spirit systems), and sapient dragons literally run
-    megacorporations that control the global economy, a load-bearing mythic-political element,
-    not decoration; matches the precedent already set by Warhammer 40,000's inclusion. Media
-    scope: tabletop + novels + the Harebrained Schemes trilogy (Shadowrun Returns, Dragonfall,
-    Hong Kong — well-regarded, Dragonfall in particular cited as "one of the best written RPGs
-    in years"); excludes the earlier SNES/Genesis/Mega-CD games (1993-1996) and the 2007 FPS as
-    lower-notability/lower-quality and not relevant enough on their own, matching the CRPG
-    exclusion precedent set for Dark Sun
+61. [x] Shadowrun — FASA / Catalyst Game Labs — Tabletop, Novels, Video Games — DONE, see
+    Completed
 62. [ ] Legend of the Five Rings (L5R) — AEG / Fantasy Flight Games — Tabletop, Novels — a
     feudal-Japan-inspired setting (Rokugan) built on honor/duty/clan-politics tragedy, threatened
     by the Shadowlands: a realm of corruption and undeath created when Fu Leng, the Ninth Kami,
@@ -851,6 +842,51 @@ reasoning in SCORING_RECORD.md.
     violence and loss are the show's default register, not exceptional beats
 
 ## Completed
+
+### 61. Shadowrun — FASA / Catalyst Game Labs — Tabletop, Novels, Video Games
+
+- Tier 8 (Grimdark), Final Score 8.8125 (Weighted Internal Score 3.25).
+- Scores: Structural Despair 3, Limited Heroism 3, Moral Cynicism 3, Structural Corruption 4,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 4, Explicit Darkness 4.
+- **Genre gate and media scope** were already settled in the queue item itself: a genuine
+  cyberpunk/urban-fantasy hybrid (magic a co-equal design pillar post-Awakening, sapient dragons
+  literally running megacorporations as a load-bearing mythic-political element, not decoration),
+  matching the Warhammer 40,000 inclusion precedent; scored via tabletop + novels + the
+  Harebrained Schemes trilogy (Shadowrun Returns, Dragonfall, Hong Kong), excluding the earlier
+  SNES/Genesis/Mega-CD games and the 2007 FPS as lower-notability, matching the Dark Sun
+  CRPG-exclusion precedent.
+- Rationale: Structural Corruption (4) since megacorporations hold extraterritorial status,
+  exempt from law, effectively sovereign entities built specifically to escape accountability —
+  matches the "institutions exist, in practice, to sustain exploitation" anchor almost exactly.
+  Limited Heroism (3) is directly textually confirmed by Dragonfall's own ending, described by
+  critics as "you defeat the villain and realize the status quo sucks and you just helped
+  preserve it" — local threats (a genocide-virus plot) are genuinely stopped, but the broader
+  corporate system is explicitly, narratively unchanged. Moral Cynicism (3) since corporate
+  executives are "utterly amoral" and thrive on it, held below 4 since genuine moral stances are
+  shown as rare-but-real (Lofwyr's surprise at a shadowrunner's moral refusal to use the virus,
+  rather than morality being treated as nonexistent). Redemption Difficulty (2) since moral
+  action is shown as possible at real cost, with no stronger textual signal of redemption-denial
+  than that. Narrative Acceptance of Injustice (4) is the genre's own defining convention,
+  confirmed directly by Dragonfall's ending — the core injustice (corporate rule) is never
+  addressed by design, not just left open. Explicit Darkness (4) for organ-legging (including
+  forced-breeding operations using kidnapped women "as machines to produce fetuses"), BTL chip
+  addiction, and genocide plotting, presented as recurring black-market features of the setting,
+  not one-off shock content.
+- Cozy Fantasy = No. Hopepunk = No: noir cynicism and systemic futility as the organizing tone,
+  not kindness/resistance as a load-bearing response to adversity.
+- Neighbor check: exact score tie with Dark Sun (also 8.8125) via a one-point redistribution
+  (Dark Sun: SD3/LH3/MC3/SC4/RD3/NAI3/ED4 — trades a point from this entry's Narrative Acceptance
+  of Injustice into Redemption Difficulty) — a coherent match given the queue item's own framing
+  of this entry as following the same "dystopian subversion of genre expectations" precedent Dark
+  Sun and Warhammer 40,000 already set. Checked further against a non-adjacent Tier 8 work,
+  Berserk (8.1375, SD3/LH3/MC3/SC2/RD3/NAI3/ED4): the gap resolves cleanly on this entry's higher
+  Structural Corruption (Berserk's world has real evil institutions but not the totalizing,
+  law-exempt corporate structure Shadowrun's setting is built around). Label check: "Grimdark"
+  fits — genuine systemic dystopia with real, if contained and ultimately futile, individual
+  victories, matching Dark Sun's exact shape.
+- Added to xlsx row 140, and to tier 8 on both index.html and es/index.html, appended after Dark
+  Sun (exact score tie, existing-entries-first ordering); title "Shadowrun" in both EN and ES;
+  medium: "Tabletop, Novels, Video Games" / "Juego de rol, Novelas, Videojuegos".
 
 ### 60. Ravenloft — TSR / Wizards of the Coast — Tabletop (D&D campaign setting), Novels
 
