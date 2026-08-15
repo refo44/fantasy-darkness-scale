@@ -864,6 +864,17 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     Myth: Wukong (already queued at #63) adapts; score independently before comparing, since a
     source text and a modern reinterpretation don't necessarily land at the same severity (same
     logic as Wizard of Oz vs. Wicked, or the Alice novels vs. American McGee's Alice)
+68. [ ] Heavy Metal (1981, dir. Gerald Potterton) / Heavy Metal 2000 (dir. Michael Coldewey &
+    Michel Lemire) — Films — R-rated adult animated sci-fi/fantasy anthology franchise, framed by
+    the Loc-Nar, an ancient evil orb corrupting everyone it touches; genre-mixed by nature (the
+    1981 film's segments range from pure sci-fi horror, "B-17," to explicit sword-and-sorcery
+    fantasy — "Den," set in the fantasy world Neverwhere, and "Taarna," the film's most iconic
+    segment, an ancient protector-race warrior avenging a village against Loc-Nar-corrupted
+    barbarians), while the 2000 film leans more science-fiction (a "fountain of immortality" MacGuffin
+    and a fallen ancient civilization, the Arakacians, rather than sorcery); relevance/fit check
+    and scope (score the 1981 anthology as a whole vs. its fantasy-coded segments only; whether
+    Heavy Metal 2000 clears the genre gate on its own or needs the 1981 film's fantasy segments to
+    anchor it) both need deciding when scored, not assumed
 
 ## Completed
 
