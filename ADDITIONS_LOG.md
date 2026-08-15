@@ -835,13 +835,7 @@ above) — logged here so they aren't re-proposed without knowing they were alre
 63. [x] Black Myth: Wukong — Game Science (2024) — Video Game — DONE, see Completed
 64. [x] KPop Demon Hunters — Netflix / Sony Pictures Animation, dir. Maggie Kang & Chris
     Appelhans (2025) — Film — DONE, see Completed
-65. [ ] Chaotic Good Barbarian — Dungeon Soup (YouTube web animation) — a D&D-parody series
-    following an unstoppable Barbarian Hero who slays monsters "in ways that make you feel sorry
-    for the monsters" (e.g. defeating a self-resurrecting lich, then dismembering and carrying it
-    around daily as a pet rather than letting it die and come back); played explicitly for black
-    comedy, not sincere tragedy — likely closer to the Nightmare Before Christmas pattern
-    (aesthetically dark, structurally light) than to Goblins' sincere-tragedy pattern, but confirm
-    this against the dark-comedy checklist established for Goblins when scored, not by default
+65. [x] Chaotic Good Barbarian — Dungeon Soup (YouTube web animation) — DONE, see Completed
 66. [ ] Primal — created by Genndy Tartakovsky, Adult Swim (2019-2023) — TV series — genre-
     checked: not pure prehistoric-survival realism — Tartakovsky deliberately layers in
     supernatural/mythical elements that escalate across the series (giant bat-creatures, an
@@ -871,6 +865,55 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     anchor it) both need deciding when scored, not assumed
 
 ## Completed
+
+### 65. Chaotic Good Barbarian — Dungeon Soup — Web animation
+
+- Tier 2 (Bright Fantasy), Final Score 2.7375 (Weighted Internal Score 0.55).
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 1, Structural Corruption 0,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 0, Explicit Darkness 4.
+- **Relevance/fit check (step 1b), run before any scoring** (the user pushed on this explicitly,
+  asking "is this really fantasy?"): the comedy here is genre-specific D&D-trope parody — liches,
+  phylacteries, monster-slaying tropes function as the actual comedic mechanism, real fantasy
+  logic being used and subverted, not swappable decoration. Closer to Goblins' relationship to
+  its D&D setting (a stable fantasy world as the constant subject matter) than to Charlie the
+  Unicorn's genre-agnostic absurdism (left off the queue) — clears the gate.
+- **Dark-comedy check**, against the same checklist established for Goblins, per the queue
+  item's own framing: matches the Nightmare Before Christmas pattern, not Goblins'. No
+  tonal-dissonance criticism found (sources describe the graphic content as enhancing the
+  comedy, not clashing with it); fan reactions are amused/surprised ("😂😂," "HE'S GOOD!?," "What
+  Did I Just Watch?!"), not genuinely saddened the way Goblins' "IMSAD" fan response is; no
+  creator statement of sincere intent (sources describe the whole project as "meant to be a dark
+  comedy" from the outset); the show stays in "played for absurdist laughs" register throughout
+  rather than transitioning into sustained tragedy.
+- **Moral Cynicism, revised 0→1 during scoring** (the user pushed back directly, asking whether
+  there's ironic/sarcastic authorial commentary and comparing to Goblins): the source material
+  notes that even other sadistic creatures (Liches, Vampires, Gorgons, Orcs) are disturbed by
+  the nominally "good"-aligned Barbarian's methods — the same "sanctioned goodness enables real
+  monstrosity" observation Goblins builds its Moral Cynicism 3 on via the paladin Kore. Scored
+  well below Goblins' level rather than matched to it, since here it's a punchline the show
+  never dwells on or lets cost the Barbarian anything, not a sustained, sincere structural
+  argument — matches "acting well brings good results in almost all relevant cases" (1), not a
+  fully just world (0) or genuine cynicism (2-3).
+- Rationale: Structural Despair, Limited Heroism, Structural Corruption, Redemption Difficulty,
+  and Narrative Acceptance of Injustice all bottom out at 0 — episodic monster-of-the-week
+  format, the Barbarian's victories are always total and immediate, no institution is ever
+  examined, no redemption arc exists, no injustice is explored (monsters' fates are framed as
+  deserved). Explicit Darkness (4) for genuinely graphic, detailed, recurring body-horror content
+  that is the show's literal central structure every episode — a Banshee turned into a bagpipe, a
+  Dragon into a piñata, a still-screaming Evil Dryad's transfigured body eaten for breakfast — not
+  an occasional shock beat, diverging completely from the all-zero thematic profile and matching
+  the theoretical pattern `CRITERIA_THEORY.md` describes for Explicit Darkness.
+- Cozy Fantasy = No. Hopepunk = No: pure comedic monster-slaying violence, not organized around
+  comfort or kindness-as-resistance.
+- Neighbor check: exact score tie with A Conspiracy of Truths and Dungeons & Dragons (1983),
+  both also 2.7375, via completely different mechanisms (both spread their weight across
+  Cynicism/Corruption/Redemption/Injustice/Explicit Darkness; this entry puts almost all of it
+  on Explicit Darkness alone). Label check: "Bright Fantasy" fits — a thematically almost-entirely
+  light comedy carrying one genuinely graphic recurring visual register.
+- Added to xlsx row 144, and to tier 2 on both index.html and es/index.html, appended after
+  Dungeons & Dragons (1983) (exact score tie, existing-entries-first ordering); title kept as
+  English ("Chaotic Good Barbarian") in both EN and ES versions, no official Spanish release
+  title existing for this web series; medium: "Web animation" / "Animación web".
 
 ### 64. KPop Demon Hunters — Netflix / Sony Pictures Animation, dir. Maggie Kang & Chris Appelhans (2025) — Film
 

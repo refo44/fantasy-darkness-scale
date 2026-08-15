@@ -2934,6 +2934,35 @@ corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" 
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
 
+## Chaotic Good Barbarian
+
+New catalog addition. Relevance/fit check (step 1b): the comedy is genre-specific D&D-trope
+parody, real fantasy logic used as the comedic mechanism, closer to Goblins' relationship to its
+setting than to Charlie the Unicorn's genre-agnostic absurdism — clears the gate. Dark-comedy
+check (same checklist used for Goblins): matches the Nightmare Before Christmas pattern, not
+Goblins' — no tonal-dissonance criticism, fan reactions amused rather than genuinely saddened, no
+creator statement of sincere intent, stays in "played for laughs" register throughout.
+
+* Structural Despair: 0 — episodic monster-of-the-week format, no world-state trajectory.
+* Limited Heroism: 0 — the Barbarian's victories are always total and immediate.
+* Moral Cynicism: 1 — even other sadistic creatures are shown disturbed by the nominally
+  "good"-aligned Barbarian's methods (the same "sanctioned goodness enables monstrosity"
+  observation Goblins' Moral Cynicism 3 is built on), but played as a punchline the show never
+  dwells on, not a sustained structural argument — scored well below Goblins' level.
+* Structural Corruption: 0 — no institution is ever examined.
+* Redemption Difficulty: 0 — no redemption arc exists.
+* Narrative Acceptance of Injustice: 0 — monsters' fates are framed as deserved, not explored
+  as injustice.
+* Explicit Darkness: 4 — genuinely graphic, detailed, recurring body-horror content that is the
+  show's literal central structure every episode (a Banshee turned into a bagpipe, a Dragon into
+  a piñata, a still-screaming Dryad's body eaten for breakfast), not an occasional shock beat.
+
+Weighted = 0.55 → Final Score = 2.7375 → **Tier 2**, exact score tie with A Conspiracy of Truths
+and Dungeons & Dragons (1983), both via a completely different mechanism (both spread their
+weight across several axes; this entry puts almost all of it on Explicit Darkness alone) — a
+clean real-world example of the theoretical divergence pattern `CRITERIA_THEORY.md` describes
+for Explicit Darkness. Cozy Fantasy = No, Hopepunk = No. Label check: "Bright Fantasy" fits.
+
 ## KPop Demon Hunters
 
 New catalog addition. Relevance/fit check (step 1b) run before scoring: real demon mythology is
