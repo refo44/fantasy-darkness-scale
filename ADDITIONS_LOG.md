@@ -803,14 +803,8 @@ reasoning in SCORING_RECORD.md.
 59. [x] Devilman Lady — Go Nagai — Manga — DONE, see Completed
 61. [x] Shadowrun — FASA / Catalyst Game Labs — Tabletop, Novels, Video Games — DONE, see
     Completed
-62. [ ] Legend of the Five Rings (L5R) — AEG / Fantasy Flight Games — Tabletop, Novels — a
-    feudal-Japan-inspired setting (Rokugan) built on honor/duty/clan-politics tragedy, threatened
-    by the Shadowlands: a realm of corruption and undeath created when Fu Leng, the Ninth Kami,
-    fell into Jigoku (the Realm of Evil); "the Taint" spreads Shadowlands corruption into anyone
-    it touches, turning them into monsters; combines political intrigue (seven clans jockeying
-    for power under a largely powerless Emperor) with a real cosmic-corruption horror threat and
-    a bushido code whose violations are punished by seppuku — decide scope (core tabletop line
-    vs. also the extensive novel line) when scored
+62. [x] Legend of the Five Rings (L5R) — AEG / Fantasy Flight Games — Tabletop, Novels — DONE,
+    see Completed
 63. [ ] Black Myth: Wukong — Game Science (2024) — Video Game — action RPG retelling episodes of
     Journey to the West through the "Destined One," a monkey warrior following Sun Wukong's path;
     real mythological stakes (gods, demons, and Buddhist/Taoist cosmology), several boss
@@ -840,8 +834,81 @@ reasoning in SCORING_RECORD.md.
     a mute Neanderthal (Spear) and a Tyrannosaurus (Fang), both mourning their own dead families,
     surviving a series of brutal, often wordless confrontations — near-continuous graphic
     violence and loss are the show's default register, not exceptional beats
+67. [ ] Journey to the West (Xiyou Ji) — Wu Cheng'en (1592) — Novel — the classical Chinese epic
+    following Sun Wukong (the Monkey King), Tang Sanzang, Zhu Bajie, and Sha Wujing on a
+    pilgrimage to India for Buddhist scriptures; real Buddhist/Taoist cosmology (Heaven, the
+    Underworld, Buddha, the Jade Emperor), Sun Wukong's rebellion against and punishment by
+    Heaven, and 81 episodic tribulations against demons along the way — the source material Black
+    Myth: Wukong (already queued at #63) adapts; score independently before comparing, since a
+    source text and a modern reinterpretation don't necessarily land at the same severity (same
+    logic as Wizard of Oz vs. Wicked, or the Alice novels vs. American McGee's Alice)
 
 ## Completed
+
+### 62. Legend of the Five Rings (L5R) — AEG / Fantasy Flight Games — Tabletop, Novels
+
+- Tier 7 (Extreme Dark Fantasy), Final Score 7.4625 (Weighted Internal Score 2.65).
+- Scores: Structural Despair 2, Limited Heroism 2, Moral Cynicism 2, Structural Corruption 3,
+  Redemption Difficulty 3, Narrative Acceptance of Injustice 3, Explicit Darkness 4.
+- **Genre gate** trivial — Jigoku (the Realm of Evil), a fallen Kami's demonic corruption, and
+  the Shadowlands Taint are all load-bearing cosmic-horror fantasy elements, not decoration.
+- **Scope decision:** bundled the core Rokugan tabletop setting with its extensive storyline/
+  novel material as co-primary sources — the two aren't really separable here the way Drizzt's
+  novels are separable from generic Forgotten Realms lore, since L5R's ~20-year metaplot was told
+  largely through the card game's own narrative sets plus tie-in fiction as one continuous story
+  — matching the Dark Sun precedent over the Forgotten Realms "core lore only" approach.
+- **Self-audit, prompted by the user asking directly whether any score carried doubt:** flagged
+  Structural Despair, Limited Heroism, and Moral Cynicism as candidates for revision from 2 to 3
+  (which would have moved this to Tier 8, tying A Song of Ice and Fire at 8.475) — the cyclical
+  "defeat one apocalypse, the next begins" pattern arguably reads as "even the biggest victories
+  are partial/insufficient" (3) rather than "resolves the immediate threat" (2), and the Scorpion
+  Clan's sanctioned ruthlessness arguably argues for cynicism over neutrality. Further research
+  (also user-requested) surfaced a genuinely complicating counter-datapoint rather than confirming
+  the higher read: Bayushi Shoju, the setting's most notorious traitor (he assassinated an
+  Emperor in the Scorpion Clan Coup), is not permanently condemned by the story — his true motive
+  was to save the Empire, his soul was later redeemed through another character's sacrifice, and
+  he's remembered as one of the Scorpion Clan's greatest champions. That's a clean match for
+  Redemption Difficulty's "possible, but requires real sacrifice" anchor (2, not higher) even for
+  the setting's worst transgression, and argues against raising Moral Cynicism too (the
+  narrative's instinct is to eventually recognize hidden virtue, not reward naked ruthlessness).
+  A second data point (the "Seven Thunders" of the Rain of Blood arc explicitly failing, their
+  blood empowering the villain's ritual) pulls the other way, but is one arc's specific tragedy
+  against a setting-wide pattern where the same class of heroes (the *first* Day of Thunder's
+  Seven Thunders) succeed. Net: genuinely mixed evidence, not a one-directional case for raising
+  anything — original moderate scores kept. **User's final call: Tier 7 confirmed.**
+- Rationale: Structural Despair (2) and Limited Heroism (2) reflect the cyclical pattern —
+  major existential threats (Fu Leng's First War, the Scorpion Clan Coup, the Destroyer War) are
+  genuinely defeated each time at real cost, but the underlying instability (a chronically
+  fragile, often-heirless imperial line, endemic clan rivalry) never actually resolves between
+  crises. Moral Cynicism (2) since bushido's nominal framework does still operate as the
+  setting's stated and often-honored moral compass, even though the Scorpion Clan's sanctioned
+  deception offers a real institutional counter-signal. Structural Corruption (3) since the honor
+  system institutionalizes lethal punishment (seppuku) for often-minor dishonor as a permanent
+  structural feature, and a major clan's entire function is sanctioned deception. Redemption
+  Difficulty (3) since the setting's primary answer to moral failure is frequently death
+  (seppuku) rather than reform-and-forgiveness, Shoju's case being the rare, costly exception
+  that proves the rule rather than the norm. Narrative Acceptance of Injustice (3) since specific
+  wars get resolved but the deeper tragic structural conditions (honor-vs-love, endemic rivalry)
+  are explicitly never solved — Rokugan's own stated genre convention is that "love will conflict
+  with duty and thus lead to tragedy." Explicit Darkness (4) for ritualized self-disembowelment
+  as a normalized, recurring institutional practice, plus visceral Shadowlands body-horror
+  corruption and genocide-scale content (the Destroyer War: nine-tenths of a population
+  sacrificed, souls imprisoned in metal shells to build an undead army).
+- Cozy Fantasy = No. Hopepunk = No: tragedy-as-genre-convention and honor-bound duty are the
+  organizing tone, not kindness/resistance as a load-bearing response to adversity.
+- Neighbor check: exact score tie with His Dark Materials (also 7.4625) via a redistribution
+  between Limited Heroism and Redemption Difficulty — a coherent match, since both deal with real
+  institutional corruption (the Church / the imperial honor system) and tragedy that doesn't
+  fully resolve. Checked further against the other tabletop settings already scored: notably
+  lighter than Dark Sun (8.8125) and Ravenloft (9.4875) — Rokugan's threats are cyclical-but-
+  defeatable rather than structurally condemned, and virtue retains real institutional standing
+  here in a way Dark Sun's slaver economy and Ravenloft's eternal curses don't allow — and
+  darker than Forgotten Realms (4.65), which lacks L5R's institutionalized brutality and
+  explicitly tragic genre convention. Label check: "Extreme Dark Fantasy" fits.
+- Added to xlsx row 141, and to tier 7 on both index.html and es/index.html, appended after His
+  Dark Materials (exact score tie, existing-entries-first ordering); title "Legend of the Five
+  Rings" in EN, "Leyenda de los Cinco Anillos" in ES; medium: "Tabletop, Novels" / "Juego de rol,
+  Novelas".
 
 ### 61. Shadowrun — FASA / Catalyst Game Labs — Tabletop, Novels, Video Games
 

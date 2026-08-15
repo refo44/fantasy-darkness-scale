@@ -2911,6 +2911,49 @@ corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" 
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
 
+## Legend of the Five Rings (L5R)
+
+New catalog addition. Genre gate trivial (Jigoku, demonic corruption, the Shadowlands Taint are
+load-bearing fantasy elements). Bundled the core Rokugan setting with its extensive storyline/
+novel material as co-primary sources, matching the Dark Sun precedent — the two aren't really
+separable here, since L5R's metaplot was told largely through the card game's own narrative sets.
+
+* Structural Despair: 2 — a cyclical pattern: major existential threats are genuinely defeated
+  each time at real cost, but the underlying instability (a chronically fragile imperial line,
+  endemic clan rivalry) never actually resolves between crises.
+* Limited Heroism: 2 — same cyclical logic; heroism resolves each specific crisis without fixing
+  the conditions that keep generating the next one.
+* Moral Cynicism: 2 — bushido's nominal framework still operates as the setting's stated and
+  often-honored moral compass, even though the Scorpion Clan's sanctioned deception is a real
+  institutional counter-signal.
+* Structural Corruption: 3 — the honor system institutionalizes lethal punishment (seppuku) for
+  often-minor dishonor as a permanent structural feature, and a major clan's entire function is
+  sanctioned deception.
+* Redemption Difficulty: 3 — the setting's primary answer to moral failure is frequently death
+  rather than reform-and-forgiveness.
+* Narrative Acceptance of Injustice: 3 — specific wars resolve, but the deeper tragic structural
+  conditions (honor-vs-love, endemic rivalry) are explicitly never solved — a stated genre
+  convention, not an occasional lapse.
+* Explicit Darkness: 4 — ritualized self-disembowelment as a normalized, recurring practice,
+  plus genocide-scale content (the Destroyer War: nine-tenths of a population sacrificed into an
+  undead army).
+
+Weighted = 2.65 → Final Score = 7.4625 → **Tier 7**, exact score tie with His Dark Materials via
+a redistribution between Limited Heroism and Redemption Difficulty.
+
+Self-audit note: the user asked directly whether any score carried doubt. Structural Despair,
+Limited Heroism, and Moral Cynicism were flagged as candidates for 2→3 (which would have moved
+this to Tier 8, tying A Song of Ice and Fire). Further research surfaced a complicating
+counter-datapoint: Bayushi Shoju, the setting's most notorious traitor (he assassinated an
+Emperor), is not permanently condemned — his soul is later redeemed through another character's
+sacrifice, and he's remembered as one of the Scorpion Clan's greatest champions, a clean match
+for Redemption Difficulty's "possible, but requires real sacrifice" anchor even at the setting's
+worst transgression. A second data point (the "Seven Thunders" of the Rain of Blood arc failing)
+pulled the other way but was one arc's specific tragedy against a setting-wide pattern where the
+same class of heroes succeed elsewhere. Net: genuinely mixed evidence. User's final call: Tier 7
+confirmed, original moderate scores kept. Cozy Fantasy = No, Hopepunk = No. Label check: "Extreme
+Dark Fantasy" fits.
+
 ## Shadowrun
 
 New catalog addition. Genre gate and media scope already settled in the queue item: a genuine
