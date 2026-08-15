@@ -110,7 +110,17 @@ doesn't need repeating unless something about these five entries' scope changes.
 Process for each item: (1) run the genre gate above FIRST, before any research or scoring
 begins — confirm the candidate is genuinely fantasy or a real fantasy hybrid, not just adjacent
 to it; do not skip this because a title "obviously" sounds like fantasy or because time is
-short, (2) research & score against the 7 weighted criteria in the xlsx
+short, (1b) **relevance/fit check, before any scoring begins** — separate from the genre gate,
+this asks whether the candidate's *core identity* is actually fantasy-as-a-narrative-mode, not
+just whether fantastical elements are technically present somewhere in it. A work can contain
+real magic/mythic content and still fail this check if that content is a late-arriving or
+incidental layer on top of a fundamentally different mode (e.g. absurdist sketch-comedy that
+only develops real stakes in a coda released years after the work's actual cultural identity was
+set) — distinct from Goblins' precedent, where the fantasy *setting* was always the stable core
+and only the *tone* shifted from comedic to tragic over time. When in doubt, lay out the
+for/against case explicitly (as done for Return to Oz's relevance and Charlie the Unicorn's
+genre fit) and default to leaving genuinely borderline cases off the queue rather than scoring
+them in, (2) research & score against the 7 weighted criteria in the xlsx
 Methodology sheet, (3) add the row to `Evaluations` with live formulas matching the existing
 rows, (4) recalc via LibreOffice to get cached values, (5) determine tier placement, (6) add
 the entry to both `index.html` (EN) and `es/index.html` (ES), inserted into the right tier's
@@ -700,6 +710,23 @@ steadily book over book like Harry Potter does), and unlike Harry Potter there's
 dark fantasy (on-page regicide, slavery, suicidal ideation). Kept as one bundled entry, matching
 the A Song of Ice and Fire / The First Law precedent for ongoing single-narrative series. Full
 reasoning in SCORING_RECORD.md.
+
+## Candidates considered and left off the queue
+
+Works researched at the user's request but not added, per the relevance/fit check (step 1b
+above) — logged here so they aren't re-proposed without knowing they were already vetted.
+
+- **Charlie the Unicorn** — Jason Steele / FilmCow — Web animation (2005–2024). Contains
+  fantastical elements (unicorns, Candy Mountain, a portal, an enchanted-object ghost character)
+  but its core identity across the vast majority of its runtime and virtually all of its
+  cultural footprint is absurdist sketch-comedy, with magic used as comedic prop rather than
+  world-building ("the series prioritizes absurdism over genuine stakes... magical elements
+  serve comedic rather than narrative purposes" per critical consensus on the 2005-2012 episodes
+  that made it a cultural phenomenon). The 2021-2024 "Grand Finale" arc does develop real
+  stakes late (a genuine magic system, a named ghost character, real character death) but this
+  is a late-arriving coda, not the stable core the way Goblins' fantasy setting was always
+  stable while only its tone shifted comedic-to-tragic. Left off; could be reconsidered if
+  explicitly scoped to the Grand Finale specifically, but not as the series' general identity.
 
 ## Queue
 
