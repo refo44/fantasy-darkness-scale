@@ -2357,10 +2357,13 @@ Lands/Wake of the Ravager CRPGs track the same severity but are excluded as too 
 their own slot; unofficial 3rd-edition material and the unreleased 2027 5th Edition books are out
 of scope.
 
-* Structural Despair: 3 — ordinary city-state tyranny persists across Athas beyond Tyr, though the
-  Prism Pentad's heroes destroy Borys and end Rajaat's threat outright — a real cosmic-scale
-  victory that keeps this at "improvement is the exception" rather than the ceiling.
-* Limited Heroism: 3 — matches Structural Despair's real-but-partial victory.
+* Structural Despair: 4 (revised from 3 on rescore — see note below) — ordinary city-state
+  tyranny persists across Athas beyond Tyr; the Prism Pentad's heroes do destroy Borys and end
+  Rajaat's threat outright, a real cosmic-scale victory, but that victory is scored as an
+  exceptional story arc against the setting's own default/preferred baseline (all sorcerer-kings
+  unchallenged), not the state this axis is now anchored to.
+* Limited Heroism: 3 — matches the Pentad's real-but-partial victory (this axis measures what
+  happens when protagonists act, and was not revised — see note below).
 * Moral Cynicism: 3 — the setting's power structure explicitly rewards atrocity: Rajaat's
   champions became immortal sorcerer-kings *as payment* for committing genocide against entire
   non-human races (the "Cleansing Wars") — short of the ceiling since the Pentad's own heroes
@@ -2374,21 +2377,41 @@ of scope.
   new king, then immediately schemes to become a sorcerer-king himself — becoming exactly what he
   helped overthrow — and ends the Pentad permanently exiled, never redeemed; Sadira's more
   flexible use of defiler-coded magic for good ends keeps this short of the ceiling.
-* Narrative Acceptance of Injustice: 3 — Tyr's own injustice is resolved within this story, but
-  ordinary tyranny across the rest of Athas is left explicitly ongoing, addressed only across
-  later novels outside this entry's scope.
+* Narrative Acceptance of Injustice: 4 (revised from 3 on rescore — see note below) — Tyr's own
+  injustice is resolved within this story, but ordinary tyranny across the rest of Athas is left
+  explicitly ongoing — that "ongoing elsewhere" condition is the setting's actual default and
+  preferred state, not a structural-but-eventually-addressed one.
 * Explicit Darkness: 4 — the Dragon of Tyr (Borys) demands a tithe of 1,000 sacrificial slaves
   *per year, from every city-state*, harvested for their life energy to keep the setting's
   original threat (Rajaat) imprisoned — a recurring operating mechanism for centuries, not a
   one-off atrocity — plus "defiler" magic that visibly withers all plant life to ash with every
   casting; WotC's own 2027 relaunch is D&D's first-ever 18+ rated setting.
 
-Weighted = 3.25 → Final Score = 8.8125 → **Tier 8**, an exact tie with Fire Punch via a genuinely
-different profile (Fire Punch's Moral Cynicism 4/Structural Corruption 3 vs. this entry's 3/4,
-everything else matching). Sits a full 0.45 Weighted Internal Score below the Tier 9 floor (The
-First Law), consistent with Structural Despair/Limited Heroism staying at 3 rather than 4 here
-since a real cosmic-scale threat does get resolved, unlike The First Law. Cozy Fantasy = No,
-Hopepunk = No. Label "Grimdark" fits at the tier's upper end.
+Weighted = 3.55 → Final Score = 9.4875 → **Tier 9**, an exact tie with Ravenloft via a genuinely
+different profile (Ravenloft trades this entry's higher Moral Cynicism, 3 vs. 2, for a higher
+Redemption Difficulty, 4 vs. 3). Cozy Fantasy = No, Hopepunk = No. Label "Extreme Grimdark" fits:
+genuine, permanent, world-scale tyranny with no default resolution, distinct from Tier 10's
+Warhammer 40,000, where every axis is maxed with no exceptions at all.
+
+**Rescore note (prompted by the user, supplied with community/design-history context — a Reddit
+thread and a Paizo forum thread comparing this entry's bleakness against Ravenloft):** originally
+scored at Tier 8, 8.8125, tying Fire Punch, with Structural Despair and Narrative Acceptance of
+Injustice both at 3. Revised to 4 each. The underlying facts didn't change — the Prism Pentad's
+heroes really do destroy Borys and end Rajaat's threat, a genuine cosmic-scale victory. What
+changed is which state anchors these two world-trajectory axes: that victory turns out to be an
+exceptional story arc, not the setting's own default/preferred state. TSR's later design
+explicitly treated the Pentad's resolution as undermining the setting's core appeal ("the
+overwhelming sense of oppression and brutality as everyday facts of life... killing off the
+sorcerer-kings undermined the setting"), and 4th Edition deliberately wound the timeline back to
+just after the first novel to recapture that pre-resolution baseline. Scored against that
+baseline — not the Pentad's partial, exceptional victory — both axes now match their "4" anchors.
+Limited Heroism, Moral Cynicism, and Redemption Difficulty were left unrevised: they measure what
+happens when protagonists act, and the Pentad remains the only substantial long-form narrative
+testing those constructs, with no equally strong evidence pointing elsewhere. Checked against
+Ravenloft specifically (also 9.4875 after this revision): no equivalent baseline-vs-narrative
+divergence exists there — *I, Strahd* and Ravenloft's base tabletop premise have always told the
+same permanent-tragedy story, unlike Dark Sun's Pentad, which diverges from its own setting's
+preferred baseline.
 
 ## Alice in Wonderland
 

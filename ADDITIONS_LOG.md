@@ -2072,10 +2072,35 @@ reasoning in SCORING_RECORD.md.
 
 ### 27. Dark Sun — TSR / Wizards of the Coast — Tabletop (D&D campaign setting), Novels
 
-- Tier 8 (Grimdark), Final Score 8.8125 (Weighted Internal Score 3.25) — an exact numeric tie
-  with Fire Punch, via a genuinely different profile (see neighbor check below).
-- Scores: Structural Despair 3, Limited Heroism 3, Moral Cynicism 3, Structural Corruption 4,
-  Redemption Difficulty 3, Narrative Acceptance of Injustice 3, Explicit Darkness 4.
+- Tier 9 (Extreme Grimdark), Final Score 9.4875 (Weighted Internal Score 3.55) — an exact
+  numeric tie with Ravenloft, via a genuinely different profile (see neighbor check below).
+- Scores: Structural Despair 4, Limited Heroism 3, Moral Cynicism 3, Structural Corruption 4,
+  Redemption Difficulty 3, Narrative Acceptance of Injustice 4, Explicit Darkness 4.
+- **Rescore, prompted by the user with supporting community/design-history context** (a Reddit
+  thread comparing this entry's bleakness against Ravenloft, and a Paizo forum thread on the
+  same comparison): Structural Despair and Narrative Acceptance of Injustice revised 3→4. The
+  original scoring (below) kept both at 3 specifically because the Prism Pentad's heroes destroy
+  Borys and end Rajaat's threat outright — a real cosmic-scale victory, distinct from settings
+  where nothing is ever resolved. That victory is real and unretracted here. What changed is
+  which state should anchor these two *world-trajectory* axes: the Pentad's partial resolution
+  (2-3 of roughly 9-10 sorcerer-kings fall) turns out to be an exceptional story arc, not the
+  setting's own default/preferred state — TSR's later design explicitly treated the Pentad's
+  resolution as undermining the setting ("the great appeal... was the overwhelming sense of
+  oppression and brutality as everyday facts of life; killing off the sorcerer-kings undermined
+  the setting" — a fan assessment quoting the sentiment WotC itself later acted on), and 4th
+  Edition deliberately wound the timeline back to just after the first novel specifically to
+  recapture that pre-resolution baseline. Scored against that baseline — all sorcerer-kings
+  unchallenged, oppression permanent and unattempted as the setting's default, most-representative
+  state across its actual product history — rather than the Pentad's partial, exceptional
+  victory, both axes now match their "4" anchors. Limited Heroism, Moral Cynicism, and Redemption
+  Difficulty were left unrevised: these measure what happens when protagonists actually act, and
+  the Pentad remains the only substantial long-form narrative testing those constructs, with no
+  equally strong evidence pointing elsewhere for them specifically. Checked against Ravenloft
+  (also 9.4875 after this revision): no equivalent baseline-vs-narrative divergence exists there
+  — Ravenloft's flagship novel (*I, Strahd*) and its base tabletop premise have always told the
+  same story (permanent, unresolved tragedy going back to the setting's first 1983 module),
+  unlike Dark Sun's Pentad, which diverges from the setting's own preferred baseline. Original
+  scoring rationale, still governing the four unrevised axes, retained below.
 - **Bundle-vs-split decision, addressed explicitly per this session's brief:** scored as one
   bundled entry, anchored on the AD&D 2nd Edition campaign setting (1991, the version this
   queue item itself describes, and the one the brand's own reputation rests on) plus the Prism
@@ -2107,12 +2132,13 @@ reasoning in SCORING_RECORD.md.
   life to ash with every casting, and confirmed body-horror mutation in magic-scarred zones.
   WotC's own 2027 relaunch is explicitly D&D's first-ever 18+ rated setting, with a stated
   content warning for slavery, nudity, and violence — the current publisher's own read
-  corroborates this as an outlier in graphic content, not just theme. Structural Despair and
-  Limited Heroism both land at 3, not 4, on a specific distinction: unlike settings where
-  nothing is ever resolved, the Prism Pentad's heroes don't just free Tyr locally — they
-  destroy Borys and end Rajaat's threat outright, a real cosmic-scale victory. That's why
-  ordinary city-state tyranny persisting elsewhere on Athas keeps this at "improvement is the
-  exception, not the norm" rather than "no improvement alters the trajectory." Moral Cynicism
+  corroborates this as an outlier in graphic content, not just theme. Limited Heroism lands at
+  3, not 4, on a specific distinction: unlike settings where nothing is ever resolved, the Prism
+  Pentad's heroes don't just free Tyr locally — they destroy Borys and end Rajaat's threat
+  outright, a real cosmic-scale victory. (Structural Despair originally landed at 3 on this same
+  reasoning — see the rescore note above for why it now sits at 4: the Pentad's victory is real,
+  but it's an exceptional story arc rather than the setting's own default/preferred baseline
+  state, which is what this axis is now scored against.) Moral Cynicism
   (3) reflects that the setting's power structure explicitly rewards atrocity — Rajaat's
   champions became immortal sorcerer-kings *as payment* for committing genocide against entire
   non-human races (the "Cleansing Wars") — without going all the way to 4, since the Pentad's
@@ -2123,27 +2149,27 @@ reasoning in SCORING_RECORD.md.
   another dimension, never redeemed; Sadira's more flexible use of defiler-coded magic for
   good ends (she survives, gains power, helps end Rajaat) shows redemption/grace isn't
   foreclosed for everyone, keeping this short of the 4 ceiling. Narrative Acceptance of
-  Injustice (3) reflects that Tyr's own injustice is resolved within this story, but ordinary
-  tyranny across the rest of Athas is left explicitly ongoing, addressed only across many later
-  novels outside this entry's scope — a structural condition, not something this story resolves
-  or simply leaves permanently unaddressed.
+  Injustice originally landed at 3 on the reasoning that Tyr's own injustice is resolved within
+  this story, but ordinary tyranny across the rest of Athas is left explicitly ongoing — see the
+  rescore note above for why it now sits at 4: that "ongoing elsewhere" condition turns out to be
+  the setting's actual default and preferred state, not a structural-but-eventually-addressed
+  condition, per the Pentad-vs-baseline distinction.
 - Cozy Fantasy = No. Hopepunk = No: matches precedent (no work at Tier 6 or darker carries the
   tag).
-- Neighbor check: Fire Punch (also 8.8125) has the identical Weighted Internal Score via a
-  swapped profile — Moral Cynicism 4 / Structural Corruption 3, vs. this entry's Moral Cynicism
-  3 / Structural Corruption 4 — everything else on both entries matches exactly. Below this
-  entry, Elden Ring (8.59, Structural Despair 4 but Structural Corruption/Explicit Darkness
-  only 3) and A Song of Ice and Fire (8.475, an identical SD3/LH3/MC3/RD3/NAI3/ED4 profile but
-  Structural Corruption only 3, per the institutional-legitimacy distinction above) both sit
-  below on specific, named axes. Above this entry, the tier-9 floor (The First Law, Weighted
-  Internal Score 3.7, Structural Despair/Limited Heroism/Moral Cynicism/Structural Corruption
-  all at the 4 ceiling) sits a full 0.45 WIS clear — not a close call — consistent with Dark
-  Sun's own Structural Despair/Limited Heroism staying at 3 rather than 4 for the specific
-  reason given above (a real cosmic-scale threat does get resolved here, unlike The First Law).
-  Label "Grimdark" fits at the tier's upper end.
-- Added to xlsx row 119, and to tier 8 on both index.html and es/index.html, appended after
-  Fire Punch (exact score tie, existing-entry-first ordering matching the Attack on
-  Titan/House of the Dragon/Dark Tower/Sweet Tooth precedent at Tier 7).
+- Neighbor check (pre-rescore, at Tier 8): Fire Punch (also 8.8125) had the identical Weighted
+  Internal Score via a swapped profile — Moral Cynicism 4 / Structural Corruption 3, vs. this
+  entry's Moral Cynicism 3 / Structural Corruption 4. Post-rescore, at Tier 9: exact tie with
+  Ravenloft (9.4875) via a different profile — Ravenloft trades this entry's higher Moral
+  Cynicism (3 vs. 2) for a higher Redemption Difficulty (4 vs. 3), same total, both settled on
+  the same "TSR/WotC dystopian D&D setting" severity level via different specific emphases (see
+  the rescore note above for why the two aren't scored via the same baseline-vs-narrative
+  standard despite the coincidental tie). Below this entry: The First Law / Devilman Crybaby
+  (9.825, Weighted Internal Score 3.7) sit a real 0.15 WIS above — not a close call. Label
+  "Extreme Grimdark" fits: genuine, permanent, world-scale tyranny with no default resolution,
+  distinct from Tier 10's Warhammer 40,000, where literally every axis is maxed with no
+  exceptions of any kind, unlike Dark Sun's real (if exceptional, non-default) Pentad victory.
+- Added to xlsx row 119, and moved from tier 8 to tier 9 on both index.html and es/index.html,
+  appended after Ravenloft (exact score tie, existing-entry-first ordering).
 
 ### 43. Sweet Tooth — Jeff Lemire — Comics, TV series
 
