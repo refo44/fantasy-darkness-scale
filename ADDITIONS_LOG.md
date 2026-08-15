@@ -833,14 +833,8 @@ above) — logged here so they aren't re-proposed without knowing they were alre
 62. [x] Legend of the Five Rings (L5R) — AEG / Fantasy Flight Games — Tabletop, Novels — DONE,
     see Completed
 63. [x] Black Myth: Wukong — Game Science (2024) — Video Game — DONE, see Completed
-64. [ ] KPop Demon Hunters — Netflix / Sony Pictures Animation, dir. Maggie Kang & Chris
-    Appelhans (2025) — Film — Huntr/x, a K-pop girl group descended from generations of warriors,
-    secretly protects humanity from real demons using the power of music; opposed by the Saja
-    Boys, a rival boy band whose members are actually demons serving Gwi-Ma (a Korean-mythology-
-    inspired, flaming, all-consuming entity); centers on the Golden Honmoon, a barrier against
-    the demon realm sustained by collective human belief/emotion, and explicitly frames "inner
-    demons" as something to integrate rather than fully banish — genuinely dark antagonist
-    mythology wrapped in an ultimately hopeful, identity-affirming musical register
+64. [x] KPop Demon Hunters — Netflix / Sony Pictures Animation, dir. Maggie Kang & Chris
+    Appelhans (2025) — Film — DONE, see Completed
 65. [ ] Chaotic Good Barbarian — Dungeon Soup (YouTube web animation) — a D&D-parody series
     following an unstoppable Barbarian Hero who slays monsters "in ways that make you feel sorry
     for the monsters" (e.g. defeating a self-resurrecting lich, then dismembering and carrying it
@@ -877,6 +871,59 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     anchor it) both need deciding when scored, not assumed
 
 ## Completed
+
+### 64. KPop Demon Hunters — Netflix / Sony Pictures Animation, dir. Maggie Kang & Chris Appelhans (2025) — Film
+
+- Tier 3 (Moderately Bright Fantasy), Final Score 3.975 (Weighted Internal Score 1.1).
+- Scores: Structural Despair 1, Limited Heroism 1, Moral Cynicism 0, Structural Corruption 1,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 1, Explicit Darkness 2.
+- **Relevance/fit check (step 1b), run before any scoring:** real demon mythology (Gwi-Ma, the
+  Saja Boys, the Golden Honmoon barrier) is the story's structural core from the premise onward,
+  not incidental dressing on a different mode — clears easily, unlike Charlie the Unicorn
+  (researched and left off the queue for the same check).
+- **Plot basis:** Huntr/x (Rumi, Mira, Zoey) are the latest generation of K-pop-idol demon
+  hunters maintaining the Honmoon, a magic barrier against the demon realm powered by collective
+  belief. Rumi is secretly part-demon. The rival Saja Boys are demons in boy-band disguise,
+  serving the demon king Gwi-Ma, who weaponizes shame and self-rejection. Jinu, one of the Saja
+  Boys, sacrifices himself to save Rumi — a real, permanent death completing a genuine redemption
+  arc. The girls rebuild the Honmoon and defeat Gwi-Ma, but the new barrier is explicitly
+  imperfect ("still prone to demons passing through," unlike the original). The film's stated
+  thesis (per co-director Maggie Kang) is "overcoming your inner demons," not merely accepting
+  them — an ultimately hopeful, self-acceptance narrative.
+- **Adjacent-tier boundary check** (this entry's weighted score, 1.1, sits extremely close to
+  the Tier 3/4 line at 1.1111 — checked per the standing checklist rather than assumed): pulled
+  Tier 4's full profile list before finalizing. The nearest Tier 4 neighbor, Avatar: The Last
+  Airbender (4.65, the catalog's reference "Fierce Hopepunk" example, SD2/LH1/MC1/SC1/RD2/NAI1/
+  ED2), has a higher Structural Despair and Moral Cynicism that track its sprawling, multi-season
+  genocide/war backdrop — a larger, more entrenched injustice than this film's single-narrative,
+  largely-resolved demon threat. That gap is a real differentiation, not a close call resolved
+  arbitrarily, and confirmed keeping this entry at Tier 3.
+- Rationale: Structural Despair (1) and Limited Heroism (1) reflect real, durable improvement —
+  centuries of demon predation meaningfully checked, Gwi-Ma defeated — tempered only by the
+  rebuilt Honmoon's explicit imperfection, a minor coda detail rather than a load-bearing
+  "nothing changed" beat. Moral Cynicism (0) since the film's explicit thesis directly rewards
+  courage/self-acceptance. Structural Corruption (1) since Gwi-Ma and the Saja Boys are a
+  specific infiltrating threat, not a systemically corrupt institution — the K-pop industry
+  itself isn't indicted. Redemption Difficulty (2) rests on Jinu: genuine redemption, but only
+  through sacrificing his own life. Narrative Acceptance of Injustice (1) since the core conflict
+  resolves with real hope, though centuries of past soul-loss are never undone and the new
+  barrier stays imperfect. Explicit Darkness (2) for real, visible demonic danger and
+  body-marking (Rumi's "patterns") without confirmed graphic content, matching a broad-audience
+  Netflix animated actioner.
+- Cozy Fantasy = No. Hopepunk = Yes, Bittersweet-leaning: Jinu's real, permanent death is met
+  with grief rather than undone, echoing the "connection persists anyway, even knowing the cost"
+  shape rather than Fierce Hopepunk's institutional-resistance framing.
+- Neighbor check: exact score tie with a large established cluster — Frieren: Beyond Journey's
+  End, The Lord of the Rings, Chrono Trigger, Record of Lodoss War, Final Fantasy II, Black
+  Clover, Nausicaä of the Valley of the Wind (all 3.975). Closest thematically to Frieren
+  (SD2/LH1/MC0/SC0/RD1/NAI2/ED2), the catalog's "purest fit" Bittersweet Hopepunk example — a
+  coherent match, though this entry's Structural Despair sits lower since its story doesn't carry
+  Frieren's pervasive, structural mortality-gap sadness, just one major climactic loss. Label
+  check: "Moderately Bright Fantasy" fits.
+- Added to xlsx row 143, and to tier 3 on both index.html and es/index.html, appended after
+  Chrono Trigger (exact score tie, existing-entries-first ordering); title "KPop Demon Hunters"
+  in EN, "Las guerreras K-pop" in ES (the official Latin American Spanish release title); medium:
+  "Film" / "Película".
 
 ### 63. Black Myth: Wukong — Game Science (2024) — Video Game
 

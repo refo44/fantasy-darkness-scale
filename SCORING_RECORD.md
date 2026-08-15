@@ -2934,6 +2934,37 @@ corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" 
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
 
+## KPop Demon Hunters
+
+New catalog addition. Relevance/fit check (step 1b) run before scoring: real demon mythology is
+the story's structural core from the premise onward, not incidental dressing — clears easily,
+unlike Charlie the Unicorn (left off the queue for the same check). This entry's weighted score
+(1.1) sits extremely close to the Tier 3/4 line (1.1111); pulled Tier 4's profile list before
+finalizing rather than assuming — see note below.
+
+* Structural Despair: 1 — real, durable improvement (centuries of demon predation meaningfully
+  checked), tempered by the rebuilt Honmoon's explicit imperfection.
+* Limited Heroism: 1 — Gwi-Ma is durably defeated; the barrier's imperfection is a minor coda
+  detail, not a load-bearing "nothing changed" beat.
+* Moral Cynicism: 0 — the film's explicit thesis ("overcoming your inner demons") directly
+  rewards courage/self-acceptance.
+* Structural Corruption: 1 — Gwi-Ma and the Saja Boys are a specific infiltrating threat, not a
+  systemically corrupt institution.
+* Redemption Difficulty: 2 — Jinu's redemption is real and central, but costs him his life.
+* Narrative Acceptance of Injustice: 1 — the core conflict resolves with real hope, though
+  centuries of past soul-loss are never undone and the new barrier stays imperfect.
+* Explicit Darkness: 2 — real, visible demonic danger and body-marking without confirmed
+  graphic content.
+
+Weighted = 1.1 → Final Score = 3.975 → **Tier 3**, exact tie with Frieren: Beyond Journey's End,
+The Lord of the Rings, Chrono Trigger, Record of Lodoss War, Final Fantasy II, Black Clover, and
+Nausicaä. Boundary check against Avatar: The Last Airbender (4.65, Tier 4, the catalog's
+reference Fierce Hopepunk example): Avatar's higher Structural Despair/Moral Cynicism track its
+sprawling multi-season genocide/war backdrop, a larger and more entrenched injustice than this
+film's single-narrative, largely-resolved threat — a real differentiation, confirming Tier 3.
+Cozy Fantasy = No, Hopepunk = Yes (Bittersweet-leaning). Label check: "Moderately Bright Fantasy"
+fits.
+
 ## Black Myth: Wukong
 
 New catalog addition. Genre gate already settled in the queue item (real Buddhist/Taoist
