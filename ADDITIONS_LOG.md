@@ -805,12 +805,7 @@ reasoning in SCORING_RECORD.md.
     Completed
 62. [x] Legend of the Five Rings (L5R) — AEG / Fantasy Flight Games — Tabletop, Novels — DONE,
     see Completed
-63. [ ] Black Myth: Wukong — Game Science (2024) — Video Game — action RPG retelling episodes of
-    Journey to the West through the "Destined One," a monkey warrior following Sun Wukong's path;
-    real mythological stakes (gods, demons, and Buddhist/Taoist cosmology), several boss
-    characters framed as tragic figures destroyed by heaven's own cruelty or their own corruption,
-    and multiple endings ranging from restoring the Monkey King's power to a darker, more
-    ambiguous continuation of the cycle
+63. [x] Black Myth: Wukong — Game Science (2024) — Video Game — DONE, see Completed
 64. [ ] KPop Demon Hunters — Netflix / Sony Pictures Animation, dir. Maggie Kang & Chris
     Appelhans (2025) — Film — Huntr/x, a K-pop girl group descended from generations of warriors,
     secretly protects humanity from real demons using the power of music; opposed by the Saja
@@ -844,6 +839,57 @@ reasoning in SCORING_RECORD.md.
     logic as Wizard of Oz vs. Wicked, or the Alice novels vs. American McGee's Alice)
 
 ## Completed
+
+### 63. Black Myth: Wukong — Game Science (2024) — Video Game
+
+- Tier 7 (Extreme Dark Fantasy), Final Score 7.575 (Weighted Internal Score 2.7).
+- Scores: Structural Despair 3, Limited Heroism 3, Moral Cynicism 3, Structural Corruption 2,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 3, Explicit Darkness 3.
+- **Genre gate** already settled in the queue item: real mythological stakes (gods, demons,
+  Buddhist/Taoist cosmology), not decoration.
+- **Plot basis:** an action RPG retelling episodes of Journey to the West through the "Destined
+  One," picking up after Sun Wukong achieves Buddhahood, rejects it, and is defeated and resealed
+  in stone by the god Erlang. Several boss-demons are framed as tragic figures, destroyed by
+  Heaven's own manipulation as much as their own corruption. Both endings keep some version of
+  the cycle running: the default ending re-imprisons the Destined One as the new, controlled
+  Monkey King under a headband; the secret "true" ending is more conclusive but still inherits
+  the same power structure rather than escaping it.
+- **Self-audit, before this entry was ever pushed** (prompted by the user checking for possible
+  scoring bias across this run of additions): the first pass scored Structural Corruption 3,
+  Redemption Difficulty 3, and Explicit Darkness 4 (Tier 8, 8.475, tying A Song of Ice and Fire).
+  All three were revised down on re-examination:
+  - **Structural Corruption 3→2:** the evidence ("gods and Buddhas who *can* mutiny or lose their
+    hearts") signals an exception, not the systemic default — unlike Shadowrun (every megacorp
+    exempt from law) or Ravenloft (every domain corrupt by design), Heaven here still contains
+    genuine mercy (Bodhisattva Lingji sparing Yellow Wind Sage). Matches "notorious corruption in
+    one institution, others still legitimate" rather than "central institutions exist to sustain
+    exploitation."
+  - **Redemption Difficulty 3→2:** the Yellow Wind Sage evidence used to justify the higher score
+    is a story about good intentions curdling into catastrophe, not a character who *did wrong*
+    failing to achieve moral repair — a weaker match for this axis's specific construct than for
+    general tragic tone.
+  - **Explicit Darkness 4→3:** benchmarked directly against Dark Souls I–III (already ED3 in this
+    catalog), the closest genre-sibling — "Blood and Gore" is the same ESRB descriptor Dark Souls
+    carries, and nothing found shows this game's violence is more graphic than its nearest
+    comparison, so it doesn't clear a full step above that ceiling.
+- Rationale for the unrevised axes: Structural Despair (3), Limited Heroism (3), Moral Cynicism
+  (3), and Narrative Acceptance of Injustice (3) all reflect that Heaven's control never actually
+  breaks in either ending — even the greatest rebel in the mythology (Wukong himself) ultimately
+  lost despite trying every available path to legitimacy ("smaller paths are not left... what
+  hope remains for other demons"), and Heaven's own justice is unreliable (Wukong's legitimately
+  earned Buddhahood didn't protect him from being resealed).
+- Cozy Fantasy = No. Hopepunk = No: tragic mythological cyclicality as the organizing tone, not
+  kindness/resistance as a load-bearing response to adversity.
+- Neighbor check: exact score tie with Wicked and American McGee's Alice / Alice: Madness Returns
+  (all 7.575). Checked against a non-adjacent Tier 7 work, His Dark Materials / Legend of the
+  Five Rings (7.4625): the small gap resolves cleanly on this entry's slightly higher Structural
+  Despair and Moral Cynicism. Label check: "Extreme Dark Fantasy" fits — real, sustained cosmic
+  tragedy and unreliable divine justice, but with genuine mercy still present in the setting
+  (unlike Tier 8's Dark Souls/Elden Ring, where the world offers essentially none), correctly
+  keeping this a tier below its closest action-RPG genre-sibling.
+- Added to xlsx row 142, and to tier 7 on both index.html and es/index.html, appended after
+  American McGee's Alice / Alice: Madness Returns (exact score tie, existing-entries-first
+  ordering); title "Black Myth: Wukong" in both EN and ES; medium: "Video Game" / "Videojuego".
 
 ### 62. Legend of the Five Rings (L5R) — AEG / Fantasy Flight Games — Tabletop, Novels
 

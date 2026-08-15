@@ -2911,6 +2911,41 @@ corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" 
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
 
+## Black Myth: Wukong
+
+New catalog addition. Genre gate already settled in the queue item (real Buddhist/Taoist
+cosmology, not decoration). Retells episodes of Journey to the West through the "Destined One,"
+after Sun Wukong achieves Buddhahood, rejects it, and is resealed in stone by the god Erlang.
+Both endings keep some version of the cycle running rather than cleanly escaping it.
+
+* Structural Despair: 3 — Heaven's control never actually breaks in either ending.
+* Limited Heroism: 3 — even Wukong, the greatest rebel in the mythology, ultimately lost despite
+  trying every available path to legitimacy; individual boss-demons are permanently defeated in
+  play, but the overarching structure never does.
+* Moral Cynicism: 3 — Heaven's justice is unreliable; Wukong's legitimately earned Buddhahood
+  didn't protect him from being resealed.
+* Structural Corruption: 2 — Heaven's corruption is framed as an exception ("gods... *can*
+  mutiny"), not the systemic default; genuine mercy is also shown (Bodhisattva Lingji sparing
+  Yellow Wind Sage).
+* Redemption Difficulty: 2 — the tragic-boss evidence available is more about good intentions
+  curdling into catastrophe than a character who did wrong failing at moral repair specifically.
+* Narrative Acceptance of Injustice: 3 — neither ending cleanly resolves Heaven's control over
+  the Destined One.
+* Explicit Darkness: 3 — benchmarked against Dark Souls I–III (already ED3 in this catalog), the
+  closest genre-sibling; nothing found shows this game's violence clears a full step above it.
+
+Weighted = 2.7 → Final Score = 7.575 → **Tier 7**, exact score tie with Wicked and American
+McGee's Alice / Alice: Madness Returns. Checked against a non-adjacent Tier 7 work, His Dark
+Materials / Legend of the Five Rings (7.4625): the small gap resolves cleanly on this entry's
+slightly higher Structural Despair and Moral Cynicism. Cozy Fantasy = No, Hopepunk = No. Label
+check: "Extreme Dark Fantasy" fits — real cosmic tragedy and unreliable divine justice, but with
+genuine mercy still present, keeping this a tier below Dark Souls/Elden Ring's total bleakness.
+
+Self-audit note, before this entry was ever pushed live: the first pass scored Structural
+Corruption 3, Redemption Difficulty 3, and Explicit Darkness 4 (Tier 8, 8.475, tying A Song of
+Ice and Fire). Prompted by the user checking for possible scoring bias across this run of
+additions, all three were revised down on re-examination — see the axis notes above for each.
+
 ## Legend of the Five Rings (L5R)
 
 New catalog addition. Genre gate trivial (Jigoku, demonic corruption, the Shadowlands Taint are
