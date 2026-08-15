@@ -2911,6 +2911,42 @@ corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" 
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
 
+## Ravenloft
+
+New catalog addition. Scored via the core gothic-horror campaign setting (the Demiplane of
+Dread, its Darklords, the Dark Powers) plus the flagship novel line (Vampire of the Mists /
+I, Strahd) as co-primary sources, matching the Dark Sun precedent. Compared explicitly against
+every other tabletop setting already scored (Warhammer 40,000, Dark Sun, Forgotten Realms), not
+scored in isolation.
+
+* Structural Despair: 4 — the demiplane's entire premise is a structurally condemned
+  prison-world; unlike Dark Sun's Prism Pentad (which shows real ecological/political progress
+  by its ending, earning Dark Sun a 3 here), Ravenloft's flagship material shows no equivalent —
+  the central tragedy is designed to loop forever.
+* Limited Heroism: 3 — parties genuinely can and do defeat individual Darklords in actual play,
+  real if domain-local victories — kept below Warhammer 40,000's total-futility 4.
+* Moral Cynicism: 2 — the Dark Powers read as amoral/capricious (trapping innocent and guilty
+  alike) rather than actively rewarding cruelty the way Dark Sun's might-makes-right economy
+  does (Dark Sun scores 3 here).
+* Structural Corruption: 4 — ties Dark Sun; every domain is, by design, ruled by a corrupt
+  Darklord as both throne and prison, not an isolated flaw in an otherwise-legitimate structure.
+* Redemption Difficulty: 4 — higher than Dark Sun's 3. Dark Sun's Pentad shows real redemption
+  (former templars turning against the sorcerer-kings and succeeding); Strahd, Ravenloft's
+  flagship figure, has never once escaped his curse across the setting's ~40-year history — only
+  two Darklords ever have, both via metaphysical loopholes rather than genuine moral repair.
+* Narrative Acceptance of Injustice: 4 — also higher than Dark Sun's 3, for the same reason:
+  the demiplane is explicitly designed to never resolve at the meta level, generating new
+  Darklords and trapped victims indefinitely rather than working toward an ending.
+* Explicit Darkness: 4 — played-straight Poe/Shelley/Stoker gothic horror (vampiric assault,
+  body horror, notoriously disturbing set-pieces like Curse of Strahd's "Death House" opener).
+
+Weighted = 3.55 → Final Score = 9.4875 → **Tier 9**, sitting between Dark Sun (8.8125) and the
+exact tie of The First Law / Devilman Crybaby (9.825), with no exact twin — a deliberate result
+of scoring Redemption Difficulty and Narrative Acceptance of Injustice above Dark Sun's level
+rather than smoothing them down to force a match. Cozy Fantasy = No, Hopepunk = No. Label check:
+"Extreme Grimdark" fits — genuine inescapable gothic tragedy, distinct from Tier 10's total,
+world-scale hopelessness (Warhammer 40,000, every axis maxed).
+
 ## Return to Oz (1985)
 
 New catalog addition. Genre gate trivial — same established Oz-verse as the existing Wizard of

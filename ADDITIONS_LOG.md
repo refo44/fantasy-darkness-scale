@@ -798,15 +798,8 @@ reasoning in SCORING_RECORD.md.
     Completed
 57. [x] Return to Oz — dir. Walter Murch (1985) — Film — DONE, see Completed
 58. [x] Violence Jack — Go Nagai — Manga — DONE, see Completed
-60. [ ] Ravenloft — TSR / Wizards of the Coast — Tabletop (D&D campaign setting), Novels —
-    gothic horror setting: the Demiplane of Dread, an inescapable prison of fog-bound "domains,"
-    each ruled by a cursed "Darklord" (Strahd von Zarovich, vampire lord of Barovia, is the most
-    iconic) condemned to eternally repeat the sins that trapped them there; unlike Dark Sun's
-    grim-subversion-of-high-fantasy premise, Ravenloft is built specifically around inescapable
-    punishment and tragic-villain horror (vampires, werewolves, hags, Frankenstein-analogues);
-    the Mists can also pull in innocent travelers with no guaranteed way out; has a substantial
-    novel line (Vampire of the Mists and the wider Ravenloft novel series) alongside the
-    tabletop material — decide scope/bundling when scored
+60. [x] Ravenloft — TSR / Wizards of the Coast — Tabletop (D&D campaign setting), Novels — DONE,
+    see Completed
 59. [x] Devilman Lady — Go Nagai — Manga — DONE, see Completed
 61. [ ] Shadowrun — FASA / Catalyst Game Labs — Tabletop, Novels, Video Games — genre-checked:
     a genuine cyberpunk/urban-fantasy hybrid, not sci-fi with fantasy garnish — magic is a
@@ -858,6 +851,60 @@ reasoning in SCORING_RECORD.md.
     violence and loss are the show's default register, not exceptional beats
 
 ## Completed
+
+### 60. Ravenloft — TSR / Wizards of the Coast — Tabletop (D&D campaign setting), Novels
+
+- Tier 9 (Extreme Grimdark), Final Score 9.4875 (Weighted Internal Score 3.55).
+- Scores: Structural Despair 4, Limited Heroism 3, Moral Cynicism 2, Structural Corruption 4,
+  Redemption Difficulty 4, Narrative Acceptance of Injustice 4, Explicit Darkness 4.
+- **Scope decision:** scored via the core gothic-horror campaign setting (the Demiplane of Dread,
+  its Darklords, the Dark Powers) plus the flagship novel line (Vampire of the Mists / I, Strahd)
+  as co-primary sources, matching the Dark Sun precedent (setting + Prism Pentad novels as
+  co-primary/definitive sources) rather than scoring the tabletop material in isolation.
+- **Compared explicitly against every other tabletop setting already in the catalog** (prompted
+  by the user), not just scored in isolation:
+  - vs. **Warhammer 40,000** (Tier 10, every axis maxed at 4): kept clearly below it. Limited
+    Heroism (3, not 4) and Moral Cynicism (2, not 4) are the load-bearing differentiators —
+    parties genuinely can and do defeat individual Darklords in actual play (real, if
+    domain-local, victories 40k's setting never grants anyone), and the Dark Powers read as
+    amoral/capricious rather than actively rewarding cruelty the way every 40k institution does.
+  - vs. **Dark Sun** (Tier 8, 3/3/3/4/3/3/4): the closer comparison, and where two axes were
+    deliberately scored *higher* than Dark Sun rather than just matched. Redemption Difficulty
+    (4 vs. Dark Sun's 3) and Narrative Acceptance of Injustice (4 vs. Dark Sun's 3): Dark Sun's
+    co-primary source (the Prism Pentad) has a definitive ending with real, textually-confirmed
+    redemption and progress (former templars turning against the sorcerer-kings and succeeding;
+    ecological recovery beginning). Ravenloft's flagship figure, Strahd, has never once escaped
+    his curse across the setting's ~40-year history — only two Darklords ever have, both through
+    metaphysical loopholes (godhood, total domain abandonment) rather than genuine moral repair —
+    and the demiplane is explicitly designed to never resolve at the meta level, generating new
+    Darklords and trapped victims indefinitely rather than working toward an ending the way Dark
+    Sun's definitive novels do. Structural Despair (4, vs. Dark Sun's 3) follows the same logic:
+    Dark Sun earned its 3 specifically because its defining narrative shows a real positive
+    trajectory by the end; Ravenloft's flagship material shows no equivalent. Structural
+    Corruption ties at 4 for both (each setting builds corrupt tyranny into its fundamental
+    structure by design, not as an isolated flaw). Moral Cynicism (2, vs. Dark Sun's 3) is lower:
+    Dark Sun's might-makes-right economy actively rewards cruelty with real power; Ravenloft's
+    Dark Powers trap the innocent and guilty alike without particularly rewarding villainy either.
+  - vs. **Forgotten Realms** (Tier 4, 1/1/1/1/3/1/2): confirms the range these settings can span
+    even within the same D&D tabletop-campaign-setting category — Forgotten Realms is default
+    heroic high fantasy with dark corners, the opposite end of the spectrum from a setting
+    purpose-built around inescapable gothic tragedy.
+- **First-pass revision:** the initial score had Limited Heroism at a lower value under
+  consideration for 4 (matching 40k) before the Dark Sun comparison clarified that Ravenloft's
+  real, if contained, hero victories belong at 3, distinctly below 40k's total futility.
+- Cozy Fantasy = No. Hopepunk = No: the setting is organized around inescapable curse and
+  tragedy, not kindness as a load-bearing response to adversity.
+- Neighbor check: sits between Dark Sun (8.8125) and the exact tie of The First Law / Devilman
+  Crybaby (9.825) with no exact score twin — a deliberate result of the Dark Sun comparison
+  above rather than a coincidence to smooth over; forcing an exact match would have meant fudging
+  Redemption Difficulty or Narrative Acceptance of Injustice down to Dark Sun's level despite the
+  textual case for scoring them higher. Label check: "Extreme Grimdark" fits — genuine gothic
+  tragedy with no realistic escape for its central figures, distinct from Tier 10's total,
+  world-scale hopelessness.
+- Added to xlsx row 139, and to tier 9 on both index.html and es/index.html, as the lowest-scored
+  entry in the tier (ahead of The First Law / Devilman Crybaby); title "Ravenloft" in both EN and
+  ES; medium: "Tabletop (D&D campaign setting), Novels" / "Juego de rol (ambientación de D&D),
+  Novelas", matching the Forgotten Realms convention.
 
 ### 57. Return to Oz — dir. Walter Murch (1985) — Film
 
