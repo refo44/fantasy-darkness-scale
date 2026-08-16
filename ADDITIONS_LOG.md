@@ -836,14 +836,8 @@ above) — logged here so they aren't re-proposed without knowing they were alre
 64. [x] KPop Demon Hunters — Netflix / Sony Pictures Animation, dir. Maggie Kang & Chris
     Appelhans (2025) — Film — DONE, see Completed
 65. [x] Chaotic Good Barbarian — Dungeon Soup (YouTube web animation) — DONE, see Completed
-66. [ ] Primal — created by Genndy Tartakovsky, Adult Swim (2019-2023) — TV series — genre-
-    checked: not pure prehistoric-survival realism — Tartakovsky deliberately layers in
-    supernatural/mythical elements that escalate across the series (giant bat-creatures, an
-    ape-man bloodsport cult, eventually "a dark, lost land where everything is possible"),
-    explicitly discussed as influenced by Robert E. Howard's sword-and-sorcery tradition; follows
-    a mute Neanderthal (Spear) and a Tyrannosaurus (Fang), both mourning their own dead families,
-    surviving a series of brutal, often wordless confrontations — near-continuous graphic
-    violence and loss are the show's default register, not exceptional beats
+66. [x] Primal — created by Genndy Tartakovsky, Adult Swim (2019-2023) — TV series — DONE, see
+    Completed
 67. [ ] Journey to the West (Xiyou Ji) — Wu Cheng'en (1592) — Novel — the classical Chinese epic
     following Sun Wukong (the Monkey King), Tang Sanzang, Zhu Bajie, and Sha Wujing on a
     pilgrimage to India for Buddhist scriptures; real Buddhist/Taoist cosmology (Heaven, the
@@ -865,6 +859,56 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     anchor it) both need deciding when scored, not assumed
 
 ## Completed
+
+### 66. Primal — created by Genndy Tartakovsky, Adult Swim (2019-2023) — TV series
+
+- Tier 5 (Gloomy Fantasy), Final Score 5.1 (Weighted Internal Score 1.6).
+- Scores: Structural Despair 2, Limited Heroism 1, Moral Cynicism 1, Structural Corruption 1,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 1, Explicit Darkness 4.
+- **Relevance/fit check (step 1b):** passes comfortably — Season 2 (a full third of the show's
+  run) introduces sustained supernatural content (a "Coven of the Damned" performing human
+  sacrifice, real magic entering the show's own mythology, a horned "demi-god of Hell" styled on
+  Norse myth/Surtur), explicitly discussed by critics and the creator as sword-and-sorcery in the
+  Robert E. Howard tradition — unlike Charlie the Unicorn's brief, late-arriving fantasy coda,
+  this is substantial and escalating across the series.
+- **Plot basis:** Spear (a mute Neanderthal) loses his wife and children to predators in the
+  opening; Fang (a T-Rex) loses her hatchlings the same day; grief bonds them into found-family.
+  Season 3 has Spear undergo an undead/corrupted transformation he must fight to overcome. Ends
+  genuinely hopefully: Spear reunites with a new partner, child, and Fang, returns to peace, and
+  a coda shows his daughter thriving years later.
+- **Hopepunk tag, researched and rejected** (the user pushed back explicitly, asking whether this
+  is really considered Hopepunk): no source discusses this work in Hopepunk terms at all —
+  critics' leading descriptors are "bleak," "ferocious," "eat or be eaten," "life is nasty,
+  brutish, and short," "unrelenting bloodshed," with emotional connection framed as a secondary,
+  moderating layer, not the organizing throughline. Contrast with Frieren, which critics and fans
+  do discuss explicitly in these terms (and which `CRITERIA_THEORY.md` cites as the "purest fit"
+  example) — Primal simply isn't part of that critical conversation. The methodology's own rule
+  (the tag requires "kindness/hope as organizing response to adversity" to be the most honest
+  one-line description of the work) isn't met here — the ending is genuinely hopeful, but doesn't
+  retroactively make that the work's defining throughline against its own critical reception.
+- Rationale: Structural Despair (2) since Spear's personal arc trends toward real healing, but
+  the wider prehistoric/supernatural world stays harsh and dangerous as its baseline nature
+  throughout. Limited Heroism (1) since Spear's actions produce a real, durable personal victory
+  by the finale. Moral Cynicism (1) since virtue (loyalty, perseverance, love) is ultimately
+  rewarded, though real, permanent losses occur along the way. Structural Corruption (1) since
+  the Coven and similar threats are organized evil cults, not a world-spanning institution.
+  Redemption Difficulty (2) since Spear's undead/corrupted-self arc is a real struggle, resolved
+  only at real cost. Narrative Acceptance of Injustice (1) since the original losses are never
+  undone, but the story's own posture is one of successfully overcoming grief, not leaving it
+  unaddressed. Explicit Darkness (4) for "unrelenting bloodshed" as the show's constant,
+  wordless, central visual mode across its entire run — critics consistently note real narrative
+  consequence to each violent act, not gratuitous shock, but the sheer frequency/intensity is the
+  show's defining register throughout.
+- Cozy Fantasy = No. Hopepunk = No (see above).
+- Neighbor check: no exact score tie — sits between Adventure Time/Star vs. the Forces of
+  Evil/Wednesday (4.9875, Tier 4) and Tales from Earthsea/A Knight of the Seven Kingdoms/
+  Baldur's Gate III/Dragonlance (5.2125, Tier 5), comfortably inside Tier 5's range rather than
+  near either boundary. Label check: "Gloomy Fantasy" fits — real, sustained brutality as the
+  default register, with a genuinely hopeful resolution that doesn't erase the darkness along
+  the way.
+- Added to xlsx row 145, and to tier 5 on both index.html and es/index.html, as the lowest-scored
+  entry in the tier (ahead of Tales from Earthsea); title "Primal" in both EN and ES, no official
+  translation existing; medium: "TV series" / "Serie de TV".
 
 ### 65. Chaotic Good Barbarian — Dungeon Soup — Web animation
 

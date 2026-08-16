@@ -2934,6 +2934,37 @@ corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" 
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
 
+## Primal
+
+New catalog addition. Relevance/fit check (step 1b): passes comfortably — Season 2 (a full
+third of the show's run) introduces sustained supernatural content, explicitly discussed as
+sword-and-sorcery in the Robert E. Howard tradition, unlike Charlie the Unicorn's brief,
+late-arriving fantasy coda.
+
+* Structural Despair: 2 — Spear's personal arc trends toward real healing, but the wider
+  prehistoric/supernatural world stays harsh and dangerous as its baseline nature throughout.
+* Limited Heroism: 1 — Spear's actions produce a real, durable personal victory by the finale.
+* Moral Cynicism: 1 — virtue is ultimately rewarded, though real, permanent losses occur along
+  the way.
+* Structural Corruption: 1 — the Coven and similar threats are organized evil cults, not a
+  world-spanning institution.
+* Redemption Difficulty: 2 — Spear's undead/corrupted-self arc is a real struggle, resolved only
+  at real cost.
+* Narrative Acceptance of Injustice: 1 — the original losses are never undone, but the story's
+  posture is one of successfully overcoming grief, not leaving it unaddressed.
+* Explicit Darkness: 4 — "unrelenting bloodshed" as the show's constant, wordless, central
+  visual mode across its entire run.
+
+Weighted = 1.6 → Final Score = 5.1 → **Tier 5**, no exact score twin — sits between Adventure
+Time/Star vs. the Forces of Evil/Wednesday (4.9875, Tier 4) and Tales from Earthsea/A Knight of
+the Seven Kingdoms (5.2125, Tier 5). Cozy Fantasy = No. Label check: "Gloomy Fantasy" fits.
+
+Hopepunk tag researched and rejected (the user asked directly whether this is really considered
+Hopepunk): no source discusses the work in those terms; critics' leading descriptors are "bleak,"
+"ferocious," "eat or be eaten," with emotional connection framed as secondary, not the organizing
+throughline the tag requires. Contrast with Frieren, explicitly discussed in Hopepunk terms by
+critics and fans. Hopepunk = No.
+
 ## Chaotic Good Barbarian
 
 New catalog addition. Relevance/fit check (step 1b): the comedy is genre-specific D&D-trope
