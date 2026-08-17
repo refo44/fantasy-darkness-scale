@@ -92,7 +92,12 @@ about logical/linguistic play rather than myth or magic; check rather than assum
 consciously breaks from realism through fable-like, self-aware, artificial narrative structures)
 is about narrative design and self-awareness, not a guarantee of in-story magic or myth — a
 fabulist work can use real fantastical content or can just play games with story structure and
-mimetic convention; check which one it actually is.
+mimetic convention; check which one it actually is. Satire and ironic political/social critique
+using an exaggerated or "imaginary voyage" setting (Gulliver's Travels — tiny/giant humans,
+rational talking horses, but no magic, gods, or mythical beings, and its actual purpose is
+critiquing 18th-century English society and human nature) are excluded on the same
+"label/setting alone isn't evidence" logic — an imaginary-voyage or exaggerated-scale device in
+service of satire is a genre precursor shared with early science fiction, not fantasy-as-mode.
 
 Related but distinct: real-world religions and their content — Buddhism, Islam, Hinduism,
 Christianity, Shinto, Yoruba/Orisha tradition, and others — don't get excluded just for being a
@@ -773,6 +778,14 @@ above) — logged here so they aren't re-proposed without knowing they were alre
   - **Zootopia, Inside Out, Soul, Luca** — contemporary social commentary, psychological
     allegory, or a minor creature-transformation gimmick without a real magic system; none
     function as fantasy in practice. Clear fails.
+
+- **Gulliver's Travels** — Jonathan Swift (1726) — Book. No magic, gods, or mythical beings —
+  its fantastical content is purely scale (tiny Lilliputians, giant Brobdingnagians) and
+  speculative (rational talking horses, the Houyhnhnms), in service of satirizing 18th-century
+  English society and human nature. Excluded on the user's explicit direction: satire and ironic
+  political/social critique using an "imaginary voyage" or exaggerated-scale device don't count
+  as fantasy-as-mode, the same "label/setting alone isn't evidence" logic already applied to
+  absurdism, fabulation, and other literary modes in the genre gate above.
 
 ## Queue
 
