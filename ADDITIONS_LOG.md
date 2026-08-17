@@ -897,6 +897,13 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     three good fairies) is real, functioning magic driving the entire plot, not fairy-tale label
     alone, and the climactic battle has Maleficent literally transform into a dragon — genuinely
     load-bearing fantasy content, not decoration
+77. [ ] Cinderella — Disney (1950) — Film — the Fairy Godmother's transformation magic (pumpkin
+    to coach, mice to horses, rags to gown) and its midnight time-limit curse are the entire
+    second act's driving mechanism, not decoration — passes the strict gate
+78. [ ] Aladdin — Disney (1992) — Film — a genie with real wish-granting magic, a sorcerer
+    villain (Jafar) who performs real magic and transforms into a giant sorcerer then a genie,
+    a magic carpet, a magic lamp, the Cave of Wonders — among the most explicitly magic-centric
+    of the classic Disney line, clears the strict gate easily
 
 ## Completed
 
