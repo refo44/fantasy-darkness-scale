@@ -928,6 +928,11 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     healing/youth-restoring power when sung to, lost permanently if cut) that is the entire
     reason Mother Gothel keeps her captive and the mechanism of the climax — real, load-bearing
     magic, not decoration; clears the strict gate
+85. [ ] Brave — Pixar (2012) — Film — a real witch casts a real transformation spell turning
+    Merida's mother into a bear, driving the entire plot; will-o'-the-wisps are real magical
+    guides, and the backstory legend of a prince turned into a bear is confirmed true within the
+    story — real, load-bearing magic, clears the strict gate (flagged as a strong pass in the
+    original Disney/Pixar/DreamWorks survey but omitted from the initial batch by oversight)
 
 ## Completed
 
