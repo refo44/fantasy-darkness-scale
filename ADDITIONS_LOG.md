@@ -838,14 +838,7 @@ above) — logged here so they aren't re-proposed without knowing they were alre
 65. [x] Chaotic Good Barbarian — Dungeon Soup (YouTube web animation) — DONE, see Completed
 66. [x] Primal — created by Genndy Tartakovsky, Adult Swim (2019-2023) — TV series — DONE, see
     Completed
-67. [ ] Journey to the West (Xiyou Ji) — Wu Cheng'en (1592) — Novel — the classical Chinese epic
-    following Sun Wukong (the Monkey King), Tang Sanzang, Zhu Bajie, and Sha Wujing on a
-    pilgrimage to India for Buddhist scriptures; real Buddhist/Taoist cosmology (Heaven, the
-    Underworld, Buddha, the Jade Emperor), Sun Wukong's rebellion against and punishment by
-    Heaven, and 81 episodic tribulations against demons along the way — the source material Black
-    Myth: Wukong (already queued at #63) adapts; score independently before comparing, since a
-    source text and a modern reinterpretation don't necessarily land at the same severity (same
-    logic as Wizard of Oz vs. Wicked, or the Alice novels vs. American McGee's Alice)
+67. [x] Journey to the West (Xiyou Ji) — Wu Cheng'en (1592) — Novel — DONE, see Completed
 68. [ ] Heavy Metal (1981, dir. Gerald Potterton) / Heavy Metal 2000 (dir. Michael Coldewey &
     Michel Lemire) — Films — R-rated adult animated sci-fi/fantasy anthology franchise, framed by
     the Loc-Nar, an ancient evil orb corrupting everyone it touches; genre-mixed by nature (the
@@ -859,6 +852,55 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     anchor it) both need deciding when scored, not assumed
 
 ## Completed
+
+### 67. Journey to the West (Xiyou Ji) — Wu Cheng'en (1592) — Novel
+
+- Tier 2 (Bright Fantasy), Final Score 2.9625 (Weighted Internal Score 0.65).
+- Scores: Structural Despair 1, Limited Heroism 0, Moral Cynicism 0, Structural Corruption 1,
+  Redemption Difficulty 1, Narrative Acceptance of Injustice 0, Explicit Darkness 2.
+- **Genre gate** trivial — one of China's Four Great Classical Novels, real Buddhist/Taoist
+  cosmology (Heaven, the Underworld, Buddha, the Jade Emperor) throughout, no ambiguity.
+- **Plot basis:** Tang Sanzang travels to India for sacred scriptures with three disciples — Sun
+  Wukong, Zhu Bajie, Sha Wujing — all celestial beings being punished for past transgressions
+  (Wukong stole the peaches of immortality and rebelled against Heaven; Buddha sealed him under a
+  mountain for 500 years). The pilgrimage and its 81 tribulations against demons are explicitly
+  Heaven's own redemption mechanism, and all five pilgrims succeed completely, achieving
+  enlightenment.
+- **Compared explicitly against Black Myth: Wukong** (Tier 7, 7.575, already in the catalog),
+  the modern reinterpretation of this same mythology, per the queue item's own framing that a
+  source text and a subversive adaptation don't have to land at the same severity: a 5-tier gap,
+  not an inconsistency but the game deliberately inverting the novel's moral framework axis by
+  axis. Limited Heroism (0 here vs. 3 there) and Structural Despair (1 vs. 3): the novel's
+  pilgrimage succeeds completely and durably; the game's own thesis is that even Wukong's total
+  rebellion against Heaven ultimately failed. Moral Cynicism (0 vs. 3): the novel treats Heaven's
+  punish-then-redeem system as fundamentally just; the game recasts Heaven as unreliable and
+  self-serving. Narrative Acceptance of Injustice (0 vs. 3): the novel resolves its core
+  injustice explicitly and completely; the game's core point is that neither of its endings
+  actually resolves Heaven's control. Same shape as The Wizard of Oz (Tier 2) vs. Wicked (Tier
+  7) — a beloved, traditionally affirming source text vs. a modern, deliberately subversive
+  reinterpretation of the same events, not a scoring error on either side.
+- Rationale: Structural Despair (1) and Limited Heroism (0) reflect the pilgrimage's total,
+  durable success — every trial ultimately overcome. Moral Cynicism (0) since this is close to a
+  pure "just world" narrative: wrongdoing brings punishment, genuine virtue brings real
+  redemption. Structural Corruption (1) since Heaven/Buddha are fundamentally legitimate
+  (Wukong's punishment is just, the redemption path real), though many individual episodes
+  involve corrupt local human courts along the way. Redemption Difficulty (1) since it's
+  genuinely difficult (81 hardships, ~14 years) but universal — every disciple who sincerely
+  pursues it succeeds. Narrative Acceptance of Injustice (0) since every central injustice is
+  fully, explicitly resolved by the ending. Explicit Darkness (2) for real, frequent danger (many
+  demons' recurring goal is to eat the monk's flesh for immortality) without extreme graphic
+  detail, matching the source's classical literary register.
+- Cozy Fantasy = No. Hopepunk = No: redemption here is earned through trial and cosmic justice,
+  not kindness chosen as a deliberate response to adversity.
+- Neighbor check: an *exact* axis-by-axis match (not just a score tie) with The Chronicles of
+  Narnia — both religiously-inflected classical fantasy built around a redemption/sacrifice
+  theme, moderate darkness, ultimately affirming resolution. Also exact score tie (2.9625) with
+  DanMachi, The Legend of Zelda, and The Princess Bride via different profiles. Checked against
+  Tier 3's floor (A Choir of Lies/Mushishi/Neverwinter Nights, 3.075): a real, if modest, 0.1125
+  gap, not a boundary-sensitive call. Label check: "Bright Fantasy" fits.
+- Added to xlsx row 146, and to tier 2 on both index.html and es/index.html, appended after The
+  Princess Bride (exact score tie, existing-entries-first ordering); title "Journey to the West
+  (Xiyou Ji)" in EN, "Viaje al Oeste (Xiyou Ji)" in ES; medium: "Novel" / "Novela".
 
 ### 66. Primal — created by Genndy Tartakovsky, Adult Swim (2019-2023) — TV series
 

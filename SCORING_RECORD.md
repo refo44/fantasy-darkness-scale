@@ -2934,6 +2934,38 @@ corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" 
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
 
+## Journey to the West (Xiyou Ji)
+
+New catalog addition. Genre gate trivial (one of China's Four Great Classical Novels, real
+Buddhist/Taoist cosmology throughout). Compared explicitly against Black Myth: Wukong (Tier 7,
+7.575), the modern reinterpretation of this same mythology — see note below.
+
+* Structural Despair: 1 — demons and evil recur throughout the 81 trials, but the overarching
+  arc trends toward the pilgrims' complete spiritual triumph.
+* Limited Heroism: 0 — the pilgrimage succeeds totally and durably; every trial is overcome.
+* Moral Cynicism: 0 — close to a pure "just world" narrative: wrongdoing brings punishment,
+  genuine virtue brings real redemption.
+* Structural Corruption: 1 — Heaven/Buddha are fundamentally legitimate, though many individual
+  episodes involve corrupt local human courts along the way.
+* Redemption Difficulty: 1 — genuinely difficult (81 hardships, ~14 years) but universal — every
+  disciple who sincerely pursues it succeeds.
+* Narrative Acceptance of Injustice: 0 — every central injustice is fully, explicitly resolved
+  by the ending.
+* Explicit Darkness: 2 — real, frequent danger (many demons want to eat the monk's flesh for
+  immortality) without extreme graphic detail, matching the classical literary register.
+
+Weighted = 0.65 → Final Score = 2.9625 → **Tier 2**, an exact axis-by-axis match with The
+Chronicles of Narnia (both religiously-inflected classical fantasy built on redemption/sacrifice
+themes), and an exact score tie with DanMachi, The Legend of Zelda, and The Princess Bride via
+different profiles. Cozy Fantasy = No, Hopepunk = No. Label check: "Bright Fantasy" fits.
+
+Comparison note: a 5-tier gap from Black Myth: Wukong isn't an inconsistency — the game
+deliberately inverts the novel's moral framework axis by axis. The novel's pilgrimage succeeds
+completely and Heaven's justice is affirmed (Limited Heroism 0, Moral Cynicism 0, Narrative
+Acceptance of Injustice 0); the game's own thesis is that even Wukong's total rebellion
+ultimately failed and neither of its endings actually resolves Heaven's control (matching 3 on
+those same axes). Same shape as The Wizard of Oz (Tier 2) vs. Wicked (Tier 7).
+
 ## Primal
 
 New catalog addition. Relevance/fit check (step 1b): passes comfortably — Season 2 (a full
