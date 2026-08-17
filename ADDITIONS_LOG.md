@@ -937,6 +937,20 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     magic (the wizard's-duel shapeshifting battle with Madam Mim, transforming young Arthur into
     a fish/squirrel/bird to teach him) is among the most extensive in the classic Disney line,
     plus the sword itself as a real magical test of destiny — clears the strict gate easily
+87. [ ] Miss Peregrine's Home for Peculiar Children — Ransom Riggs (2011 novel) / Tim Burton
+    (2016 film) — Novel, Film — real supernatural stakes throughout: "peculiar" children have
+    genuine powers (invisibility, super strength, fire manipulation, prophecy), Miss Peregrine is
+    an "ymbryne" who transforms into a bird and manipulates real time loops, and the antagonists
+    (hollowgast/wights) are monstrous supernatural creatures who hunt peculiars for their eyes —
+    clears the strict gate easily; decide scope (novel as primary source vs. the film, which is
+    confirmed to diverge significantly in plot) when scored
+88. [ ] One Thousand and One Nights (Arabian Nights) — traditional Middle Eastern/Persian/Arabic
+    folk tale collection — Book — a Scheherazade frame story containing dozens of individual
+    tales; jinn (genies) and other real magic (Aladdin's Wonderful Lamp, Ali Baba's "Open Sesame"
+    password, Sinbad's encounters with the Roc and other mythical creatures, the Fisherman and
+    the Jinni) recur pervasively enough across the collection to be genuinely load-bearing to its
+    overall identity, not incidental to a handful of tales — clears the strict gate; decide scope
+    (the collection as a whole vs. only its most-famous, most-fantastical tales) when scored
 
 ## Completed
 
