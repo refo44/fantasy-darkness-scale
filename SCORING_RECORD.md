@@ -2934,6 +2934,27 @@ corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" 
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
 
+## Hercules (1997)
+
+New catalog addition. Genre gate trivial (real Greek gods, Hades as an actual deity-antagonist
+plotting to overthrow Olympus).
+
+* Structural Despair: 0 — the central conflict (Hades' coup) resolves completely and cleanly.
+* Limited Heroism: 0 — Hercules' victory is total: Hades defeated, Meg saved, the Titans
+  re-imprisoned.
+* Moral Cynicism: 0 — self-sacrifice and love directly, explicitly define and reward true
+  heroism (literally the mechanism of Hercules' apotheosis).
+* Structural Corruption: 0 — Olympus itself is legitimate; Hades is a jealous individual
+  schemer, not systemic rot.
+* Redemption Difficulty: 1 — Meg's arc: a cynical, self-protective woman secretly indebted to
+  Hades who genuinely grows into self-sacrificial love, nearly dying for it.
+* Narrative Acceptance of Injustice: 0 — the central conflict resolves completely and cleanly.
+* Explicit Darkness: 2 — real creature-threat danger (the Hydra, Cerberus, the Titans) without
+  graphic detail, consistent with a "mostly lighthearted musical comedy" register.
+
+Weighted = 0.35 → Final Score = 2.2875 → **Tier 2**, an exact axis-by-axis match with Labyrinth.
+Cozy Fantasy = No, Hopepunk = No. Label check: "Bright Fantasy" fits.
+
 ## Heavy Metal (1981)
 
 New catalog addition. Scored as the full released film (the Loc-Nar frame + all segments), not

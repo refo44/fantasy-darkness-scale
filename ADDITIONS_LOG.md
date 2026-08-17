@@ -910,8 +910,7 @@ above) — logged here so they aren't re-proposed without knowing they were alre
 68. [x] Heavy Metal (1981, dir. Gerald Potterton) — Film — DONE, see Completed. Heavy Metal 2000
     was researched alongside this entry and excluded from the catalog entirely — see the
     Completed entry for the genre-gate reasoning.
-69. [ ] Hercules — Disney (1997) — Film — real Greek gods, Hades as an actual deity-antagonist,
-    the Fates — mythology is the plot's entire engine, not garnish
+69. [x] Hercules — Disney (1997) — Film — DONE, see Completed
 70. [ ] Frozen — Disney (2013) — Film — Elsa's ice magic is a real, central power with real
     consequences (the eternal winter); trolls are a genuine magical species; consider scope
     (first film only vs. also Frozen II) when scored
@@ -1018,6 +1017,39 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     life force — clears the strict gate easily
 
 ## Completed
+
+### 69. Hercules — Disney (1997) — Film
+
+- Tier 2 (Bright Fantasy), Final Score 2.2875 (Weighted Internal Score 0.35).
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 0, Structural Corruption 0,
+  Redemption Difficulty 1, Narrative Acceptance of Injustice 0, Explicit Darkness 2.
+- **Genre gate** trivial — real Greek gods, Hades as an actual deity-antagonist plotting to
+  overthrow Zeus and Olympus, the Fates, the imprisoned Titans.
+- **Plot basis:** Hercules, son of Zeus, is stolen as a baby and raised mortal after Hades'
+  henchmen botch turning him fully mortal. To reclaim his godhood, he must prove himself a true
+  hero, while Hades plots to free the Titans and overthrow Olympus. Hades sends Meg, a woman
+  secretly indebted to him, to neutralize Hercules — but she falls genuinely in love with him and
+  sacrifices herself to save him. Hercules willingly dives into the River Styx to save Meg; the
+  Fates, witnessing this true heroism, grant him immortality. He defeats Hades and saves Olympus,
+  but chooses to remain mortal on Earth with Meg.
+- Rationale: Structural Despair (0), Limited Heroism (0), Structural Corruption (0), and
+  Narrative Acceptance of Injustice (0) all bottom out since the central conflict (Hades' coup)
+  resolves completely and cleanly — Olympus itself is legitimate, Hades is a jealous individual
+  schemer, not evidence of systemic rot. Moral Cynicism (0) since the film's entire thesis is
+  that self-sacrifice and love define true heroism, directly and explicitly rewarded — it's
+  literally the mechanism of Hercules' apotheosis. Redemption Difficulty (1) rests on Meg: a
+  cynical, self-protective woman secretly indebted to Hades who genuinely grows into
+  self-sacrificial love, nearly dying for it before Hercules saves her. Explicit Darkness (2) for
+  real creature-threat danger (the Hydra, Cerberus, the Titans, the River Styx's souls of the
+  dead) without graphic detail, consistent with a "mostly lighthearted musical comedy" register.
+- Cozy Fantasy = No. Hopepunk = No: straightforward heroic-adventure register, not organized
+  around resisting an oppressive system or accepting mortality as its throughline.
+- Neighbor check: an exact axis-by-axis match with Labyrinth (also 2.2875) — both a real hero,
+  real contained danger, a fully-defeated fantastical villain, clean resolution. Label check:
+  "Bright Fantasy" fits.
+- Added to xlsx row 148, and to tier 2 on both index.html and es/index.html, appended after
+  Labyrinth (exact score tie, existing-entries-first ordering); title "Hercules" in both EN and
+  ES; medium: "Film" / "Película".
 
 ### 68. Heavy Metal (1981) — dir. Gerald Potterton — Film
 
