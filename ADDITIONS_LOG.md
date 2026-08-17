@@ -924,6 +924,10 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     giant dragon in the climax, plus a real magic portal between the 2D fantasy kingdom of
     Andalasia and the real world — same "wicked queen with real magic and a dragon-transformation
     climax" shape as Sleeping Beauty, clears the strict gate easily
+84. [ ] Tangled — Disney (2010) — Film — Rapunzel's hair has real, functioning magic (genuine
+    healing/youth-restoring power when sung to, lost permanently if cut) that is the entire
+    reason Mother Gothel keeps her captive and the mechanism of the climax — real, load-bearing
+    magic, not decoration; clears the strict gate
 
 ## Completed
 
