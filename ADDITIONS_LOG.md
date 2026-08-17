@@ -991,6 +991,9 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     lost magic to the land); a work of YA fantasy fiction drawing on real Yoruba/Orisha tradition
     as inspiration, same "fiction, not scripture" basis that already applies to Journey to the
     West — clears the strict gate easily
+94. [ ] Hocus Pocus — Disney (1993) — Film — three real witches (the Sanderson sisters) are
+    resurrected via a real ritual, cast real spells, and need a real potion to steal children's
+    life force — clears the strict gate easily
 
 ## Completed
 
