@@ -738,6 +738,27 @@ above) — logged here so they aren't re-proposed without knowing they were alre
   1981 film to anchor it, only the Loc-Nar framing device and a title, so it doesn't inherit the
   1981 film's fantasy content either. Left off.
 
+- **A Disney/Pixar/DreamWorks survey**, done at the user's request with an explicit instruction
+  to be strict — fairy-tale, fable, or historical framing alone doesn't count as fantasy; the
+  fantastical content has to be real, central, and load-bearing, the same standard already
+  applied to Alice in Wonderland and The Wizard of Oz in this catalog. The passing candidates
+  were added to the queue at #69-75. The following were surveyed and explicitly omitted at the
+  user's direction:
+  - **Kung Fu Panda** (DreamWorks) — real chi-based mysticism (Oogway's spiritual power, the
+    Dragon Warrior prophecy) present, but leans more wuxia martial-arts fantasy than a clean fit;
+    omitted rather than resolved either way.
+  - **Coco** (Pixar) — a real, functioning Land of the Dead with its own magic rules (ofrendas,
+    alebrijes); genuinely fantastical, but closer to "magical realism as cultural/spiritual
+    framework" territory this project's genre gate treats with extra scrutiny; omitted rather
+    than resolved either way.
+  - **Mulan, Pocahontas** — historical/war drama; any spirit-guide or dragon-sidekick content
+    (Mushu, Grandmother Willow) is minor and comic-relief-coded, not load-bearing. Clear fails.
+  - **The Hunchback of Notre Dame** — historical drama; the gargoyles are ambiguously real vs.
+    imagined and never central to the plot's actual stakes. Clear fail.
+  - **Zootopia, Inside Out, Soul, Luca** — contemporary social commentary, psychological
+    allegory, or a minor creature-transformation gimmick without a real magic system; none
+    function as fantasy in practice. Clear fails.
+
 ## Queue
 
 1. [x] El Principito (The Little Prince) — Antoine de Saint-Exupéry — Book — DONE, see Completed
@@ -852,6 +873,25 @@ above) — logged here so they aren't re-proposed without knowing they were alre
 68. [x] Heavy Metal (1981, dir. Gerald Potterton) — Film — DONE, see Completed. Heavy Metal 2000
     was researched alongside this entry and excluded from the catalog entirely — see the
     Completed entry for the genre-gate reasoning.
+69. [ ] Hercules — Disney (1997) — Film — real Greek gods, Hades as an actual deity-antagonist,
+    the Fates — mythology is the plot's entire engine, not garnish
+70. [ ] Frozen — Disney (2013) — Film — Elsa's ice magic is a real, central power with real
+    consequences (the eternal winter); trolls are a genuine magical species; consider scope
+    (first film only vs. also Frozen II) when scored
+71. [ ] Moana — Disney (2016) — Film — a real demigod (Maui), a real ocean deity, real Polynesian
+    mythological stakes (Te Fiti/Te Ka) driving the entire plot
+72. [ ] Encanto — Disney (2021) — Film — a real magic house and real bestowed magical gifts are
+    the plot's central mechanism, not a backdrop
+73. [ ] Onward — Pixar (2020) — Film — the most explicitly "fantasy genre" Pixar has made —
+    wizards, elves, trolls, centaurs, a literal spell-quest, in a world built around real magic
+    having receded
+74. [ ] Rise of the Guardians — DreamWorks (2012) — Film — Santa, the Tooth Fairy, the Sandman,
+    Jack Frost, and the Easter Bunny as real magical beings with real powers, fighting an
+    embodied evil (Pitch Black) — genuine fantasy stakes, not holiday theming
+75. [ ] Shrek — DreamWorks (2001) — Film — real curses, real transformation magic (the True
+    Love's Kiss curse is the entire plot engine), genuine fairy-tale creatures as a functioning
+    world, not just parody references; consider scope (first film only vs. the full quadrilogy)
+    when scored
 
 ## Completed
 
