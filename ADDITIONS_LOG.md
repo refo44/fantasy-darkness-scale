@@ -912,8 +912,7 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     Completed entry for the genre-gate reasoning.
 69. [x] Hercules — Disney (1997) — Film — DONE, see Completed
 70. [x] Frozen — Disney (2013) — Film — DONE, see Completed
-71. [ ] Moana — Disney (2016) — Film — a real demigod (Maui), a real ocean deity, real Polynesian
-    mythological stakes (Te Fiti/Te Ka) driving the entire plot
+71. [x] Moana — Disney (2016) — Film — DONE, see Completed
 72. [ ] Encanto — Disney (2021) — Film — a real magic house and real bestowed magical gifts are
     the plot's central mechanism, not a backdrop
 73. [ ] Onward — Pixar (2020) — Film — the most explicitly "fantasy genre" Pixar has made —
@@ -1015,6 +1014,41 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     life force — clears the strict gate easily
 
 ## Completed
+
+### 71. Moana — Disney (2016) — Film
+
+- Tier 2 (Bright Fantasy), Final Score 2.2875 (Weighted Internal Score 0.35).
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 0, Structural Corruption 0,
+  Redemption Difficulty 1, Narrative Acceptance of Injustice 0, Explicit Darkness 2.
+- **Genre gate** trivial — a real demigod (Maui), a real ocean deity (Te Fiti), real Polynesian
+  mythological stakes driving the entire plot.
+- **Plot basis:** Te Fiti, the mother island whose heart creates life, has her heart stolen by
+  the demigod Maui — triggering a spreading blight and transforming her into Te Ka, a
+  lava-demon antagonist. Gramma Tala encourages Moana's calling before dying and returning as a
+  spirit guide. Moana recruits a reluctant, prideful Maui to help return the heart; in the
+  climax she approaches Te Ka with compassion rather than combat, restoring the heart and
+  transforming Te Ka back into Te Fiti. Maui apologizes to Moana, showing genuine growth.
+- Rationale: Structural Despair (0), Limited Heroism (0), Structural Corruption (0), and
+  Narrative Acceptance of Injustice (0) all bottom out since the blight crisis is real and
+  vividly shown but fully, cleanly reversed by the end, matching this catalog's consistent
+  pattern for "real crisis, completely resolved"; Motunui's own leadership is legitimate, and
+  Gramma Tala's death is framed spiritually/gracefully within the story's own cultural
+  framework, not an unresolved wound. Moral Cynicism (0) since the film's explicit thesis — that
+  compassion and self-awareness define true heroism — is directly rewarded. Redemption
+  Difficulty (1) rests on Maui: a demigod whose theft of the heart came from a genuine wound
+  (abandoned by his human parents as a baby, seeking validation through "great deeds" ever
+  since) who genuinely grows and apologizes by the end. Explicit Darkness (2) for real, visible
+  danger (Te Ka's frightening lava-monster design, the Kakamora pirate attack, storms) without
+  graphic detail, consistent with family-fantasy register.
+- Cozy Fantasy = No. Hopepunk = No: straightforward heroic-adventure register, not organized
+  around resisting an oppressive system or accepting mortality as its throughline.
+- Neighbor check: a third exact axis-by-axis match joining Hercules and Labyrinth (all 2.2875,
+  identical profile) — all three share the same shape: a hero fully resolves the crisis, a
+  secondary character's redemption arc, contained real danger, clean resolution. Label check:
+  "Bright Fantasy" fits.
+- Added to xlsx row 150, and to tier 2 on both index.html and es/index.html, appended after
+  Frozen (exact score tie, existing-entries-first ordering); title "Moana" in both EN and ES;
+  medium: "Film" / "Película".
 
 ### 70. Frozen — Disney (2013) — Film
 

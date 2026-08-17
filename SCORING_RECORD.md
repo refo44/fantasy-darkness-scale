@@ -2934,6 +2934,27 @@ corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" 
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
 
+## Moana (2016)
+
+New catalog addition. Genre gate trivial (a real demigod, a real ocean deity, real Polynesian
+mythological stakes).
+
+* Structural Despair: 0 — the blight crisis is real and vividly shown but fully, cleanly
+  reversed by the end.
+* Limited Heroism: 0 — Moana's actions completely and durably resolve the crisis.
+* Moral Cynicism: 0 — the film's explicit thesis (compassion and self-awareness define true
+  heroism) is directly rewarded.
+* Structural Corruption: 0 — Motunui's own leadership is legitimate.
+* Redemption Difficulty: 1 — Maui's arc: a demigod whose theft came from a genuine wound
+  (abandoned as a baby, seeking validation ever since) who genuinely grows and apologizes.
+* Narrative Acceptance of Injustice: 0 — the conflict resolves completely; Gramma Tala's death
+  is framed spiritually/gracefully, not as an unresolved wound.
+* Explicit Darkness: 2 — real, visible danger (Te Ka's lava-monster design, the Kakamora attack)
+  without graphic detail.
+
+Weighted = 0.35 → Final Score = 2.2875 → **Tier 2**, a third exact axis-by-axis match joining
+Hercules and Labyrinth. Cozy Fantasy = No, Hopepunk = No. Label check: "Bright Fantasy" fits.
+
 ## Frozen (2013)
 
 New catalog addition. Scored via the 2013 film only — Frozen II is confirmed notably darker by
