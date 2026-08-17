@@ -904,6 +904,21 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     villain (Jafar) who performs real magic and transforms into a giant sorcerer then a genie,
     a magic carpet, a magic lamp, the Cave of Wonders — among the most explicitly magic-centric
     of the classic Disney line, clears the strict gate easily
+79. [ ] The Sorcerer's Apprentice — Disney (2010) — Film — a direct expansion of Fantasia's
+    Sorcerer's Apprentice segment; real sorcerers, real magic duels, Morgana le Fay as
+    antagonist — wizards and magic are the entire premise, clears the strict gate easily
+80. [ ] Raya and the Last Dragon — Disney (2021) — Film — real dragons, real magic, real
+    mythological world-building (Kumandra, the Druun) driving the entire plot
+81. [ ] Pirates of the Caribbean — Disney — Films — genuinely heavy, load-bearing supernatural
+    content throughout the franchise, not just a pirate-adventure setting: a real Aztec curse
+    turning a crew into moonlit skeletons (film 1), Davy Jones and the cursed Flying Dutchman
+    crew, the Kraken, the sea goddess Calypso/Tia Dalma bound in human form, the Fountain of
+    Youth, real voodoo magic; decide scope (which films — the original trilogy is the most
+    consistently fantasy-heavy; later entries vary) when scored
+82. [ ] Mary Poppins — Disney (1964) — Film — Mary Poppins' magic (flight via umbrella, a
+    bottomless carpet bag, snapping a room into order, entering an animated chalk-drawing world,
+    a tea party on the ceiling) is the character's entire premise and drives multiple full
+    sequences, not incidental whimsy — clears the strict gate
 
 ## Completed
 
