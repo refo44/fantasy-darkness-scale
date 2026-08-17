@@ -94,6 +94,21 @@ is about narrative design and self-awareness, not a guarantee of in-story magic 
 fabulist work can use real fantastical content or can just play games with story structure and
 mimetic convention; check which one it actually is.
 
+Related but distinct: real-world religions and their content — Buddhism, Islam, Hinduism,
+Christianity, Shinto, Yoruba/Orisha tradition, and others — don't get excluded just for being a
+real, living faith, but the specific WORK under consideration has to actually be fiction/fantasy
+literature, not scripture, hagiography (a saint's life), or a devotional/religious-teaching text.
+The test is the work's own function and classification, not the origin of its cosmology: Journey
+to the West draws its entire framework from real Buddhist/Taoist cosmology (Heaven, the
+Underworld, Buddha, the Jade Emperor) and still qualifies, because it's a 16th-century novel by a
+named author, one of China's Four Great Classical Novels, universally classified as literature
+rather than scripture — the same way Norse and Greek mythology already get used as raw material
+throughout this catalog (Ravenloft, various D&D-derived entries) without disqualifying anything
+built from them. What WOULD fail: an actual hagiographic account of a saint's life, a devotional
+retelling of the Buddha's life presented as religious teaching, a text functioning as scripture
+rather than entertainment/literature — check which one a candidate actually is, don't assume
+either way just because real-world religious content is present.
+
 **Retroactive audit (prompted by the user, once the gate above existed):** scanned all catalog
 entries already scored at that point against this gate. Five were genuinely worth researching
 rather than assuming (the rest were unambiguous fantasy on their face — Harry Potter, LOTR, the
