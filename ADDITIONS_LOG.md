@@ -955,6 +955,12 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     real dark magic (shadow demons he's indebted to, a genuine transformation curse turning
     Naveen into a frog and later Tiana too) that is the entire plot engine, not decoration —
     clears the strict gate easily
+90. [ ] Fantastic Beasts and Where to Find Them — Warner Bros., dir. David Yates (2016, 2018,
+    2022) — Films — set in the same Wizarding World already extensively cataloged via the seven
+    Harry Potter novel entries; genre gate trivial (same magic system, same universe). Decide
+    scope (all three films as one entry vs. individually) and how to weigh it against the
+    existing Harry Potter entries (same shared universe, different era/protagonists — check
+    whether it should be scored independently or considered alongside them) when scored
 
 ## Completed
 
