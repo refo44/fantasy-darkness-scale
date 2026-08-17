@@ -892,6 +892,11 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     Love's Kiss curse is the entire plot engine), genuine fairy-tale creatures as a functioning
     world, not just parody references; consider scope (first film only vs. the full quadrilogy)
     when scored
+76. [ ] Sleeping Beauty — Disney (1959) — Film — passes the strict gate applied to the rest of
+    this survey: Maleficent's curse on Aurora (death by spinning wheel, mitigated to sleep by the
+    three good fairies) is real, functioning magic driving the entire plot, not fairy-tale label
+    alone, and the climactic battle has Maleficent literally transform into a dragon — genuinely
+    load-bearing fantasy content, not decoration
 
 ## Completed
 
