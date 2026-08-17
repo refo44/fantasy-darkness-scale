@@ -2934,6 +2934,27 @@ corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" 
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
 
+## Frozen (2013)
+
+New catalog addition. Scored via the 2013 film only — Frozen II is confirmed notably darker by
+critics, different enough that bundling would blur both scores; flagged as a possible future
+separate entry.
+
+* Structural Despair: 0 — the winter crisis resolves completely and cleanly via Anna's sacrifice.
+* Limited Heroism: 0 — Anna's sacrifice fully and durably resolves the crisis.
+* Moral Cynicism: 1 — the Hans twist (a seemingly genuine love interest revealed as a
+  calculating manipulator) is a real cynicism beat, though fully defeated and exposed by the end.
+* Structural Corruption: 0 — Arendelle's monarchy is legitimate; Hans is an individual outside
+  schemer.
+* Redemption Difficulty: 0 — no character arc centers on atoning for real wrongdoing.
+* Narrative Acceptance of Injustice: 0 — the conflict resolves completely.
+* Explicit Darkness: 2 — real, visible peril (Anna's heart freezing, Hans's attempted killing
+  blow) without graphic depiction.
+
+Weighted = 0.35 → Final Score = 2.2875 → **Tier 2**, exact score tie with Hercules and Labyrinth
+via different profiles (Hercules trades this entry's Moral Cynicism for Redemption Difficulty,
+same total). Cozy Fantasy = No, Hopepunk = No. Label check: "Bright Fantasy" fits.
+
 ## Hercules (1997)
 
 New catalog addition. Genre gate trivial (real Greek gods, Hades as an actual deity-antagonist

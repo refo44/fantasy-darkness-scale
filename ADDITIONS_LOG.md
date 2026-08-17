@@ -911,9 +911,7 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     was researched alongside this entry and excluded from the catalog entirely — see the
     Completed entry for the genre-gate reasoning.
 69. [x] Hercules — Disney (1997) — Film — DONE, see Completed
-70. [ ] Frozen — Disney (2013) — Film — Elsa's ice magic is a real, central power with real
-    consequences (the eternal winter); trolls are a genuine magical species; consider scope
-    (first film only vs. also Frozen II) when scored
+70. [x] Frozen — Disney (2013) — Film — DONE, see Completed
 71. [ ] Moana — Disney (2016) — Film — a real demigod (Maui), a real ocean deity, real Polynesian
     mythological stakes (Te Fiti/Te Ka) driving the entire plot
 72. [ ] Encanto — Disney (2021) — Film — a real magic house and real bestowed magical gifts are
@@ -1017,6 +1015,41 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     life force — clears the strict gate easily
 
 ## Completed
+
+### 70. Frozen — Disney (2013) — Film
+
+- Tier 2 (Bright Fantasy), Final Score 2.2875 (Weighted Internal Score 0.35).
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 1, Structural Corruption 0,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 0, Explicit Darkness 2.
+- **Scope decision:** scored via the 2013 film only, matching the queue item's own year-specific
+  naming. Frozen II (2019) is confirmed "notably darker in tone... heavier focus on action,
+  death, and intense imagery" by critics — different enough that bundling would blur both
+  scores. Flagged as a candidate for a future separate entry rather than assumed either way.
+- **Plot basis:** Elsa is born with ice magic; after accidentally injuring young Anna, trolls
+  make Anna forget Elsa's powers exist, and Elsa isolates herself for years suppressing them.
+  Elsa's emotions trigger an accidental eternal winter over Arendelle. Anna pursues her with
+  Kristoff, discovering along the way that Hans — the prince she'd just gotten engaged to — is a
+  manipulative opportunist willing to let her die for the throne. Anna saves Elsa by choosing to
+  shield her from Hans's blade at the cost of her own life, and that act of true love breaks her
+  own frozen curse.
+- Rationale: Structural Despair (0), Limited Heroism (0), Structural Corruption (0), and
+  Narrative Acceptance of Injustice (0) all bottom out since the winter crisis resolves
+  completely and cleanly via Anna's sacrifice, and Arendelle's monarchy is legitimate (Hans is an
+  individual outside schemer, not evidence of systemic rot). Moral Cynicism (1) reflects the
+  Hans twist — a seemingly genuine love interest revealed as a calculating manipulator willing to
+  let Anna die for the throne — a real cynicism beat, though he's fully defeated and exposed by
+  the end. Redemption Difficulty (0) since no character arc centers on atoning for real
+  wrongdoing; Elsa's arc is self-acceptance, not redemption. Explicit Darkness (2) for real,
+  visible peril (Anna's heart freezing, Hans's attempted killing blow) without graphic depiction,
+  consistent with family-fantasy register.
+- Cozy Fantasy = No. Hopepunk = No: straightforward heroic-adventure/self-acceptance register,
+  not organized around resisting an oppressive system or accepting mortality as its throughline.
+- Neighbor check: exact score tie with Hercules and Labyrinth (all 2.2875) via different profiles
+  (Hercules trades this entry's Moral Cynicism 1 for Redemption Difficulty 1, same total). Label
+  check: "Bright Fantasy" fits.
+- Added to xlsx row 149, and to tier 2 on both index.html and es/index.html, appended after
+  Hercules (exact score tie, existing-entries-first ordering); title "Frozen" in both EN and ES;
+  medium: "Film" / "Película".
 
 ### 69. Hercules — Disney (1997) — Film
 
