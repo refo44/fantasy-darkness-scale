@@ -2934,6 +2934,35 @@ corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" 
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
 
+## Heavy Metal (1981)
+
+New catalog addition. Scored as the full released film (the Loc-Nar frame + all segments), not
+isolated fantasy-coded segments only. Relevance/fit check passed on the strength of "Taarna"
+(the film's most iconic segment — a mute warrior sacrifices herself to permanently destroy the
+Loc-Nar) and "Den" (set in the explicit fantasy world Neverwhere).
+
+Heavy Metal 2000, queued alongside this entry, was researched separately and excluded from the
+catalog entirely: it's explicitly classified by critics as "primarily science fiction with
+fantasy trappings... the magic... functions as advanced alien technology rather than true magic
+or mythology" — fails the genre gate on its own terms, and shares no characters/setting/story
+with the 1981 film to anchor it.
+
+* Structural Despair: 1 — Taarna's sacrifice permanently and completely destroys the Loc-Nar.
+* Limited Heroism: 0 — her victory is total and unambiguous.
+* Moral Cynicism: 1 — mostly just-world, but Captain Sternn (an actual murderer/pirate/rapist)
+  escapes justice entirely via courtroom chaos, played for dark comedy.
+* Structural Corruption: 1 — the same courtroom-chaos beat, an isolated institutional failure.
+* Redemption Difficulty: 0 — no character arc centers on atoning for wrongdoing.
+* Narrative Acceptance of Injustice: 1 — Sternn's escape is a real, if comedic, injustice the
+  film never revisits.
+* Explicit Darkness: 4 — R-rated, explicitly remembered for its intensity, graphic and frequent
+  across most segments.
+
+Weighted = 1.0 → Final Score = 3.75 → **Tier 3**, exact score tie with Discworld via a completely
+different profile (Discworld spreads 1s evenly across six axes with Explicit Darkness at 1; this
+entry concentrates almost entirely in Explicit Darkness). Cozy Fantasy = No, Hopepunk = No.
+Label check: "Moderately Bright Fantasy" fits.
+
 ## Journey to the West (Xiyou Ji)
 
 New catalog addition. Genre gate trivial (one of China's Four Great Classical Novels, real

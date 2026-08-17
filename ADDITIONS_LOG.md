@@ -728,6 +728,16 @@ above) — logged here so they aren't re-proposed without knowing they were alre
   stable while only its tone shifted comedic-to-tragic. Left off; could be reconsidered if
   explicitly scoped to the Grand Finale specifically, but not as the series' general identity.
 
+- **Heavy Metal 2000** — dir. Michael Coldewey & Michel Lemire — Film (2000). Queued originally
+  alongside Heavy Metal (1981, added to the catalog at Tier 3) under the same Loc-Nar-anthology
+  banner, but researched separately per the relevance/fit check and found not to clear the genre
+  gate on its own: critics and plot analysis explicitly classify it as "primarily science fiction
+  with fantasy trappings... the magic (immortality serum, the crystal's power) functions as
+  advanced alien technology rather than true magic or mythology" — Clarke's-law technology
+  dressed as wonder, not real fantasy content. Shares no characters, setting, or story with the
+  1981 film to anchor it, only the Loc-Nar framing device and a title, so it doesn't inherit the
+  1981 film's fantasy content either. Left off.
+
 ## Queue
 
 1. [x] El Principito (The Little Prince) — Antoine de Saint-Exupéry — Book — DONE, see Completed
@@ -839,19 +849,53 @@ above) — logged here so they aren't re-proposed without knowing they were alre
 66. [x] Primal — created by Genndy Tartakovsky, Adult Swim (2019-2023) — TV series — DONE, see
     Completed
 67. [x] Journey to the West (Xiyou Ji) — Wu Cheng'en (1592) — Novel — DONE, see Completed
-68. [ ] Heavy Metal (1981, dir. Gerald Potterton) / Heavy Metal 2000 (dir. Michael Coldewey &
-    Michel Lemire) — Films — R-rated adult animated sci-fi/fantasy anthology franchise, framed by
-    the Loc-Nar, an ancient evil orb corrupting everyone it touches; genre-mixed by nature (the
-    1981 film's segments range from pure sci-fi horror, "B-17," to explicit sword-and-sorcery
-    fantasy — "Den," set in the fantasy world Neverwhere, and "Taarna," the film's most iconic
-    segment, an ancient protector-race warrior avenging a village against Loc-Nar-corrupted
-    barbarians), while the 2000 film leans more science-fiction (a "fountain of immortality" MacGuffin
-    and a fallen ancient civilization, the Arakacians, rather than sorcery); relevance/fit check
-    and scope (score the 1981 anthology as a whole vs. its fantasy-coded segments only; whether
-    Heavy Metal 2000 clears the genre gate on its own or needs the 1981 film's fantasy segments to
-    anchor it) both need deciding when scored, not assumed
+68. [x] Heavy Metal (1981, dir. Gerald Potterton) — Film — DONE, see Completed. Heavy Metal 2000
+    was researched alongside this entry and excluded from the catalog entirely — see the
+    Completed entry for the genre-gate reasoning.
 
 ## Completed
+
+### 68. Heavy Metal (1981) — dir. Gerald Potterton — Film
+
+- Tier 3 (Moderately Bright Fantasy), Final Score 3.75 (Weighted Internal Score 1.0).
+- Scores: Structural Despair 1, Limited Heroism 0, Moral Cynicism 1, Structural Corruption 1,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 1, Explicit Darkness 4.
+- **Scope decision:** scored as the full released film (the Loc-Nar frame + all segments)
+  rather than isolated fantasy-coded segments only — the Loc-Nar throughline and the climactic
+  Taarna segment give the whole film a genuine fantasy backbone despite the genre-mixed
+  individual segments (pure sci-fi horror in "B-17," comedic space-opera in "Captain Sternn,"
+  fantasy in "Den" and "Taarna").
+- **Relevance/fit check** passed comfortably on the strength of "Taarna" (the film's most iconic
+  segment — a mute warrior of an ancient protector race sacrifices herself to permanently
+  destroy the Loc-Nar, her soul reincarnating into a new host) and "Den" (set in the explicit
+  fantasy world Neverwhere) — real sword-and-sorcery, not decoration.
+- **Heavy Metal 2000, queued alongside this entry, researched separately and excluded from the
+  catalog entirely** (logged in "Candidates considered and left off the queue" above): critics
+  and plot analysis explicitly classify it as "primarily science fiction with fantasy
+  trappings... the magic (immortality serum, the crystal's power) functions as advanced alien
+  technology rather than true magic or mythology" — fails the genre gate on its own terms, and
+  shares no characters/setting/story with the 1981 film to anchor it, only the Loc-Nar framing
+  device and a title.
+- Rationale: Structural Despair (1) and Limited Heroism (0) reflect Taarna's sacrifice
+  permanently and completely destroying the Loc-Nar. Moral Cynicism (1) and Structural
+  Corruption (1) both rest on the Captain Sternn segment: an actual murderer/pirate/rapist
+  escapes justice entirely via courtroom chaos the Loc-Nar causes, played for dark comedy — an
+  isolated institutional failure, not systemic. Redemption Difficulty (0) since no character arc
+  centers on atoning for wrongdoing. Narrative Acceptance of Injustice (1) since Sternn's escape
+  is a real, if comedically-framed, injustice the film never revisits. Explicit Darkness (4) for
+  R-rated content explicitly remembered and marketed for its intensity ("laden with sex,
+  violence"), graphic and frequent across most segments (zombie horror in "B-17," sexual content
+  in "So Beautiful, So Dangerous" and "Den," Taarna's climactic battle).
+- Cozy Fantasy = No. Hopepunk = No: pulp anthology adventure/horror/comedy register, not
+  organized around comfort or kindness-as-resistance.
+- Neighbor check: exact score tie with Discworld (also 3.75) via a completely different profile
+  (Discworld spreads 1s evenly across all six thematic axes with Explicit Darkness at only 1;
+  this entry concentrates almost entirely in Explicit Darkness with the thematic axes mostly at
+  0-1). Label check: "Moderately Bright Fantasy" fits — a thematically fairly light anthology
+  carrying one genuinely intense, adult-content visual register throughout.
+- Added to xlsx row 147, and to tier 3 on both index.html and es/index.html, appended after
+  Discworld (exact score tie, existing-entries-first ordering); title "Heavy Metal" in both EN
+  and ES (no distinct official Spanish retitling); medium: "Film" / "Película".
 
 ### 67. Journey to the West (Xiyou Ji) — Wu Cheng'en (1592) — Novel
 
