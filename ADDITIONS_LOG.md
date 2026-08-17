@@ -919,6 +919,11 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     bottomless carpet bag, snapping a room into order, entering an animated chalk-drawing world,
     a tea party on the ceiling) is the character's entire premise and drives multiple full
     sequences, not incidental whimsy — clears the strict gate
+83. [ ] Enchanted — Disney (2007) — Film — a real sorceress-queen (Narissa) who curses/banishes
+    the animated fairy-tale protagonist into live-action modern New York and transforms into a
+    giant dragon in the climax, plus a real magic portal between the 2D fantasy kingdom of
+    Andalasia and the real world — same "wicked queen with real magic and a dragon-transformation
+    climax" shape as Sleeping Beauty, clears the strict gate easily
 
 ## Completed
 
