@@ -933,6 +933,10 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     guides, and the backstory legend of a prince turned into a bear is confirmed true within the
     story — real, load-bearing magic, clears the strict gate (flagged as a strong pass in the
     original Disney/Pixar/DreamWorks survey but omitted from the initial batch by oversight)
+86. [ ] The Sword in the Stone — Disney (1963) — Film — Merlin is a practicing wizard whose
+    magic (the wizard's-duel shapeshifting battle with Madam Mim, transforming young Arthur into
+    a fish/squirrel/bird to teach him) is among the most extensive in the classic Disney line,
+    plus the sword itself as a real magical test of destiny — clears the strict gate easily
 
 ## Completed
 
