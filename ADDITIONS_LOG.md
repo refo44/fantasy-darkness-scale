@@ -951,6 +951,10 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     the Jinni) recur pervasively enough across the collection to be genuinely load-bearing to its
     overall identity, not incidental to a handful of tales — clears the strict gate; decide scope
     (the collection as a whole vs. only its most-famous, most-fantastical tales) when scored
+89. [ ] The Princess and the Frog — Disney (2009) — Film — Dr. Facilier is a voodoo sorcerer with
+    real dark magic (shadow demons he's indebted to, a genuine transformation curse turning
+    Naveen into a frog and later Tiana too) that is the entire plot engine, not decoration —
+    clears the strict gate easily
 
 ## Completed
 
