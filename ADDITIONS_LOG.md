@@ -976,6 +976,21 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     scope (all three films as one entry vs. individually) and how to weigh it against the
     existing Harry Potter entries (same shared universe, different era/protagonists — check
     whether it should be scored independently or considered alongside them) when scored
+91. [ ] The Pagemaster — 20th Century Fox (1994) — Film — a boy is magically transported into a
+    library world where literary genres/characters come to life (a real dragon in the Fantasy
+    realm, Dr. Jekyll/Hyde and other monsters in Horror, Long John Silver and Moby Dick in
+    Adventure) — the entire film is a real, functioning magical world, not decoration; clears the
+    strict gate easily
+92. [ ] Inkheart — dir. Iain Softley (2008 film, based on Cornelia Funke's 2003 novel) — Film,
+    Novel — a "Silvertongue" can read characters and objects out of books into the real world
+    (and people into books); the entire plot is driven by this real, functioning magic — clears
+    the strict gate easily; decide scope (novel vs. film, and whether to include Funke's two
+    sequel novels, Inkspell and Inkdeath) when scored
+93. [ ] Children of Blood and Bone — Tomi Adeyemi — Novels (Legacy of Orïsha trilogy) — maji with
+    real elemental magic powers and the Orïsha pantheon are the entire plot's engine (restoring
+    lost magic to the land); a work of YA fantasy fiction drawing on real Yoruba/Orisha tradition
+    as inspiration, same "fiction, not scripture" basis that already applies to Journey to the
+    West — clears the strict gate easily
 
 ## Completed
 
