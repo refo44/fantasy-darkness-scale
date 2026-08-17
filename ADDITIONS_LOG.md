@@ -99,6 +99,15 @@ critiquing 18th-century English society and human nature) are excluded on the sa
 "label/setting alone isn't evidence" logic — an imaginary-voyage or exaggerated-scale device in
 service of satire is a genre precursor shared with early science fiction, not fantasy-as-mode.
 
+Also excluded, on the user's explicit direction: real travelogues and colonial-era chronicles —
+Marco Polo's Travels, accounts of European travel to and colonization of the Indies, Crónicas de
+Indias (the Spanish colonial chroniclers, e.g. Bernal Díaz del Castillo, Gonzalo Fernández de
+Oviedo). These works often describe monsters, marvels, or mythologized peoples/places (dragons,
+Amazons, El Dorado) in exoticizing or exaggerated terms, but the work itself functions as
+historical/travel chronicle presented and received as a real account of the world, not as
+fiction — the same "historical" exclusion already established, applied to a specific genre where
+the fantastical-sounding content is especially likely to create a false impression of qualifying.
+
 Related but distinct: real-world religions and their content — Buddhism, Islam, Hinduism,
 Christianity, Shinto, Yoruba/Orisha tradition, and others — don't get excluded just for being a
 real, living faith, but the specific WORK under consideration has to actually be fiction/fantasy
