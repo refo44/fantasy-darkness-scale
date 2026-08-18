@@ -913,8 +913,7 @@ above) — logged here so they aren't re-proposed without knowing they were alre
 69. [x] Hercules — Disney (1997) — Film — DONE, see Completed
 70. [x] Frozen — Disney (2013) — Film — DONE, see Completed
 71. [x] Moana — Disney (2016) — Film — DONE, see Completed
-72. [ ] Encanto — Disney (2021) — Film — a real magic house and real bestowed magical gifts are
-    the plot's central mechanism, not a backdrop
+72. [x] Encanto — Disney (2021) — Film — DONE, see Completed
 73. [ ] Onward — Pixar (2020) — Film — the most explicitly "fantasy genre" Pixar has made —
     wizards, elves, trolls, centaurs, a literal spell-quest, in a world built around real magic
     having receded
@@ -1014,6 +1013,55 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     life force — clears the strict gate easily
 
 ## Completed
+
+### 72. Encanto — Disney (2021) — Film
+
+- Tier 3 (Moderately Bright Fantasy), Final Score 3.6375 (Weighted Internal Score 0.95).
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 0, Structural Corruption 1,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 2, Explicit Darkness 2.
+- **Genre gate** trivial — a real magic house and real bestowed magical gifts are the plot's
+  central mechanism, not a backdrop.
+- **Plot basis:** Fleeing an armed conflict, Alma Madrigal loses her husband Pedro but a miracle
+  candle creates a magical, sentient house (Casita) and grants each family member a unique gift
+  except Mirabel. Years later, Mirabel discovers the magic is fading and uncovers that her uncle
+  Bruno (driven into hiding a decade earlier for his unwelcome prophetic visions) and the whole
+  family's suppressed anxieties trace back to Alma's own unprocessed trauma. The house fully
+  collapses and the candle burns out completely. Only after Alma breaks down and admits her
+  controlling perfectionism harmed the family does genuine reconciliation happen; the family and
+  village rebuild the house by hand, and the magic returns once Mirabel places the final piece.
+- **Historical subtext, raised explicitly by the user:** the opening armed-conflict/displacement
+  sequence is widely read as a specific allusion to Colombia's Guerra de los Mil Días
+  (1899–1902) and the country's broader, decades-spanning history of internal armed conflict and
+  forced displacement — not generic fairy-tale villain backstory. This directly informed the
+  Narrative Acceptance of Injustice score below.
+- **Self-audit, prompted by the user asking directly whether any score carried doubt:** flagged
+  Redemption Difficulty (2) and Structural Corruption (1) as candidates for revision down to 0,
+  worried both reached for a stretch — Alma's reconciliation reading as emotional catharsis
+  rather than real material sacrifice, and "family" not obviously qualifying as an institution.
+  Further research (also user-requested) confirmed both hold up rather than undermining them:
+  Alma's reckoning is preceded by the total, real loss of the magic and house — 50 years of
+  safety she'd clung to since Pedro's death, lost directly because of her own controlling
+  behavior — a genuine cost connected to the redemption, not incidental (supports Redemption
+  Difficulty 2). And the village of Encanto was literally founded and is sustained by the
+  Madrigal magic, making the family a real de facto governance/protection institution for the
+  town, not just a private household (supports Structural Corruption 1). Both scores confirmed.
+- Rationale: Structural Despair (0) and Limited Heroism (0) since the magic crisis fully
+  collapses but is completely restored by the end through Mirabel's actions. Moral Cynicism (0)
+  since vulnerability and honesty are directly, explicitly rewarded. Structural Corruption (1) —
+  see self-audit above. Redemption Difficulty (2) — see self-audit above. Narrative Acceptance
+  of Injustice (2) — Pedro's death is never revisited, resolved, or avenged within the plot even
+  as the present-day family conflict resolves completely, an "ambivalent, some injustices
+  resolve while others persist without explanation" pattern, strengthened by the real historical
+  weight of what the opening alludes to. Explicit Darkness (2) for the real violent opening
+  (armed marauders, Pedro's death) and the house's dramatic collapse, without graphic depiction.
+- Cozy Fantasy = No. Hopepunk = No: family-healing register organized around confronting
+  trauma directly, not kindness chosen as resistance to an oppressive system.
+- Neighbor check: exact score tie with Spirited Away and The Hobbit (all 3.6375) via different
+  profiles. Label check: "Moderately Bright Fantasy" fits — real, weighty trauma content
+  alongside a genuinely complete, hopeful resolution.
+- Added to xlsx row 151, and to tier 3 on both index.html and es/index.html, appended after
+  Spirited Away (exact score tie, existing-entries-first ordering); title "Encanto" in both EN
+  and ES (the title is unchanged across markets); medium: "Film" / "Película".
 
 ### 71. Moana — Disney (2016) — Film
 

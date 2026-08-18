@@ -2934,6 +2934,39 @@ corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" 
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
 
+## Encanto (2021)
+
+New catalog addition. Genre gate trivial (a real magic house, real bestowed magical gifts).
+Historical subtext raised by the user: the opening armed-conflict sequence widely reads as a
+specific allusion to Colombia's Guerra de los Mil Días and its broader history of internal
+armed conflict/displacement, not generic fairy-tale backstory — informs Narrative Acceptance of
+Injustice below.
+
+* Structural Despair: 0 — the magic crisis fully collapses but is completely restored by the end.
+* Limited Heroism: 0 — Mirabel's actions completely resolve the crisis.
+* Moral Cynicism: 0 — vulnerability and honesty are directly, explicitly rewarded.
+* Structural Corruption: 1 — the village of Encanto was literally founded and is sustained by
+  the Madrigal magic; the family is a real de facto governance/protection institution for the
+  town, and Alma's distortion of it around gift-based usefulness is a real corruption of that
+  structure, not an isolated family quirk.
+* Redemption Difficulty: 2 — Alma's reckoning is preceded by the total, real loss of the magic
+  and house — 50 years of safety lost directly because of her own controlling behavior — a
+  genuine cost connected to the redemption, not incidental.
+* Narrative Acceptance of Injustice: 2 — Pedro's death (and the conflict/displacement behind
+  it) is never revisited, resolved, or avenged within the plot even as the present-day family
+  conflict resolves completely.
+* Explicit Darkness: 2 — the real violent opening (armed marauders, Pedro's death) and the
+  house's dramatic collapse, without graphic depiction.
+
+Weighted = 0.95 → Final Score = 3.6375 → **Tier 3**, exact score tie with Spirited Away and The
+Hobbit via different profiles. Cozy Fantasy = No, Hopepunk = No. Label check: "Moderately Bright
+Fantasy" fits.
+
+Self-audit note: Redemption Difficulty and Structural Corruption were flagged as possible
+overreaches (emotional catharsis mistaken for real sacrifice; "family" not obviously an
+institution) when the user asked directly whether any score carried doubt. Further research
+confirmed both scores rather than undermining them — see rationale above.
+
 ## Moana (2016)
 
 New catalog addition. Genre gate trivial (a real demigod, a real ocean deity, real Polynesian
