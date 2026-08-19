@@ -914,9 +914,7 @@ above) — logged here so they aren't re-proposed without knowing they were alre
 70. [x] Frozen — Disney (2013) — Film — DONE, see Completed
 71. [x] Moana — Disney (2016) — Film — DONE, see Completed
 72. [x] Encanto — Disney (2021) — Film — DONE, see Completed
-73. [ ] Onward — Pixar (2020) — Film — the most explicitly "fantasy genre" Pixar has made —
-    wizards, elves, trolls, centaurs, a literal spell-quest, in a world built around real magic
-    having receded
+73. [x] Onward — Pixar (2020) — Film — DONE, see Completed
 74. [ ] Rise of the Guardians — DreamWorks (2012) — Film — Santa, the Tooth Fairy, the Sandman,
     Jack Frost, and the Easter Bunny as real magical beings with real powers, fighting an
     embodied evil (Pitch Black) — genuine fantasy stakes, not holiday theming
@@ -1013,6 +1011,41 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     life force — clears the strict gate easily
 
 ## Completed
+
+### 73. Onward — Pixar (2020) — Film
+
+- Tier 2 (Bright Fantasy), Final Score 2.625 (Weighted Internal Score 0.5).
+- Scores: Structural Despair 0, Limited Heroism 1, Moral Cynicism 0, Structural Corruption 0,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 1, Explicit Darkness 2.
+- **Genre gate** trivial — an explicit fantasy world of elves, wizards, dragons, and unicorns,
+  real magic as the plot's central mechanism.
+- **Plot basis:** in a world where magic has faded from everyday life to technological
+  convenience, teenage elf brothers Ian and Barley attempt a resurrection spell left by their
+  father (who died when they were young) to spend one last day with him. The spell partially
+  fails — only his legs manifest — so the brothers quest for a phoenix gem to complete it before
+  sunset. In the climax, Ian chooses to use their remaining magic to save Barley from a cursed
+  dragon-beast rather than complete the spell to see his father face-to-face — meaning only
+  Barley (who actually remembers their dad) gets a real goodbye, while Ian never does. Ian
+  realizes Barley has effectively been his father figure all along.
+- Rationale: Structural Despair (0) since the boys' personal quest reawakens real magic and
+  connection in their lives by the end. Limited Heroism (1) since the broader quest (the beast
+  defeated, magic proven real) succeeds completely, but Ian's own specific goal — actually
+  meeting his father — is never achieved, a real if minor unresolved detail. Moral Cynicism (0)
+  and Structural Corruption (0) since there's no cynical-world content or institution examined.
+  Redemption Difficulty (0) since Ian's arc (embarrassment softening into appreciation of
+  Barley) is coming-of-age, not atonement for real wrongdoing. Narrative Acceptance of Injustice
+  (1) since Ian's specific loss (never getting to meet his father) is permanent and never undone,
+  but the narrative frames it as something he can genuinely move past, not a wound it leaves
+  untouched. Explicit Darkness (2) for real but contained danger (a curse, a dragon-beast battle,
+  chase sequences) without graphic content, consistent with family-fantasy register.
+- Cozy Fantasy = No. Hopepunk = No: coming-of-age/grief-processing register, not organized
+  around resisting an oppressive system or accepting mortality as a deliberate, chosen stance.
+- Neighbor check: exact score tie with Alice in Wonderland (2010–2016) and Harry Potter and the
+  Chamber of Secrets (all 2.625) via different profiles. Label check: "Bright Fantasy" fits.
+- Added to xlsx row 152, and to tier 2 on both index.html and es/index.html, appended after
+  Alice in Wonderland (2010–2016) (exact score tie, existing-entries-first ordering); title
+  "Onward" in EN, "Onward: hacia adelante" in ES (the official Latin American release title);
+  medium: "Film" / "Película".
 
 ### 72. Encanto — Disney (2021) — Film
 

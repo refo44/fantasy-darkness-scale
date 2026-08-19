@@ -2934,6 +2934,27 @@ corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" 
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
 
+## Onward (2020)
+
+New catalog addition. Genre gate trivial (an explicit fantasy world of elves, wizards, dragons,
+unicorns).
+
+* Structural Despair: 0 — the boys' personal quest reawakens real magic and connection in their
+  lives by the end.
+* Limited Heroism: 1 — the broader quest succeeds completely, but Ian's own specific goal
+  (meeting his father) is never achieved.
+* Moral Cynicism: 0 — no cynical-world content.
+* Structural Corruption: 0 — no institution examined.
+* Redemption Difficulty: 0 — Ian's arc is coming-of-age, not atonement for real wrongdoing.
+* Narrative Acceptance of Injustice: 1 — Ian's specific loss is permanent and never undone, but
+  the narrative frames it as something he can genuinely move past.
+* Explicit Darkness: 2 — real but contained danger (a curse, a dragon-beast battle) without
+  graphic content.
+
+Weighted = 0.5 → Final Score = 2.625 → **Tier 2**, exact score tie with Alice in Wonderland
+(2010–2016) and Harry Potter and the Chamber of Secrets via different profiles. Cozy Fantasy =
+No, Hopepunk = No. Label check: "Bright Fantasy" fits.
+
 ## Encanto (2021)
 
 New catalog addition. Genre gate trivial (a real magic house, real bestowed magical gifts).
