@@ -2934,6 +2934,27 @@ corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" 
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
 
+## Rise of the Guardians (2012)
+
+New catalog addition. Genre gate established at queue time (real magical guardian figures vs.
+an embodied evil, not holiday theming).
+
+* Structural Despair: 1 — the underlying premise is a permanent, cyclical tension between
+  belief and fear, even though this specific crisis resolves clearly.
+* Limited Heroism: 2 — the victory depends on children's collective belief as much as the
+  Guardians' own actions, and Pitch survives rather than being destroyed.
+* Moral Cynicism: 0 — belief and goodness are directly rewarded.
+* Structural Corruption: 0 — Pitch is an individual embodiment of fear, not an institution.
+* Redemption Difficulty: 0 — Jack Frost's arc is self-acceptance, not atonement.
+* Narrative Acceptance of Injustice: 1 — Pitch's survival is a real loose end, but the film's
+  posture is confidently triumphant, not dwelling on it.
+* Explicit Darkness: 3 — a real, visible character death (Sandy), genuinely frightening
+  nightmare-creature designs, and Jack's centuries of ghost-like isolation.
+
+Weighted = 0.9 → Final Score = 3.525 → **Tier 3**, exact score tie with Final Fantasy IV via a
+different profile. Cozy Fantasy = No, Hopepunk = No. Label check: "Moderately Bright Fantasy"
+fits.
+
 ## Onward (2020)
 
 New catalog addition. Genre gate trivial (an explicit fantasy world of elves, wizards, dragons,

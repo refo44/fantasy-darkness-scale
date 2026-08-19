@@ -915,9 +915,7 @@ above) — logged here so they aren't re-proposed without knowing they were alre
 71. [x] Moana — Disney (2016) — Film — DONE, see Completed
 72. [x] Encanto — Disney (2021) — Film — DONE, see Completed
 73. [x] Onward — Pixar (2020) — Film — DONE, see Completed
-74. [ ] Rise of the Guardians — DreamWorks (2012) — Film — Santa, the Tooth Fairy, the Sandman,
-    Jack Frost, and the Easter Bunny as real magical beings with real powers, fighting an
-    embodied evil (Pitch Black) — genuine fantasy stakes, not holiday theming
+74. [x] Rise of the Guardians — DreamWorks (2012) — Film — DONE, see Completed
 75. [ ] Shrek — DreamWorks (2001) — Film — real curses, real transformation magic (the True
     Love's Kiss curse is the entire plot engine), genuine fairy-tale creatures as a functioning
     world, not just parody references; consider scope (first film only vs. the full quadrilogy)
@@ -1011,6 +1009,45 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     life force — clears the strict gate easily
 
 ## Completed
+
+### 74. Rise of the Guardians — DreamWorks (2012) — Film
+
+- Tier 3 (Moderately Bright Fantasy), Final Score 3.525 (Weighted Internal Score 0.9).
+- Scores: Structural Despair 1, Limited Heroism 2, Moral Cynicism 0, Structural Corruption 0,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 1, Explicit Darkness 3.
+- **Genre gate** established at queue time — Santa, the Tooth Fairy, the Sandman, Jack Frost,
+  and the Easter Bunny as real magical beings with real powers, fighting an embodied evil (Pitch
+  Black), not holiday theming.
+- **Plot basis:** Jack Frost has spent ~300 years invisible and unheard by children who don't
+  believe in him. Pitch Black threatens to extinguish children's belief in the Guardians, which
+  would destroy the Guardians themselves. In the climax, Pitch actually kills Sandy, overwhelming
+  him with black nightmare sand — a real depicted death, reversed when children's renewed belief
+  turns the nightmare sand back into golden dreamsand, resurrecting him and restoring the
+  Guardians' power. Pitch is beaten but not destroyed — dragged back into his lair by his own
+  nightmare creatures, defeated for now rather than eliminated.
+- Rationale: Structural Despair (1) since the underlying premise is a permanent, cyclical
+  tension between belief and fear that's never fully resolved, even though this specific crisis
+  resolves clearly. Limited Heroism (2) since the victory depends on the children's collective
+  belief as much as the Guardians' own actions, and Pitch survives — resolves the immediate
+  threat, leaves the conditions that generated it intact. Moral Cynicism (0) and Structural
+  Corruption (0) since belief/goodness is directly rewarded and Pitch is an individual
+  embodiment of fear, not a corrupt institution. Redemption Difficulty (0) since Jack's arc is
+  about self-acceptance and finding purpose, not atonement for wrongdoing. Narrative Acceptance
+  of Injustice (1) since Pitch's survival is a real loose end, but the film's own posture is
+  confidently triumphant, not dwelling on it as an open wound. Explicit Darkness (3) for a real,
+  visible character death (Sandy), genuinely frightening nightmare-creature designs, and Jack's
+  centuries of ghost-like isolation — notably darker register than this batch's other entries,
+  matching this film's critical reputation for being surprisingly intense for younger children.
+- Cozy Fantasy = No. Hopepunk = No: belief-restoration register centered on individual
+  perseverance and collective faith, not kindness chosen as resistance to an oppressive system.
+- Neighbor check: exact score tie with Final Fantasy IV (also 3.525) via a different profile.
+  Label check: "Moderately Bright Fantasy" fits — real, if temporary, darkness (a character
+  death, genuine horror-adjacent imagery) alongside a decisively hopeful, if not fully final,
+  resolution.
+- Added to xlsx row 153, and to tier 3 on both index.html and es/index.html, appended after
+  Final Fantasy IV (exact score tie, existing-entries-first ordering); title "Rise of the
+  Guardians" in EN, "El origen de los guardianes" in ES (the official Latin American release
+  title); medium: "Film" / "Película".
 
 ### 73. Onward — Pixar (2020) — Film
 
