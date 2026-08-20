@@ -916,10 +916,8 @@ above) — logged here so they aren't re-proposed without knowing they were alre
 72. [x] Encanto — Disney (2021) — Film — DONE, see Completed
 73. [x] Onward — Pixar (2020) — Film — DONE, see Completed
 74. [x] Rise of the Guardians — DreamWorks (2012) — Film — DONE, see Completed
-75. [ ] Shrek — DreamWorks (2001) — Film — real curses, real transformation magic (the True
-    Love's Kiss curse is the entire plot engine), genuine fairy-tale creatures as a functioning
-    world, not just parody references; consider scope (first film only vs. the full quadrilogy)
-    when scored
+75. [x] Shrek — DreamWorks (2001) — Film — DONE, see Completed. Scored as three separate entries:
+    the mainline Shrek quadrilogy, Puss in Boots (2011), and Puss in Boots: The Last Wish (2022).
 76. [ ] Sleeping Beauty — Disney (1959) — Film — passes the strict gate applied to the rest of
     this survey: Maleficent's curse on Aurora (death by spinning wheel, mitigated to sleep by the
     three good fairies) is real, functioning magic driving the entire plot, not fairy-tale label
@@ -1009,6 +1007,107 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     life force — clears the strict gate easily
 
 ## Completed
+
+### 75. Shrek — DreamWorks (2001) — Film, and two related entries
+
+**Bundle-vs-split decision, worked through explicitly with the user:** the queue item named
+only "Shrek," but researching the wider franchise's tonal consistency surfaced a genuine split.
+Rather than one bundled entry, this produced three: the mainline Shrek quadrilogy, Puss in Boots
+(2011), and Puss in Boots: The Last Wish (2022) — the last confirmed meaningfully darker than
+the rest of the franchise by critics, and Puss in Boots (2011) split out separately once that
+decision was made, since leaving it bundled with mainline Shrek while its own 2022 sequel got
+its own slot would have split the same character across two different scoring buckets. Matches
+the Legend of Vox Machina / Mighty Nein precedent: different protagonists/casts sharing a
+universe get separate entries, not automatic bundling by franchise label.
+
+#### Shrek (2001–2010 quadrilogy)
+
+- Tier 3 (Moderately Bright Fantasy), Final Score 3.8625 (Weighted Internal Score 1.05).
+- Scores: Structural Despair 1, Limited Heroism 1, Moral Cynicism 1, Structural Corruption 2,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 0, Explicit Darkness 3.
+- **Genre gate** trivial — real curses, real transformation magic (the True Love's Kiss curse is
+  the entire plot engine of film 1), genuine fairy-tale creatures as a functioning world, not
+  just parody references.
+- **Scope:** the mainline quadrilogy only (Shrek, Shrek 2, Shrek the Third, Shrek Forever
+  After) — Puss in Boots (2011) and Puss in Boots: The Last Wish (2022) scored separately below.
+- Rationale: Structural Despair (1) and Structural Corruption (2) are grounded in Shrek Forever
+  After's alternate timeline: Shrek is erased from history via a Rumpelstiltskin deal, who then
+  rules Far Far Away as a dictator — ogres enslaved and whipped for hard labor, hunted by bounty
+  hunters, Fiona leading an armed resistance — genuinely dark, vivid imagery, fully undone
+  (retroactively erased, not just resolved) by the ending's true-love's-kiss reset. Limited
+  Heroism (1) since resolution across the bundle relies partly on this kind of external/magical
+  reset rather than pure direct heroic triumph. Moral Cynicism (1) for the recurring
+  trickster-dealmaker fraud pattern (Rumpelstiltskin's soul-trading contract). Redemption
+  Difficulty (0) since no character arc within the mainline four films alone centers on atoning
+  for real wrongdoing — the franchise's only redemption-difficulty content (Humpty Dumpty's and
+  Puss's) belongs to the separately-scored Puss in Boots entries. Narrative Acceptance of
+  Injustice (0) since every conflict resolves completely, and the alternate-timeline dystopia
+  isn't just resolved, it's retroactively un-happened. Explicit Darkness (3) for the
+  enslavement/whipping imagery specifically, on top of recurring villain peril elsewhere
+  (Farquaad, the Fairy Godmother, Prince Charming).
+- Cozy Fantasy = No. Hopepunk = No: comedic fairy-tale-parody register, not organized around
+  resisting an oppressive system or accepting mortality as its throughline.
+- Neighbor check: no exact score twin at 3.8625; sits between the 3.75 cluster (Discworld, Heavy
+  Metal) and the 3.98 cluster (Frieren, The Lord of the Rings, etc.). Label check: "Moderately
+  Bright Fantasy" fits.
+- Added to xlsx row 154, and to tier 3 on both index.html and es/index.html, positioned between
+  Heavy Metal and the 3.98 cluster; title "Shrek" in both EN and ES; medium: "Films" /
+  "Películas".
+
+#### Puss in Boots (2011)
+
+- Tier 2 (Bright Fantasy), Final Score 2.9625 (Weighted Internal Score 0.65).
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 1, Structural Corruption 0,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 0, Explicit Darkness 2.
+- **Plot basis:** Puss and his childhood friend Humpty Dumpty had a falling out after a botched
+  heist Humpty orchestrated left Puss framed as an outlaw. Years later Humpty lures Puss into a
+  scheme to steal a golden goose using magic beans, which turns out to be an elaborate act of
+  revenge luring the goose's giant mother back to destroy Puss's hometown. Puss appeals to the
+  good still in Humpty, who redeems himself with a genuine heroic sacrifice to save the goose
+  and the town.
+- Rationale: Structural Despair (0) and Limited Heroism (0) since the crisis resolves completely
+  and durably. Moral Cynicism (1) for the real betrayal-by-a-trusted-friend beat (twice — as
+  children and again as adults), though ultimately resolved positively. Structural Corruption
+  (0) since this is a personal betrayal/heist story, no institution examined. Redemption
+  Difficulty (2) since Humpty's arc is genuine and costly: real wrongdoing (an elaborate revenge
+  plot to destroy his former friend's hometown) redeemed through an actual heroic self-sacrifice.
+  Narrative Acceptance of Injustice (0) since full reconciliation is achieved by the end.
+  Explicit Darkness (2) for real but comedic-registered peril (chase sequences, a giant-creature
+  threat) without graphic content.
+- Cozy Fantasy = No. Hopepunk = No.
+- Neighbor check: exact score tie (2.9625) with DanMachi, The Chronicles of Narnia, The Legend
+  of Zelda, The Princess Bride, and Journey to the West, all via different profiles.
+- Added to xlsx row 155, and to tier 2 on both index.html and es/index.html, appended after
+  DanMachi (exact score tie, existing-entries-first ordering); title "Puss in Boots" in EN, "El
+  Gato con Botas" in ES; medium: "Film" / "Película".
+
+#### Puss in Boots: The Last Wish (2022)
+
+- Tier 3 (Moderately Bright Fantasy), Final Score 3.075 (Weighted Internal Score 0.7).
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 0, Structural Corruption 0,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 0, Explicit Darkness 4.
+- **Tonal-shift check, prompted by the split decision above:** confirmed via critical
+  consensus — "definitely darker" than the rest of the franchise, with Death itself (embodied as
+  the Big Bad Wolf) stalking Puss with "a personal but genuine vendetta" for wasting his lives;
+  encounters are repeatedly compared to slasher-film pacing and tension. The director has said
+  he deliberately drew on the darker Brothers Grimm cautionary-tale tradition rather than the
+  franchise's usual register.
+- **Plot basis:** Puss, down to his last of nine lives, ultimately destroys the wishing star and
+  forfeits his wish entirely, accepting mortality rather than chasing immortality; Jack Horner
+  (consumed by greed) falls to his death after over-consuming magic.
+- Rationale: Structural Despair, Limited Heroism, Moral Cynicism, and Structural Corruption all
+  bottom out at 0 since the personal-scale conflict resolves completely and cleanly. Redemption
+  Difficulty (2) since Puss must genuinely reckon with his own recklessness toward his own life,
+  at real cost (forfeiting his last wish, confronting real fear/vulnerability for the first
+  time). Narrative Acceptance of Injustice (0) since full resolution is achieved. Explicit
+  Darkness (4) since Death's stalking presence is a central, recurring, genuinely
+  horror-registered threat throughout the film, not an occasional dark beat.
+- Cozy Fantasy = No. Hopepunk = No.
+- Neighbor check: exact score tie (3.075) with A Choir of Lies, Mushishi, and Neverwinter
+  Nights, all via different profiles.
+- Added to xlsx row 156, and to tier 3 on both index.html and es/index.html, appended after
+  Neverwinter Nights (exact score tie, existing-entries-first ordering); title "Puss in Boots:
+  The Last Wish" in EN, "El Gato con Botas: El Último Deseo" in ES; medium: "Film" / "Película".
 
 ### 74. Rise of the Guardians — DreamWorks (2012) — Film
 

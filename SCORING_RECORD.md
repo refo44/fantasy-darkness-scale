@@ -2934,6 +2934,70 @@ corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" 
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
 
+## Shrek (2001–2010 quadrilogy)
+
+New catalog addition. Genre gate trivial (real curses, real transformation magic as the entire
+plot engine). Scope: the mainline quadrilogy only — Puss in Boots (2011) and Puss in Boots: The
+Last Wish (2022) split into their own separate entries below, matching the Legend of Vox
+Machina / Mighty Nein precedent for different-protagonist spinoffs sharing a universe, and
+specifically because The Last Wish is confirmed meaningfully darker than the rest of the
+franchise.
+
+* Structural Despair: 1 — grounded in Shrek Forever After's alternate timeline: Rumpelstiltskin
+  rules as a dictator, ogres enslaved and hunted, fully undone (retroactively erased) by the end.
+* Limited Heroism: 1 — resolution relies partly on this kind of external/magical reset rather
+  than pure direct heroic triumph.
+* Moral Cynicism: 1 — the recurring trickster-dealmaker fraud pattern (Rumpelstiltskin's
+  soul-trading contract).
+* Structural Corruption: 2 — the alternate-timeline dictatorship, genuinely dark imagery even
+  though undone.
+* Redemption Difficulty: 0 — no character arc within the mainline four films centers on atoning
+  for real wrongdoing.
+* Narrative Acceptance of Injustice: 0 — every conflict resolves completely; the dystopia is
+  retroactively un-happened, not just resolved.
+* Explicit Darkness: 3 — the enslavement/whipping imagery specifically, plus recurring villain
+  peril elsewhere.
+
+Weighted = 1.05 → Final Score = 3.8625 → **Tier 3**, no exact score twin. Cozy Fantasy = No,
+Hopepunk = No. Label check: "Moderately Bright Fantasy" fits.
+
+## Puss in Boots (2011)
+
+New catalog addition, scored separately from mainline Shrek. Puss and his childhood friend
+Humpty Dumpty had a falling out after a botched heist Humpty orchestrated; years later Humpty
+lures Puss into an elaborate revenge scheme to destroy his hometown, but redeems himself with a
+genuine heroic sacrifice.
+
+* Structural Despair: 0 — crisis resolves completely and durably.
+* Limited Heroism: 0 — same.
+* Moral Cynicism: 1 — a real betrayal-by-a-trusted-friend beat, ultimately resolved positively.
+* Structural Corruption: 0 — a personal betrayal/heist story, no institution examined.
+* Redemption Difficulty: 2 — Humpty's redemption is genuine and costly, an actual heroic
+  self-sacrifice.
+* Narrative Acceptance of Injustice: 0 — full reconciliation achieved.
+* Explicit Darkness: 2 — real but comedic-registered peril without graphic content.
+
+Weighted = 0.65 → Final Score = 2.9625 → **Tier 2**, exact score tie with DanMachi, The
+Chronicles of Narnia, The Legend of Zelda, The Princess Bride, and Journey to the West. Cozy
+Fantasy = No, Hopepunk = No.
+
+## Puss in Boots: The Last Wish (2022)
+
+New catalog addition, scored separately given a confirmed tonal shift — critics describe it as
+"definitely darker" than the franchise, with Death (the Big Bad Wolf) stalking Puss in
+encounters repeatedly compared to slasher-film pacing.
+
+* Structural Despair: 0, Limited Heroism: 0, Moral Cynicism: 0, Structural Corruption: 0 — the
+  personal-scale conflict resolves completely and cleanly.
+* Redemption Difficulty: 2 — Puss reckons with his own recklessness at real cost (forfeiting his
+  last wish).
+* Narrative Acceptance of Injustice: 0 — full resolution.
+* Explicit Darkness: 4 — Death's stalking presence is a central, recurring, genuinely
+  horror-registered threat throughout, not an occasional beat.
+
+Weighted = 0.7 → Final Score = 3.075 → **Tier 3**, exact score tie with A Choir of Lies,
+Mushishi, and Neverwinter Nights. Cozy Fantasy = No, Hopepunk = No.
+
 ## Rise of the Guardians (2012)
 
 New catalog addition. Genre gate established at queue time (real magical guardian figures vs.
