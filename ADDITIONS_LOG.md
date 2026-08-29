@@ -923,7 +923,7 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     three good fairies) is real, functioning magic driving the entire plot, not fairy-tale label
     alone, and the climactic battle has Maleficent literally transform into a dragon — genuinely
     load-bearing fantasy content, not decoration
-77. [ ] Cinderella — Disney (1950) — Film — the Fairy Godmother's transformation magic (pumpkin
+77. [x] Cinderella — Disney (1950) — Film — DONE, see Completed. The Fairy Godmother's transformation magic (pumpkin
     to coach, mice to horses, rags to gown) and its midnight time-limit curse are the entire
     second act's driving mechanism, not decoration — passes the strict gate
 78. [ ] Aladdin — Disney (1992) — Film — a genie with real wish-granting magic, a sorcerer
@@ -1007,6 +1007,36 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     life force — clears the strict gate easily
 
 ## Completed
+
+### 77. Cinderella — Disney (1950) — Film
+
+- Tier 2 (Bright Fantasy), Final Score 2.2875 (Weighted Internal Score 0.35).
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 1, Structural Corruption 0,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 0, Explicit Darkness 2.
+- **Genre gate** trivial — the Fairy Godmother's transformation magic (pumpkin to coach, mice to
+  horses, rags to gown) and its midnight time-limit curse are the entire second act's driving
+  mechanism, not decoration.
+- Rationale: Structural Despair (0) since the years of servitude are fully and permanently
+  undone by the ending. Limited Heroism (0) since the victory is complete — nothing is left
+  compromised for Cinderella. Moral Cynicism (1) since the stepfamily materially benefits from
+  years of unpaid forced labor extracted from Cinderella, a real sustained reward for cruelty
+  only reversed at the very end — parallels Frozen's Hans (wrongdoing rewarded, then fully
+  stopped). Structural Corruption (0): this is household-scale, single-victim cruelty backed by
+  ordinary guardian authority, not governance over a subject population or a genuine institution
+  (contrast The Wizard of Oz and Alice in Wonderland (2010–2016), both SC=2, or Encanto's
+  village-founding dynasty, SC=1) — matches the "personal betrayal, no institution examined"
+  read used for Puss in Boots (2011). Redemption Difficulty (0) since no character atones for
+  real wrongdoing. Narrative Acceptance of Injustice (0) since Cinderella's own core injustice is
+  fully and durably resolved, and the stepfamily isn't left as an ongoing threat (unlike Rise of
+  the Guardians' Pitch). Explicit Darkness (2) for real but contained cruelty/peril
+  (imprisonment, drudgery, fear) without graphic content, consistent with this catalog's other
+  Tier 1–2 Disney entries.
+- Cozy Fantasy = No. Hopepunk = No.
+- Neighbor check: exact 7-axis profile match with Frozen (2013); score tie (2.2875) with
+  Hercules and Moana via different profiles. Label check: "Bright Fantasy" fits.
+- Added to xlsx row 158, and to tier 2 on both index.html and es/index.html, appended after The
+  Addams Family (1964–1992) (exact score tie, existing-entries-first ordering); title
+  "Cinderella" in EN, "Cenicienta" in ES; medium: "Film" / "Película".
 
 ### 76. Sleeping Beauty — Disney (1959) — Film
 

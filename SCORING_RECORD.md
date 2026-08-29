@@ -2934,6 +2934,33 @@ corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" 
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
 
+## Cinderella (1950)
+
+New catalog addition. Genre gate trivial — the Fairy Godmother's transformation magic (pumpkin
+to coach, mice to horses, rags to gown) and its midnight time-limit curse are the entire second
+act's driving mechanism, not decoration.
+
+* Structural Despair: 0 — the years of servitude are fully and permanently undone by the ending.
+* Limited Heroism: 0 — the victory is complete; nothing is left compromised for Cinderella.
+* Moral Cynicism: 1 — the stepfamily materially benefits from years of unpaid forced labor
+  extracted from Cinderella, a real sustained reward for cruelty only reversed at the very end —
+  parallels Frozen's Hans (wrongdoing rewarded, then fully stopped).
+* Structural Corruption: 0 — this is household-scale, single-victim cruelty backed by ordinary
+  guardian authority, not governance over a subject population or a genuine institution
+  (contrast The Wizard of Oz and Alice in Wonderland (2010–2016), both Structural Corruption 2,
+  or Encanto's village-founding dynasty, Structural Corruption 1) — matches the "personal
+  betrayal, no institution examined" read used for Puss in Boots (2011).
+* Redemption Difficulty: 0 — no character atones for real wrongdoing.
+* Narrative Acceptance of Injustice: 0 — Cinderella's own core injustice is fully and durably
+  resolved, and the stepfamily isn't left as an ongoing threat (unlike Rise of the Guardians'
+  Pitch).
+* Explicit Darkness: 2 — real but contained cruelty/peril (imprisonment, drudgery, fear) without
+  graphic content, consistent with this catalog's other Tier 1–2 Disney entries.
+
+Weighted = 0.35 → Final Score = 2.2875 → **Tier 2**, an exact 7-axis profile match with Frozen
+(2013), and a score tie with Hercules and Moana via different profiles. Cozy Fantasy = No,
+Hopepunk = No. Label check: "Bright Fantasy" fits.
+
 ## Sleeping Beauty (1959)
 
 New catalog addition. Genre gate trivial — Maleficent's hundred-years'-sleep curse (mitigated
