@@ -2934,6 +2934,41 @@ corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" 
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
 
+## Sleeping Beauty (1959)
+
+New catalog addition. Genre gate trivial — Maleficent's hundred-years'-sleep curse (mitigated
+from death by the three good fairies) is the entire plot engine, and the climax turns on a
+literal dragon transformation, not fairy-tale label alone.
+
+* Structural Despair: 0 — the curse is fully and permanently broken.
+* Limited Heroism: 0 — Prince Phillip's rescue and the kingdom's restoration are complete.
+* Moral Cynicism: 0 — no cynical reward for wrongdoing; virtue and love are directly rewarded.
+* Structural Corruption: 0 — dug into Maleficent's actual dominion for this entry specifically,
+  comparing against related Disney entries and the existing Maleficent (2014) franchise entry.
+  She operates from her own separate domain (the Forbidden Mountains, her own castle, her own
+  goon army) as an external aggressor against a neighboring legitimate kingdom, but she never
+  rules over or oppresses King Stefan's own subjects — she doesn't reach the bar this catalog
+  sets for institutional tyranny. Contrast The Wizard of Oz and Alice in Wonderland
+  (2010–2016), both Structural Corruption 2, where the Wicked Witch/Red Queen actually enslave
+  or execute their own subject populations, a real governance relationship Maleficent never has.
+* Redemption Difficulty: 0 — no character arc centers on atoning for real wrongdoing.
+* Narrative Acceptance of Injustice: 0 — the ending fully undoes all harm.
+* Explicit Darkness: 2 — real, sustained peril (the curse, the dragon-form battle, the thorn
+  forest) without graphic content, consistent with this catalog's other Tier 1–2 Disney entries.
+
+Weighted = 0.20 → Final Score = 1.95 → **Tier 1**, the darkest entry currently in the tier, just
+0.05 below the Tier 2 threshold (2.0/weighted 0.222). Franchise comparison: against Maleficent
+(2014, Tier 3, Final 3.3, Structural Despair 0/Limited Heroism 0/Moral Cynicism 1/Structural
+Corruption 1/Redemption Difficulty 1/Narrative Acceptance of Injustice 1/Explicit Darkness 2),
+the live-action reinterpretation deliberately adds real moral cynicism, structural corruption
+(Stefan's own rule turns paranoid/tyrannical), redemption difficulty, and narrative injustice
+(the wing-severing assault) that the 1959 original doesn't carry — the same "source vs. dark
+reimagining" relationship already established elsewhere in this catalog (The Wizard of Oz vs.
+Wicked, Journey to the West vs. Black Myth: Wukong). Given the boundary proximity, pulled the
+full Tier 2 profile list (Hercules, Frozen, Moana, The Wizard of Oz, Alice in Wonderland, etc.)
+before finalizing; confirmed Structural Corruption 0 is the correct, precise read rather than a
+close call. Cozy Fantasy = No, Hopepunk = No. Label check: "Very Bright Fantasy" fits.
+
 ## Shrek (2001–2010 quadrilogy)
 
 New catalog addition. Genre gate trivial (real curses, real transformation magic as the entire

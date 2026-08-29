@@ -918,7 +918,7 @@ above) — logged here so they aren't re-proposed without knowing they were alre
 74. [x] Rise of the Guardians — DreamWorks (2012) — Film — DONE, see Completed
 75. [x] Shrek — DreamWorks (2001) — Film — DONE, see Completed. Scored as three separate entries:
     the mainline Shrek quadrilogy, Puss in Boots (2011), and Puss in Boots: The Last Wish (2022).
-76. [ ] Sleeping Beauty — Disney (1959) — Film — passes the strict gate applied to the rest of
+76. [x] Sleeping Beauty — Disney (1959) — Film — DONE, see Completed. Passes the strict gate applied to the rest of
     this survey: Maleficent's curse on Aurora (death by spinning wheel, mitigated to sleep by the
     three good fairies) is real, functioning magic driving the entire plot, not fairy-tale label
     alone, and the climactic battle has Maleficent literally transform into a dragon — genuinely
@@ -1007,6 +1007,46 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     life force — clears the strict gate easily
 
 ## Completed
+
+### 76. Sleeping Beauty — Disney (1959) — Film
+
+- Tier 1 (Very Bright Fantasy), Final Score 1.95 (Weighted Internal Score 0.2).
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 0, Structural Corruption 0,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 0, Explicit Darkness 2.
+- **Genre gate** trivial — real curse magic (Maleficent's hundred-years'-sleep curse is the
+  entire plot engine), a fairy-granted "gift" downgrade, three fairy godmothers with real
+  protective magic, and a literal dragon transformation in the climax.
+- Rationale: Structural Despair (0), Limited Heroism (0), Moral Cynicism (0), and Redemption
+  Difficulty (0) since the curse is fully and permanently broken, the kingdom fully restored, and
+  no character arc centers on atoning for real wrongdoing. Structural Corruption (0): researched
+  Maleficent's actual dominion specifically for this entry, at the user's request, comparing
+  against related Disney entries and the existing Maleficent (2014) franchise entry — she
+  operates from her own separate domain (the Forbidden Mountains, her own castle, her own goon
+  army) as an external aggressor against a neighboring legitimate kingdom, but she never rules
+  over or oppresses King Stefan's own subjects, so this doesn't reach the bar this catalog has
+  set for institutional tyranny (contrast The Wizard of Oz and Alice in Wonderland (2010–2016),
+  both Structural Corruption 2, where the Wicked Witch/Red Queen actually enslave or execute
+  their own subject populations — a real governance relationship Maleficent never has here).
+  Narrative Acceptance of Injustice (0) since the ending fully undoes all harm. Explicit Darkness
+  (2) for real, sustained peril (the curse, Maleficent's dragon-form battle, the thorn forest)
+  without graphic content, consistent with this catalog's other Tier 1–2 Disney entries.
+- **Franchise comparison:** against Maleficent (2014, Tier 3, Final 3.3, Structural Despair
+  0/Limited Heroism 0/Moral Cynicism 1/Structural Corruption 1/Redemption Difficulty
+  1/Narrative Acceptance of Injustice 1/Explicit Darkness 2), the live-action reinterpretation
+  deliberately adds real moral cynicism, structural corruption (Stefan's own rule turns
+  paranoid/tyrannical), redemption difficulty, and narrative injustice (the wing-severing
+  assault) that the 1959 original doesn't carry — the same "source vs. dark reimagining"
+  relationship already established elsewhere in this catalog (The Wizard of Oz vs. Wicked,
+  Journey to the West vs. Black Myth: Wukong).
+- Cozy Fantasy = No. Hopepunk = No.
+- Neighbor check: sits between Final Fantasy I (1.725) and the 2.0 Tier-2 threshold — the
+  darkest entry currently in Tier 1, just 0.05 below Tier 2. Pulled the full Tier 2 profile list
+  (Hercules, Frozen, Moana, The Wizard of Oz, Alice in Wonderland, etc.) for the boundary check;
+  confirmed Structural Corruption 0 (not 1) is the correct, precise read rather than a close call.
+  Label check: "Very Bright Fantasy" fits.
+- Added to xlsx row 157, and to tier 1 on both index.html and es/index.html, appended after
+  Final Fantasy I as the last (darkest) Tier 1 entry; title "Sleeping Beauty" in EN, "La bella
+  durmiente" in ES; medium: "Film" / "Película".
 
 ### 75. Shrek — DreamWorks (2001) — Film, and two related entries
 
