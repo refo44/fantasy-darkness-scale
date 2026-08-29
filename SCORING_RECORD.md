@@ -2934,6 +2934,38 @@ corners. Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" 
 specifically satisfies TIER_GUIDE.md's stated benchmark that Redemption Difficulty starts
 requiring 2 at this tier.
 
+## Aladdin (1992)
+
+New catalog addition. Genre gate trivial — a genie with real wish-granting magic, a sorcerer
+villain (Jafar) who performs real magic and transforms into a giant cobra then a genie himself, a
+living magic carpet, a wish-granting lamp, the Cave of Wonders — magic is the entire plot engine.
+
+* Structural Despair: 0 — Aladdin's poverty is fully and permanently resolved by the ending.
+* Limited Heroism: 0 — Jafar is completely defeated and the Sultan's law changes fully, not
+  partially.
+* Moral Cynicism: 1 — Jafar, the Sultan's own trusted royal vizier, hypnotizes and controls the
+  legitimate ruler for a real stretch of the film and briefly seizes absolute power — a genuine,
+  if temporary, reward for treachery from a position of real trust.
+* Structural Corruption: 1 — Jafar doesn't just scheme — he actively usurps the throne,
+  commandeers the palace guard, and declares himself absolute ruler, a real institutional
+  capture, but brief and same-day reversed (contrast the sustained tyrannies that earned The
+  Wizard of Oz and Alice in Wonderland (2010–2016) Structural Corruption 2).
+* Redemption Difficulty: 0 — no character atones for real wrongdoing; Aladdin's "Prince Ali" lie
+  is minor and costs him nothing when revealed.
+* Narrative Acceptance of Injustice: 1 — Jafar isn't destroyed, only trapped in his lamp and
+  banished — a real loose end the story itself leaves open (and the sequel confirms he returns),
+  paralleling Rise of the Guardians' Pitch.
+* Explicit Darkness: 2 — intense magical peril (the cobra transformation, the sorcerer battle, an
+  engulfing sandstorm) but no on-screen death or graphic violence — re-benchmarked against Alice
+  in Wonderland (2010–2016), which scored Explicit Darkness 2 despite on-screen executions and a
+  graphic decapitation, this doesn't clear that bar.
+
+Weighted = 0.65 → Final Score = 2.9625 → **Tier 2**, an exact score tie with Puss in Boots
+(2011), DanMachi, The Chronicles of Narnia, The Legend of Zelda, The Princess Bride, and Journey
+to the West, all via different profiles. Boundary check: an earlier draft (Explicit Darkness 3)
+sat right at the Tier 2/3 line; re-benchmarking against Alice in Wonderland's anchor confirmed 2
+is the precise read. Cozy Fantasy = No, Hopepunk = No. Label check: "Bright Fantasy" fits.
+
 ## Cinderella (1950)
 
 New catalog addition. Genre gate trivial — the Fairy Godmother's transformation magic (pumpkin

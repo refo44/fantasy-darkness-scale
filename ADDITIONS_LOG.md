@@ -926,7 +926,7 @@ above) — logged here so they aren't re-proposed without knowing they were alre
 77. [x] Cinderella — Disney (1950) — Film — DONE, see Completed. The Fairy Godmother's transformation magic (pumpkin
     to coach, mice to horses, rags to gown) and its midnight time-limit curse are the entire
     second act's driving mechanism, not decoration — passes the strict gate
-78. [ ] Aladdin — Disney (1992) — Film — a genie with real wish-granting magic, a sorcerer
+78. [x] Aladdin — Disney (1992) — Film — DONE, see Completed. A genie with real wish-granting magic, a sorcerer
     villain (Jafar) who performs real magic and transforms into a giant sorcerer then a genie,
     a magic carpet, a magic lamp, the Cave of Wonders — among the most explicitly magic-centric
     of the classic Disney line, clears the strict gate easily
@@ -1007,6 +1007,42 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     life force — clears the strict gate easily
 
 ## Completed
+
+### 78. Aladdin — Disney (1992) — Film
+
+- Tier 2 (Bright Fantasy), Final Score 2.9625 (Weighted Internal Score 0.65).
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 1, Structural Corruption 1,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 1, Explicit Darkness 2.
+- **Genre gate** trivial — a genie with real wish-granting magic, a sorcerer villain (Jafar) who
+  performs real magic and transforms into a giant cobra then a genie himself, a living magic
+  carpet, a wish-granting lamp, the Cave of Wonders — magic is the entire plot engine.
+- Rationale: Structural Despair (0) since Aladdin's poverty is fully and permanently resolved by
+  the ending. Limited Heroism (0) since Jafar is completely defeated and the Sultan's law
+  changes fully, not partially. Moral Cynicism (1) since Jafar, the Sultan's own trusted royal
+  vizier, hypnotizes and controls the legitimate ruler for a real stretch of the film and briefly
+  seizes absolute power — a genuine, if temporary, reward for treachery from a position of real
+  trust. Structural Corruption (1) since Jafar doesn't just scheme — he actively usurps the
+  throne, commandeers the palace guard, and declares himself absolute ruler, a real institutional
+  capture, but brief and same-day reversed (contrast the sustained tyrannies that earned The
+  Wizard of Oz and Alice in Wonderland (2010–2016) Structural Corruption 2). Redemption
+  Difficulty (0) since no character atones for real wrongdoing — Aladdin's "Prince Ali" lie is
+  minor and costs him nothing when revealed. Narrative Acceptance of Injustice (1) since Jafar
+  isn't destroyed, only trapped in his lamp and banished — a real loose end the story itself
+  leaves open (and the sequel confirms he returns), paralleling Rise of the Guardians' Pitch.
+  Explicit Darkness (2) for intense magical peril (the cobra transformation, the sorcerer battle,
+  an engulfing sandstorm) but no on-screen death or graphic violence — re-benchmarked against
+  Alice in Wonderland (2010–2016), which scored Explicit Darkness 2 despite on-screen executions
+  and a graphic decapitation, this doesn't clear that bar.
+- Cozy Fantasy = No. Hopepunk = No.
+- **Boundary check:** an earlier draft (Explicit Darkness 3) sat right at the Tier 2/3 line;
+  re-benchmarking Explicit Darkness against Alice in Wonderland's anchor confirmed 2 is the
+  precise read, keeping this comfortably in Tier 2.
+- Neighbor check: exact score tie (2.9625) with Puss in Boots (2011), DanMachi, The Chronicles
+  of Narnia, The Legend of Zelda, The Princess Bride, and Journey to the West, all via different
+  profiles. Label check: "Bright Fantasy" fits.
+- Added to xlsx row 159, and to tier 2 on both index.html and es/index.html, appended after Puss
+  in Boots (exact score tie, existing-entries-first ordering); title "Aladdin" in EN, "Aladdín"
+  in ES; medium: "Film" / "Película".
 
 ### 77. Cinderella — Disney (1950) — Film
 
