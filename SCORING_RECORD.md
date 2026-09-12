@@ -3669,3 +3669,36 @@ matching the "genuinely different story" pattern (Wicked, Age of Resistance) rat
 Weighted = 0.50 → Final Score = 2.625 → **Tier 2**, an exact 7-axis profile match with The
 Wizard of Oz (both "a fairy-tale villain runs a real, contained tyranny, corrected cleanly by
 the story's end"). Cozy Fantasy = No, Hopepunk = No. Label check: "Bright Fantasy" fits.
+
+## The Sorcerer's Apprentice (2010)
+
+New catalog addition. Genre gate trivial — Merlin, Morgana le Fay, and real wizard-apprentice
+combat magic are the entire premise (the Grimhold, plasma-bolt duels, the "Rising" resurrection
+spell) — magic is the entire plot engine.
+
+* Structural Despair: 0 — the magical conflict is a contained secret-order struggle inside an
+  otherwise ordinary present-day world, not a world-level decay.
+* Limited Heroism: 0 — the apocalyptic Rising is fully and permanently prevented; Morgana is
+  destroyed outright by Dave's plasma attack, not merely contained.
+* Moral Cynicism: 1 — Horvath's deception of a child (young Dave, tricked into freeing him from
+  the Grimhold in 2000) lets him trap Balthazar in an urn for a full decade before the main story
+  even begins — a real, sustained win for treachery, not a same-day-reversed scheme.
+* Structural Corruption: 0 — no institution is examined; the Merlinean/Morganian conflict is a
+  small secret order, not a governing body.
+* Redemption Difficulty: 0 — no character arc centers on atoning for real wrongdoing; Dave's arc
+  is coming-of-age, not redemption.
+* Narrative Acceptance of Injustice: 1 — Horvath survives and escapes at the very end (confirmed
+  in the post-credits stinger) — a real loose end the story itself leaves open, the same shape as
+  Aladdin's Jafar and Rise of the Guardians' Pitch.
+* Explicit Darkness: 2 — real magical peril (a living dragon statue's rampage through Chinatown,
+  Tesla-coil plasma battles, Balthazar's temporary death) without graphic detail, consistent with
+  this catalog's other Tier 1-2 Disney entries.
+
+Weighted = 0.5 → Final Score = 2.625 → **Tier 2**, an exact score tie with Harry Potter and the
+Chamber of Secrets, The Wizard of Oz, The Little Prince, and Onward, each via a different
+profile — closest match is Chamber of Secrets (Structural Corruption 1 + Narrative Acceptance of
+Injustice 1 there vs. Moral Cynicism 1 + Narrative Acceptance of Injustice 1 here). Direct-neighbor
+check (Legend 2.5125, Chamber of Secrets/Wizard of Oz/Onward 2.625, A Conspiracy of Truths
+2.7375) and non-adjacent tier-2 check (Princess Bride/Aladdin, 2.9625, one more nonzero axis) both
+hold up. Cozy Fantasy = No, Hopepunk = No. Label check: "Bright Fantasy" fits — a decisively
+triumphant mentor/apprentice adventure with one contained villain loose end.

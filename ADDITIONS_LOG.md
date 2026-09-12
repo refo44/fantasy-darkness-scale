@@ -930,9 +930,7 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     villain (Jafar) who performs real magic and transforms into a giant sorcerer then a genie,
     a magic carpet, a magic lamp, the Cave of Wonders — among the most explicitly magic-centric
     of the classic Disney line, clears the strict gate easily
-79. [ ] The Sorcerer's Apprentice — Disney (2010) — Film — a direct expansion of Fantasia's
-    Sorcerer's Apprentice segment; real sorcerers, real magic duels, Morgana le Fay as
-    antagonist — wizards and magic are the entire premise, clears the strict gate easily
+79. [x] The Sorcerer's Apprentice — Disney (2010) — Film — DONE, see Completed
 80. [ ] Raya and the Last Dragon — Disney (2021) — Film — real dragons, real magic, real
     mythological world-building (Kumandra, the Druun) driving the entire plot
 81. [ ] Pirates of the Caribbean — Disney — Films — genuinely heavy, load-bearing supernatural
@@ -1007,6 +1005,42 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     life force — clears the strict gate easily
 
 ## Completed
+
+### 79. The Sorcerer's Apprentice — Disney (2010) — Film
+
+- Tier 2 (Bright Fantasy), Final Score 2.625 (Weighted Internal Score 0.5).
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 1, Structural Corruption 0,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 1, Explicit Darkness 2.
+- **Genre gate** trivial — Merlin, Morgana le Fay, and real wizard-apprentice combat magic are the
+  entire premise (the Grimhold, plasma-bolt duels, the "Rising" resurrection spell).
+- Rationale: Structural Despair (0) since the magical conflict is a contained secret-order
+  struggle inside an otherwise ordinary present-day world, not a world-level decay. Limited
+  Heroism (0) since the apocalyptic Rising is fully and permanently prevented — Morgana is
+  destroyed outright by Dave's plasma attack, not merely contained. Moral Cynicism (1) since
+  Horvath's deception of a child (young Dave, tricked into freeing him from the Grimhold in 2000)
+  lets him trap Balthazar in an urn for a full decade before the main story even begins — a real,
+  sustained win for treachery, not a same-day-reversed scheme. Structural Corruption (0) since no
+  institution is examined — the Merlinean/Morganian conflict is a small secret order, not a
+  governing body. Redemption Difficulty (0) since no character arc centers on atoning for real
+  wrongdoing; Dave's arc is coming-of-age, not redemption. Narrative Acceptance of Injustice (1)
+  since Horvath survives and escapes at the very end (confirmed in the post-credits stinger) — a
+  real loose end the story itself leaves open, the same shape as Aladdin's Jafar and Rise of the
+  Guardians' Pitch. Explicit Darkness (2) for real magical peril (a living dragon statue's rampage
+  through Chinatown, Tesla-coil plasma battles, Balthazar's temporary death) without graphic
+  detail, consistent with this catalog's other Tier 1-2 Disney entries.
+- Exact score tie with Harry Potter and the Chamber of Secrets, The Wizard of Oz, The Little
+  Prince, and Onward, each via a different profile — closest match is Chamber of Secrets
+  (Structural Corruption 1 + Narrative Acceptance of Injustice 1 there vs. Moral Cynicism 1 +
+  Narrative Acceptance of Injustice 1 here). Direct-neighbor check (Legend 2.5125, HP Chamber of
+  Secrets/Wizard of Oz/Onward 2.625, A Conspiracy of Truths 2.7375) and non-adjacent tier-2 check
+  (Princess Bride/Aladdin, 2.9625, one more nonzero axis) both hold up. Label check: "Bright
+  Fantasy" fits — a decisively triumphant mentor/apprentice adventure with one contained villain
+  loose end. Cozy Fantasy = No, Hopepunk = No (no societal oppression + resistance shape, just a
+  personal villain threat).
+- Added to xlsx row 160, and to tier 2 on both index.html and es/index.html, inserted right after
+  Onward (2.62) and before A Conspiracy of Truths (2.74) per score order; title "The Sorcerer's
+  Apprentice" kept as-is in EN, "El aprendiz de brujo" (the official Latin American Spanish
+  Disney title) in ES.
 
 ### 78. Aladdin — Disney (1992) — Film
 
