@@ -931,8 +931,7 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     a magic carpet, a magic lamp, the Cave of Wonders — among the most explicitly magic-centric
     of the classic Disney line, clears the strict gate easily
 79. [x] The Sorcerer's Apprentice — Disney (2010) — Film — DONE, see Completed
-80. [ ] Raya and the Last Dragon — Disney (2021) — Film — real dragons, real magic, real
-    mythological world-building (Kumandra, the Druun) driving the entire plot
+80. [x] Raya and the Last Dragon — Disney (2021) — Film — DONE, see Completed
 81. [ ] Pirates of the Caribbean — Disney — Films — genuinely heavy, load-bearing supernatural
     content throughout the franchise, not just a pirate-adventure setting: a real Aztec curse
     turning a crew into moonlit skeletons (film 1), Davy Jones and the cursed Flying Dutchman
@@ -1005,6 +1004,45 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     life force — clears the strict gate easily
 
 ## Completed
+
+### 80. Raya and the Last Dragon — Disney (2021) — Film
+
+- Tier 2 (Bright Fantasy), Final Score 2.9625 (Weighted Internal Score 0.65).
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 1, Structural Corruption 0,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 0, Explicit Darkness 2.
+- **Genre gate** trivial — dragons, a magic gem, and the Druun mythology (mindless spirits that
+  petrify all living things) drive the entire plot, not decoration.
+- Rationale: Structural Despair (0) since Kumandra's 500-year fracture into five rival lands is a
+  static political rift, not a world shown actively decaying on its own trajectory independent of
+  the plot's inciting event. Limited Heroism (0) since the ending is a full structural reset — the
+  Druun are permanently vanquished, every petrified victim and the dragons are revived, and the
+  five nations reunify as one land; heroism changes the background structure unambiguously. Moral
+  Cynicism (1) since Fang's isolationist hoarding of its gem shard visibly buys it real, lasting
+  material advantage (clean water, comfort) while the other lands suffer for years — self-interest
+  pays off practically for most of the story, even though the film ultimately condemns it.
+  Structural Corruption (0) since no central institution is designed to perpetuate injustice — the
+  conflict is inter-tribal distrust and war, not institutional corruption. Redemption Difficulty
+  (2) since both Namaari's and Raya's redemption arcs cost something real: Raya's own lingering
+  distrust directly causes Sisu's death, and reconciliation between the two only comes after that
+  genuine loss. Narrative Acceptance of Injustice (0) since every harm in the story — deaths,
+  petrification, the political division itself — is fully and explicitly undone by the ending;
+  injustice is treated as entirely temporary. Explicit Darkness (2) for real physical combat and
+  visible peril (petrification, dissolution to dust) without extreme graphic detail, consistent
+  with this catalog's other Tier 2 Disney action-adventure entries.
+- Exact score tie with Aladdin via a different profile (Moral Cynicism 1 + Redemption Difficulty 2
+  + Narrative Acceptance of Injustice 0 here vs. Moral Cynicism 1 + Structural Corruption 1 +
+  Narrative Acceptance of Injustice 1 there). Direct-neighbor check (Willow/Nightmare Before
+  Christmas/Addams Family 2.85, Narnia/Zelda/Princess Bride/Journey to the West/DanMachi/Puss in
+  Boots/Aladdin 2.9625) holds up comfortably. Boundary check against the lowest Tier 3 works
+  (Mushishi, A Choir of Lies, Neverwinter Nights, Puss in Boots: The Last Wish, all 3.075+) shows
+  they each stack an SD/LH/RD≥1 axis together with heavier Explicit Darkness (up to ED4) — Raya's
+  lighter SD0/LH0 core keeps it clearly in Tier 2. Label check: "Bright Fantasy" fits — real peril
+  and a costly redemption arc, but a fully restorative, unambiguous happy ending. Cozy Fantasy =
+  No, Hopepunk = No.
+- Added to xlsx row 161, and to tier 2 on both index.html and es/index.html, appended at the end
+  of the 2.96 score cluster after Aladdin and before A Choir of Lies (3.08); title "Raya and the
+  Last Dragon" kept as-is in EN, "Raya y el último dragón" (the official Latin American Spanish
+  Disney title) in ES.
 
 ### 79. The Sorcerer's Apprentice — Disney (2010) — Film
 
