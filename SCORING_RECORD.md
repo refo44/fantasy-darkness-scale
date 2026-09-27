@@ -3739,3 +3739,38 @@ Neverwinter Nights, Puss in Boots: The Last Wish, all 3.075+) shows they each st
 axis together with heavier Explicit Darkness (up to ED4) — Raya's lighter SD0/LH0 core keeps it
 clearly in Tier 2. Cozy Fantasy = No, Hopepunk = No. Label check: "Bright Fantasy" fits — real
 peril and a costly redemption arc, but a fully restorative, unambiguous happy ending.
+
+## Pirates of the Caribbean (2003–2007)
+
+New catalog addition. Scope: the original trilogy (Curse of the Black Pearl, Dead Man's Chest,
+At World's End) scored as one entry, following the Lord of the Rings precedent; On Stranger Tides
+and Dead Men Tell No Tales are excluded. Genre gate trivial — a real Aztec curse (moonlit
+skeleton crew), Davy Jones and the cursed Flying Dutchman crew, the Kraken, and the sea goddess
+Calypso bound in human form are load-bearing supernatural content throughout.
+
+* Structural Despair: 1 — piracy's free era being squeezed by corporate/colonial consolidation is
+  a real but subtextual throughline, not baked into the text as explicitly as LOTR's fading
+  world (which scores 2).
+* Limited Heroism: 1 — Beckett dies and his fleet is destroyed, a real, fairly lasting victory;
+  the broader march of empire is left as a minor open note in the elegiac coda.
+* Moral Cynicism: 1 — ruthless self-interest (Beckett, Barbossa) buys real temporary power, but
+  the story is ultimately a just-world narrative: virtue is vindicated and cruelty punished.
+* Structural Corruption: 2 — the East India Trading Company is corrupt by design, but the Pirate
+  Brethren Court stands as a functioning legitimate alternative institution.
+* Redemption Difficulty: 2 — Norrington betrays his principles for ambition, then redeems
+  himself through a fatal sacrifice; moral repair costs him his life.
+* Narrative Acceptance of Injustice: 1 — the specific injustice driving the plot (Beckett's
+  tyranny) is decisively resolved; the wistfulness about piracy's fading era is tonal color, not
+  a dwelt-on unresolved condition.
+* Explicit Darkness: 3 — frequent, visible horror content across all three films (skeleton crews,
+  the Kraken, tentacled Davy Jones and his Dutchman crew) without extreme graphic detail.
+
+Weighted = 1.5 → Final Score = 4.875 → **Tier 4**, an exact profile match with Fullmetal
+Alchemist: Brotherhood (real deaths, genuine villain menace, ultimately triumphant framing), in
+the same cluster as Final Fantasy IX, Ranking of Kings, The Shannara Chronicles, and The Legend
+of Vox Machina. Non-adjacent check against Avatar: The Last Airbender and Earthsea (4.65) holds.
+Boundary check (0.125 below the Tier 5 cutoff): the lowest Tier 5 works (Primal, Tales from
+Earthsea, Dragonlance, HP Goblet of Fire) all carry SD2 or ED4, heavier than SD1/ED3 here. Cozy
+Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" fits — real deaths, a corrupt
+institutional antagonist, horror-coded supernatural imagery, and a bittersweet ending for Will
+and Elizabeth.

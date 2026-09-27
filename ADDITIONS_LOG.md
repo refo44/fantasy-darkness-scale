@@ -932,12 +932,9 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     of the classic Disney line, clears the strict gate easily
 79. [x] The Sorcerer's Apprentice — Disney (2010) — Film — DONE, see Completed
 80. [x] Raya and the Last Dragon — Disney (2021) — Film — DONE, see Completed
-81. [ ] Pirates of the Caribbean — Disney — Films — genuinely heavy, load-bearing supernatural
-    content throughout the franchise, not just a pirate-adventure setting: a real Aztec curse
-    turning a crew into moonlit skeletons (film 1), Davy Jones and the cursed Flying Dutchman
-    crew, the Kraken, the sea goddess Calypso/Tia Dalma bound in human form, the Fountain of
-    Youth, real voodoo magic; decide scope (which films — the original trilogy is the most
-    consistently fantasy-heavy; later entries vary) when scored
+81. [x] Pirates of the Caribbean — Disney (2003–2007) — Films — DONE, see Completed. Scope decided: the
+    original trilogy only, scored as one entry; On Stranger Tides (2011) and Dead Men Tell No
+    Tales (2017) excluded (tone varies) and could be a separate future queue item
 82. [ ] Mary Poppins — Disney (1964) — Film — Mary Poppins' magic (flight via umbrella, a
     bottomless carpet bag, snapping a room into order, entering an animated chalk-drawing world,
     a tea party on the ceiling) is the character's entire premise and drives multiple full
@@ -1004,6 +1001,49 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     life force — clears the strict gate easily
 
 ## Completed
+
+### 81. Pirates of the Caribbean (2003–2007) — Disney — Films
+
+- Tier 4 (Fantasy in Gray Tones), Final Score 4.875 (Weighted Internal Score 1.5).
+- **Scope:** the original trilogy (Curse of the Black Pearl 2003, Dead Man's Chest 2006, At World's
+  End 2007) scored as ONE entry, following the Lord of the Rings precedent (one continuous
+  story with consistent tone) rather than the Harry Potter precedent (split into 7 because tone
+  shifts tier-to-tier across the series). On Stranger Tides (2011) and Dead Men Tell No Tales
+  (2017) are excluded — the queue note flagged them as tonally varying — and remain a possible
+  separate future entry.
+- Scores: Structural Despair 1, Limited Heroism 1, Moral Cynicism 1, Structural Corruption 2,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 1, Explicit Darkness 3.
+- **Genre gate** trivial — a real Aztec curse (moonlit skeleton crew), Davy Jones and the cursed
+  Flying Dutchman crew, the Kraken, and the sea goddess Calypso bound in human form are
+  load-bearing supernatural content throughout, not a pirate setting with occasional magic.
+- Rationale: Structural Despair (1) since piracy's free era being squeezed by corporate/colonial
+  consolidation is a real but subtextual throughline, not baked into the text as explicitly as
+  LOTR's fading world (which scores 2). Limited Heroism (1) since Beckett dies and his fleet is
+  destroyed — a real, fairly lasting victory — while the broader march of empire is left as a
+  minor open note in the elegiac coda. Moral Cynicism (1) since ruthless self-interest (Beckett,
+  Barbossa) buys real temporary power but the story is ultimately a just-world narrative: virtue
+  is vindicated and cruelty punished. Structural Corruption (2) since the East India Trading
+  Company is corrupt by design, but the Pirate Brethren Court stands as a functioning legitimate
+  alternative institution. Redemption Difficulty (2) since Norrington's arc — betraying his
+  principles for ambition, then redeeming himself through a fatal sacrifice — costs him his
+  life, the story's clearest statement on what moral repair requires. Narrative Acceptance of
+  Injustice (1) since the specific injustice driving the plot (Beckett's tyranny) is decisively
+  resolved; the wistfulness about piracy's fading era is tonal color, not a dwelt-on unresolved
+  condition. Explicit Darkness (3) for frequent, visible horror content across all three films
+  (skeleton crews, the Kraken, tentacled Davy Jones and his Dutchman crew) without extreme
+  graphic detail.
+- Exact profile match with Fullmetal Alchemist: Brotherhood (1,1,1,2,2,1,3 = 4.875), a close
+  tonal fit (real deaths, genuine villain menace, ultimately triumphant framing); also in the
+  same cluster as Final Fantasy IX, Ranking of Kings, The Shannara Chronicles, and The Legend of
+  Vox Machina. Non-adjacent check against Avatar: The Last Airbender and Earthsea (4.65) holds.
+  Boundary check (0.125 below the Tier 5 cutoff): the lowest Tier 5 works (Primal, Tales from
+  Earthsea, Dragonlance, HP Goblet of Fire) all carry SD2 or ED4, heavier than SD1/ED3 here.
+  Label check: "Fantasy in Gray Tones" fits — real deaths, a corrupt institutional antagonist,
+  horror-coded supernatural imagery, and a bittersweet ending for Will and Elizabeth. Cozy
+  Fantasy = No, Hopepunk = No.
+- Added to xlsx row 162, and to tier 4 on both index.html and es/index.html, appended at the end
+  of the 4.88 cluster after The Legend of Vox Machina and before Adventure Time (4.99); titled
+  "Pirates of the Caribbean (2003–2007)" in EN and "Piratas del Caribe (2003–2007)" in ES.
 
 ### 80. Raya and the Last Dragon — Disney (2021) — Film
 
