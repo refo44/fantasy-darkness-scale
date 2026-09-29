@@ -935,10 +935,7 @@ above) — logged here so they aren't re-proposed without knowing they were alre
 81. [x] Pirates of the Caribbean — Disney (2003–2007) — Films — DONE, see Completed. Scope decided: the
     original trilogy only, scored as one entry; On Stranger Tides (2011) and Dead Men Tell No
     Tales (2017) excluded (tone varies) and could be a separate future queue item
-82. [ ] Mary Poppins — Disney (1964) — Film — Mary Poppins' magic (flight via umbrella, a
-    bottomless carpet bag, snapping a room into order, entering an animated chalk-drawing world,
-    a tea party on the ceiling) is the character's entire premise and drives multiple full
-    sequences, not incidental whimsy — clears the strict gate
+82. [x] Mary Poppins — Disney (1964) — Film — DONE, see Completed
 83. [ ] Enchanted — Disney (2007) — Film — a real sorceress-queen (Narissa) who curses/banishes
     the animated fairy-tale protagonist into live-action modern New York and transforms into a
     giant dragon in the climax, plus a real magic portal between the 2D fantasy kingdom of
@@ -1001,6 +998,35 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     life force — clears the strict gate easily
 
 ## Completed
+
+### 82. Mary Poppins — Disney (1964) — Film
+
+- Tier 1 (Very Bright Fantasy), Final Score 1.5 (Weighted Internal Score 0.0, all-zero profile).
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 0, Structural Corruption 0,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 0, Explicit Darkness 0.
+- **Genre gate** trivial — flight via umbrella, a bottomless carpet bag, entering an animated
+  chalk-drawing world, a tea party on the ceiling — magic drives multiple full sequences, not
+  incidental whimsy. **Relevance check** passes — the story is built around a magical nanny's
+  interventions, not a mundane drama with decorative fantasy trim.
+- Rationale: Structural Despair (0) since the setting is an idealized, cheerful Edwardian London
+  with no decay theme. Limited Heroism (0) since the Banks family's dysfunction is fully and
+  permanently resolved — complete reconciliation, no loose ends. Moral Cynicism (0) since there
+  is no scheming or villainy to test; kindness and honesty are directly, immediately rewarded
+  (Mr. Dawes Sr. literally floats with joy at George's good humor). Structural Corruption (0)
+  since the bank isn't corrupt, just impersonal — a misplaced-values problem corrected amicably,
+  not an institutional injustice. Redemption Difficulty (0) since George's workaholic neglect of
+  his family is fixed with essentially no dramatic cost. Narrative Acceptance of Injustice (0)
+  since no real injustice is ever present to accept or resolve. Explicit Darkness (0) since there
+  is zero physical danger — the bank-run scene is social/emotional chaos, not violence or
+  threat; per critical consensus the film has "no real peril" anywhere.
+- Exact all-zero profile tie with My Neighbor Totoro, Kiki's Delivery Service, Ponyo, and
+  Legends & Lattes — the catalog's wholesome floor. Sits correctly below Sleeping Beauty (1.95,
+  Explicit Darkness 2, an actual curse and dragon battle), since Mary Poppins has even less
+  peril. Label check: "Very Bright Fantasy" fits about as cleanly as this catalog gets. Cozy
+  Fantasy = No, Hopepunk = No.
+- Added to xlsx row 163, and to tier 1 on both index.html and es/index.html, appended at the end
+  of the 1.50 cluster after Kiki's Delivery Service and before Final Fantasy I (1.73); title
+  "Mary Poppins" kept unchanged in both EN and ES (same title used in Latin American releases).
 
 ### 81. Pirates of the Caribbean (2003–2007) — Disney — Films
 

@@ -3774,3 +3774,29 @@ Earthsea, Dragonlance, HP Goblet of Fire) all carry SD2 or ED4, heavier than SD1
 Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" fits — real deaths, a corrupt
 institutional antagonist, horror-coded supernatural imagery, and a bittersweet ending for Will
 and Elizabeth.
+
+## Mary Poppins (1964)
+
+New catalog addition. Genre gate trivial — flight via umbrella, a bottomless carpet bag,
+entering an animated chalk-drawing world, a tea party on the ceiling — magic drives multiple
+full sequences, not incidental whimsy. Relevance check passes — the story is built around a
+magical nanny's interventions, not a mundane drama with decorative fantasy trim.
+
+* Structural Despair: 0 — an idealized, cheerful Edwardian London with no decay theme.
+* Limited Heroism: 0 — the Banks family's dysfunction is fully and permanently resolved,
+  complete reconciliation, no loose ends.
+* Moral Cynicism: 0 — no scheming or villainy to test; kindness and honesty are directly,
+  immediately rewarded (Mr. Dawes Sr. literally floats with joy at George's good humor).
+* Structural Corruption: 0 — the bank isn't corrupt, just impersonal; a misplaced-values problem
+  corrected amicably, not an institutional injustice.
+* Redemption Difficulty: 0 — George's workaholic neglect of his family is fixed with essentially
+  no dramatic cost.
+* Narrative Acceptance of Injustice: 0 — no real injustice is ever present to accept or resolve.
+* Explicit Darkness: 0 — zero physical danger; the bank-run scene is social/emotional chaos, not
+  violence or threat; per critical consensus the film has "no real peril" anywhere.
+
+Weighted = 0.0 → Final Score = 1.5 → **Tier 1**, an exact all-zero profile tie with My Neighbor
+Totoro, Kiki's Delivery Service, Ponyo, and Legends & Lattes — the catalog's wholesome floor.
+Sits correctly below Sleeping Beauty (1.95, Explicit Darkness 2, an actual curse and dragon
+battle), since Mary Poppins has even less peril. Cozy Fantasy = No, Hopepunk = No. Label check:
+"Very Bright Fantasy" fits about as cleanly as this catalog gets.
