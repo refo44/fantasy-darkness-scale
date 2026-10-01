@@ -936,7 +936,7 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     original trilogy only, scored as one entry; On Stranger Tides (2011) and Dead Men Tell No
     Tales (2017) excluded (tone varies) and could be a separate future queue item
 82. [x] Mary Poppins — Disney (1964) — Film — DONE, see Completed
-83. [ ] Enchanted — Disney (2007) — Film — a real sorceress-queen (Narissa) who curses/banishes
+83. [x] Enchanted — Disney (2007) — Film — DONE, see Completed. Originally: a real sorceress-queen (Narissa) who curses/banishes
     the animated fairy-tale protagonist into live-action modern New York and transforms into a
     giant dragon in the climax, plus a real magic portal between the 2D fantasy kingdom of
     Andalasia and the real world — same "wicked queen with real magic and a dragon-transformation
@@ -998,6 +998,43 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     life force — clears the strict gate easily
 
 ## Completed
+
+### 83. Enchanted — Disney (2007) — Film
+
+- Tier 2 (Bright Fantasy), Final Score 2.625 (Weighted Internal Score 0.5).
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 1, Structural Corruption 0,
+  Redemption Difficulty 1, Narrative Acceptance of Injustice 0, Explicit Darkness 2.
+- **Genre gate** trivial — a real sorceress-queen (Narissa) with genuine curse, transformation,
+  and portal magic: a magic portal between the 2D animated fantasy kingdom of Andalasia and
+  live-action New York, a poisoned-apple sleeping curse, and a climactic dragon transformation;
+  same "wicked queen with real magic and a dragon-transformation climax" shape as Sleeping
+  Beauty. **Relevance check** passes — the entire plot engine is fantasy, not a mundane
+  rom-com with decorative fantasy trim.
+- Rationale: Structural Despair (0) since Giselle's exile resolves into a thriving new life;
+  nothing is left in decline. Limited Heroism (0) since the victory is complete and
+  unambiguous — Narissa defeated, Giselle/Robert together, Edward/Nancy married, nothing
+  compromised. Moral Cynicism (1) since Narissa retains her throne throughout the film
+  precisely because of her scheming (the banishment, then the poisoned-apple murder attempt),
+  a real if temporary reward for wrongdoing, undone only at the very end — parallels
+  Cinderella's stepfamily read. Structural Corruption (0) since this is a personal/dynastic
+  succession conflict, not depicted institutional oppression of Andalasia's subjects — matches
+  the Sleeping Beauty/Cinderella precedent, contrast The Wizard of Oz's Structural Corruption 2
+  enslaved Winkies. Redemption Difficulty (1) since Nathaniel commits genuine wrongdoing
+  (attempted poisoning on Narissa's orders) and atones by exposing her plot, resolved without
+  extreme cost — parallels Spirited Away's No-Face. Narrative Acceptance of Injustice (0) since
+  nothing is left unresolved; a full happy-ending reset. Explicit Darkness (2) since there is
+  real peril (the poisoning, the dragon battle, a villain's death) without graphic content,
+  consistent with this catalog's Tier 1–2 Disney band (Sleeping Beauty, Aladdin, The Wizard of
+  Oz).
+- Neighbor check: exact score tie at 2.625 with Onward, The Wizard of Oz, Alice in Wonderland
+  (2010–2016), and Harry Potter and the Chamber of Secrets, all via different profiles. Boundary
+  check: 2.625 sits mid-tier (Tier 2 = 2.0–3.0), not near a cutoff. Label check: "Bright
+  Fantasy" fits — comedic, upbeat, happy-ending romantic comedy. Cozy Fantasy = No, Hopepunk =
+  No.
+- Added to xlsx row 164, and to tier 2 on both index.html and es/index.html, appended at the end
+  of the 2.62 cluster after The Sorcerer's Apprentice and before A Conspiracy of Truths (2.74);
+  titled "Enchanted" in English and "Encantada" in Latin American Spanish (verified via
+  WebSearch).
 
 ### 82. Mary Poppins — Disney (1964) — Film
 

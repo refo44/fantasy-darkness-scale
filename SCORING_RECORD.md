@@ -3800,3 +3800,35 @@ Totoro, Kiki's Delivery Service, Ponyo, and Legends & Lattes — the catalog's w
 Sits correctly below Sleeping Beauty (1.95, Explicit Darkness 2, an actual curse and dragon
 battle), since Mary Poppins has even less peril. Cozy Fantasy = No, Hopepunk = No. Label check:
 "Very Bright Fantasy" fits about as cleanly as this catalog gets.
+
+## Enchanted (2007)
+
+New catalog addition. Genre gate trivial — a real sorceress-queen (Narissa) with genuine curse,
+transformation, and portal magic: a magic portal between the 2D animated fantasy kingdom of
+Andalasia and live-action New York, a poisoned-apple sleeping curse, and a climactic dragon
+transformation; same "wicked queen with real magic and a dragon-transformation climax" shape as
+Sleeping Beauty.
+
+* Structural Despair: 0 — Giselle's exile resolves into a thriving new life; nothing is left in
+  decline.
+* Limited Heroism: 0 — the victory is complete and unambiguous: Narissa defeated, Giselle/Robert
+  together, Edward/Nancy married, nothing compromised.
+* Moral Cynicism: 1 — Narissa retains her throne throughout the film precisely because of her
+  scheming (the banishment, then the poisoned-apple murder attempt), a real if temporary reward
+  for wrongdoing, undone only at the very end — parallels Cinderella's stepfamily read.
+* Structural Corruption: 0 — a personal/dynastic succession conflict, not depicted institutional
+  oppression of Andalasia's subjects — matches the Sleeping Beauty/Cinderella precedent, contrast
+  The Wizard of Oz's Structural Corruption 2 enslaved Winkies.
+* Redemption Difficulty: 1 — Nathaniel commits genuine wrongdoing (attempted poisoning on
+  Narissa's orders) and atones by exposing her plot, resolved without extreme cost — parallels
+  Spirited Away's No-Face.
+* Narrative Acceptance of Injustice: 0 — nothing is left unresolved; a full happy-ending reset.
+* Explicit Darkness: 2 — real peril (the poisoning, the dragon battle, a villain's death) without
+  graphic content, consistent with this catalog's Tier 1–2 Disney band (Sleeping Beauty, Aladdin,
+  The Wizard of Oz).
+
+Weighted = 0.5 → Final Score = 2.625 → **Tier 2**, an exact score tie with Onward, The Wizard of
+Oz, Alice in Wonderland (2010–2016), and Harry Potter and the Chamber of Secrets, all via
+different profiles. Boundary check: 2.625 sits mid-tier (Tier 2 = 2.0–3.0), not near a cutoff.
+Cozy Fantasy = No, Hopepunk = No. Label check: "Bright Fantasy" fits — comedic, upbeat,
+happy-ending romantic comedy.
