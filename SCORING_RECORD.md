@@ -3832,3 +3832,33 @@ Oz, Alice in Wonderland (2010–2016), and Harry Potter and the Chamber of Secre
 different profiles. Boundary check: 2.625 sits mid-tier (Tier 2 = 2.0–3.0), not near a cutoff.
 Cozy Fantasy = No, Hopepunk = No. Label check: "Bright Fantasy" fits — comedic, upbeat,
 happy-ending romantic comedy.
+
+## Tangled (2010)
+
+New catalog addition. Genre gate trivial — Rapunzel's hair has real, functioning magic (genuine
+healing/youth-restoring power when sung to, lost permanently if cut) that is the entire reason
+Mother Gothel keeps her captive and the mechanism of the climax; load-bearing, not decoration.
+
+* Structural Despair: 0 — a personal-scale abduction/imprisonment, not a broader societal
+  decline; fully resolved.
+* Limited Heroism: 0 — complete, unambiguous victory: Rapunzel freed and reunited with her
+  family, Flynn survives and is pardoned, Gothel destroyed.
+* Moral Cynicism: 1 — Gothel benefits materially (eternal youth) from 18 years of abduction and
+  psychological abuse, a real sustained reward for wrongdoing, undone only at her death —
+  parallels Cinderella's stepfamily read.
+* Structural Corruption: 0 — single-victim, personal-scale cruelty, not institutional oppression
+  of a population (matches Cinderella/Sleeping Beauty precedent).
+* Redemption Difficulty: 2 — Flynn's redemption is genuinely costly: he deliberately destroys
+  Rapunzel's only means to heal his fatal wound in order to free her, choosing her freedom over
+  his own life; parallels Norrington's fatal sacrifice in Pirates of the Caribbean.
+* Narrative Acceptance of Injustice: 0 — full resolution; nothing left unaddressed.
+* Explicit Darkness: 3 — an on-screen stabbing, a villain's visible death (rapid aging,
+  crumbling to dust), and 18 years of sustained psychological imprisonment; comparable to Rise of
+  the Guardians' ED3, above the ED2 contained-peril ceiling of Sleeping Beauty/Aladdin/Enchanted.
+
+Weighted = 0.75 → Final Score = 3.1875 → **Tier 3**, an exact score tie with Return to Oz via a
+very different profile; sits between Neverwinter Nights/A Choir of Lies/Mushishi (3.075) and
+Dungeon Meshi/Cormyr/Maleficent (3.30). Checked against Maleficent (2014, MC1/SC1/RD1/NAI1/ED2)
+as a non-adjacent same-tier work: a different but comparably weighted profile. Boundary check:
+WIS 0.75 clears the Tier 3 floor (0.667) comfortably. Cozy Fantasy = No, Hopepunk = No. Label
+check: "Moderately Bright Fantasy" fits.

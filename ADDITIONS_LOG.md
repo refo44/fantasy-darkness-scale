@@ -941,7 +941,7 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     giant dragon in the climax, plus a real magic portal between the 2D fantasy kingdom of
     Andalasia and the real world — same "wicked queen with real magic and a dragon-transformation
     climax" shape as Sleeping Beauty, clears the strict gate easily
-84. [ ] Tangled — Disney (2010) — Film — Rapunzel's hair has real, functioning magic (genuine
+84. [x] Tangled — Disney (2010) — Film — DONE, see Completed. Originally: Rapunzel's hair has real, functioning magic (genuine
     healing/youth-restoring power when sung to, lost permanently if cut) that is the entire
     reason Mother Gothel keeps her captive and the mechanism of the climax — real, load-bearing
     magic, not decoration; clears the strict gate
@@ -998,6 +998,38 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     life force — clears the strict gate easily
 
 ## Completed
+
+### 84. Tangled — Disney (2010) — Film
+
+- Tier 3 (Moderately Bright Fantasy), Final Score 3.1875 (Weighted Internal Score 0.75).
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 1, Structural Corruption 0,
+  Redemption Difficulty 2, Narrative Acceptance of Injustice 0, Explicit Darkness 3.
+- **Genre gate** trivial — Rapunzel's hair has real, functioning magic (genuine
+  healing/youth-restoring power when sung to, lost permanently if cut) that is the entire reason
+  Mother Gothel keeps her captive and the mechanism of the climax. **Relevance check** passes —
+  load-bearing magic, not decoration.
+- Rationale: Structural Despair (0) since this is a personal-scale abduction/imprisonment, not a
+  broader societal decline, and it is fully resolved. Limited Heroism (0) since the victory is
+  complete and unambiguous — Rapunzel freed and reunited with her family, Flynn survives and is
+  pardoned, Gothel destroyed. Moral Cynicism (1) since Gothel benefits materially (eternal youth)
+  from 18 years of abduction and psychological abuse, a real sustained reward for wrongdoing,
+  undone only at her death — parallels Cinderella's stepfamily read. Structural Corruption (0)
+  since this is single-victim, personal-scale cruelty, not institutional oppression of a
+  population (matches Cinderella/Sleeping Beauty precedent). Redemption Difficulty (2) since
+  Flynn's redemption is genuinely costly — he deliberately destroys Rapunzel's only means to
+  heal his fatal wound in order to free her, choosing her freedom over his own life; parallels
+  Norrington's fatal sacrifice in Pirates of the Caribbean. Narrative Acceptance of Injustice (0)
+  since the resolution is full and nothing is left unaddressed. Explicit Darkness (3) since there
+  is an on-screen stabbing, a villain's visible death (rapid aging, crumbling to dust), and 18
+  years of sustained psychological imprisonment — comparable to Rise of the Guardians' ED3, above
+  the ED2 contained-peril ceiling of Sleeping Beauty/Aladdin/Enchanted.
+- Neighbor check: exact score tie at 3.1875 with Return to Oz via a very different profile;
+  sits between Neverwinter Nights/A Choir of Lies/Mushishi (3.075) and Dungeon
+  Meshi/Cormyr/Maleficent (3.30). Boundary check: WIS 0.75 clears the Tier 3 floor (0.667)
+  comfortably. Label check: "Moderately Bright Fantasy" fits. Cozy Fantasy = No, Hopepunk = No.
+- Added to xlsx row 165, and to tier 3 on both index.html and es/index.html, appended after
+  Return to Oz (end of the 3.19 cluster) and before Dungeon Meshi (3.30); titled "Tangled" in
+  English and "Enredados" in Latin American Spanish (verified via WebSearch).
 
 ### 83. Enchanted — Disney (2007) — Film
 
