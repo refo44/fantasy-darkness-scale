@@ -945,7 +945,7 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     healing/youth-restoring power when sung to, lost permanently if cut) that is the entire
     reason Mother Gothel keeps her captive and the mechanism of the climax — real, load-bearing
     magic, not decoration; clears the strict gate
-85. [ ] Brave — Pixar (2012) — Film — a real witch casts a real transformation spell turning
+85. [x] Brave — Pixar (2012) — Film — DONE, see Completed. Originally: a real witch casts a real transformation spell turning
     Merida's mother into a bear, driving the entire plot; will-o'-the-wisps are real magical
     guides, and the backstory legend of a prince turned into a bear is confirmed true within the
     story — real, load-bearing magic, clears the strict gate (flagged as a strong pass in the
@@ -998,6 +998,38 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     life force — clears the strict gate easily
 
 ## Completed
+
+### 85. Brave — Pixar (2012) — Film
+
+- Tier 2 (Bright Fantasy), Final Score 2.2875 (Weighted Internal Score 0.35).
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 0, Structural Corruption 0,
+  Redemption Difficulty 1, Narrative Acceptance of Injustice 0, Explicit Darkness 2.
+- **Genre gate** trivial — a witch's enchanted cake transforms Queen Elinor into a bear and
+  drives the whole plot; will-o'-the-wisps are real magical guides and the cursed-prince legend
+  (Mor'du) is confirmed true within the story. **Relevance check** passes — core fantasy, not
+  decoration.
+- Rationale: Structural Despair (0) since the conflict is a family dispute, not a declining
+  world, and it is fully resolved. Limited Heroism (0) since the curse is broken, Mor'du is
+  destroyed, and the betrothal custom is reformed — a complete victory. Moral Cynicism (0) since
+  nobody profits from wrongdoing; Merida's selfish act has real consequences and Mor'du's pride
+  cost him everything. Structural Corruption (0) since the betrothal custom is a rigid tradition,
+  not an institution built to perpetuate harm, and it is reformed by the end (Cinderella/Sleeping
+  Beauty read); 1 was considered and rejected. Redemption Difficulty (1) since Merida must face
+  real guilt and repair what she broke under a deadline with a genuine risk of permanent loss,
+  but nothing is actually lost and there is no fatal sacrifice (contrast Flynn/Norrington RD2).
+  Narrative Acceptance of Injustice (0) since everything is undone or resolved by the ending.
+  Explicit Darkness (2) since there is real peril (Mor'du's attacks, Elinor losing her humanity,
+  Mor'du's death) without graphic content; 3 ruled out — no on-screen stabbing or sustained abuse
+  as in Tangled.
+- Neighbor check: 2.2875 ties Cinderella, Frozen, Hercules, Moana, Castle in the Sky, Labyrinth,
+  and The Addams Family (1964–1992) via different profiles (RD1 instead of Cinderella's MC1).
+  Non-adjacent same-tier check: Enchanted (2.625, MC1/RD1/ED2) differs by a profiting villain,
+  consistent with Brave's lower score. Boundary check: WIS 0.35 well above the Tier 2 floor
+  (0.222); Sleeping Beauty (1.95) sits below on its all-zero profile. Label check: "Bright
+  Fantasy" fits. Cozy Fantasy = No, Hopepunk = No.
+- Added to xlsx row 166, and to tier 2 on both index.html and es/index.html, appended at the end
+  of the 2.29 cluster after Cinderella and before Legend (2.51); titled "Brave" in English and
+  "Valiente" in Latin American Spanish (verified via WebSearch).
 
 ### 84. Tangled — Disney (2010) — Film
 
