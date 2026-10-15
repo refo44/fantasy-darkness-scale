@@ -954,7 +954,7 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     magic (the wizard's-duel shapeshifting battle with Madam Mim, transforming young Arthur into
     a fish/squirrel/bird to teach him) is among the most extensive in the classic Disney line,
     plus the sword itself as a real magical test of destiny — clears the strict gate easily
-87. [ ] Miss Peregrine's Home for Peculiar Children — Ransom Riggs (2011 novel) / Tim Burton
+87. [x] DONE, see Completed. Originally: Miss Peregrine's Home for Peculiar Children — Ransom Riggs (2011 novel) / Tim Burton
     (2016 film) — Novel, Film — real supernatural stakes throughout: "peculiar" children have
     genuine powers (invisibility, super strength, fire manipulation, prophecy), Miss Peregrine is
     an "ymbryne" who transforms into a bird and manipulates real time loops, and the antagonists
@@ -1003,8 +1003,40 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     1985 film only (the source novels would be a separate consideration). Added at the user's
     request; reputed to be notably darker than the rest of the classic Disney line, so calibrate
     carefully against Return to Oz and Tangled
+96. [ ] Miss Peregrine's Home for Peculiar Children — Tim Burton (2016) — Film — based on Ransom
+    Riggs's novel but diverges substantially (Barron as villain instead of Golan, a 1943 loop
+    instead of 1940, different deaths and ending); peculiar children with real powers, an ymbryne
+    who turns into a bird, and wights/hollowgast hunting peculiars — clears the strict gate
+    easily. Scope: the 2016 film only; the 2011 novel is item 87 (done). Calibrate against the
+    novel's 3.8625 (Tier 3) and the film's PG-13/UK PG rating
 
 ## Completed
+
+### 87. Miss Peregrine's Home for Peculiar Children — Ransom Riggs (2011) — Novel
+
+- Tier 3 (Moderately Bright Fantasy), Final Score 3.8625 (Weighted Internal Score 1.05).
+- Scores: Structural Despair 1, Limited Heroism 2, Moral Cynicism 1, Structural Corruption 0,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 1, Explicit Darkness 3.
+- **Scope:** the 2011 novel only (book one). The 2016 Burton film diverges substantially
+  (villain, year, deaths, ending) and is queued separately as item 96; sequels are out of scope.
+- **Genre gate** trivial — the peculiar children have real powers, Miss Peregrine is an ymbryne
+  who becomes a bird and maintains a real time loop, and the wights and hollowgast are genuine
+  supernatural predators. **Relevance check** passes — core fantasy, not decoration.
+- Rationale: Structural Despair (1) since the loop-bound world is fragile and the Holocaust
+  backdrop gives it a sombre shadow, but the decay is mostly plot-driven by wights rather than a
+  collapsing society; 2 considered and rejected. Limited Heroism (2) since Golan is defeated and
+  Miss Peregrine is rescued, but the loop is destroyed, Miss Avocet is taken, Abe is dead, and
+  the wights' threat remains. Moral Cynicism (1) since wights exploit peculiars for gain but
+  virtue is not systematically punished. Structural Corruption (0) since no institution is
+  examined. Redemption Difficulty (0) since no antagonist atones. Narrative Acceptance of
+  Injustice (1) since the persecution of peculiars is unresolved, but the posture is determined
+  flight rather than resignation; 2 considered. Explicit Darkness (3) since hollowgast devour
+  peculiars, sheep are mutilated, there are several deaths and a gunshot, in a creepy
+  vintage-photo atmosphere with genuine detail; 4 ruled out as it is not the central element.
+- Neighbor check: 3.8625 is an exact score tie with Shrek (3.86); closest similar profile Rise
+  of the Guardians (3.525). Boundary check: Tier 3/4 cutoff compared against NeverEnding Story,
+  Twilight and Once Upon a Time (4.2), which carry heavier combinations. Cozy Fantasy = No,
+  Hopepunk = No. Label check: "Moderately Bright Fantasy" fits.
 
 ### 86. The Sword in the Stone — Disney (1963) — Film
 

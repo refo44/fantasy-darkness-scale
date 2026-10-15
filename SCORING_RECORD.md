@@ -3919,3 +3919,32 @@ Fantasy I (Explicit Darkness 1 only). Mary Poppins, My Neighbor Totoro, and Kiki
 Service (1.5, all zeros) sit below and Sleeping Beauty (1.95, ED2) above. Boundary check: WIS
 0.10 is far from the Tier 2 floor (0.222). Cozy Fantasy = No, Hopepunk = No. Label check: "Very
 Bright Fantasy" fits.
+
+## Miss Peregrine's Home for Peculiar Children (2011)
+
+Novel by Ransom Riggs (2011, book one only; the 2016 Burton film diverges substantially and is a
+separate queued item; sequels out of scope). Genre gate trivial — the peculiar children have real
+powers, Miss Peregrine is an ymbryne who becomes a bird and maintains a real time loop, and the
+wights and hollowgast are genuine supernatural predators. Relevance check passes — core fantasy,
+not decoration.
+
+* Structural Despair: 1 — the loop-bound world is fragile and the Holocaust backdrop gives it a
+  sombre shadow, but the decay is mostly plot-driven by wights rather than a collapsing society;
+  2 considered and rejected.
+* Limited Heroism: 2 — Golan is defeated and Miss Peregrine is rescued, but the loop is
+  destroyed, Miss Avocet is taken, Abe is dead, and the wights' threat remains.
+* Moral Cynicism: 1 — wights exploit peculiars for gain, but virtue is not systematically
+  punished.
+* Structural Corruption: 0 — no institution is examined.
+* Redemption Difficulty: 0 — no antagonist atones and nothing turns on redemption.
+* Narrative Acceptance of Injustice: 1 — the persecution of peculiars is unresolved, but the
+  posture at the end is determined flight rather than resignation; 2 considered.
+* Explicit Darkness: 3 — hollowgast devour peculiars, sheep are mutilated, there are several
+  deaths and a gunshot, in a creepy vintage-photo atmosphere with genuine detail; 4 ruled out as
+  it is not the central element.
+
+Weighted = 1.05 → Final Score = 3.8625 → **Tier 3**, an exact score tie with Shrek (3.86); the
+closest similar profile is Rise of the Guardians (3.525). Boundary check: WIS 1.05 sits below the
+Tier 4 floor (1.111), compared against NeverEnding Story, Twilight and Once Upon a Time (4.2),
+which carry heavier combinations. Cozy Fantasy = No, Hopepunk = No. Label check: "Moderately
+Bright Fantasy" fits.
