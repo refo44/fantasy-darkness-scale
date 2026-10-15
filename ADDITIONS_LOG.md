@@ -950,7 +950,7 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     guides, and the backstory legend of a prince turned into a bear is confirmed true within the
     story — real, load-bearing magic, clears the strict gate (flagged as a strong pass in the
     original Disney/Pixar/DreamWorks survey but omitted from the initial batch by oversight)
-86. [ ] The Sword in the Stone — Disney (1963) — Film — Merlin is a practicing wizard whose
+86. [x] The Sword in the Stone — Disney (1963) — Film — DONE, see Completed. Originally: Merlin is a practicing wizard whose
     magic (the wizard's-duel shapeshifting battle with Madam Mim, transforming young Arthur into
     a fish/squirrel/bird to teach him) is among the most extensive in the classic Disney line,
     plus the sword itself as a real magical test of destiny — clears the strict gate easily
@@ -996,8 +996,45 @@ above) — logged here so they aren't re-proposed without knowing they were alre
 94. [ ] Hocus Pocus — Disney (1993) — Film — three real witches (the Sanderson sisters) are
     resurrected via a real ritual, cast real spells, and need a real potion to steal children's
     life force — clears the strict gate easily
+95. [ ] The Black Cauldron — Disney (1985) — Film — based on Lloyd Alexander's Chronicles of
+    Prydain (The Book of Three / The Black Cauldron); the Horned King uses the real magical
+    Black Cauldron to raise an undead "Cauldron-Born" army, plus the Witches of Morva and the
+    oracular pig Hen Wen — real, load-bearing magic, clears the strict gate easily. Scope: the
+    1985 film only (the source novels would be a separate consideration). Added at the user's
+    request; reputed to be notably darker than the rest of the classic Disney line, so calibrate
+    carefully against Return to Oz and Tangled
 
 ## Completed
+
+### 86. The Sword in the Stone — Disney (1963) — Film
+
+- Tier 1 (Very Bright Fantasy), Final Score 1.725 (Weighted Internal Score 0.10).
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 0, Structural Corruption 0,
+  Redemption Difficulty 0, Narrative Acceptance of Injustice 0, Explicit Darkness 1.
+- **Genre gate** trivial — Merlin is a practicing wizard whose transformation magic (Wart as
+  fish, squirrel, sparrow) and the wizards' duel with Madam Mim are among the most extensive in
+  the classic Disney line; the sword in the stone is a real magical test of destiny.
+  **Relevance check** passes — core fantasy, not decoration.
+- Rationale: Structural Despair (0) since there is no societal decline; Uther's missing heir is
+  a plot setup that Arthur's coronation fully resolves. Limited Heroism (0) since the sword is
+  pulled, the prophecy is fulfilled, and Merlin returns to help; Arthur's self-doubt is a mild
+  beat, not an unresolved loss. Moral Cynicism (0) since nobody profits from wrongdoing and Mim
+  is defeated; Ector's servant-like treatment of Wart is minor and ends in an apology.
+  Structural Corruption (0) since no institution is examined. Redemption Difficulty (0) since no
+  one atones for real wrongdoing. Narrative Acceptance of Injustice (0) since nothing is left
+  unresolved. Explicit Darkness (1) since the film is G-rated with no deaths or graphic content;
+  the peril (pike, wolf, hawk, Mim's capture of Wart) is played comically, and Mim's dragon form
+  comes in a gag-driven duel — below Sleeping Beauty's ED2, where the curse and dragon battle are
+  treated seriously.
+- Neighbor check: 1.725 is an exact 7-axis profile match with Final Fantasy I (ED1 only); Mary
+  Poppins, My Neighbor Totoro, and Kiki's Delivery Service (1.5, all zeros) sit below and
+  Sleeping Beauty (1.95, ED2) above. Boundary check: WIS 0.10 is far from the Tier 2 floor
+  (0.222). Label check: "Very Bright Fantasy" fits. Cozy Fantasy = No, Hopepunk = No.
+- Added to xlsx row 167, and to tier 1 on both index.html and es/index.html, appended at the end
+  of the 1.73 cluster after Final Fantasy I and before Sleeping Beauty (1.95); titled "The Sword
+  in the Stone" in English and "La espada en la piedra" in Latin American Spanish (verified via
+  WebSearch; Spain uses "Merlín el encantador").
+- Queue change this session: item 95, The Black Cauldron (1985), added at the user's request.
 
 ### 85. Brave — Pixar (2012) — Film
 

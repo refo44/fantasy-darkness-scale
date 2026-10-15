@@ -3893,3 +3893,29 @@ non-adjacent same-tier work: it differs by a profiting villain, consistent with 
 score. Boundary check: WIS 0.35 is well above the Tier 2 floor (0.222); Sleeping Beauty (1.95)
 sits below on its all-zero profile. Cozy Fantasy = No, Hopepunk = No. Label check: "Bright
 Fantasy" fits.
+
+## The Sword in the Stone (1963)
+
+New catalog addition. Genre gate trivial — Merlin is a practicing wizard whose transformation
+magic (Wart as fish, squirrel, sparrow) and the wizards' duel with Madam Mim are among the most
+extensive in the classic Disney line; the sword in the stone is a real magical test of destiny.
+Relevance check passes — core fantasy, not decoration.
+
+* Structural Despair: 0 — no societal decline; Uther's missing heir is a plot setup that Arthur's
+  coronation fully resolves.
+* Limited Heroism: 0 — the sword is pulled, the prophecy is fulfilled, and Merlin returns to
+  help; Arthur's self-doubt is a mild beat, not an unresolved loss.
+* Moral Cynicism: 0 — nobody profits from wrongdoing and Mim is defeated; Ector's servant-like
+  treatment of Wart is minor and ends in an apology.
+* Structural Corruption: 0 — no institution is examined.
+* Redemption Difficulty: 0 — no one atones for real wrongdoing.
+* Narrative Acceptance of Injustice: 0 — nothing is left unresolved.
+* Explicit Darkness: 1 — G-rated, no deaths or graphic content; the peril (pike, wolf, hawk,
+  Mim's capture of Wart) is played comically, and Mim's dragon form comes in a gag-driven duel.
+  Below Sleeping Beauty's ED2, where the curse and dragon battle are treated seriously.
+
+Weighted = 0.1 → Final Score = 1.725 → **Tier 1**, an exact 7-axis profile match with Final
+Fantasy I (Explicit Darkness 1 only). Mary Poppins, My Neighbor Totoro, and Kiki's Delivery
+Service (1.5, all zeros) sit below and Sleeping Beauty (1.95, ED2) above. Boundary check: WIS
+0.10 is far from the Tier 2 floor (0.222). Cozy Fantasy = No, Hopepunk = No. Label check: "Very
+Bright Fantasy" fits.
