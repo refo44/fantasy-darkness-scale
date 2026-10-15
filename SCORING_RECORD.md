@@ -3979,3 +3979,32 @@ Chronicles; Pirates of the Caribbean, FMA: Brotherhood, Vox Machina and Ranking 
 the score via different profiles; Earthsea (4.65) sits below. Boundary check: WIS 1.50 is 0.056
 under the Tier 5 floor (1.556); Moral Cynicism 2 would give 5.2125, tying Tales from Earthsea.
 Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" fits.
+
+## The Princess and the Frog (2009)
+
+Disney film (2009) only; the E. D. Baker novel and the Grimm tale are separate sources. Genre gate
+trivial — Dr. Facilier is a voodoo sorcerer with a blood-bound talisman and "Friends on the Other
+Side" who supply shadow demons; the frog curse and Mama Odie's fairy-godmother role drive the
+whole plot. Relevance check passes — core fantasy, not decoration.
+
+* Structural Despair: 0 — Facilier's plan to take the city's souls fails completely and nothing
+  else in the world is decaying.
+* Limited Heroism: 0 — Tiana destroys the talisman and Facilier is dragged to the underworld;
+  Ray's death is mourned, then he is transfigured into a star.
+* Moral Cynicism: 1 — Facilier's plot nearly succeeds (Lawrence passes as Naveen and almost
+  marries Charlotte), but Tiana's hard work and honesty are rewarded.
+* Structural Corruption: 0 — no institution is examined; the Fenner brothers' condescension is a
+  personal obstacle (critics note the film sanitizes Jim Crow, but the score reflects what the
+  work shows; 1 considered).
+* Redemption Difficulty: 1 — Naveen must give up his easy-money plan and learn to work, and
+  Tiana refuses Facilier's offer of her dream restaurant.
+* Narrative Acceptance of Injustice: 0 — Facilier is destroyed, Lawrence is arrested, and nothing
+  is left open.
+* Explicit Darkness: 2 — the shadow-demon sequences are among Disney's scarier ones, Ray dies on
+  screen, and frog hunters fire guns at the leads; G-rated with no gore; 3 considered.
+
+Weighted = 0.5 → Final Score = 2.625 → **Tier 2**, an exact 7-axis twin of Enchanted; it shares
+the score with The Wizard of Oz, Alice in Wonderland (2010–2016), Onward and The Sorcerer's
+Apprentice via different profiles. Aladdin (2.96) sits above, Tangled (3.19) above with ED3 and
+RD2, and Cinderella (2.29) below. Boundary check: WIS 0.50 vs the Tier 3 floor 0.667; ED3 would
+give 2.85, still Tier 2. Cozy Fantasy = No, Hopepunk = No. Label check: "Bright Fantasy" fits.

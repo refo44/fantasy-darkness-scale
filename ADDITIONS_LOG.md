@@ -968,7 +968,7 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     the Jinni) recur pervasively enough across the collection to be genuinely load-bearing to its
     overall identity, not incidental to a handful of tales — clears the strict gate; decide scope
     (the collection as a whole vs. only its most-famous, most-fantastical tales) when scored
-89. [ ] The Princess and the Frog — Disney (2009) — Film — Dr. Facilier is a voodoo sorcerer with
+89. [x] DONE, see Completed. Originally: The Princess and the Frog — Disney (2009) — Film — Dr. Facilier is a voodoo sorcerer with
     real dark magic (shadow demons he's indebted to, a genuine transformation curse turning
     Naveen into a frog and later Tiana too) that is the entire plot engine, not decoration —
     clears the strict gate easily
@@ -1011,6 +1011,36 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     novel's 3.8625 (Tier 3) and the film's PG-13/UK PG rating
 
 ## Completed
+
+### 89. The Princess and the Frog — Disney (2009) — Film
+
+- Tier 2 (Bright Fantasy), Final Score 2.625 (Weighted Internal Score 0.50).
+- Scores: Structural Despair 0, Limited Heroism 0, Moral Cynicism 1, Structural Corruption 0,
+  Redemption Difficulty 1, Narrative Acceptance of Injustice 0, Explicit Darkness 2.
+- **Scope:** the 2009 film only; the E. D. Baker novel and the Grimm tale are separate sources.
+- **Genre gate** trivial — Dr. Facilier is a voodoo sorcerer with a blood-bound talisman and
+  "Friends on the Other Side" who supply shadow demons; the frog curse and Mama Odie's
+  fairy-godmother role drive the whole plot. **Relevance check** passes — core fantasy, not
+  decoration.
+- Rationale: Structural Despair (0) since Facilier's plan to take the city's souls fails
+  completely and nothing else in the world is decaying. Limited Heroism (0) since Tiana destroys
+  the talisman and Facilier is dragged to the underworld; Ray's death is mourned, then he is
+  transfigured into a star. Moral Cynicism (1) since Facilier's plot nearly succeeds (Lawrence
+  passes as Naveen and almost marries Charlotte), but Tiana's hard work and honesty are
+  rewarded. Structural Corruption (0) since no institution is examined; the Fenner brothers'
+  condescension is a personal obstacle (critics note the film sanitizes Jim Crow, but the score
+  reflects what the work shows; 1 considered). Redemption Difficulty (1) since Naveen must give
+  up his easy-money plan and learn to work, and Tiana refuses Facilier's offer of her dream
+  restaurant. Narrative Acceptance of Injustice (0) since Facilier is destroyed, Lawrence is
+  arrested, and nothing is left open. Explicit Darkness (2) since the shadow-demon sequences are
+  among Disney's scarier ones, Ray dies on screen, and frog hunters fire guns at the leads;
+  G-rated with no gore (3 considered).
+- Neighbor check: 2.625 is an exact 7-axis twin of Enchanted; it shares the score with The
+  Wizard of Oz, Alice in Wonderland (2010–2016), Onward and The Sorcerer's Apprentice via
+  different profiles. Aladdin (2.96) sits above with extra corruption and injustice, Tangled
+  (3.19) above with ED3 and RD2, and Cinderella (2.29) below. Boundary check: WIS 0.50 vs the
+  Tier 3 floor 0.667; ED3 would give 2.85, still Tier 2. Cozy Fantasy = No, Hopepunk = No. Label
+  check: "Bright Fantasy" fits.
 
 ### 88. One Thousand and One Nights (Arabian Nights) — Traditional — Book
 
