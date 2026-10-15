@@ -961,7 +961,7 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     (hollowgast/wights) are monstrous supernatural creatures who hunt peculiars for their eyes —
     clears the strict gate easily; decide scope (novel as primary source vs. the film, which is
     confirmed to diverge significantly in plot) when scored
-88. [ ] One Thousand and One Nights (Arabian Nights) — traditional Middle Eastern/Persian/Arabic
+88. [x] DONE, see Completed. Originally: One Thousand and One Nights (Arabian Nights) — traditional Middle Eastern/Persian/Arabic
     folk tale collection — Book — a Scheherazade frame story containing dozens of individual
     tales; jinn (genies) and other real magic (Aladdin's Wonderful Lamp, Ali Baba's "Open Sesame"
     password, Sinbad's encounters with the Roc and other mythical creatures, the Fisherman and
@@ -1011,6 +1011,37 @@ above) — logged here so they aren't re-proposed without knowing they were alre
     novel's 3.8625 (Tier 3) and the film's PG-13/UK PG rating
 
 ## Completed
+
+### 88. One Thousand and One Nights (Arabian Nights) — Traditional — Book
+
+- Tier 4 (Fantasy in Gray Tones), Final Score 4.875 (Weighted Internal Score 1.50).
+- Scores: Structural Despair 1, Limited Heroism 1, Moral Cynicism 1, Structural Corruption 2,
+  Redemption Difficulty 1, Narrative Acceptance of Injustice 2, Explicit Darkness 3.
+- **Scope:** the collection as traditionally received — the Scheherazade frame, the jinn tales,
+  Sinbad, and the Galland-era additions (Ali Baba, Aladdin). Disney's Aladdin stays a separate
+  entry; no single translation (Galland, Burton, Mardrus) is scored.
+- **Genre gate** passes — jinn, ifrits, ghouls, the Roc, a flying ebony horse and magic objects
+  recur across the collection, and it is the root text of the Arabian fantasy tradition.
+  **Relevance check** passes — a share of the tales are historical or romantic with no magic,
+  but the marvellous is the collection's identity.
+- Rationale: Structural Despair (1) since the frame is a kingdom living under nightly
+  executions, but the world of the tales is stable and the frame ends. Limited Heroism (1) since
+  Scheherazade's wit ends the killing and Morgiana, Aladdin and Sinbad succeed, though many
+  protagonists suffer under fate. Moral Cynicism (1) since the providential frame usually
+  punishes wickedness and rewards piety, while cunning and betrayal pay off in many comic tales
+  (2 considered). Structural Corruption (2) since the king's executions are state machinery (the
+  vizier must supply a bride nightly) and caliphs and viziers act capriciously. Redemption
+  Difficulty (1) since Shahryar's repentance takes 1,001 nights but costs him no punishment.
+  Narrative Acceptance of Injustice (2) since the frame's murders are never answered and
+  slavery, concubinage and women's subordination are treated as the natural order. Explicit
+  Darkness (3) since beheadings, a woman dismembered in a chest, cannibal ghouls, a spouse
+  buried alive and explicit sexual content (strongest in Burton and Mardrus) are present; 4 ruled
+  out as not the central element.
+- Neighbor check: 4.875 is an exact 7-axis twin of The Shannara Chronicles; Pirates of the
+  Caribbean, FMA: Brotherhood, Vox Machina and Ranking of Kings share the score via different
+  profiles; Earthsea (4.65) sits below with far less violence and cynicism. Boundary check: the
+  Tier 5 cutoff is WIS 1.556, 0.056 away; Moral Cynicism 2 would give 5.2125 (tie with Tales
+  from Earthsea). Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" fits.
 
 ### 87. Miss Peregrine's Home for Peculiar Children — Ransom Riggs (2011) — Novel
 

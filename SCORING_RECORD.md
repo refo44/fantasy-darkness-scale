@@ -3948,3 +3948,34 @@ closest similar profile is Rise of the Guardians (3.525). Boundary check: WIS 1.
 Tier 4 floor (1.111), compared against NeverEnding Story, Twilight and Once Upon a Time (4.2),
 which carry heavier combinations. Cozy Fantasy = No, Hopepunk = No. Label check: "Moderately
 Bright Fantasy" fits.
+
+## One Thousand and One Nights (Arabian Nights)
+
+Traditional collection (Middle Eastern / Persian / Arabic), scored as traditionally received: the
+Scheherazade frame, the jinn tales, Sinbad, and the Galland-era additions (Ali Baba, Aladdin).
+Disney's Aladdin stays separate; no single translation is scored. Genre gate passes — jinn,
+ifrits, ghouls, the Roc, a flying ebony horse and magic objects recur across the collection, and
+it is the root text of the Arabian fantasy tradition. Relevance check passes — a share of the
+tales are historical or romantic with no magic, but the marvellous is the collection's identity.
+
+* Structural Despair: 1 — the frame is a kingdom living under nightly executions, but the world
+  of the tales is stable and the frame ends.
+* Limited Heroism: 1 — Scheherazade's wit ends the killing and Morgiana, Aladdin and Sinbad
+  succeed, though many protagonists suffer under fate.
+* Moral Cynicism: 1 — the providential frame usually punishes wickedness and rewards piety;
+  cunning and betrayal pay off in many comic tales, so 2 considered.
+* Structural Corruption: 2 — the king's executions are state machinery (the vizier must supply a
+  bride nightly) and caliphs and viziers act capriciously.
+* Redemption Difficulty: 1 — Shahryar's repentance takes 1,001 nights but costs him no
+  punishment.
+* Narrative Acceptance of Injustice: 2 — the frame's murders are never answered and slavery,
+  concubinage and women's subordination are treated as the natural order.
+* Explicit Darkness: 3 — beheadings, a woman dismembered in a chest, cannibal ghouls, a spouse
+  buried alive and explicit sexual content (strongest in Burton and Mardrus); 4 ruled out as not
+  the central element.
+
+Weighted = 1.5 → Final Score = 4.875 → **Tier 4**, an exact 7-axis twin of The Shannara
+Chronicles; Pirates of the Caribbean, FMA: Brotherhood, Vox Machina and Ranking of Kings share
+the score via different profiles; Earthsea (4.65) sits below. Boundary check: WIS 1.50 is 0.056
+under the Tier 5 floor (1.556); Moral Cynicism 2 would give 5.2125, tying Tales from Earthsea.
+Cozy Fantasy = No, Hopepunk = No. Label check: "Fantasy in Gray Tones" fits.
